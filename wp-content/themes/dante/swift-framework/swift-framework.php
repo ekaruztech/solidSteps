@@ -1,0 +1,88 @@
+<?php
+
+	/*  for PRO users! - 
+	*
+	*	Swift Framework Main Class
+	*	------------------------------------------------
+	*	Swift Framework v2.0
+	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	*
+	*/
+
+	$options = get_option('sf_dante_options');
+	$disable_spb = false;
+	if (isset($options['disable_spb']) && $options['disable_spb'] == 1) {
+	$disable_spb = true;
+	}
+
+
+	/*  for PRO users! -  SWIFT FUNCTIONS
+	================================================== */
+	include_once(SF_FRAMEWORK_PATH . '/sf-functions.php');
+
+
+	/*  for PRO users! -  CUSTOM POST TYPES
+	================================================== */
+	require_once(SF_FRAMEWORK_PATH . '/custom-post-types/portfolio-type.php');
+	require_once(SF_FRAMEWORK_PATH . '/custom-post-types/gallery-type.php');
+	require_once(SF_FRAMEWORK_PATH . '/custom-post-types/team-type.php');
+	require_once(SF_FRAMEWORK_PATH . '/custom-post-types/clients-type.php');
+	require_once(SF_FRAMEWORK_PATH . '/custom-post-types/testimonials-type.php');
+	require_once(SF_FRAMEWORK_PATH . '/custom-post-types/jobs-type.php');
+	require_once(SF_FRAMEWORK_PATH . '/custom-post-types/faqs-type.php');
+	require_once(SF_FRAMEWORK_PATH . '/custom-post-types/sf-post-type-permalinks.php');
+
+
+	/*  for PRO users! -  SWIFT PAGE BUILDER
+	================================================== */
+	if (!$disable_spb) {
+	include_once(SF_FRAMEWORK_PATH . '/page-builder/sf-page-builder.php');
+	}
+
+	/*  for PRO users! -  META BOX FRAMEWORK
+	================================================== */
+	define( 'RWMB_URL', get_template_directory_uri() . '/swift-framework/meta-box/' );
+	include_once(SF_FRAMEWORK_PATH . '/meta-box/meta-box.php');
+	include_once(SF_FRAMEWORK_PATH . '/meta-boxes.php');
+
+
+	/*  for PRO users! -  WOOCOMMERCE FILTERS/HOOKS
+	================================================== */
+	include_once(SF_FRAMEWORK_PATH . '/sf-woocommerce.php');
+
+
+	/*  for PRO users! -  SHORTCODES
+	================================================== */
+	include_once(SF_FRAMEWORK_PATH . '/shortcodes.php');
+
+
+	/*  for PRO users! -  MEGA MENU
+	================================================== */
+	include_once(SF_FRAMEWORK_PATH . '/sf-megamenu/sf-megamenu.php');
+
+
+	/*  for PRO users! -  SUPER SEARCH
+	================================================== */
+	if (sf_woocommerce_activated()) {
+	include_once(SF_FRAMEWORK_PATH . '/sf-supersearch.php');
+	}
+
+
+	/*  for PRO users! -  WIDGETS
+	================================================== */
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-twitter.php');
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-flickr.php');
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-video.php');
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-posts.php');
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-portfolio.php');
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-portfolio-grid.php');
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-advertgrid.php');
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-infocus.php');
+	include_once(SF_FRAMEWORK_PATH . '/widgets/widget-comments.php');
+
+
+	/*  for PRO users! -  TEXT DOMAIN
+	================================================== */
+	load_theme_textdomain( 'swift-framework-admin', get_template_directory() . '/swift-framework/language' );
+
+?>

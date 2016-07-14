@@ -1,0 +1,247 @@
+<<<<<<< HEAD
+/* LICENSE & DETAILS
+   ==================================================
+
+	Theme Name: Dante Child Theme 
+	Theme URI: http://dante.swiftideas.net
+	Description: A Retina Responsive Multi-Purpose WordPress Theme - Designed & Developed by Swift Ideas ( www.swiftideas.net )
+	License: GNU General Public License version 3.0 #07c1b6 --- #07c1b6--nav former ---
+	License URI: http://www.gnu.org/licenses/gpl-3.0.html
+	Template: dante
+	Version: 1.0 F8F8FF--ghostwhite  #F0FFF0--honeydew
+	Author: Swift Ideas --gree school-#F7F7F7
+	Author URI: www.swiftideas.net #d8d5de
+
+	All files, unless otherwise stated, are released under the GNU General Public License #E4E4E4 --- #3465AA-lighter
+	version 3.0 (http://www.gnu.org/licenses/gpl-3.0.html) #495B79
+
+   ==================================================
+*/
+
+/* --------------------------------------------
+	CHILD THEME CSS
+-------------------------------------------- */
+/* */
+#you{
+     font-size: 16px;
+}
+h4.spb-heading span{
+    font-family: "Museo Sans,Open Sans,sans-serif";
+    font-weight: bold;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom:15px;
+    color:#292b47 !important;
+}
+.sidebar .widget-heading h4 {
+    margin-bottom: -25px !important;
+}
+h4.spb-heading span::after{
+    content: "";
+    position: absolute;
+    height: 5px;
+    border-top: 0px solid #222 !important;
+    top: 0px;
+    width: 1200px;
+}
+#header-section #main-nav {
+    border-top: 1px solid #474479 !important;
+    background: #474479;
+}
+#header-section::before, #header .is-sticky .sticky-header, #header-section .is-sticky #main-nav.sticky-header, #header-section.header-6 .is-sticky #header.sticky-header, .ajax-search-wrap {
+    background: transparent -moz-linear-gradient(center top , #474479, #474479) repeat scroll 0% 0% !important;
+    background:#474479 !important;
+}
+#header-section #header {
+    padding: 55px 0px !important;
+    padding-bottom:120px !important;
+    background: #292b47 !important;
+}
+h3.spb-center-heading, h4.spb-center-heading {
+    display: block !important;
+    max-width: 100%;
+    margin: 20px auto 45px;
+    font-size:24px;
+}
+.menu-left nav.mega-menu ul.menu {
+    text-align: center;
+    color: #fff;
+}
+nav .menu li {
+    font-family: "Open Sans";
+    font-weight: 400;
+    font-style: normal;
+}
+body{
+    font-family: "Open Sans" !important;
+    font-weight: 400;
+    font-style: normal;
+}
+.parag{
+    font-size: 20px;
+    line-height: 22px;
+}
+.head1{
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-style: bold;
+    font-size: 30px;
+    line-height: 24px;
+    color:#292b47;
+}
+/*side header */
+.side_header{
+    font-family: "Open Sans";
+    font-weight: bold;
+    font-style: normal;
+    font-size: 22px;
+    line-height: 24px;
+    margin-bottom: 15px;
+    color:#292b47;
+}
+.side_addr{
+    font-family: "Open Sans";
+    font-size: 14px;
+    line-height: 22px;
+    margin-bottom: 15px;
+}
+
+#breadcrumbs, #breadcrumbs a {
+    color: #292b47 !important;
+    font-size:14px;
+}
+#breadcrumbs a:hover {
+    text-decoration: underline;
+}
+.motto{
+    color: #239fdb; font-size: 22px;
+}
+.motto-content{
+    padding: 10px 20px; margin: 0 0 20px; border-left: 5px solid #3465AA;
+}
+/* heading in row */
+.sf-icon-box.sf-icon-box-standard h3 {
+    margin-bottom: 20px;
+    color: #292b47;
+}
+
+/* text block heading*/
+h4.spb-heading span, h3.spb-heading span, h4.lined-heading span {
+    display: inline-block;
+    position: relative;
+    color:#292b47;
+}
+h3.spb-center-heading span, h4.spb-center-heading span {
+    padding: 0px 20px;
+    position: relative;
+    z-index: 5;
+    color:#fff !important;
+}
+.testimonials-slider cite {
+    display: inline-block;
+    font-size:18px;
+    font-weight:bold;
+    color:#F8F8FF;
+}
+.row.fw-row.asset-bg.alt-three{
+    margin-top: -30px;
+}
+.row.fw-row.asset-bg.alt-four{
+    margin-top: -50px;
+    padding: 20px 0;
+}
+.full-width-text {
+    padding-top: 20px;
+    padding-bottom: 20px;
+    position: relative;
+}
+.ic-txt{
+    color: #000; font-size: 16px;
+}
+.aim-color{
+    color: #474479 !important;
+}
+.row-color{
+    background: #FAEBD7;
+}
+.row-proprietress{
+    margin-bottom: -25px;
+}
+/* jargo portfolio*/
+figure.media-wrap img {
+    height: 0px !important;
+    width: 0%;
+}
+
+.blog-item .comments-likes .comments-wrapper {
+    display: none;
+    margin-right: 0;
+}
+.comments-likes .love-it-wrapper {
+    display: none;
+}
+
+.masonry-items .blog-item .details-wrap {
+    padding: 18px 30px 3px;
+    border-bottom-left-radius: 4px;
+    border-bottom-right-radius: 4px;
+    background-clip: padding-box;
+    box-shadow: 0px 1px 2px rgba(0, 0, 0, 0.1);
+}
+.adjust1{
+    margin-left:-15px;
+}
+
+.proprietress-welcome{
+    padding-top:5px;
+}
+
+.sch-img{
+    margin-top:-50px;
+}
+
+.page-content > ul {
+    list-style: inside none square;
+}
+
+.sf-icon {
+    color: #292b47;
+}
+.sf-icon-character {
+    color: #292b47 !important;
+}
+.sf-icon-cont:hover .sf-icon, .sf-hover .sf-icon-cont .sf-icon{
+    color: #FFF !important;
+}
+
+/* footer */
+#footer {
+    background: #474479 none repeat scroll 0% 0% !important;
+}
+#footer {
+    padding: 20px 0px 0px;
+    border-top: 0px solid transparent;
+}
+
+#footer-wrap {
+    margin-top:-60px;
+}
+#footer-widgets .widget {
+    padding-bottom: 10px !important;
+}
+#footer p {
+    color: #fff !important;
+}
+
+/* */
+.testimonials-widget-testimonials2{
+    padding-top: 30px;
+}
+.bx-viewport {
+    height: 150px !important;
+}
+.credit .author{
+    color: #292b47;
+>>>>>>> d8d7c60c5b1ac391f4b9d3218b8dc2478762a9ec
+}
