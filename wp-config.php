@@ -20,13 +20,13 @@
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define('DB_NAME', 'solidste_solidsteps');
+define('DB_NAME', 'solidsteps_web');
 
 /** MySQL database username */
-define('DB_USER', 'solidste_root');
+define('DB_USER', 'solidsteps_user');
 
 /** MySQL database password */
-define('DB_PASSWORD', 'Student_1');
+define('DB_PASSWORD', 'solidsteps_pass');
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
