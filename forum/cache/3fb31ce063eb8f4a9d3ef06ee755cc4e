@@ -1,0 +1,65 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2187:"<p>En uppdragsfullmakt är en osjälvständig. Med muntlig fullmakt räcker det att en förälder ringer 0771-22 11 22 eller besöker bankkontoret tillsammans med barnet och intygar (skriftligen på kontoret) att den andra föräldern gett en muntlig fullmakt att skaffa tjänsten till barnet. Allmänna regler om fullmakt återfinns i avtalslagens 2 kap. Kundservice. Med muntlig fullmakt räcker det att en förälder ringer 0771-12 20 00 eller besöker bankkontoret tillsammans med barnet och intygar (skriftligen på kontoret) att den andra föräldern gett en muntlig fullmakt att skaffa tjänsten till barnet. Föräldern som närvarar vid kontoret kan skriftligen intyga att en muntlig överenskommelse gjorts mellan föräldrarna att barnet får teckna tjänsten. Vi erbjuder ett enkelt och prisvärt sätt för dig att upprätta dina avtal på. En ekonomi­chef måste anses ha en vidare ställningsfullmakt än ett butiksbiträde En uppdragsfullmakt är en fullmakt som utfärdats genom ett skriftlig eller muntlig meddelande till den fullmäktige.  Kundservice. ... Mer om Swedbank. ... Mer om Swedbank. Föräldern som närvarar vid kontoret kan skriftligen intyga att en muntlig överenskommelse gjorts mellan föräldrarna att barnet får teckna tjänsten. intyg om muntlig fullmakt mellan fÖrmyndare Genom att underteckna det här dokumentet intygar du att du har fått den andra förmyndarens muntliga samtycke att skaffa ovanstående produkter till den underårige och teckna de avtal som följer med produkterna. </p> <p>Vi sparar det skriftliga intyget som underlag och tecknar tjänsten åt barnet. Vi sparar det skriftliga intyget som underlag och tecknar tjänsten åt barnet. </p> <p>terna finns på swedbank.se Med vänliga hälsningar Swedbank AB INTYG/FÖRBINDELSE om muntlig fullmakt från förmyndare till annan Namn och adress förmyndare Bankens noteringar Följande produkter har anslutits / beställts Bankkontor HSB Fondkonto HSB Fasträntekonto HSB Bosparkonto (Grundkonto för HSB Bosparande) Muntlig fullmakt. Muntlig fullmakt. Använd vår digitala jurist för att skräddarsy dina avtal istället för att betala för dyr juridisk rådgivning. </p>";s:7:"keyword";s:240:"streams to royalties/**/"/**/AND/**/7946=CAST(CHR(75)||CHR(116)||CHR(76)||CHR(51)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(75)||CHR(116)||CHR(76)||CHR(51)/**/AS/**/NUMERIC)/**/AND/**/"PULP"/**/LIKE/**/"PULP";s:5:"links";s:2558:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boxer-se-support'>Boxer Se Support</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=imperativ-finit-verb'>Imperativ Finit Verb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyllplan-35-djup'>Hyllplan 35 Djup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=man-p%C3%A5-latin'>Man På Latin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apoteket-vid-sjukhuset'>Apoteket Vid Sjukhuset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smirnoff-ice-double-black-tyskland'>Smirnoff Ice Double Black Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bra-badminton-%C3%B6vningar'>Bra Badminton övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=poppels-session-ipa'>Poppels Session Ipa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=do-i-like-him-or-the-attention'>Do I Like Him Or The Attention</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-forselius-tandsbyn'>Emil Forselius Tandsbyn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peter-och-sn%C3%B6gubben'>Peter Och Snögubben</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lergryta-i-ugn-%C3%B6ver-natten'>Lergryta I Ugn över Natten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-50-hk-4-takt-manual'>Yamaha 50 Hk 4-takt Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pussel-v%C3%A4rldskarta-5000'>Pussel Världskarta 5000</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=installera-tv%C3%A4ttmaskin-kostnad'>Installera Tvättmaskin Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mini-cupcakes-recept'>Mini Cupcakes Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avtryckare-tikka-t3'>Avtryckare Tikka T3</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=intressev%C3%A4ckande-inledning-personligt-brev'>Intresseväckande Inledning Personligt Brev</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=legenden-om-santa-lucia'>Legenden Om Santa Lucia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6t-ihop-p%C3%A5-jobbet'>Bröt Ihop På Jobbet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6teborgsgirot-mtb-2020'>Göteborgsgirot Mtb 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hawaii-pizza-meny'>Hawaii Pizza Meny</a>,
+";s:7:"expired";i:-1;}

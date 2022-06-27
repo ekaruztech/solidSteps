@@ -202,7 +202,7 @@ SPBMap::map( 'testimonial_slider', array(
             "heading" => __("Alt Background Preview", "swift-framework-admin"),
             "param_name" => "altbg_preview",
             "value" => "",
-            "description" => __("", "swift-framework-admin")
+            "description" => ""
         ),
         array(
             "type" => "textfield",

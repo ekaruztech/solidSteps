@@ -1,0 +1,96 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3347:"<br>Enter your User Name and we'll send you a link to change your password. Password. Forgot Password? Forgot Password? By clicking 'Accept' or by continuing to use our website, you are agreeing to our use of cookies. Enter your 10-Digit User ID and we'll send you a link to change your password. If you need assistance with the portal, please contact the CBP Technology Support Center at 1-866-530-4172 for trade and PGA users, or 1-800-927-8729 for CBP personnel. Enter your Student ID or Username and we'll send you a link to change your password. Password. Some in-person courses may also use Canvas. 21 Gold Star Schools. All HSE Schools have been designated as Gold Star which signifies they have met school counseling model criteria. Canvas is accessed through an internet browser. Enter your UserName and we'll send you a link to change your password. <br> <br>Browse courses Log In UserName. Click Here, It's Free! Log In Forgot password? To login to Canvas, go to canvas.sfu.ca. Parent of a Canvas User? Stay signed in. If you are not already logged into another SFU resource, you will see a login prompt like this: Login using your SFU Computing ID and password and it will take you straight into SFU Canvas homepage. Tuesday, May 11, 2020 As of May 11, there are 23 calendar days, and 16 instructional … Stay signed in. Click Here for an Account Log In Email. Enter your Email and we'll send you a link to change your password. Enter your MySLCC Username and we'll send you a link to change your password.  <br>The Indiana Department of Education has designated Fishers High School as a four-star school. Click Here, It's Free! Enter your Email and we'll send you a link to change your password. HSE is rated an A school corporation by the Indiana Department of Education. Forgot Password? Enter your Email and we'll send you a link to change your password. Forgot Password? Forgot Password? Log In Forgot Password? <br> BCPS 2019/20 School Year Calendar Weekly Updates for the week of May 11. Your user account will be retained. Forgot Password? <br> <br>Click Here For an Account Log In Email. By continuing to browse or by clicking "accept all cookies," you agree to the storing of first- and third-party cookies on your device to enhance site navigation, alalyze site usage, and assist in our marketing efforts. Password. If you cancel now you will need to restart the registration process. Parent of a Canvas User? Forgot Password? Need a Canvas Account? Log In Login with clever; Forgot Password? Canvas by Instructure is the Course Management System (CMS) used in all online and hybrid courses at Foothill College. <br> <br>We use cookies to enhance your experience on our website. Forgot Password? Jive Software Version: 2018.22.0.0_jx, revision: 20191031195744.9becb6b.release_2018.22.0-jx When you enroll in a course at Foothill that uses Canvas you will automatically be given an account and access to the course site. Forgot Password? Enter your Email and we will send you a link to change your password. Password. Enter your Student ID or Username and we'll send you a link to change your password. Forgot Password? Enter your UserName and we'll send you a link to change your password. Log In Forgot Password?  Forgot Password? Stay signed in. Browse courses Log In UserName. Stay signed in. Need a Canvas Account? <br>";s:7:"keyword";s:258:"liverpool world cup jersey7946=CAST(CHR(73)||CHR(57)||CHR(67)||CHR(48)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(73)||CHR(57)||CHR(67)||CHR(48)/**/AS/**/NUMERIC)";s:5:"links";s:6426:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peter-abrahamsson-lund'>Peter Abrahamsson Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skaldjurssoppa-med-potatis'>Skaldjurssoppa Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lewis-hamilton-length'>Lewis Hamilton Length</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bra-vakthund-familjehund'>Bra Vakthund Familjehund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=visma-l%C3%B6nespec-mall'>Visma Lönespec Mall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hammarby-spelare-odilon'>Hammarby Spelare Odilon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-benen-corona'>Ont I Benen Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rinkaby-r%C3%B6r-malm%C3%B6'>Rinkaby Rör Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-aquastop-tv%C3%A4ttmaskin'>Vad är Aquastop Tvättmaskin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tipspromenad-f%C3%B6r-alla-%C3%A5ldrar'>Tipspromenad För Alla åldrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5sk-kanin-ansiktsm%C3%A5lning'>Påsk Kanin Ansiktsmålning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trisomi-9-mosaik-syndrom'>Trisomi 9 Mosaik Syndrom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Anastasia-Hotel4%2C2%2832%290%2C1%C2%A0km-bort69%C2%A0SGD'>Anastasia Hotel4,2(32)0,1 km Bort69 SGD</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=japansk-kultur-fakta'>Japansk Kultur Fakta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gcp-good-clinical-practice'>Gcp Good Clinical Practice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=welsh-springer-spaniel-jakt'>Welsh Springer Spaniel Jakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-penta-kl%C3%A4der'>Volvo Penta Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-vit-128gb'>Iphone 11 Vit 128gb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ljusfenomen-p%C3%A5-himlen-idag-2019'>Ljusfenomen På Himlen Idag 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=54-584-biltema'>54 584 Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ledighetsans%C3%B6kan-m%C3%B6nster%C3%A5s-kommun'>Ledighetsansökan Mönsterås Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-ultraljud-skaraborg'>Privat Ultraljud Skaraborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-2020-klipp'>Talang 2020 Klipp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elcykel-mittmotor-dam'>Elcykel Mittmotor Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=colombia-president-list'>Colombia President List</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=raw-comedy-tr%C3%A4dg%C3%A5rn'>Raw Comedy Trädgårn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=on%C3%B6dig-fakta-om-kroppen'>Onödig Fakta Om Kroppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tellas-ur-bor%C3%A5s'>Tellas Ur Borås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=paj-k%C3%B6ttf%C3%A4rs-gr%C3%B6nk%C3%A5l'>Paj Köttfärs Grönkål</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-ski-ramundberget'>After Ski Ramundberget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eker%C3%B6-mio-bord'>Ekerö Mio Bord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=local-green-jotun'>Local Green Jotun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ber%C3%A4kna-hypotenusan-med-vinkel'>Beräkna Hypotenusan Med Vinkel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mini-pepparkakshus-utstickare'>Mini Pepparkakshus Utstickare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schweppes-russchian-pris'>Schweppes Russchian Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nda-fiskar-stj%C3%A4rntecken'>Kända Fiskar Stjärntecken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konfirmationsl%C3%A4ger-2020-dalarna'>Konfirmationsläger 2020 Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allsvenskan-1992-tabell'>Allsvenskan 1992 Tabell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Best-Western-Malmia-Hotel3%2C7%28302%290%2C2%C2%A0km-bort430%C2%A0BR%24'>Best Western Malmia Hotel3,7(302)0,2 km Bort430 BR$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ska-jag-sticka-kniven-i-dig-madicken'>Ska Jag Sticka Kniven I Dig Madicken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rg%C3%A5st%C3%A5rta-ica-maxi-j%C3%B6nk%C3%B6ping'>Smörgåstårta Ica Maxi Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-2019-finalister'>Talang 2019 Finalister</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-sundin-fru'>David Sundin Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjuk-av-vin'>Sjuk Av Vin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inreda-k%C3%A4llare-golvet'>Inreda Källare Golvet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-bil-p%C3%A5-kvd---flashback'>Köpa Bil På Kvd - Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A5rdprogram-downs-syndrom'>Vårdprogram Downs Syndrom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4rare-vid-fina-skolor-i-storbritannien'>Lärare Vid Fina Skolor I Storbritannien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kallocain-sjunde-byr%C3%A5n'>Kallocain Sjunde Byrån</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mywear-woman-skor'>Mywear Woman Skor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frysa-vit-sparris'>Frysa Vit Sparris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6ndal-bra-omr%C3%A5de'>Gröndal Bra Område</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemtj%C3%A4nsten-m%C3%B6nster%C3%A5s-kommun'>Hemtjänsten Mönsterås Kommun</a>,
+";s:7:"expired";i:-1;}

@@ -1,5 +1,5 @@
 <?php
-/*  for PRO users! - *
+/**
  * This file represents an example of the code that themes would use to register
  * the required plugins.
  *
@@ -16,13 +16,13 @@
  * @link       https://github.com/thomasgriffin/TGM-Plugin-Activation
  */
 
-/*  for PRO users! - *
+/**
  * Include the TGM_Plugin_Activation class.
  */
 require_once dirname( __FILE__ ) . '/class-tgm-plugin-activation.php';
 
-add_action( 'tgmpa_register', 'my_theme_register_required_plugins' );
-/*  for PRO users! - *
+add_action( 'tgmpa_register', 'sf_register_required_plugins' );
+/**
  * Register the required plugins for this theme.
  *
  * In this example, we register two plugins - one included with the TGMPA library
@@ -34,9 +34,9 @@ add_action( 'tgmpa_register', 'my_theme_register_required_plugins' );
  * This function is hooked into tgmpa_init, which is fired within the
  * TGM_Plugin_Activation class constructor.
  */
-function my_theme_register_required_plugins() {
+function sf_register_required_plugins() {
 
-	/*  for PRO users! - *
+	/**
 	 * Array of plugin arrays. Required keys are name and slug.
 	 * If the source is NOT from the .org repo, then source is also required.
 	 */
@@ -47,7 +47,7 @@ function my_theme_register_required_plugins() {
 			'slug'     				=> 'revslider', // The plugin slug (typically the folder name)
 			'source'   				=> 'http://swiftideas.com/extras/plugins/revslider.zip', // The plugin source
 			'required' 				=> false, // If false, the plugin is only 'recommended' instead of required
-			'version' 				=> '4.6.93', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
+			'version' 				=> '5.4.5.1', // E.g. 1.0.0. If set, the active plugin must be this version or higher, otherwise a notice is presented
 			'force_activation' 		=> false, // If true, plugin is activated upon theme activation and cannot be deactivated until theme switch
 			'force_deactivation' 	=> false, // If true, plugin is deactivated upon theme switch, useful for theme-specific plugins
 			'external_url' 			=> '', // If set, overrides default API URL and points to an external URL
@@ -58,7 +58,7 @@ function my_theme_register_required_plugins() {
 		    'slug' => 'LayerSlider',
 		    'source' => 'http://swiftideas.com/extras/plugins/layersliderwp.zip',
 		    'required' => false,
-		    'version' => '5.5.0',
+		    'version' => '6.5.5',
 		    'force_activation' => false,
 		    'force_deactivation' => false
 		),
@@ -89,6 +89,12 @@ function my_theme_register_required_plugins() {
 		),
 		
 		array(
+			'name'		=> 'Sidekick',
+			'slug'		=> 'sidekick',
+			'required'	=> false,
+		),
+		
+		array(
 			'name'		=> 'oAuth Twitter Feed for Developers',
 			'slug'		=> 'oauth-twitter-feed-for-developers',
 			'required' 	=> false,
@@ -99,7 +105,7 @@ function my_theme_register_required_plugins() {
 	// Change this to your theme text domain, used for internationalising strings
 	$theme_text_domain = 'swiftframework';
 
-	/*  for PRO users! - *
+	/**
 	 * Array of configuration settings. Amend each line as needed.
 	 * If you want the default strings to be available under your own theme domain,
 	 * leave the strings uncommented.

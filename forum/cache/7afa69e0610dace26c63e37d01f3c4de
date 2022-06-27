@@ -1,0 +1,74 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2895:"<p>Dagens gåvært læser højt af en tekst – et … På hver gåtur stopper vi ved forskellige lokaliteter med en speciel historie. Her kan du få overblik over hvilke gåfællesskaber, der findes nær dig, eller i de områder du ønsker at udforske. Og mød Rosa på 87 år, som har to verdensrekorder i atletik. Bornholm er fuld af fortællinger - kom med på tur 8 steder på øen og hør de gode historier. Mørke, kulde og glatte underlag! </p> <p>Inspiration. Frisk fra Gården leverer de bedste fødevarer til de kvalitetsbevidste og ansvarlige forbrugere der efterspørger Michelin restaurant kvalitet, også i deres eget køkken. </p> <p>Elsker du også at få frisk luft på en god gåtur i godt selskab? Bornholm er fuld af historier – kom med på tur 8 steder på øen og hør de gode historier. Få hjerneforskerens råd til, hvordan du holder dig frisk som ældre. Har du lyst til en lang vandretur - lige inden juleaften - så tag vandreskoene på og … Når vinteren kommer over os, kan det være svært at finde motivation til at løbe eller cykeltræne udendørs – ja, det kan faktisk være farligt at forsøge sig. Alle gåfællesskaberne står klar til at byde dig … 243 likes. Smag nærheden. - Viser det sig, at der er STOR spredning på folks niveau, så opretter vi flere grupper - Ingen bliver ladt alene! När vi rör på oss frisätter vi må bra-hormoner, vi får bättre syreupptagningsförmåga, bättre sömn oc Og vi har kontaktet allerede tilmeldte deltagere. På baggrund af Corona-krisen har vi udsat de 2 første ture Vi melder mere ud, så snart der er nyt om hele situationen. Gå dig glad Det får du: - Frisk luft og fuglefløjt - Bedre kondition (uden løb og hop) - Glæde og velbefindende ved at bevæge dig - Socialt samvær DU kan deltage på DIT eget niveau! December 17, 2018. Få vejledning om den kost, der passer til dig og dine udfordringer - og få støtte til at få ændringerne gennemført. Har du lyst til en lang vandretur i Tokkekøb Hegn lige inden juleaften, så er her et godt tilbud. </p> <p>Flemming Nyberg.  Af Marie Wildt. Men för att hjälpa kroppen att hålla sig frisk och glad behöver den röra på sig. Vi bringer de enestående producenter med passion for fødevarer i verdensklasse direkte til … – Det är aldrig för sent att börja, det finns 90-åringar som tävlar i friidrott! Find et gåfællesskab som passer dig i både distance og geografi ved at klikke på kortet. Den goda nyheten är att om man missat det ena eller det andra kan man börja med nya goda vanor redan i dag. </p> <p>Gå en tur og hold dig hjernefrisk! Gå en tur og hold dig hjernefrisk! </p> <p>Gå dig en frisk tur - lige inden juleaften . </p> <p>Spis dig frisk. Til gengæld er det altid muligt at gå en tur – og en rask gåtur kan sagtens give meget mere end frisk luft. </p> <p>03.03.20 . 01.Apr 2020 - 03.Jun 2020 . </p>";s:7:"keyword";s:13:"gå dig frisk";s:5:"links";s:3682:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=animal-crossing%3A-new-horizons-villagers'>Animal Crossing: New Horizons Villagers</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elevassistent-jobb-%C3%B6rebro'>Elevassistent Jobb örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ecker%C3%B6-linjen-ny%C3%A5r'>Eckerö Linjen Nyår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-v50-startar-inte-klickar'>Volvo V50 Startar Inte Klickar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppna-f%C3%B6rskolan-svenska-kyrkan'>öppna Förskolan Svenska Kyrkan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ja-m%C3%A5-ja-leva-lyrics'>Ja Må Ja Leva Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bbc-play-radio'>Bbc Play Radio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%B6nare-max-hastighet'>Drönare Max Hastighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karup-design-denmark'>Karup Design Denmark</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grynet-molvig-barn'>Grynet Molvig Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-mexico-all-inclusive'>Tui Mexico All Inclusive</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beige-f%C3%A4rg-v%C3%A4gg'>Beige Färg Vägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=export-pdf-to-excel'>Export Pdf To Excel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rhodesian-ridgeback-valpar-2020'>Rhodesian Ridgeback Valpar 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chipnummer-hund-land'>Chipnummer Hund Land</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=infektionskliniken-%C3%B6stra-sjukhuset'>Infektionskliniken östra Sjukhuset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=imdb-series-top-100'>Imdb Series Top 100</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-rullvagn-badrum'>Ikea Rullvagn Badrum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oceanien-h%C3%B6gsta-berg'>Oceanien Högsta Berg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socialstyrelsen-riktlinjer-riskgrupp'>Socialstyrelsen Riktlinjer Riskgrupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6npepparbiffar-p%C3%A5-%C3%A4lg'>Grönpepparbiffar På älg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=red-cross-wikipedia'>Red Cross Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=academic-degree-professor'>Academic Degree Professor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fitness-tr%C3%A4ning-f%C3%B6r-tjejer'>Fitness Träning För Tjejer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stoff-och-stil-kit'>Stoff Och Stil Kit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=orust-kommun-n%C3%A4ringsliv'>Orust Kommun Näringsliv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdmuffins-med-daim'>Kladdmuffins Med Daim</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-gran-canaria-tripadvisor'>Taxi Gran Canaria Tripadvisor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lila-blommiga-gardiner'>Lila Blommiga Gardiner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4mna-hund-till-omplacering'>Lämna Hund Till Omplacering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elcykel-subvention-kostnad'>Elcykel Subvention Kostnad</a>,
+";s:7:"expired";i:-1;}

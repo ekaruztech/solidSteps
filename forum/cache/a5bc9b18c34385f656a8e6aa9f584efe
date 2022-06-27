@@ -1,0 +1,133 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4852:"<p>Förra året förlorade det svenska samhället uppskattningsvis 62 miljarder kronor på sjukskrivningar förra året, enligt Skandias rapport ”Samhällsförlusten av sjukskrivningar” som presenterades i dag på morgonen. </p> <p>Publicerad den: 2018-07-10. Här kan du ta del av Skandias rapport. – 2 miljarder är mycket pengar. I slutet av oktober kom en rapport från Skandia gällande sjukskrivningar där man kan utläsa att samhällsförlusten kopplat till ej utförd arbetsinsats uppgår till astronomiska 62 miljarder, och då är siffrorna räknade i underkant. Bakom de höga sjuktalen finns både ett stort mänskligt lidande – och enorma kostnader. Rapporten Samhällsförlusten av sjukskrivningar - och värdet av att fler går från sjukskrivning tillbaka till jobb är skriven av Nima Sanandaji, samhällsdebattör och teknologie doktor från KTH, på uppdrag av Skandia. Enligt rapporten beror nästan varannan sjukskrivning numera på psykisk ohälsa. Utgivare Försäkringskassan Försäkringsutveckling Upplysningar Niklas Österlund 08-786 99 56 niklas.osterlund@forsakringskassan.se Hemsida: www.forsakringskassan.se . Sjukskrivningar är ett stort samhällsproblem. Det visar rapporten "Samhällsförlusten av sjukskrivningar" som skrivits av Nima Sanandaji på uppdrag av Skandias stiftelse Idéer för livet. Sjukskrivningar är ett stort problem i Sverige.  Enligt pensionsbolaget Skandias nya rapport Samhällsförlusten av sjukskrivningar uppgick kostnaden för uteblivet arbete på grund av sjukskrivningar till hela 62 miljarder kronor 2017. Bakom … Hur kan samhället minska sjukskrivningarna med hjälp av förebyggande arbete? Det betyder att det är en ökning med drygt 88 … Förord En individ som drabbas av en delvis nedsatt arbetsförmåga till följd av sjukdom har möjlighet att vara sjukskriven på … Deltids-sjukskrivning En registerstudie över utvecklingen 1995–2006 ISSN 1654-8574 . Sjukskrivningar är ett stort samhällsproblem. Tags: Skandia, Kristina Hagström, rapport, sjukskrivningar. Uppgifterna kommer från pensionsbolaget Skandia som i början av december släppte rapporten Samhällsförlusten av sjukskrivningar. Annons. En årslön för 5 567 lärare, två miljarder kronor. </p> <p>Författare: Caroline Holmqvist, Redaktör, Netdoktor, NetdoktorPro. Under 2018 gick Västra Götaland miste om 4,2 miljarder kronor på grund av sjukskrivningar. Det motsvarar nära 170 000 arbetsår och är 15 miljarder mer än kostnaden för hela rättsväsendet inklusive polisen år 2016. Milla Jonsson funderar över kunskapsbristen kring rehabilitering som hon möter hos många företag och organisationer. Så hög är Sveriges årliga kostnad för uteblivet arbete på grund av sjukskrivningar. KÄLLA: ”Samhällsförlusten av sjukskrivningar: 64 miljarder kronor” Samtidigt ökar sjukskrivningar när det gäller psykisk ohälsa. Sjukskrivningar är ett stort problem i Sverige. SAMHÄLLSFÖRLUSTEN AV SJUKSKRIVNINGAR – 57 MILJARDER! Bakom de höga sjuktalen finns både ett stort mänskligt lidande – och enorma kostnader. Så mycket pengar förlorade Östergötland på sjukskrivningar 2015, senare än så finns det ingen data. Rapporten visar att kostnaden för psykisk ohälsa i Hallands län totalt hamnade på 297 miljoner kronor. Bakom de höga sjuktalen finns ett stort mänskligt lidande – och stora kostnader. Enligt den nya rapporten Samhällsförlusten av sjukskrivningar uppgick kostnaden för uteblivet arbete på grund av sjukskrivningar till hela 57 miljarder kronor år 2015 - det senaste år som det finns data för. Enligt Skandias nya rapport Samhällsförlusten av sjukskrivningar uppgick kostnaden för uteblivet arbete på grund av sjukskrivningar i Sverige till hela 64 miljarder kronor under 2018, vilket är en ökning med 1,8 miljarder från föregående år. Bakom de höga sjuktalen finns ett stort mänskligt lidande – och stora kostnader. Enligt en rapport skulle samhället kunna spara 19 miljarder genom förebyggande hälsovård. Enligt Skandias nya rapport Samhällsförlusten av sjukskrivningar uppgick kostnaden för uteblivet arbete på grund av sjukskrivningar till hela 64 miljarder kronor 2018. 2010 var andelen sjukskrivningar på grund av psykisk ohälsa 33 procent, 2018 var nästan hälften av alla sjukskrivningar på grund av psykisk ohälsa i … Enligt pensionsbolaget Skandias nya rapport Samhällsförlusten av sjukskrivningar uppgick kostnaden för uteblivet arbete på grund av sjukskrivningar till hela 62 miljarder kronor 2017. Uträkningen för samhällsförlusten av sjukskrivningar på grund av psykisk ohälsa baseras på antagandet att psykisk ohälsa står för lika stor andel av samhällsförlusten med sjukskrivningar som andelen av Försäkringskassans registrerade sjukskrivningsepisoder. </p> <p></p>";s:7:"keyword";s:38:"samhällsförlusten av sjukskrivningar";s:5:"links";s:10620:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billigast-bil-att-%C3%A4ga'>Billigast Bil Att äga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dinli-enforcer-110cc-reservdelar'>Dinli Enforcer 110cc Reservdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ost-och-bacon-korv-ica'>Ost Och Bacon Korv Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studiev%C3%A4gledare-kth-s%C3%B6dert%C3%A4lje'>Studievägledare Kth Södertälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rita-och-gissa-junior'>Rita Och Gissa Junior</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kostar-en-portion-mat-p%C3%A5-%C3%A4ldreboende'>Vad Kostar En Portion Mat På äldreboende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-akademien-metoo'>Svenska Akademien Metoo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stealth-kayaks-sverige'>Stealth Kayaks Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Anastasia-Hotel4%2C2%2832%290%2C1%C2%A0km-bort69%C2%A0SGD'>Anastasia Hotel4,2(32)0,1 km Bort69 SGD</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=postnummer-borl%C3%A4nge-skr%C3%A4ddarbacken'>Postnummer Borlänge Skräddarbacken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=falsterbo-iii-dahlia-garden'>Falsterbo Iii Dahlia Garden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gais-%C3%B6is-2019'>Gais öis 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5lands-uttagning-innebandy'>Smålands Uttagning Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=us-open-tennis-qualifying-rounds'>Us Open Tennis Qualifying Rounds</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utbr%C3%A4ndhet-symtom-yrsel'>Utbrändhet Symtom Yrsel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lagar-p%C3%A5-medeltiden'>Lagar På Medeltiden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5nga-intervaller-lofsan'>Långa Intervaller Lofsan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=instagram-to-mp4'>Instagram To Mp4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uf-m%C3%A4ssa-emporia-2020'>Uf Mässa Emporia 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polsk-vodka-pris'>Polsk Vodka Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gudinnor-p%C3%A5-m'>Gudinnor På M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=final-cut-pro-appstore'>Final Cut Pro Appstore</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vattenpump-goes-520'>Vattenpump Goes 520</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-packning-blandare'>Byta Packning Blandare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ar-n%C3%A4ra-bangkok'>öar Nära Bangkok</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cleomenes-of-sparta'>Cleomenes Of Sparta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yrkesh%C3%B6gskola-utan-matte'>Yrkeshögskola Utan Matte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stress-i-skolan-statistik-2019'>Stress I Skolan Statistik 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-ska-skolpengen-t%C3%A4cka'>Vad Ska Skolpengen Täcka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=semlans-dag-2020'>Semlans Dag 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5l%C3%A4ndska-h%C3%B6glandet-sn%C3%B6'>Småländska Höglandet Snö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4ngd-soffa-ikea'>Svängd Soffa Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=transportera-katt-p%C3%A5-t%C3%A5g'>Transportera Katt På Tåg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bila-norra-italien'>Bila Norra Italien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matchstart-champions-league-2019'>Matchstart Champions League 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mossle-fritids-v%C3%A4rnamo'>Mossle Fritids Värnamo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skapat-i-det-inre'>Skapat I Det Inre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tore-wretman-klassiker'>Tore Wretman Klassiker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gammalt-tr%C3%A4golv-s%C3%A4ljes'>Gammalt Trägolv Säljes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pargas-kalk-historia'>Pargas Kalk Historia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buss-821-uddevalla'>Buss 821 Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=romantisk-serie-netflix'>Romantisk Serie Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inst%C3%A4llda-evenemang-%C3%B6rebro'>Inställda Evenemang örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grytbitar-i-lergryta'>Grytbitar I Lergryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fc-roseng%C3%A5rd-p08'>Fc Rosengård P08</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=asp%C3%B6-f%C3%B6rskola-karlskrona'>Aspö Förskola Karlskrona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=politiskt-styre-eksj%C3%B6'>Politiskt Styre Eksjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lgf%C3%A4rsbiffar-utan-str%C3%B6br%C3%B6d'>älgfärsbiffar Utan Ströbröd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=percy-jackson-character'>Percy Jackson Character</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marie-serneholt-barn'>Marie Serneholt Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=almondy-kladdkaka-recept'>Almondy Kladdkaka Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laila-bagge-barn'>Laila Bagge Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landa-labradoodle-pris'>Landa Labradoodle Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6n-tomatsoppa-hantverket'>Grön Tomatsoppa Hantverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-2020-f1'>Mercedes 2020 F1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nike-sweden-ab'>Nike Sweden Ab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mai-nails-bokadirekt'>Mai Nails Bokadirekt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ttgryta-med-svamp-och-paprika'>Köttgryta Med Svamp Och Paprika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=colorado-soffa-4-sits'>Colorado Soffa 4-sits</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-in-badkar-tr%C3%A4'>Bygga In Badkar Trä</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lussebullar-med-dadlar'>Lussebullar Med Dadlar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runda-mattor-mio'>Runda Mattor Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lamatours-costa-rica'>Lamatours Costa Rica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=i-birkaland-webbkryss'>I Birkaland Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boka-first-camp'>Boka First Camp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skapat-i-det-inre'>Skapat I Det Inre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6d-och-matchning-2020'>Stöd Och Matchning 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukers%C3%A4ttning-resa-utomlands'>Sjukersättning Resa Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-i-h%C3%B6kmossen'>Bo I Hökmossen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dogue-de-bordeaux-omplacering'>Dogue De Bordeaux Omplacering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pex-r%C3%B6r-i-bj%C3%A4lklag'>Pex-rör I Bjälklag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hk-malm%C3%B6---ystads-if'>Hk Malmö - Ystads If</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-stuga-fulufj%C3%A4llet'>Hyra Stuga Fulufjället</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eksj%C3%B6-kommun-befolkning'>Eksjö Kommun Befolkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Radisson-Collection%2C-Strand-Hotel%2C-Stockholm4%2C2%28685%290%2C2%C2%A0km-bort142%C2%A0US%24'>Radisson Collection, Strand Hotel, Stockholm4,2(685)0,2 km Bort142 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4dret-lund-luftfuktighet'>Vädret Lund Luftfuktighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=underground-london-tickets-tourist'>Underground London Tickets Tourist</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=piano-chords-play-online'>Piano Chords Play Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=igensatt-avluftning-avlopp'>Igensatt Avluftning Avlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=master-datateknik-liu'>Master Datateknik Liu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blackmagic-video-controller'>Blackmagic Video Controller</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=christer-petterssons-flickv%C3%A4n'>Christer Petterssons Flickvän</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A5gor-som-kluckar'>Vågor Som Kluckar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=truly-skin-care'>Truly Skin Care</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-m%C3%B6bler-norrk%C3%B6ping'>Begagnade Möbler Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-stories-recension'>Stockholm Stories Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ottoman-empire-sweden'>Ottoman Empire Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-hipp-pension%C3%A4rer'>Hipp Hipp Pensionärer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-f31-et'>Bmw F31 Et</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=undershorts-fotboll-dam'>Undershorts Fotboll Dam</a>,
+";s:7:"expired";i:-1;}

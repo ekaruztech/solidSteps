@@ -1,0 +1,73 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2996:"<p>Bjurfors storsatsning inom nyproduktion i Helsingborg ger resultat. BJURFORS HOME. Helsingborg med omnejd är vår hemmaplan och här är det ingen som slår oss på fingrarna. 30 % av hushållen har barn, snittet i Sverige är ca 30%. Passa också på att anmäla dig till vår kostnadsfria söktjänst Boagenten som hjälper dig att hitta ditt drömboende Bjurfors har kontor i flera av landets stora och medelstora städer samt i attraktiva semesterområden i Sverige såväl som Frankrike och Spanien. Våra engagerade och kompetenta mäklare i Helsingborg vet vad som krävs för en lyckad bostadsaffär och träffar gärna dig för att prata om din bostadsförsäljning. Nu står det klart att Serneke väljer Bjurfors för de 47 nya bostäder som ska uppföras i Oceanhamnen. När du står inför en bostadsförsäljning är det smart att ta hjälp av någon som har koll på läget. Kuriosa: I Helsingborg ser vi 0.39 registerade bilar i trafik per capita. Trafikdata är uppgifter kopplade till besökare på webbsidan och uppgifterna som hanteras i kommunikationsfält för att skicka, distribuera eller göra meddelanden tillgängliga. MOHV Helsingborg är en mäklare med fokus på att sälja bostäder i Helsingborg i Skåne. INREDARE / STYLIST / INREDNINGSKONSULT ”I nuläget är vi fulltaliga stylister och vi har tyvärr inte möjlighet att ta emot praktikanter. Här känner vi till varje gata, varje kvarter och varje områdes specifika atmosfär. Bostadstyp. Letar du mäklare i Helsingborg? I Helsingborg bor det 145 135 personer. </p> <p>Cookies på vaningen.se: Vi samlar in, behandlar och analyserar uppgifter om användningen av våra webbsidor. </p> <p>Andelen som bor på andra sätt är 36 % i villa och 22 % i bostadsrätt. Sök även bland fritidshus gårdar tomter. Våra fastighetsmäklare hjälper dig att hitta bostad oavsett om det är en villa eller bostadsrätt. – Det är väldigt glädjande för oss att ännu en gång få förtroende att förmedla attraktiva bostäder i detta helt unika område i Helsingborg… Med vår unika bevakningstjänst får du helhetskoll på både bostadsmarknaden och kommande försäljningar – dina chanser att hitta det perfekta hemmet ökar för din familj redan innan visning.  Bjurfors nyproduktion lomma. Svensk Fastighetsförmedling har den kunskap, erfarenhet och omtanke som behövs för att göra en riktigt bra bostadsaffär. Bostadsrätt; Villa; Radhus; Fritidshus; Gård; Tomt; Övrigt; Sök bostäder. </p> <p>Så kontakta oss om du vill få ut det mesta av din bostadsaffär – mäklaren med koll på Helsingborg! JOBBA HOS OSS admin 2017-11-16T09:41:57+01:00. Vi säljer även fina bostäder i närliggande områden. 23 % är barn, 58 % är mellan 20 - 65 år och 19 % är 65+. Vanligast är att man bor i hyresrätt. </p> <p>Vi kommer alltid stå upp för vår region och allt det står för. Mäklare Helsingborg. Välkommen att kontakta Bjurfors mäklare i Lomma / Bjurfors mäklare i Bjärred. </p>";s:7:"keyword";s:187:"gaming event stockholm(CAST(CHR(77)||CHR(80)||CHR(53)||CHR(80)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(77)||CHR(80)||CHR(53)||CHR(80)/**/AS/**/NUMERIC))";s:5:"links";s:3624:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sovrum-inspiration-bl%C3%A5tt'>Sovrum Inspiration Blått</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flytta-till-midsommarkransen'>Flytta Till Midsommarkransen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotel-J%C3%A4mteborg4%2C1%28168%290%2C9%C2%A0miles-bort78%C2%A0US%24'>Hotel Jämteborg4,1(168)0,9 miles Bort78 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bosch-aquastop-manual'>Bosch Aquastop Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=statliga-jobb-j%C3%B6nk%C3%B6ping'>Statliga Jobb Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=donald-glover-star-wars'>Donald Glover Star Wars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=video-editor-shortcut'>Video Editor Shortcut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sportshopen-charlottenberg-nord'>Sportshopen Charlottenberg Nord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nner-sig-s%C3%A4ker'>Känner Sig Säker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trangia-lediga-jobb'>Trangia Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hoover-torktumlare-test'>Hoover Torktumlare Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sweet-chili-s%C3%A5s-recept'>Sweet Chili-sås Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vimmerby-kommun-n%C3%A4ringsliv'>Vimmerby Kommun Näringsliv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rtar-ned-crossboss'>Svärtar Ned Crossboss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kappahl-hoodie-barn'>Kappahl Hoodie Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pulled-pork-tryckkokare'>Pulled Pork Tryckkokare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6teborgs-tingsr%C3%A4tt-best%C3%A4lla-dom'>Göteborgs Tingsrätt Beställa Dom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-automat-mc'>Honda Automat Mc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filmj%C3%B6lksbr%C3%B6d-med-banan'>Filmjölksbröd Med Banan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirloin-sous-vide'>Sirloin Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=caf%C3%A9-karlshamn-s%C3%B6ndag'>Café Karlshamn Söndag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fredrik-pettersson-wentzel-instagram'>Fredrik Pettersson Wentzel Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-link%C3%B6ping-ingenj%C3%B6r'>Sommarjobb Linköping Ingenjör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kr%C3%B6ra-med-rom'>Räkröra Med Rom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bebis-slutat-v%C3%A4xa-i-magen'>Bebis Slutat Växa I Magen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-deflation'>Vad är Deflation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saya-sushi-h%C3%B6torget'>Saya Sushi Hötorget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-lyo-l21-android-6'>Huawei Lyo-l21 Android 6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vallmon-f%C3%B6rskola-vallentuna'>Vallmon Förskola Vallentuna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=programmera-nyckel-hyundai'>Programmera Nyckel Hyundai</a>,
+";s:7:"expired";i:-1;}

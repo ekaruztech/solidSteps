@@ -325,7 +325,7 @@ function embedSelectedShortcode() {
 		}
 		
 		/////////////////////////////////////////
-		////	FULLSCREEN VIDEO SHORTCODE OUTPUT
+		////	FULLSCREEN VIDEO SHORTCODE OUTPUT
 		/////////////////////////////////////////
 				
 		if (shortcode_select == 'shortcode-fwvideo') {

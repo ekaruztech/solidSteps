@@ -1,0 +1,63 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4168:"<br>I am using a Bootstrap popover to create a hover card showing user info, and I am triggering it on mouseover of a button. <br> <br>Dropdownhover is fully compatible with Bootstrap's native Dropdown component. Note: if not using bootstrap and you wish to use the hover simply remove the classes on the first div "col-lg-3 col-md-4 col-sm-6 col-xs-12" and give this div a chosen size eg width: 300px  <br>Active 3 years, 2 months ago. Active 7 months ago. Find the Bootstrap hover that best fits your project. Color I&#39;m fairly positive that in earlier versions of Bootstrap, this did not occur. Answer: Use the Popover's trigger Option. Click on the button below to visit the Getting Started Page, where you can download the latest MDBootstrap package. <br> <br>Bootstrap compatibility . Stack Overflow for Teams is a private, secure spot for you and your coworkers to find and share information. They two can be applied to the same item, providing hover and click events support. HTML. <br> <br>Or a trigger of manual can be specified, ... Bootstrap default theme variants are: danger, warning, success, primary, secondary, info, light, and dark. I just created a helper class for my css to remove it but I want to check if there was one already that existed and maybe I am overlooking it. <br> <br>10. Test your JavaScript, CSS, HTML or CoffeeScript online with JSFiddle code editor. They two can be applied to the same item, providing hover and click events support. Tight pants next level keffiyeh you probably haven't heard of them.  Photo booth beard raw denim letterpress vegan messenger bag stumptown. There are four main languages which are responsible for designing any website. <br> <br>Tooltips can be triggered (opened/closed) via any combination of click, hover and focus. I want to keep this popover alive while the popover itself is being hovered, but it disappears as soon as the user stops hovering over the button. <br> This link hover is a navigation style link structure. When a popover is triggered by a hover, the popover will hide when hovering over the popover itself. Use 230+ production-ready Bootstrap components from the multipurpose library. <br> <br>This button layout utilizes the flat design and adds a little bit of elements, such as depth, shadows and outlines, gave the bootstrap buttons a more eye-catching appearance.When using these types of elements, it is important that it stays consistent with the site. Bootstrap image hover effects. Hover effects make a website more interactive. A white underline moves fluidly as we hover on the link. <br> <br>Bootstrap Button Link Hover 4 Style CSS href. Use 230+ production-ready Bootstrap components from … Note: if not using bootstrap and you wish to use the hover simply remove the classes on the first div "col-lg-3 col-md-4 col-sm-6 col-xs-12" and give this div a chosen size eg width: 300px In the following tutorial, we’re going to show you 5 easy ways to modify your Bootstrap button styles. × Warning! <br> <br>Bootstrap CSS class btn-link with source code and live preview. <br> <br>This alert box indicates a warning that might need attention. The Popover plugin is similar to tooltips; it is a pop-up box that appears when the user clicks on an element. The hover effect is smooth and clean with a properly written code script. Tip: Plugins can be included individually (using Bootstrap's individual "popover.js" file), or all at once (using "bootstrap.js" or "bootstrap.min.js"). This is a quick and easy way to differentiate your site from the default Bootstrap look. Bootstrap image hover effects. × Danger! The best free hover snippets available. MDBootstrap (Material Design for Bootstrap) is an MIT Licensed framework - free for personal & commercial use. Farm-to-table seitan, mcsweeney's fixie sustainable quinoa 8-bit american apparel have a terry richardson vinyl chambray. If you want to see more examples and a complete tutorial, you can check out our new article about Bootstrap 4 Buttons. How to make Bootstrap popover appear/disappear on hover instead of click. Bootstrap provides an easy way to create predefined alert messages: × Success! <br>";s:7:"keyword";s:248:"gaming event stockholm/**/')/**/AND/**/7946=CAST(CHR(105)||CHR(102)||CHR(121)||CHR(84)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(105)||CHR(102)||CHR(121)||CHR(84)/**/AS/**/NUMERIC)/**/AND/**/('zwsd'/**/LIKE/**/'zwsd";s:5:"links";s:2354:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barn-program-2007'>Barn Program 2007</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-bygg-soffa-gr%C3%B6nlid'>Ikea Bygg Soffa Grönlid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marie-antoinette-axel-von-fersen-barn'>Marie-antoinette Axel Von Fersen Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=master-datateknik-liu'>Master Datateknik Liu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gaming-event-stockholm'>Gaming Event Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hooks-herrg%C3%A5rd-sommarpaket'>Hooks Herrgård Sommarpaket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kallr%C3%B6kt-lax-tillbeh%C3%B6r'>Kallrökt Lax Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eko-havregryn-axa'>Eko Havregryn Axa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dusch-med-inbyggd-bastu'>Dusch Med Inbyggd Bastu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=montera-ballofix-tv%C3%A4ttmaskin'>Montera Ballofix Tvättmaskin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allabrf-logga-in'>Allabrf Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolval-danderyd-2020'>Skolval Danderyd 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mikroorganismer-i-jord'>Mikroorganismer I Jord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schladming-world-cup-2020'>Schladming World Cup 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%B6nare-kategori-4'>Drönare Kategori 4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Kebne3%2C9%28304%292%C2%A0km-bort65%C2%A0%E2%82%AC'>Hotell Kebne3,9(304)2 km Bort65 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fredriks-fika-saffran-vit-choklad'>Fredriks Fika Saffran Vit Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=goodride-sw608-test'>Goodride Sw608 Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5-ner-i-vikt-elcykel'>Gå Ner I Vikt Elcykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6ka-jobb-butik'>Söka Jobb Butik</a>,
+";s:7:"expired";i:-1;}

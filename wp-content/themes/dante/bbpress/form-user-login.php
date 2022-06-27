@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * User Login Form
  *
  * @package bbPress

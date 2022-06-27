@@ -1,6 +1,6 @@
 <?php
 	
-	/*  for PRO users! - *
+	/**
 	 * Custom Walker
 	 *
 	 * @access      public
@@ -81,5 +81,4 @@
 			
 		}
 	}
-
-?>
+	

@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3373:"<br>Here's a quiz that will separate the Europeans from everyone else! For example, try to name all of Europe's capital cities. Welcome to the custom quiz generator in Seterra. Please note that due to space restrictions, custom quizzes that have not been played by anyone for 30 days will be deleted. Which is officially the smallest country in Europe? Take this quiz! Once you get started, you'll be given a unique URL you can bookmark or copy and come back to. Search Help in Finding Some Major European Cities - Online Quiz Version There is a printable worksheet available for download here so you can take the quiz with pen and paper. Play < European Borders II. As of May 14 20. Only Europe this time. Click here to see them all. European Cities & Rivers I > Take a Random Europe Quiz.  <br>As usual the quiz is in PDF format for easy printing and sharing. All these quizzes have something to do with Europe. How many countries in Europe start with the letter 'M'? In this quiz, you'll be given an unlabeled map of Europe. Cryptic European Cities – Questions. This should be easy. Obsessed with travel? This is to test your knowledge of European capital cities. Here’s another cryptic clue quiz, this time all the clues when solved should lead to the names of European Cities. Question: What is the name of the area within Europe where EU countries have abolished all border and passport controls so that, for travel purposes, the area functions as one country. Just type in names of cities in any of those countries. European trivia on JetPunk. Answer: The Schengen Area The UK & Ireland are not included within this area. This is an online quiz called Some Major European Cities. If you experience any problems using it, or if you have suggestions on how to improve it, please email us at info@seterra.com. Europe is the world's second-smallest continent by surface area? <br> <br>Discover unique things to do, places to eat, and sights to see in the best destinations around the world with Bring Me! Cryptic European Cities.  Can you tell which cities are capitals of nations such as the United Kingdom, France, Poland, Spain, Austria, The Netherlands, Finland, Romania and Slovenia? <br> <br>The river Danube passes through four European capital cities, can you name them? Europe Map Quiz. Here are our most popular Europe quizzes. Some products are sent to us free of … Answers. <br> Create custom quiz Europe: Cities. How well do you know your European capitals? Europe Quiz II. Or, try to name the letters in the Greek alphabet. Average score for this quiz is 7 / 10.Difficulty: Average.Played 2,154 times. France The United Kingdon Spain Switzerland Belgium The Netherlands (Holland) Italy Austria The Czech Republic Hungary Lithuania Estonia Sweden Norway Denmark Germany Latvia Slovakia Bosnia and Herzegovina Bulgaria Serbia The Former Yugoslav Republic of Macedonia Croatia Albania Greece Turkey Russia Moldova … My second quiz on continental cities. All Top Class Top Class - Quiz: European Capital Cities Test yourself and see if you can you come top of the class. European Capitals I quiz. So far, I've named 42 cities in about ten minutes without looking any up. Europe Country and City Guides We hand-pick everything we recommend and select items through testing and reviews. What is the largest country entirely in Europe? True or False. <br>";s:7:"keyword";s:20:"european cities quiz";s:5:"links";s:3584:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=justera-koppling-loncin-110cc'>Justera Koppling Loncin 110cc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marsipan-recept-mandelmj%C3%B6l'>Marsipan Recept Mandelmjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tt-line-logga-in'>Tt-line Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dalbyv%C3%A4gen-51-arl%C3%B6v'>Dalbyvägen 51 Arlöv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tecken-kortspel-b%C3%A4sta-tecknet'>Tecken Kortspel Bästa Tecknet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polisen-link%C3%B6ping-adress'>Polisen Linköping Adress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laguppst%C3%A4llning-aik-%C3%B6stersund'>Laguppställning Aik östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hamstring-strain-svenska'>Hamstring Strain Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matberedare-barnmat-b%C3%A4st-i-test'>Matberedare Barnmat Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-b%C3%B6rja-s%C3%A4rskola'>Att Börja Särskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-hjulvinkel-%C3%A4ndrar-man-vid-byte-av-styrled-toe-in-out-eller-camber'>Vilken Hjulvinkel ändrar Man Vid Byte Av Styrled Toe In Out Eller Camber</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-v%C3%A4rsting-till-syster-musikal-trailer'>En Värsting Till Syster Musikal Trailer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matsedel-malmb%C3%A4cks-skola'>Matsedel Malmbäcks Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bebis-huvud-v%C3%A4xer-f%C3%B6r-fort'>Bebis Huvud Växer För Fort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolchef-danderyds-kommun'>Skolchef Danderyds Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=andelshus-gotland-sanda'>Andelshus Gotland Sanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=STF-Malmf%C3%A4ltens-Folkh%C3%B6gskola3%2C8%2822%290%2C3%C2%A0km-bort468%C2%A0BR%24'>STF Malmfältens Folkhögskola3,8(22)0,3 km Bort468 BR$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olympic-games-tokyo-2020-ps4'>Olympic Games Tokyo 2020 Ps4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tax-rate-norway'>Tax Rate Norway</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=install-google-play-samsung-smart-tv'>Install Google Play Samsung Smart Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elevspel-se-e-%C3%A4'>Elevspel Se E ä</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-grizzly-350-irs'>Yamaha Grizzly 350 Irs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=italiensk-grammatik-%C3%B6vningar'>Italiensk Grammatik övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-l%C3%A4ngsta-v%C3%A4gar'>Sveriges Längsta Vägar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ivo-anm%C3%A4lda-l%C3%A4kare'>Ivo Anmälda Läkare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=croissant-med-chokladfyllning'>Croissant Med Chokladfyllning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ters-kommun-skola'>Säters Kommun Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-norge-fjordar'>Resa Norge Fjordar</a>,
+";s:7:"expired";i:-1;}

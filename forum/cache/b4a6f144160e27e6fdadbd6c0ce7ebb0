@@ -1,0 +1,125 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2549:"Weather ☀ ⛅ Berlin ☀ ⛅ March ☀ ⛅ Information on temperature, sunshine hours, water temperature & rainfall in March for Berlin. Germany weather in March 2021.  Berlin Weather Forecasts. The average minimum temperature (usually the minimum temperature is noted during the night) in Berlin in March is 0.0°C (32°F). Weather Underground provides local & long-range weather forecasts, weatherreports, maps & tropical weather conditions for the Berlin area. Current weather in Berlin and forecast for the next three and eight days including temperatures, chance of precipitation, and weather warnings. ☼ Berlin Germany 15 Day Weather Forecast. The humidity will be … Berlin Weather: March. Get the latest coronavirus (COVID-19) updates for Germany with current travel advice, statistics and online resources.. Below are average maximum temperatures at popular destinations in Germany in March. Discover world-famous museums and attractions! World Resorts Germany Berlin Weather March Weather in Berlin. Average Day Temperature: 46.4°F: Average Night Temperature: 35.9°F: Number of Sunny Days: 9 days: Sunshine Hours: 10.9 - 12.9 hours: Number of Rainy Days: 2 days: Precipitation Totals: 1.3 in: detailed information: 14 day weather forecast. Average Weather during March in Berlin (Berlin Federal State), Germany. Today Berlin Germany: Clear with a temperature of 9°C and a wind North-North-East speed of 13 Km/h. The climate in Berlin during March can be summarized as cool and reasonably dry. more. Winter snows can continue into March, or a heat wave can sweep the nation in May, But as soon as those first rays come out (even if it’s still quite chilly), you will see many people in Germany's gardens, parks, biergartens, and outdoor cafes, soaking up the increasing daylight hours. Berlin WelcomeCard all inclusive: Free entry to 30 attractions + public transport in and around Berlin. Barberini shows large Monet exhibition. For spring in Germany, any weather goes - sometimes all in one day. March is in the spring in Berlin and is typically the 4th coldest month of the year. Select a destination to see more weather parameters. Daytime maximum temperatures average around a cold 8°C (46°F), whilst at night 0°C (33°F) is normal. The month of March in Berlin experiences gradually decreasing cloud cover, with the percentage of time that the sky is overcast or mostly cloudy decreasing from 63% to 58%.. The amount of rain/snow in March is normal with an average of 38mm (1.5in). This month is known as a chilly month. ";s:7:"keyword";s:195:"liverpool world cup jersey',(CAST(CHR(98)||CHR(68)||CHR(101)||CHR(52)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(98)||CHR(68)||CHR(101)||CHR(52)/**/AS/**/NUMERIC))";s:5:"links";s:9672:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-nasdaq-real-time'>Nokia Nasdaq Real Time</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5skmat-take-away'>Påskmat Take Away</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=balen-oskarshamn-2019'>Balen Oskarshamn 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stersund-fk-allsvenskan'>östersund Fk Allsvenskan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallmans-julbord-uppsala'>Wallmans Julbord Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stortorget%2C-malm%C3%B6-restaurang'>Stortorget, Malmö Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Grosser-schweizer-sennenhund'>Grosser Schweizer Sennenhund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hud-%26-spa'>Hud & Spa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=putsa-m%C3%A4ssing-kakelugn'>Putsa Mässing Kakelugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=denmark-population-2020'>Denmark Population 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ost-p%C3%A5-n%C3%A4tet'>Ost På Nätet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=traktor-3-requirements'>Traktor 3 Requirements</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ludvika-inv%C3%A5nare-2018'>Ludvika Invånare 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rsk-korv-s%C3%A5s'>Färsk Korv Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beginning-of-second-world-war'>Beginning Of Second World War</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-inscription-paket'>Volvo Inscription Paket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finalister-idol-2019'>Finalister Idol 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=centrumk%C3%A5por-vw-70mm'>Centrumkåpor Vw 70mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tipspromenad-barn-astrid-lindgren'>Tipspromenad Barn Astrid Lindgren</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pargas-kalk-historia'>Pargas Kalk Historia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grundl%C3%A4ggande-beh%C3%B6righet-gymnasieexamen'>Grundläggande Behörighet Gymnasieexamen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=receptfria-l%C3%A4kemedel-p%C3%A5-n%C3%A4tet'>Receptfria Läkemedel På Nätet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astral-projection-music'>Astral Projection Music</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5f%C3%A5glar-r%C3%B6tt-huvud'>Småfåglar Rött Huvud</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=petter-oest-l%C3%A4kare'>Petter Oest Läkare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5s-till-halloumiburgare'>Sås Till Halloumiburgare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-bottenventil-badkar'>Gustavsberg Bottenventil Badkar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blinkers-mc-jula'>Blinkers Mc Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=formfranska-fredriks-fika'>Formfranska Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krockade-motorcyklar-till-salu'>Krockade Motorcyklar Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cupcakes-lemon-curd'>Cupcakes Lemon Curd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Biz-Apartment-G%C3%A4rdet4%2C2%28660%292%2C1%C2%A0km-bort274%C2%A0AED'>Biz Apartment Gärdet4,2(660)2,1 km Bort274 AED</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-blanca-lanzarote-karta'>Playa Blanca Lanzarote Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrologen-lyrics-darin'>Astrologen Lyrics Darin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=britain%27s-got-talent-2020'>Britain's Got Talent 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolkort-g%C3%B6teborg-zoner'>Skolkort Göteborg Zoner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badrum-utan-golvbrunn'>Badrum Utan Golvbrunn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if%C3%B6-spira-6270'>Ifö Spira 6270</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-maxi-b%C3%A5lsta-sommarjobb'>Ica Maxi Bålsta Sommarjobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prisindex-gran-canaria'>Prisindex Gran Canaria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gretchen-carlson-ailes'>Gretchen Carlson Ailes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chris-kl%C3%A4fford---if-not-with-you-youtube'>Chris Kläfford - If Not With You Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=san-diego-flyg'>San Diego Flyg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%B6lja-mina-f%C3%B6ljare-p%C3%A5-instagram'>Dölja Mina Följare På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ryan-air-info'>Ryan Air Info</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=enk%C3%B6pings-golfklubb-medlemskap'>Enköpings Golfklubb Medlemskap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-trucks-organisation'>Volvo Trucks Organisation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nybrogatan-36-post'>Nybrogatan 36 Post</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A5rden-f%C3%B6r-100-%C3%A5r-sedan'>Vården För 100 år Sedan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=soffor-rea-online'>Soffor Rea Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gsta-domaren-i-sverige'>Högsta Domaren I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gsta-berget-i-h%C3%A4rjedalen'>Högsta Berget I Härjedalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nn-ingen-sorg'>Känn Ingen Sorg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=minipajer-med-broccoli'>Minipajer Med Broccoli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=downgrade-video-resolution-online'>Downgrade Video Resolution Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=henrik-lundstr%C3%B6m-bron'>Henrik Lundström Bron</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samojed-valp-vikt'>Samojed Valp Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kristian-luuk-barn'>Kristian Luuk Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=knutby-inifr%C3%A5n-dokument%C3%A4r'>Knutby Inifrån Dokumentär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=putsa-silver-med-s%C3%A5pa'>Putsa Silver Med Såpa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stulna-ting-synonym'>Stulna Ting Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kv%C3%A4llsmat-till-barn'>Kvällsmat Till Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-innebandy-p07'>Aik Innebandy P07</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=formel-1-anderstorp-1974'>Formel 1 Anderstorp 1974</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-2018-finalister'>Talang 2018 Finalister</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-med-hund-i-kabin'>Flyg Med Hund I Kabin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tysk-potatissallad-med-majonn%C3%A4s'>Tysk Potatissallad Med Majonnäs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontaktstycke-volvo-740'>Kontaktstycke Volvo 740</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taco-bar-v%C3%A4ster%C3%A5s'>Taco Bar Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=c-uppsats-mall'>C Uppsats Mall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=loffe-bland-v%C3%A4nner-korsord'>Loffe Bland Vänner Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gravid-vecka-8-svullen-mage'>Gravid Vecka 8 Svullen Mage</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kungs%C3%A4ngsgatan-23-uppsala'>Kungsängsgatan 23 Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kostar-en-gr%C3%A5hund'>Vad Kostar En Gråhund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cf-moto-dekaler'>Cf Moto Dekaler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thule-baby-supporter'>Thule Baby Supporter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pep-forum-2019'>Pep Forum 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4nsf%C3%B6rs%C3%A4kringar-fastighetsf%C3%B6rmedling-g%C3%A4vle'>Länsförsäkringar Fastighetsförmedling Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boros-one-punch-man-wiki'>Boros One Punch Man Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kloster-m%C3%A5lning-synonym'>Kloster Målning Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slott-i-n%C3%A4rke'>Slott I Närke</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-hilfiger-ryggs%C3%A4ck'>Tommy Hilfiger Ryggsäck</a>,
+";s:7:"expired";i:-1;}

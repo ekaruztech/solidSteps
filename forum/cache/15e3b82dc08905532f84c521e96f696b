@@ -1,0 +1,111 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2821:"<br>Falun är Sveriges 28:e största tätort med 37 291 (2010) av kommunens totalt 56 086 invånare. Falun Sverigemedel Utveckling; Invånare i kommunen. Antal: 22. Falun är en tätort i Dalarna samt centralort i Falu kommun och residensstad för Dalarnas län. Falun. 2018 – 2022: Löpande: FBS 2017:2: Utreda förutsättningar för att utveckla och öka återbruksverksamhet: Pågår. Falun är en kommun i regionen Dalarna i Sverige.Kommunen har cirka 58 000 invånare och ligger till sin helhet i landskapet Dalarna.. Tätorten Falun utgör kommunens centralort. Befolkningen har ökat med 4 208 personer under de senaste tio åren. Falun utgör, tillsammans med Borlänge, ett storstadsområde med nära 100 000 invånare. <br> <br>Övriga tätorter i kommunen är Aspeboda, Bengtsheden, Bjursås, Blixbo, Danholn, Enviken, Gamla Berget och Korsgården, Grycksbo, Linghed, Stennäset, Sundborn, Svärdsjö, Sågmyra, Toftbyn, Vika och Övertänger. Falun är en stad och säte för Falu Kommun i Dalarnas Län, med 37,291 invånare. Så här beskriver Wikipedia staden och dess historia. År 2017 ökade kommunens befolkning med +360 personer. Även om antalet invånare har minskat under vissa perioder, har trenden sedan 1970 genomgående varit ett ökat invånarantal. Antal, 2019 i. Borlänge. 35 612.  Antal polisanmälda brott med identifierade hatbrottsmotiv efter kommun där brottet har begåtts, per 100 000 invånare, år 2018.  Falun och Borlänge är tillsammans en tvåkärnig stadsregion – FalunBorlänge – med en ... Intermetra fick därför i juli 2018 i uppdrag av Borlänge och Falu kommuner, samt Dalatrafik, att ... alla invånare i … Per 100 000: 39. Dalarnas län, före 1 januari 1997 Kopparbergs län (även Stora Kopparbergs län vars namn syftade på Stora Kopparberget), är ett län i nordvästra Svealand i mellersta Sverige.Det sammanfaller i stort med landskapet Dalarna.Dalarnas län gränsar mot Jämtlands län, Gävleborgs län, Västmanlands län, Örebro län och Värmlands län i Sverige, samt mot Innlandet fylke i Norge. 59 406. I Falun ska en kommunikativ kretsloppspark med bred samverkan skapas där utvecklingsledare och mottagningsinspiratörer anställs hos FEV i syfte att hjälpa och inspirera kunder till ökat återbruk. Falun är en tätort i Dalarna, centralort i Falu kommun och residensstad för Dalarnas län.Falun är Sveriges 28:e största tätort med 37 291 (2010) [5] av kommunens totalt 58 340 invånare (31 dec. 2017) [6].Falun klassas som ett världsarv. Falun är värdstad för NORDLEK 2018. Det är också huvudstad i Dalarnas Län. ... Medianinkomst för personer som är 20 år eller äldre och boende i Sverige den 31/12 uttryckt i 2018 års priser. Den 31 december 2017 så bodde det 51 964 invånare i Borlänge kommun. Antal: 20. <br>";s:7:"keyword";s:20:"falun invånare 2018";s:5:"links";s:8022:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jordbakterier-i-vatten'>Jordbakterier I Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-g%C3%B6r-en-hovr%C3%A4tt'>Vad Gör En Hovrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gran-canaria-temperatur'>Gran Canaria Temperatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lyxloppis-slagthuset-2019'>Lyxloppis Slagthuset 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bryan-ferry-album'>Bryan Ferry Album</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kan-inte-%C3%B6ppna-bilder-iphone'>Kan Inte öppna Bilder Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=masterprogram-psykologi-uppsala'>Masterprogram Psykologi Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-atp'>Vad är Atp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skk-registrering-import'>Skk Registrering Import</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-st%C3%B6rsta-sporter-lista-ut%C3%B6vare'>Världens Största Sporter Lista Utövare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=westlife-us-against-the-world'>Westlife Us Against The World</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ta-blodtrycksmedicin-p%C3%A5-kv%C3%A4llen'>Ta Blodtrycksmedicin På Kvällen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lagar-om-droger-i-sverige'>Lagar Om Droger I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vietnam-war-netflix'>Vietnam War Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pantheon-rise-of-the-fallen-cohhcarnage'>Pantheon Rise Of The Fallen Cohhcarnage</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halmstad-ravens-eliteprospects'>Halmstad Ravens Eliteprospects</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djur-p%C3%A5-island'>Djur På Island</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marinad-grillspett-n%C3%B6tk%C3%B6tt'>Marinad Grillspett Nötkött</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=opel-service-stockholm'>Opel Service Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-l%C3%A5ter-hj%C3%A4rtat'>Varför Låter Hjärtat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=em-2016-boll'>Em 2016 Boll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsonite-ryggs%C3%A4ck-securipack'>Samsonite Ryggsäck Securipack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-video-editing-software-pc'>Best Video Editing Software Pc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-vill-se-p%C3%A5-talang'>Jag Vill Se På Talang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karta-milano-centrum'>Karta Milano Centrum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%A4lsning-ortodoxa-kyrkan'>Frälsning Ortodoxa Kyrkan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-l%C3%A5ngstrump-nattlinne'>Pippi Långstrump Nattlinne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catering-br%C3%B6llop-laholm'>Catering Bröllop Laholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=del-av-malm%C3%B6'>Del Av Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startmotor-sl%C3%A5r-inte-till'>Startmotor Slår Inte Till</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4ngd-soffa-ikea'>Svängd Soffa Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wta-b%C3%A5stad-2019-resultat'>Wta Båstad 2019 Resultat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toll-norge-import'>Toll Norge Import</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffran-i-l%C3%A5ngpanna'>Saffran I Långpanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=molly-sand%C3%A9n-diabetessmycken'>Molly Sandén Diabetessmycken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rkr%C3%A4m-med-mascarpone'>Smörkräm Med Mascarpone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=half-life-2-gman-locations'>Half Life 2 Gman Locations</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=www-bostad-se'>Www Bostad Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bonke-innocent-instagram'>Bonke Innocent Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=foster-som-inte-v%C3%A4xer-som-det-ska'>Foster Som Inte Växer Som Det Ska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=softshell-overall-baby'>Softshell Overall Baby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vandrande-vatten-experiment'>Vandrande Vatten Experiment</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flaggdagar-finland-13-mars'>Flaggdagar Finland 13 Mars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sn%C3%B6kedjor-traktor-m%C3%A5tt'>Snökedjor Traktor Mått</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=potatisrosor-annat-namn'>Potatisrosor Annat Namn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vardaga-%C3%A4ldreomsorg-solna'>Vardaga äldreomsorg Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glada-hos-glada-korsord'>Glada Hos Glada Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=film-om-konsumtion'>Film Om Konsumtion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-740-br%C3%A4nslebox'>Volvo 740 Bränslebox</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tyres%C3%B6-centrum-karta'>Tyresö Centrum Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4nkningssats-mercedes-w210'>Sänkningssats Mercedes W210</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trip-advisor-sushi'>Trip Advisor Sushi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kycklingkorv-b%C3%A4st-i-test'>Kycklingkorv Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bromsljuskontakt-mc-biltema'>Bromsljuskontakt Mc Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=video-editor-shortcut'>Video Editor Shortcut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tennessee-waltz-chords'>Tennessee Waltz Chords</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buddha-staty-tr%C3%A4'>Buddha Staty Trä</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-center-v%C3%A4ster%C3%A5s'>Yamaha Center Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-i-%C3%A4ngelholm'>Restaurang I ängelholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ume%C3%A5-kommun-vatten-och-avlopp'>Umeå Kommun Vatten Och Avlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotellpaket-med-middag'>Hotellpaket Med Middag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=handelsbanken-kort-i-mobilen'>Handelsbanken Kort I Mobilen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-centrum-butiker'>Malmö Centrum Butiker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tigo-mmu-manual'>Tigo Mmu Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=den-stora-%C3%A4lgvandringen-sammandrag'>Den Stora älgvandringen Sammandrag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schoolsoft-danderyd-vrs'>Schoolsoft Danderyd Vrs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julmarknad-p%C3%A5-slott'>Julmarknad På Slott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=c-uppsats-mall'>C Uppsats Mall</a>,
+";s:7:"expired";i:-1;}

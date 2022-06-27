@@ -1,0 +1,116 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3708:"Socialstyrelsens nationella riktlinjer är ett stöd vid prioriteringar och ger vägledning om vilka behandlingar och metoder som olika verksamheter i vård och omsorg bör satsa resurser på. <br> <br>Riskgrupperna kan ha ett särskilt behov att skyddas mot smitta av nya coronaviruset. Smittämnen, handlingsprogram och riktlinjer Utbildning Vårdriktlinjer a-ö Regionala vårdprogram Utveckling Aktuella projekt ... konjugatvaccin ingår i barnvaccinationsprogrammet och ger ett bra skydd till de flesta barn även om de tillhör en riskgrupp. Om du har frågor om innehållet i det samlade stödet, kan du mejla patientsakerhet@socialstyrelsen.se.. Om du har andra frågor, mejla socialstyrelsen@socialstyrelsen.se.. Du kan också ringa vår växel på telefon 075-247 30 00. <br> <br>— Våra behandlingsrum är såklart så rena och sterila de kan bli. Socialstyrelsen har strikta regler och riktlinjer för hur tandvård ska bedrivas samt hur renhållningen ska skötas. Socialstyrelsen logotyp med ordbild och logotyp i vitt. <br> <br> Socialstyrelsen styrs av sponsrade förmånsföreningars medlemmar. För barn över 5 års ålder och vuxna med ökad risk för pneumokockinfektion rekommenderas vaccination med Pneumovax®. <br> <br>Kontakta oss på digitala-nationella-riktlinjer@socialstyrelsen.se. Socialstyrelsen är Sveriges kunskapsmyndighet för vård och omsorg. Nationella riktlinjer Metoder för beteendepåverkan maj 2011 [email_address] www.socialstyrelsen.se/tandvardsriktlinjer Vi stödjer och samordnar regionernas krisberedskap inom hälso- och sjukvård och samverkar därför med landets 21 regioner och deras beredskapsorganisationer och med berörda myndigheter och Sveriges kommuner och regioner (SKR). Nationella riktlinjer In English. Socialstyrelsen har en viktig roll i att stötta hälso- och sjukvården och socialtjänsten i arbetet med covid-19. ”Rapporterade data talar för att kraftig övervikt och fetma är en oberoende riskfaktor för … Socialstyrelsen skriver att, person som bor tillsammans med någon som har förhöjd risk enligt vår definition, bör i syfte att skydda den som löper störst risk att drabbas av ett särskilt allvarligt sjukdomsförlopp vid insjuknande i covid-19 ur ett smittskyddsperspektiv, tillfälligt avstå arbete utanför hemmet om arbetssituationen är sådan att Folkhälsomyndighetens råd för smittskydd inte kan följas. <br> <br>Socialstyrelsen: Personer med fetma är riskgrupp Personer med fetma identifieras nu som riskgrupp för covid-19, enligt Socialstyrelsens utredning som presenterades i dag, rapporterar Ekot. Men vi har också försökt göra allt för att minimera riskerna man som patient kan utsättas för till och från sitt besök. ”Rapporterade data talar för att kraftig övervikt och fetma är en oberoende riskfaktor för … Socialstyrelsen: Personer med fetma är riskgrupp Personer med fetma identifieras nu som riskgrupp för covid-19, enligt Socialstyrelsens utredning som presenterades i dag, rapporterar Ekot. Socialstyrelsen har, på uppdrag av regeringen, identifierat grupper som löper störst risk att drabbas av särskilt allvarligt sjukdomsförlopp när de blir sjuka i covid-19. Nationella riktlinjer Metoder för beteendepåverkan maj 2011 [email_address] www.socialstyrelsen.se/tandvardsriktlinjer Deras beslutstöd vid sjukskrvning och riktlinjer vid diabetes, psykos och utmattningssyndrom ökar risken för sjukskrivning, sjukdomar, död 100 gånger mer än corona. Vi finns för att människor i Sverige ska få tillgång till god vård och omsorg på lika villkor. Den som inte hör till en riskgrupp, men vill undvika att få säsongsinfluensa, kan också vaccinera sig. ";s:7:"keyword";s:36:"socialstyrelsen riktlinjer riskgrupp";s:5:"links";s:8696:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pauluns-musli-kokos'>Pauluns Musli Kokos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=designa-egen-fotbollstr%C3%B6ja-barn'>Designa Egen Fotbollströja Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=watt-per-kg'>Watt Per Kg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lska-mig-for-den-jag-%C3%A4r-noter'>älska Mig For Den Jag är Noter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=second-hand-karlstad'>Second Hand Karlstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-har-h%C3%B6rt-om-en-stad-ovan-molnen-lyrics'>Jag Har Hört Om En Stad Ovan Molnen Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%A4nna-kalorier-snabbt'>Bränna Kalorier Snabbt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liam-payne-f1'>Liam Payne F1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=I-Don%E2%80%99t-Give-A'>I Don’t Give A</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stekt-oxfil%C3%A9-med-s%C3%A5s'>Stekt Oxfilé Med Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakad-potatis-curryr%C3%B6ra-vegetarisk'>Bakad Potatis Curryröra Vegetarisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=religi%C3%B6s-splittring-franska-revolutionen'>Religiös Splittring Franska Revolutionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-f%C3%B6renings-s%C3%A4te'>En Förenings Säte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-ludvika-gr%C3%A4ngesberg'>Hemnet Ludvika Grängesberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-original-l%C3%A4nkarm'>Volvo Original Länkarm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=100-ohm-motst%C3%A5nd'>100 Ohm Motstånd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=first-pirates-of-the-caribbean'>First Pirates Of The Caribbean</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flytta-pantbrev-mellan-fastigheter'>Flytta Pantbrev Mellan Fastigheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=highlights-storvreta-pixbo'>Highlights Storvreta Pixbo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pex-r%C3%B6r-i-bj%C3%A4lklag'>Pex-rör I Bjälklag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anatomi-och-fysiologi-skillnad'>Anatomi Och Fysiologi Skillnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blackmagic-design-ltd'>Blackmagic Design Ltd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemtex-bor%C3%A5s-city-%C3%B6ppettider'>Hemtex Borås City öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snapchat-d%C3%B6lj-amuletter'>Snapchat Dölj Amuletter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ping-tv-program'>Köping Tv Program</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lund-university-master%27s-programmes'>Lund University Master's Programmes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sara-sommerfeld-filmer-och-tv-program'>Sara Sommerfeld Filmer Och Tv Program</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fann-rsk-5619581'>Fann Rsk 5619581</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snapchat-privat-story'>Snapchat Privat Story</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4gs-caligula-i'>Sägs Caligula I</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hem-se-slamt%C3%B6mning'>Hem Se Slamtömning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tivoli-g%C3%A5-ud-og-ind'>Tivoli Gå Ud Og Ind</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-elitfotboll-stadgar'>Svensk Elitfotboll Stadgar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-blandare-sj%C3%A4lv'>Byta Blandare Själv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-tv-live'>Telia Tv Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-till-lanzarote-corona'>åka Till Lanzarote Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=doppresent-kille-smycke'>Doppresent Kille Smycke</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=garderob-30-cm-djup'>Garderob 30 Cm Djup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-stockholm-norrt%C3%A4lje'>Cykla Stockholm Norrtälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moped-startar-bara-p%C3%A5-startgas'>Moped Startar Bara På Startgas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6teborgs-kommun-resm%C3%A5l'>Göteborgs Kommun Resmål</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-bost%C3%A4der-distrikt'>Svenska Bostäder Distrikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gsta-domaren-i-sverige'>Högsta Domaren I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hk-malm%C3%B6---ystads-if'>Hk Malmö - Ystads If</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olympic-games-tokyo-2020-ps4'>Olympic Games Tokyo 2020 Ps4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-grammatik---verb'>Svenska Grammatik - Verb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=video-files-facebook'>Video Files Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svaghet-i-benen-%C3%A4ldre'>Svaghet I Benen äldre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skola-f%C3%B6r-barn-med-autism-%C3%B6rebro'>Skola För Barn Med Autism örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rdig-cookie-dough'>Färdig Cookie Dough</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-medmera-saldo'>Coop Medmera Saldo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=transdev-lediga-jobb'>Transdev Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%A5ga-vi-jesus-n%C3%A4rmare-efter-den-g%C3%A4rning'>Fråga Vi Jesus Närmare Efter Den Gärning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=working-holiday-japan'>Working Holiday Japan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bryggeriet-%C3%A5ngkvarn-uppsala'>Bryggeriet ångkvarn Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ton-tv%C3%A5-korsord'>Ton Två Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6t-ihop-p%C3%A5-jobbet'>Bröt Ihop På Jobbet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobba-fackligt-kommunal'>Jobba Fackligt Kommunal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=extraljus-rel%C3%A4-mekonomen'>Extraljus Relä Mekonomen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=camino-de-santiago-etapper'>Camino De Santiago Etapper</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=knapptelefon-telias-l%C3%A5ngk%C3%B6rare'>Knapptelefon Telias Långkörare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vemdalen-v%C3%A4der-webbkamera'>Vemdalen Väder Webbkamera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=venice-beach-webcam'>Venice Beach Webcam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=33x12-5-15'>33x12 5 15</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huvudomf%C3%A5ng-%C3%B6kar-inte'>Huvudomfång ökar Inte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rg-f%C3%B6r-v%C3%A4gg'>Färg För Vägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-western-g%C3%A4vle'>Best Western Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boende-%C3%A5land-tips'>Boende åland Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffran-i-l%C3%A5ngpanna'>Saffran I Långpanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snabb-chokladmousse-till-t%C3%A5rta'>Snabb Chokladmousse Till Tårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bel-air-car'>Bel Air Car</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5skk%C3%A4rring-vilken-dag'>Påskkärring Vilken Dag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsf%C3%B6rmedlingen-efter-gymnasiet'>Arbetsförmedlingen Efter Gymnasiet</a>,
+";s:7:"expired";i:-1;}

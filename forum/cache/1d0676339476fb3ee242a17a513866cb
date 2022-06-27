@@ -1,0 +1,77 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1966:"<p>FIS Nordic World Ski Championships is a Nordic skiing event which is organized by International Ski Federation (FIS) once in 2 years.World Championships were started in 1925 only for men but later on, in 1954, they were opened for women too. The number of athletes competing in the junior championships showed a 15% increase from the year prior- a milestone that shows the developmental work of USA Nordic paying off. In order to win his first senior world medal, the 21-year-old will need to beat some of the most experienced German guys, like Johannes Rydzek, Eric Frenzel and Fabian Riessle, who dominated at the Nordic World Ski Championships in Lahti and at the PyeongChang 2018 Winter Olympic Games. A confirmed calendar for the 2019/2020 season is below. </p> <p>PARA NORDIC SKIING EVENTS. </p> <p>Cross Country Skiing - FIS Nordic World Ski Championships - 2018/2019. Calendar plannings follow the principles of the Calendar Planning Framework (version January 2020) 12 Tage, 22 Medaillenentscheidungen und 204.400 jubelnde Besucher – die FIS Nordischen Ski Weltmeisterschaften sind in die Sportgeschichte der Olympiaregion Seefeld eingegangen. The Long Term Draft Calendar for seasons 2020/2021 to 2022/2023 can be found here. Find … All past, current and future Para Nordic skiing events can be found here. Welcome to the official website of the 2019 World Para Nordic Skiing Championships set to take place in Prince George, Canada from 15-24 February. Strahlendes Bilderbuchwetter sorgte an nahezu allen Wettkampftagen für ausgelassene Stimmung bei den Besuchern aus aller Herren Länder und auch die Athleten waren von den Gegebenheiten vor Ort … According to Demong, “Participation has grown over 100% in the last decade as we … Nordic World Ski Championships: Five athletes arrested over doping 27 February 2019 Commonwealth Games: Intelligence-led doping probe 'removed cheats before they arrived'  Mit Erfolg. Choice of a season : </p>";s:7:"keyword";s:38:"nordic skiing world championships 2019";s:5:"links";s:4226:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=midsommarfirande-lindesberg-2019'>Midsommarfirande Lindesberg 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilka-konsekvenser-f%C3%A5r-k%C3%A5kst%C3%A4derna-f%C3%B6r-staden-de-ligger-i%3F'>Vilka Konsekvenser Får Kåkstäderna För Staden De Ligger I?</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=audi-styling-delar'>Audi Styling Delar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bokst%C3%A4ll-barn-golv'>Bokställ Barn Golv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=treasury-controller-l%C3%B6n'>Treasury Controller Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=direkt-demokrati-synonym'>Direkt Demokrati Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biff-rydberg-%C3%A4lg'>Biff Rydberg älg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sp%C3%A5rvagn-7-rutt'>Spårvagn 7 Rutt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-e-klass-hybrid'>Mercedes E-klass Hybrid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=staffan-olsson-%C3%B6l'>Staffan Olsson öl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bra-vid-f%C3%A5ngst-av-h%C3%A5l-fisk-crossboss'>Bra Vid Fångst Av Hål Fisk Crossboss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-sundin-biljetter-j%C3%B6nk%C3%B6ping'>David Sundin Biljetter Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6rsta-hunden-n%C3%A5gonsin'>Största Hunden Någonsin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6n-f%C3%B6rr-stat'>Lön Förr Stat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vandring-gran-canaria'>Vandring Gran Canaria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-concept-meny'>The Concept Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4ckstr%C3%B6m-c-more-avsnitt-4'>Bäckström C More Avsnitt 4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=round-table-str%C3%B6mstad'>Round Table Strömstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv%C3%A4tta-sammet-kl%C3%A4der'>Tvätta Sammet Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-madrasser-80x200'>Ikea Madrasser 80x200</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ralph-lauren-romance-50ml'>Ralph Lauren Romance 50ml</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vara-med-i-fixarm%C3%A4starna'>Vara Med I Fixarmästarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eriksbergs-festv%C3%A5ning-julbord'>Eriksbergs Festvåning Julbord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reusch-m%C3%A5lvaktshandskar-storleksguide'>Reusch Målvaktshandskar Storleksguide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bing-maps-f%C3%A5gelperspektiv'>Bing Maps Fågelperspektiv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6d-och-matchning-2020'>Stöd Och Matchning 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hsb-stockholm-felanm%C3%A4lan'>Hsb Stockholm Felanmälan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6teborgs-stad-j%C3%A4rntorget'>Göteborgs Stad Järntorget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vara-med-i-fixarm%C3%A4starna'>Vara Med I Fixarmästarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kda-pop-star'>Kda Pop Star</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=First-Hotel-Klockarg%C3%A5rden4%2C2%28371%290%2C8%C2%A0km-bort10%C2%A0157%C2%A0INR'>First Hotel Klockargården4,2(371)0,8 km Bort10 157 INR</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-g%C3%A4stis-borensberg'>Lunch Gästis Borensberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=intersport-malm%C3%B6-jobb'>Intersport Malmö Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-grizzly-350-irs'>Yamaha Grizzly 350 Irs</a>,
+";s:7:"expired";i:-1;}

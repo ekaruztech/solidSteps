@@ -1,7 +1,7 @@
 <?php
 class Redux_Validation_html extends Redux_Options {
 	
-	/*  for PRO users! - *
+	/**
 	 * Field Constructor.
 	 *
 	 * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function
@@ -16,7 +16,7 @@ class Redux_Validation_html extends Redux_Options {
 		$this->validate();
 	}//function
 
-	/*  for PRO users! - *
+	/**
 	 * Field Render Function.
 	 *
 	 * Takes the vars and validates them

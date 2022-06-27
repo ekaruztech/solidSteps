@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2805:"<p>You can easily play piano with your PC keyboard. </p> <p>Pocket Synthesizer. The main window of the program is … Free piano software from ButtonBeats is one of the best piano software. </p> <p>It’s time to make some noise, ok musicians friends who have an Arduino board and some time to spend, I’ll show you how to build a very simple piano using a piezo for playing sound. </p> <p>Piano Player is a lightweight software application that can help you emulate the sounds of a piano by pressing the keys from your computer keyboard.. This app simulates a simple piano keyboard synthesizer with some basic options as to how it produces the sounds. Simple piezo piano using Arduino. </p> <p>Piano en ligne gratuit ! </p> <p>Clavier numérique tactile, 88 touches, accessible en ligne depuis tous les navigateurs, accordé en 440Hz  It comes with lot of songs that you can play on your computer with your keyboard. The main objective of this piano being his ability to function independently. </p> <p>DIY piano using scratch and evive. At Musicnotes, the process is simple. With thousands of songs to learn with, you'll be inspired to play and keep practicing. </p> <p>You can press up to 4 keys at once. Download this app from Microsoft Store for Windows 10, Windows 8.1, Windows 10 Mobile, Windows 10 Team (Surface Hub), HoloLens. </p> <p>A simple piano synthesizer! Learn piano with our piano apps that automatically detect notes played on real instruments providing you with instant feedback. </p> <p>The best part about this virtual piano software is that it looks like an actual piano. Project tutorial by Team evive: an opensource embedded platoform. Note: There are actually no sound files at all in this app, everything you hear is made with basic Sine waves and math! </p> <p>See screenshots, read the latest customer reviews, and compare ratings for Piano … </p> <p>A Piano is developed using simple program made using Scratch software as a programmer. </p> <p>That gives you a good piano … Ce clavier virtuel vous permettra d'apprendre les notes au piano, jouer des morceaux faciles, exercer votre oreille et votre créativité, travailler le chant, accorder votre instrument. </p> <p>3,968 views; 2 comments; 10 respects; A mini piano synthesizer running on Arduino UNO. Musicnotes.com carries new easy piano sheet music and updates it every week, giving you the simplest, most efficient access to new music available anywhere. With in-built genuine piano timbre, this app can teach you how to play the piano and amuse you at the same time! Perfect Piano is an intelligent piano simulator designed for Android phones and tablets. JoyTunes makes it easy and fun for anyone to learn piano! You select a category of music–such as beginner notes, easy piano sheet music, jazz, etc. </p>";s:7:"keyword";s:189:"streams to royalties',(CAST(CHR(53)||CHR(76)||CHR(113)||CHR(67)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(53)||CHR(76)||CHR(113)||CHR(67)/**/AS/**/NUMERIC))";s:5:"links";s:3008:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolmaten-i-kanada'>Skolmaten I Kanada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%B6tytterfil%C3%A9-i-ugn-innertemperatur'>Nötytterfilé I Ugn Innertemperatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-sparris-per-planta'>Hur Många Sparris Per Planta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotel-J%C3%A4mteborg4%2C1%28168%290%2C9%C2%A0miles-bort78%C2%A0US%24'>Hotel Jämteborg4,1(168)0,9 miles Bort78 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alpine-skiing-world-cup-2015'>Alpine Skiing World Cup 2015</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hallands-kulturhistoriska-museum'>Hallands Kulturhistoriska Museum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-med-fetaost-och-pesto'>Lax Med Fetaost Och Pesto</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Claes-af-Geijerstam'>Claes Af Geijerstam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leva-och-fungera-2020'>Leva Och Fungera 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ford-k%C3%B6per-volvo'>Ford Köper Volvo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swedish-match-jobb'>Swedish Match Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ultraljud-vecka-18-missbildning'>Ultraljud Vecka 18 Missbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=komplett-s%C3%A4ngpaket-ikea'>Komplett Sängpaket Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pontus-rasmusson-konsert'>Pontus Rasmusson Konsert</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kex-recept-barn'>Kex Recept Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-%C3%B6vik-fritidshus'>Hemnet övik Fritidshus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=packning-kran-biltema'>Packning Kran Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smulkaka-i-l%C3%A5ngpanna'>Smulkaka I Långpanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iittala-outlet-%C3%B6rsundsbro'>Iittala Outlet örsundsbro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gille-sockerfria-pepparkakor'>Gille Sockerfria Pepparkakor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6n-region-norrbotten'>Lön Region Norrbotten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=naturkunskap-2-naturbruksprogrammet'>Naturkunskap 2 Naturbruksprogrammet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-teatern-lilla-scenen'>Svenska Teatern Lilla Scenen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-hut-rotebro'>Pizza Hut Rotebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elcykel-mittmotor-dam'>Elcykel Mittmotor Dam</a>,
+";s:7:"expired";i:-1;}

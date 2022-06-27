@@ -6,15 +6,18 @@
 	$default_show_page_heading = $options['default_show_page_heading'];
 	$default_page_heading_bg_alt = $options['default_page_heading_bg_alt'];
 	$default_sidebar_config = $options['default_sidebar_config'];
-	$default_left_sidebar = $options['default_left_sidebar'];
-	$default_right_sidebar = $options['default_right_sidebar'];
-	$sidebar_width = $options['sidebar_width'];
+	$default_left_sidebar = strtolower($options['default_left_sidebar']);
+	$default_right_sidebar = strtolower($options['default_right_sidebar']);
+	$sidebar_width = "standard";
+	if ( isset($options['sidebar_width']) ) {
+		$sidebar_width = $options['sidebar_width'];
+	}
 	
 	$pb_active = sf_get_post_meta($post->ID, '_spb_js_status', true);
 
 	$sidebar_config = sf_get_post_meta($post->ID, 'sf_sidebar_config', true);
-	$left_sidebar = sf_get_post_meta($post->ID, 'sf_left_sidebar', true);
-	$right_sidebar = sf_get_post_meta($post->ID, 'sf_right_sidebar', true);
+	$left_sidebar = strtolower(sf_get_post_meta($post->ID, 'sf_left_sidebar', true));
+	$right_sidebar = strtolower(sf_get_post_meta($post->ID, 'sf_right_sidebar', true));
 	
 	if ($sidebar_config == "") {
 		$sidebar_config = $default_sidebar_config;

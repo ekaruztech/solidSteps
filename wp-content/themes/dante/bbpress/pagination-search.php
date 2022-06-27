@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Pagination for pages of search results 
  *
  * @package bbPress

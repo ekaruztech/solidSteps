@@ -1,0 +1,131 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4176:"Ansökan. Barnfri tid är planeringstid, avdelningsmöten och apt. Självklart ska barnen ha tillräckligt mycket tid med de vuxna i sin närhet. För att kunna erbjuda en förskoleverksamhet som uppnår målen i läroplanen krävs en kompetent och engagerad personal med goda förutsättningar att genomföra sitt uppdrag. <br> <br>E-tjänst för att ansöka, godkänna, ändra eller säga upp förskola, pedagogisk omsorg eller fritidshem. Ta inspiration från denna gratis mall när du ska skriva brev för din jobbansökan till förskola. De vet vad som gäller. Exempel på personligt brev för barnskötare. Barnfri tid, vad är det? Barn fri – Barntid – Fri tid Fri tid till barnen Fri tid från barnen Fri tid för barnen Fri tid med barnen Barnfri tid – är det tid fri från barn? Till ansökan bifogas följande: *Intyg/betyg från Sfi *Personbevis, ändamål folkbokföring, högst 1 månad gammalt *Personligt brev med motivering varför du söker den här utbildningen . Att få en hel timmes barnfri tid för reflektion och planering varje dag är viktigt för att ladda batterierna och orka ge barnen fullt fokus på eftermiddagen, tycker de två kollegorna. Kunna delta i APL (arbetsplatsförlagt lärande/praktik) på en förskola i Burlöv eller närliggande kommuner. Vi vill att kommunens skatteintäkter används för att i första hand skapa en god och trygg förskola, skola samt äldreomsorg. En timme i veckan går till avdelningsmöte och apt som vi har vardera en gång i månaden.  Självklart är utbildning bra, men i nuläget är det stor brist på förskollärare i hela landet, SAMT brist på utbildade barnskötare. Det skulle ju lösa många problem – ordning och reda och inte minst skulle det bli mer tid till planering. Jag har idag 6 timmars barnfri tid reglerat enligt förskolläraravtal. Ansök via ansokan.yrkessfiskane.se. Men fråga din chef och dina kollegor. Varför inte bara ha en barnfri skola? Resten är utlagt på schemat. E-tjänst för förskola, fritidshem, grundskola och gymnasium. Ansvarsfördelning, planeringstid och barnfri tid i förskolan i Vårgårda Från Lärarförbundet Vårgårda 2015-11-26 Mer från avdelningen Förskolan skall lägga grunden för ett livslångt lärande. Skicka in er avklarade 10-kamp till barnfritid och er förskolegrupp, skolklass eller familj har chans att vinna pris. Men allvarligt talat, när någon yttrar sig kritiskt om andra så behöver vi vara kritiska mot vad denne säger. Ni bestämmer själva när ni vill göra de 10 grenarna. Det handlar om relationer och sociala koder som är under förhandling. Tipsrunda : barnfritid ingår i: barnfritid.se barnfritid@gmail.com. – Det ger ett helt annat tempo i kroppen, man varvar ner en stund och orkar hålla humöret uppe hela dagen, säger Ulrika Siljefalk. 2 Kommunen är huvudman i de förskolor/fritidshem som studeras här. Har förskollärare och barnskötare lika mycket? E-tjänster för förskola och fritidshem. 09 maj 2007 Jag gillar att leka med de ord vi använder av slentrian för just i leken uppstår möjligheten att tänka en vända till! För vem – pedagogen eller barnen? Ställ upp med er förskola, skola eller familj på 10-kampen.  <br>Aktivera er förskola, skola eller familj på ett roligt sätt genom en tipsrunda. Bättre att vi gemensamt kämpar för en välfungerande förskola, än att sätta upp skiljeväggar mellan oss. Följ oss på … På min senaste förskola framhöll jag förgäves behovet av enskild planeringstid (utöver Apt och avd-möten 1 kväll i månaden), men det var för döva öron. Nedan hittar du de e-tjänster som Barn- och utbildningsförvaltningen tillhandahåller. Nedanför kan ni skriva ut en tipsrunda ni kan använda. Finns det enskild planeringstid eller är den enbart tillsammans med kollegor? Sedan valet 2014 är vi Götene kommuns näst största parti med sex mandat i fullmäktige och representation i samtliga nämnder och styrelser. förskola och fritidshem är av betydelse för såväl forskning som för policy- 1 Lärare avser förskollärare, fritidspedagoger/lärare i fritidshem och grundskolans lärare om inte annat anges. <br>";s:7:"keyword";s:21:"barnfri tid förskola";s:5:"links";s:10654:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beskrivning-av-stora-kretsloppet'>Beskrivning Av Stora Kretsloppet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfria-chokladmuffins-ica'>Glutenfria Chokladmuffins Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resef%C3%B6rs%C3%A4kring-thailand-l%C3%A4nsf%C3%B6rs%C3%A4kringar'>Reseförsäkring Thailand Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedemora-kommun-blanketter'>Hedemora Kommun Blanketter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helvetia-klocka-v%C3%A4rde'>Helvetia Klocka Värde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-lotus-final'>Talang Lotus Final</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=commission-of-trust'>Commission Of Trust</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=commission-of-trust'>Commission Of Trust</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vvs-butik-norrt%C3%A4lje'>Vvs Butik Norrtälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mio-f%C3%A5t%C3%B6lj-moore'>Mio Fåtölj Moore</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=melodifestivalen-2020-tips'>Melodifestivalen 2020 Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parkering-stockholms-tingsr%C3%A4tt'>Parkering Stockholms Tingsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guillermo-molins-familj'>Guillermo Molins Familj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-cookie-dough-utan-kik%C3%A4rtor'>Nyttig Cookie Dough Utan Kikärtor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilka-tj%C3%A4nar-mest-i-din-kommun-2019'>Vilka Tjänar Mest I Din Kommun 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=paj-pesto-fetaost'>Paj Pesto Fetaost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=findus-f%C3%A4rdigr%C3%A4tter-pris'>Findus Färdigrätter Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socionomprogrammet-kurser-%C3%B6rebro'>Socionomprogrammet Kurser örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blommig-tapet-rusta'>Blommig Tapet Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6rs-ladda-kort'>Hörs Ladda Kort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lergryta-i-ugn-%C3%B6ver-natten'>Lergryta I Ugn över Natten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bamse-och-dunderklockan-musik'>Bamse Och Dunderklockan Musik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uponor-clean-1-serviceavtal'>Uponor Clean 1 Serviceavtal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hjortinnanl%C3%A5r-sous-vide'>Hjortinnanlår Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=favorit-matematik-3b'>Favorit Matematik 3b</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stativ-h%C3%B6gtalare-netonnet'>Stativ Högtalare Netonnet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-ultraljud-v%C3%A4nersborg'>Privat Ultraljud Vänersborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggnadsh%C3%B6jd-4-5-meter'>Byggnadshöjd 4 5 Meter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jura-vin-systembolaget'>Jura Vin Systembolaget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gossk%C3%B6rens-hus-g%C3%B6teborg'>Gosskörens Hus Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-andersson-josefin-neld%C3%A9n'>Daniel Andersson Josefin Neldén</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4mta-pinkod-l%C3%A4nsf%C3%B6rs%C3%A4kringar'>Hämta Pinkod Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-scampi-pasta'>Nyttig Scampi Pasta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=economic-crisis-in-venezuela'>Economic Crisis In Venezuela</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arsenal-pre-season-games'>Arsenal Pre Season Games</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-%C3%B6land-b%C3%B6da'>Hotell öland Böda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=de-sju-k%C3%A4llorna---rhodos'>De Sju Källorna - Rhodos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boy-plays-piano-at-airport'>Boy Plays Piano At Airport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slamavskiljare-med-infiltration'>Slamavskiljare Med Infiltration</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegansk-chokladmousse-avokado'>Vegansk Chokladmousse Avokado</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drink-vodka-apelsinjuice'>Drink Vodka Apelsinjuice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anf%C3%B6rande-vid-nobelfesten-uarda'>Anförande Vid Nobelfesten Uarda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6ssa-med-%C3%B6ron-baby'>Mössa Med öron Baby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=link%C3%B6ping-leksand-shl'>Linköping Leksand Shl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spelade-mozart-cembalo'>Spelade Mozart Cembalo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=styrled-glapp-kostnad'>Styrled Glapp Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=european-cities-quiz'>European Cities Quiz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=midsommarkransens-gymnasium-niu'>Midsommarkransens Gymnasium Niu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dinli-450%2C-bra-eller-d%C3%A5lig'>Dinli 450, Bra Eller Dålig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=strand-las-palmas'>Strand Las Palmas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parkeringsv%C3%A4rmare-seat-arona'>Parkeringsvärmare Seat Arona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krak%C3%B3w-airport-arrivals'>Kraków Airport Arrivals</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broccolipaj-utan-%C3%A4gg'>Broccolipaj Utan ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-crown-restaurang'>Scandic Crown Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stergatan-57-%C3%A4ngelholm'>östergatan 57 ängelholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-en-lagfaren-domare'>Vad är En Lagfaren Domare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-com-disturbed-sound-of-silence'>Youtube Com Disturbed Sound Of Silence</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grohe-k%C3%B6ksblandare-jula'>Grohe Köksblandare Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%B6lunda-skellefte%C3%A5-9-januari'>Frölunda Skellefteå 9 Januari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tillv%C3%A4xtultraljud-vecka-32'>Tillväxtultraljud Vecka 32</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=christopher-wollter-mamma'>Christopher Wollter Mamma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5nga-m%C3%A4nniskor-synonymer'>Många Människor Synonymer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sf-m%C3%A5tt-som-inte-%C3%B6kar'>Sf-mått Som Inte ökar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotel-%C3%85berg4%2C1%2848%290%2C4%C2%A0km-bort84%C2%A0%E2%82%AC'>Hotel Åberg4,1(48)0,4 km Bort84 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grey-goose-1l'>Grey Goose 1l</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-m%C3%B6bler-norrk%C3%B6ping'>Begagnade Möbler Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-kindberg-barn'>Daniel Kindberg Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kamrem-volvo-940'>Kamrem Volvo 940</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ljubomir-vranjes-slovenien'>Ljubomir Vranjes Slovenien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronofogden-samtliga-utrop'>Kronofogden Samtliga Utrop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avst%C3%A5nd-korfu-albanien'>Avstånd Korfu Albanien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-skatt-blanketter'>Min Skatt Blanketter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gran-canaria-i-mars'>Gran Canaria I Mars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buss-375-orust'>Buss 375 Orust</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olika-tolkningar-av-franska-revolutionen'>Olika Tolkningar Av Franska Revolutionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=student-karlstad-2020-corona'>Student Karlstad 2020 Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kostnad-byta-torkarblad'>Kostnad Byta Torkarblad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=musik-quiz-barn'>Musik Quiz Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alvedon-fass-v%C3%A5rdpersonal'>Alvedon Fass Vårdpersonal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=suzuki-atv-spr%C3%A4ngskiss'>Suzuki Atv Sprängskiss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toalettborste-b%C3%A4st-i-test'>Toalettborste Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4gga-r%C3%B6keri-facebook'>Vägga Rökeri Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-lanzarote-yr'>Väder Lanzarote Yr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bcg-diner-pite%C3%A5'>Bcg Diner Piteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfria-kanelbullar-lailas'>Glutenfria Kanelbullar Lailas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fakta-om-sverige-p%C3%A5-spanska'>Fakta Om Sverige På Spanska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karta-turkiet-side'>Karta Turkiet Side</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-nautic-k%C3%B6ksblandare'>Gustavsberg Nautic Köksblandare</a>,
+";s:7:"expired";i:-1;}

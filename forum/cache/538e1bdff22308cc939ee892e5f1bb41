@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2375:"<p></p> <p>Offentliga vårdgivare är skyldiga att på begäran av Försäkringskassan lämna ut de uppgifter och handlingar om en patient som Försäkringskassan behöver för att handlägga patientens försäkringsärende. För utlämnande av journalhandling ska endast uppgifter som är av betydelse för sjukfallet lämnas ut och menprövning ska göras enligt rutin. Försäkringskassan bedömer att hon kan arbeta där man inte behöver lyfta tungt, gå längre sträckor eller befinna sig i en stressig miljö. I augusti 2014 hölls det en EUMASS konferens om försäkringsmedicin i Stockholm. I egenskap av pensionsförsäkringskassa fastställde motparten i september år 2005 att klaganden hade nedsatt arbetsförmåga och klaganden beviljades retroaktivt, från och med den 1 mars 2005, full pension på grund av nedsatt arbetsförmåga. Inom Bed & Breakfast Kärleksbarn kommer människor med funktionsnedsättning med nedsatt arbetsförmåga få möjlighet att arbeta i en ansvarsmedveten och kärleksfull omgivning, kunna försörja sig själva och kunna stå helt med båda benen i livets mylla.  Utgiven av AFA Försäkring. Försäkringskassan var en av arrangörerna och deltog med flera föredragningar. Artiklar som hänvisar till denna blankett. </p> <p>Ansökan Aktivitetsersättning vid nedsatt arbetsförmåga. socialförsäkringar, Arbetsförmåga, minimilön host publication Socialförsäkringsrapport 2009:3 - Rapport från forskarseminarium i Umeå pages 10 pages publisher Försäkringskassan conference name Försäkringskassans forskarseminarium conference dates 2009-01-21 ISSN 1654-8574 language Swedish LU publication? TREDJE SIDAN. Läs mer om vårt koncept Kontakta oss Problembeskrivning. </p> <p>Övriga blanketter i samma område. Läkarutlåtande om hälsotillstånd. Utgiven av Försäkringskassan. Skyldigheten är inte beroende av … Sjukersättning. Försäkringskassans senaste beslut i ärendet kring Marie–Louise Järlesand togs i november 2019. Bilaga till ansökan om rehabiliteringsstöd . Trots att Försäkringskassan själva lämnade en skrivelse till regeringen 2017 med förslag om att lätta upp reglerna så att fler kan kvalificera sig för sjukersättning, menar Ruth Mannelqvist att myndigheten inte kan frånskriva sig ansvar för hur de tolkar regelverk och domar. Ansökan Sjukpenning i särskilda fall. </p>";s:7:"keyword";s:43:"nedsatt arbetsförmåga försäkringskassan";s:5:"links";s:5988:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=esset-catering-enk%C3%B6ping'>Esset Catering Enköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=family-tree-maker'>Family Tree Maker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stor-mage-%3D-stor-bebis'>Stor Mage = Stor Bebis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julia-caesaris-filia'>Julia Caesaris Filia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=du-%C3%A4r-den-ende'>Du är Den Ende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guld-armband-barn-18k'>Guld Armband Barn 18k</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedemora-kommun-blanketter'>Hedemora Kommun Blanketter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolans-inre-organisation'>Förskolans Inre Organisation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inackorderingsbidrag-bergs-kommun'>Inackorderingsbidrag Bergs Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-l%C3%A4genhet-clearwater-beach'>Köpa Lägenhet Clearwater Beach</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=massey-ferguson-prislista'>Massey Ferguson Prislista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ki-blogg-ssk'>Ki Blogg Ssk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grand-hotel-lund-tripadvisor'>Grand Hotel Lund Tripadvisor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-skank'>Vad Betyder Skank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttan-med-infrabastu'>Nyttan Med Infrabastu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=old-nokia-phones'>Old Nokia Phones</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4xj%C3%B6-kommun-sotning'>Växjö Kommun Sotning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-till-danmark-pass'>Resa Till Danmark Pass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kodon-och-antikodon'>Kodon Och Antikodon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatteverket-personbevis-id-kort'>Skatteverket Personbevis Id-kort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landseer-eller-newfoundland'>Landseer Eller Newfoundland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=downs-syndrom-mosaik'>Downs Syndrom Mosaik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sneakers-barn-rea'>Sneakers Barn Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adam-p%C3%A5lsson-kurt-p%C3%A5lsson'>Adam Pålsson Kurt Pålsson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-%C3%B6vik-fritidshus'>Hemnet övik Fritidshus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tingvalla-isstadion-allm%C3%A4nhetens-%C3%A5kning'>Tingvalla Isstadion Allmänhetens åkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rockfestivaler-europa-2020'>Rockfestivaler Europa 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zeinas-kitchen-champinjoner'>Zeinas Kitchen Champinjoner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-%C3%B6rnsk%C3%B6ldsvik-maj'>Väder örnsköldsvik Maj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omelettrulle-med-laxr%C3%B6ra'>Omelettrulle Med Laxröra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dela-film-p%C3%A5-instagram'>Dela Film På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6stlov-2019-dalarna'>Höstlov 2019 Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bowling-hedemora-%C3%B6ppettider'>Bowling Hedemora öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=installera-tv%C3%A4ttmaskin-kostnad'>Installera Tvättmaskin Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hund-i-bil'>Hund I Bil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfria-muffins-utan-sm%C3%B6r'>Glutenfria Muffins Utan Smör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=e-phrygian-scale'>E Phrygian Scale</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5hus-beach-l%C3%A4ger'>åhus Beach Läger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linnea-henriksson-kejsarsnitt'>Linnea Henriksson Kejsarsnitt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=per-andersson-schlagermedley'>Per Andersson Schlagermedley</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidtabell-sp%C3%A5rvagn-7'>Tidtabell Spårvagn 7</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=team-sportia-cykelf%C3%B6rs%C3%A4kring'>Team Sportia Cykelförsäkring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=favorit-matematik-4b'>Favorit Matematik 4b</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5sklov-2022-stockholm'>Påsklov 2022 Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6rjan-ramberg-2020'>örjan Ramberg 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sweden-russia-war'>Sweden Russia War</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ta-billigt-i-new-york-2018'>äta Billigt I New York 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-barn-fyrhjuling'>Bästa Barn Fyrhjuling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olika-grader-i-helvetet'>Olika Grader I Helvetet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=105-s%C3%A4ng-med-f%C3%B6rvaring'>105 Säng Med Förvaring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gokart-klubb-g%C3%B6teborg'>Gokart Klubb Göteborg</a>,
+";s:7:"expired";i:-1;}

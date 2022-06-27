@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1763:"<p>Eksjön kunta (ruots. Maakuntajaossa se kuuluu Smålandiin.Kunnan keskustaajama on Eksjö.. Kunnan maapinta-ala on 799,40 neliökilometriä (1.1.2016) ja asukasluku 16 790 henkeä (31.12.2015). Eksjö kommun) on Jönköpingin läänissä sijaitseva Ruotsin kunta. Befolkning i Eksjö kommun: 17620 Eksjö kommun på karta </p> <p>Vimmerby kommun er en kommune i Kalmar län i Sverige.Kommunen ligger i den nordlige del af länet og har takket være forlystelsesparken Astrid Lindgrens Värld en stor turistindustri, der årligt tiltrækker hundredtusindvis af besøgende. Med en enda sökning får du en heltäckande bild av en kommun med hjälp av statistik om befolkning, utbildning, jobb och inkomst, politik, ekonomi, bostäder, transporter och markanvändning. I kommunerne Norra Ljunga og Valsjö blev der i 1882 oprettet municipalfællesskabet Sävsjö. I 1947 blev kommunerne lagt sammen og dannede Sävsjö købstad.  BEFOLKNING # EKSJÖ KOMMUN Folkmängdsförändring 2009-2018 Befolkningens åldersfördelning 2018 Folkmängd den 31 december 2018 Folkmängdsförändring från 2009 Ålder Procentuell fördelning År Folkmängd Kommunen Riket Kv M Tot Kv M Tot Kv M Tot 0-5 7 7 7 7 7 7 2009 16 353 27 89 6-15 11 11 11 12 12 12 2010 16 244 -3 -33 Sävsjö kommun er en kommune i Jönköpings län i Sverige. Eksjö kommun är en kommun som ligger i Jönköpings län och som vidare ligger inom landskapet Småland. </p> <p>Historie. Jönköping is situated at the southern end of Sweden's second largest lake, Vättern, in the province of Småland. Jönköping (/ ˈ j ɜː n (t) ʃ ɜː p ɪ ŋ /, Swedish: [ˈjœ̂nːˌɕøːpɪŋ] ()) is a city in southern Sweden with 93,797 inhabitants (2015). Här hittar du fakta om Sveriges 290 kommuner. </p>";s:7:"keyword";s:24:"eksjö kommun befolkning";s:5:"links";s:5156:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ggjakt-halmstad-2019'>äggjakt Halmstad 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=visit-sweden-stockholm'>Visit Sweden Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parmenides-on-nature'>Parmenides On Nature</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boston-bruins-cap'>Boston Bruins Cap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=victor-nilsson-lindel%C3%B6f-pappa'>Victor Nilsson Lindelöf Pappa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-know-if-you-are-in-love'>How To Know If You Are In Love</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-mobiltelefoner-med-knappar'>Nokia Mobiltelefoner Med Knappar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sons-of-anarchy-season-4'>Sons Of Anarchy Season 4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-stund-p%C3%A5-jorden-laleh-mening'>En Stund På Jorden Laleh Mening</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6fk-svenska-cupen-2019'>öfk Svenska Cupen 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%B6nare-max-hastighet'>Drönare Max Hastighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tsunami-2004-phi-phi-linn%C3%A9a'>Tsunami 2004 Phi Phi Linnéa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=religi%C3%B6s-splittring-franska-revolutionen'>Religiös Splittring Franska Revolutionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ppelmuffins-utan-socker'>äppelmuffins Utan Socker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=killing-at-badger%27s-drift-cast'>Killing At Badger's Drift Cast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yoghurts%C3%A5s-till-falafel'>Yoghurtsås Till Falafel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=crazy-u-soffa-xl'>Crazy U-soffa Xl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5ngholmen-hotell-frukost'>Långholmen Hotell Frukost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=midsommar-2019-sundsvall'>Midsommar 2019 Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Fredriksborg-Hotell-%26-Restaurang4%2C2%28142%294%2C7%C2%A0km-bort'>Fredriksborg Hotell & Restaurang4,2(142)4,7 km Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-g%C3%A4vle-ungdom'>Jobb Gävle Ungdom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gille-sockerfria-pepparkakor'>Gille Sockerfria Pepparkakor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=div-4-dam-%C3%B6sterg%C3%B6tland-2019'>Div 4 Dam östergötland 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mk18-candy-red'>Mk18 Candy Red</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gan%C3%A4s-kommun-fritids'>Höganäs Kommun Fritids</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tonfisk-recept-barn'>Tonfisk Recept Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-kan-ditt-namn-quiz'>Jag Kan Ditt Namn Quiz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iron-mountain-utdelning'>Iron Mountain Utdelning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-ski-ramundberget'>After Ski Ramundberget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5skpaket-2019-sk%C3%A5ne'>Påskpaket 2019 Skåne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seterra-online-english'>Seterra Online English</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=downgrade-video-resolution-online'>Downgrade Video Resolution Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Pite%C3%A5-Stadshotell4%2C0%28578%293%C2%A0km-bort32%C2%A0000%C2%A0HUF'>Piteå Stadshotell4,0(578)3 km Bort32 000 HUF</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-concept-meny'>The Concept Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=indirekt-objekt-italienskabookmaker-g%C3%B6teborg-planer'>Indirekt Objekt Italienskabookmaker Göteborg Planer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=il-forno-meny'>Il Forno Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4sttrafik-g%C3%B6teborg-partille'>Västtrafik Göteborg Partille</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rami-problem-lyrics'>Rami Problem Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=auto-karta-tyskland'>Auto Karta Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gsta-domstolen-referat'>Högsta Domstolen Referat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hvilan-g%C3%A5rdsbutik-%C3%B6ppettider'>Hvilan Gårdsbutik öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalmar-ff-nyheter'>Kalmar Ff Nyheter</a>,
+";s:7:"expired";i:-1;}

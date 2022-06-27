@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:692:"Food Pharmacy grundades 2014 av Lina Nertby Aurell och Mia Clase. Följande recept är dedicerat till alla morgontrötta där ute som vill ha en god, mättande och näringsrik frukost på helgen med minsta möjliga ansträngning. Idag är vi en av Sveriges största plattformar och podcasts inom hälsa.  Food Pharmacy Lina Nertby Aurell och Mia Clase är, utöver grundare till foodpharmacy.se och Food Pharmacy-podden, Sveriges främsta (enligt deras föräldrar) hälsoinspiratörer. Mums! Deras bästsäljande böcker Food Pharmacy: En berättelse om tarmfloror, goda bakterier, forskning och antiinflammatorisk mat (2016) och Food Pharmacy Kokboken (2017) är översatta till 15 språk. ";s:7:"keyword";s:164:"gaming innovation group UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL FROM MSysAccessObjects";s:5:"links";s:4666:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sf-m%C3%A5tt-som-inte-%C3%B6kar'>Sf-mått Som Inte ökar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laxl%C3%A5da-med-varmr%C3%B6kt-lax'>Laxlåda Med Varmrökt Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wongs-limhamn-meny'>Wongs Limhamn Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rolf-lassg%C3%A5rd-barn'>Rolf Lassgård Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sfi-sp%C3%A5nga-kommun'>Sfi Spånga Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lovdagar-vellinge-kommun-2019'>Lovdagar Vellinge Kommun 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-franska-%C3%B6rter'>Lax I Ugn Franska örter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avskiljande-n%C3%A4t-webbkryss'>Avskiljande Nät Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5-det-s%C3%A4ttet-korsord'>På Det Sättet Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Good-Morning-Kista3%2C5%28339%293%2C9%C2%A0miles-bort56%C2%A0US%24'>Good Morning Kista3,5(339)3,9 miles Bort56 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inte-vaccinera-hund'>Inte Vaccinera Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jokkmokks-marknad-kyrkstaden'>Jokkmokks Marknad Kyrkstaden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jaga-vildsvin-%C3%B6rebro'>Jaga Vildsvin örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fredrik-pettersson-wentzel-instagram'>Fredrik Pettersson Wentzel Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hammarby-varberg-svenska-cupen-tv'>Hammarby Varberg Svenska Cupen Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hj%C3%A4rt-lungmask-hund'>Hjärt Lungmask Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varvsgatan-17-motala'>Varvsgatan 17 Motala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avst%C3%A5nd-puerto-rico-till-puerto-mog%C3%A1n'>Avstånd Puerto Rico Till Puerto Mogán</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parma-fifa-20'>Parma Fifa 20</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-regioner-storlek'>Sveriges Regioner Storlek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=open-software-editor'>Open Software Editor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=riksgr%C3%A4nsen-hotell-spa'>Riksgränsen Hotell Spa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-%C3%B6ppettider-juldagen'>Coop öppettider Juldagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-smoothie-frukost-barn'>Nyttig Smoothie Frukost Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6dra-europa-karta'>Södra Europa Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=psg-t-shirt-nike'>Psg T Shirt Nike</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=venice-beach-webcam'>Venice Beach Webcam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppna-golfbanor-stockholm'>öppna Golfbanor Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boka-badminton-stockholm'>Boka Badminton Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mechanum-lediga-jobb'>Mechanum Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stoppa-pressarna-kungligt'>Stoppa Pressarna Kungligt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-med-ajvar-och-fetaost'>Lax I Ugn Med Ajvar Och Fetaost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varmr%C3%B6kt-lax-recept-varmr%C3%A4tt'>Varmrökt Lax Recept Varmrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=canvas-material-textil'>Canvas Material Textil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fotbollscup-norge-2020'>Fotbollscup Norge 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=efterlyst-s%C3%A4song-52'>Efterlyst Säsong 52</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fasadflagga-eget-tryck'>Fasadflagga Eget Tryck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dalarnas-auktionsbyr%C3%A5-dalah%C3%A4st'>Dalarnas Auktionsbyrå Dalahäst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xkcd-chemistry-nobel'>Xkcd Chemistry Nobel</a>,
+";s:7:"expired";i:-1;}

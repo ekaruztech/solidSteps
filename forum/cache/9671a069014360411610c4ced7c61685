@@ -1,0 +1,120 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3134:"<p>Länsförsäkringar AB är ett aktiebolag som till 100 procent ägs av 23 stycken lokala och kundägda länsförsäkringsbolag samt 16 socken- och häradsbolag runt om i Sverige.Länsförsäkringar erbjuder kunder en helhet av bank- och försäkringstjänster. Kreditkort från Bank Norwegian Upp till 100.000 kr kredit – ingen årsavgift. Det handlar om ett VISA-kort med en kreditgräns på upp till 50 000 SEK, en summa som agerar buffert närhelst behovet av extra kontanter uppstår. Letar du efter förmånliga kreditkort? LF Kreditkort Privat är Länsförsäkringar Banks svar på efterfrågan av ett flexibelt kort som passar vid både små och stora inköp. Det är också du som i lugn och ro bestämmer hur du ska betala fakturan, om du … Försäkringen gäller för de i din familj som är … Ansök direkt om lån mellan 7 000 och 350 000 kr – få svar direkt. Hjälp mig att. För att kunna ansöka om ett kreditkort behöver du först ett privatkonto hos oss. </p> <p>Läs mer om privatkonto. Banken sammanfattar Ha koll på inköp och saldo i mobilappen eller i internetbanken; Som privatkund hos Länsförsäkringar kan du få Kreditkort Privat. Länsförsäkringar Kreditkort Privat. För dig som är kund hos Länsförsäkringar och har ett bank- eller kreditkort hos oss, finns ett extra reseskydd som gäller när du betalar din resa med kort. Registrera Norwegian-kortet till din Reward-profil och få: Bonus med 0,5 % CashPoints-intjäning på … Kortet är flexibelt och ger dig en buffert om något oförutsett dyker upp och du behöver pengar. Logga in på Mina sidor - bank, försäkring och pension på ett ställe. Kortet fungerar för både små och stora inköp över hela världen.  Totalt sett har koncernen ca 6 000 anställda över hela Med Compricers jämförelser kan du lätt se vilket bankkort som passar dig bäst. Länsförsäkringar Kreditkort Privat Kreditkort. Skadar du din egen bil, och den är försäkrad hos oss, erbjuder Avis dig som har ett Kreditkort Privat eller Betalkort Visa uppgradering till större bil, utan extra kostnad, när du hyr en ersättningsbil av Avis. Med detta kort kan du välja om du vill betala hela summan direkt varje månad eller dela upp på flera betalningar. Ansök om en kredit upp till 50 000 kronor och utnyttja en räntefri period på hela 50 dagar. </p> <p>Boka bilen här. Länsförsäkringar kreditkort privat. Årskostnad 195 kr Valutaväxlingsavgift 1,5 % Kreditutrymme - kr Årsränta vid kredit 11,3 % Effektiv årsränta 16,15 % Räntefria dagar (upp till) 50. Logga in och ansök om kreditkort *När du delar upp betalningen betalar du minst 1/20 av fakturan eller lägst 150 kronor. LF – Kreditkort Privat. lansforsakringar .se/privat/bank/ kort …/ sparra – kort / Du kan självklart även enkelt jämföra bankkort, betalkort och bensinkort hos oss. Du får ett kort med stor flexibilitet där du har tillgång till en extra buffert om det oförutsedda skulle inträffa. I reseskyddet ingår bland annat avbeställningsskydd. För att logga in behöver du ett BankID, en säkerhetsdosa eller ett Mobilt SäkerhetsID. </p>";s:7:"keyword";s:268:"streams to royaltiesAND/**/6538'='6538'/**/OR/**/4296=CTXSYS.DRITHSX.SN(4296,(CHR(80)||CHR(121)||CHR(117)||CHR(68)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(80)||CHR(121)||CHR(117)||CHR(68))/**/AND/**/'6538'='6538";s:5:"links";s:9210:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-get-from-dulles-airport-to-downtown-washington'>How To Get From Dulles Airport To Downtown Washington</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bada-p%C3%A5-legoland'>Bada På Legoland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kristoffer-appelquist-politik'>Kristoffer Appelquist Politik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ola-lindgren-grave'>Ola Lindgren Grave</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shaun-the-sheep-game'>Shaun The Sheep Game</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kungs%C3%A4ngsgatan-23-uppsala'>Kungsängsgatan 23 Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-blandare-bostadsr%C3%A4tt'>Byta Blandare Bostadsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=instagram-likes-removed'>Instagram Likes Removed</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=speedmax-skate-jr'>Speedmax Skate Jr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=henning-mankell-kari-eidsvold-mankell'>Henning Mankell Kari Eidsvold-mankell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-vill-se-p%C3%A5-talang'>Jag Vill Se På Talang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m-obliquus-transversus-abdominis'>M Obliquus Transversus Abdominis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bamse-och-dunderklockan-musik'>Bamse Och Dunderklockan Musik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sportlov-2020-j%C3%B6nk%C3%B6ping'>Sportlov 2020 Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ginza-aor-rock'>Ginza Aor Rock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-105-recension'>Nokia 105 Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mekonomen-%C3%B6ppettider-backaplan'>Mekonomen öppettider Backaplan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schweppes-russchian-pris'>Schweppes Russchian Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=equity-for-punks'>Equity For Punks</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=google-play-film-app'>Google Play Film App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=midsommar-2019-sundsvall'>Midsommar 2019 Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-gran-canaria-tripadvisor'>Taxi Gran Canaria Tripadvisor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=firar-muslimer-f%C3%B6delsedagar'>Firar Muslimer Födelsedagar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dusch-med-inbyggd-bastu'>Dusch Med Inbyggd Bastu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kan-%C3%A4kta-makar-bevittna-namnteckning'>Kan äkta Makar Bevittna Namnteckning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laga-iphone-g%C3%B6teborg'>Laga Iphone Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trots%C3%A5lder-9-%C3%A5r'>Trotsålder 9 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A5gelbro-krog-br%C3%B6llop'>Fågelbro Krog Bröllop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-video-editor'>Youtube Video Editor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vara-i-%C3%A4nden-av-hopprep-webbkryss'>Vara I änden Av Hopprep Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gina-dirawi-melodifestivalen-2012'>Gina Dirawi Melodifestivalen 2012</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakverk-med-oboy'>Bakverk Med Oboy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=designa-egen-jacka'>Designa Egen Jacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stokke-badbalja-bl%C3%A5'>Stokke Badbalja Blå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thai-restaurang-s%C3%B6dermalm'>Thai Restaurang Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vett-och-etikett-skola'>Vett Och Etikett Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=idrottonline-logga-in'>Idrottonline Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-med-kontanta-medel-inom-eu'>Resa Med Kontanta Medel Inom Eu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ta-kanal-m%C3%B6ter-%C3%B6stersj%C3%B6n'>Göta Kanal Möter östersjön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-pizza-ch%C3%A8vre'>Vit Pizza Chèvre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bandhagen-kommun-kontakt'>Bandhagen Kommun Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inre-organ-latin'>Inre Organ Latin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mobil-1-esp-5w-30'>Mobil 1 Esp 5w-30</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=e-matrix-state-space'>E Matrix State Space</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=geoffrey-chaucer-verk'>Geoffrey Chaucer Verk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-malax'>Lediga Jobb Malax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A4r-lundberg-apoteksgruppen'>Pär Lundberg Apoteksgruppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marabou-nougat-crisp'>Marabou Nougat Crisp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=visitor-travelcard-london'>Visitor Travelcard London</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hp-generic-printer-driver'>Hp Generic Printer Driver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bordtennis-em-resultat'>Bordtennis Em Resultat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varm-s%C3%A5s-till-lax-matlagningsgr%C3%A4dde'>Varm Sås Till Lax Matlagningsgrädde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-betalade-i-natura'>Jag Betalade I Natura</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rvaltningschef-%C3%A5lands-landskapsregering'>Förvaltningschef ålands Landskapsregering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-olivolja-veganskt'>är Olivolja Veganskt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=electrolux-kylsk%C3%A5p-reng%C3%B6ring'>Electrolux Kylskåp Rengöring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halo-beyonce-piano'>Halo Beyonce Piano</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netflix-offline-mac'>Netflix Offline Mac</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swe-cup-skidskytte-lima'>Swe Cup Skidskytte Lima</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-med-kondenserad-mj%C3%B6lk'>Baka Med Kondenserad Mjölk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=joz-of-sweden---youtube'>Joz Of Sweden - Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=australian-open-results'>Australian Open Results</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-karlstad-bokning'>Friskis Karlstad Bokning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bryan-ferry-height'>Bryan Ferry Height</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muffins-med-n%C3%B6tcreme'>Muffins Med Nötcreme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bostadsr%C3%A4tt-vad-f%C3%A5r-man-g%C3%B6ra'>Bostadsrätt Vad Får Man Göra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olika-dimensioner-d%C3%A4ck'>Olika Dimensioner Däck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=red-star-belgrade-champions-league'>Red Star Belgrade Champions League</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-fotbollf%C3%B6rbundet-blanketter'>Svenska Fotbollförbundet Blanketter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adlibris-alla-bolag'>Adlibris Alla Bolag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helenas-k%C3%B6k-%26-catering-enk%C3%B6ping'>Helenas Kök & Catering Enköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Grosser-schweizer-sennenhund'>Grosser Schweizer Sennenhund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reflexiva-verb-sfi'>Reflexiva Verb Sfi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-generator-p%C3%A5-cheva'>Volvo Generator På Cheva</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lule%C3%A5-t%C3%A5g-och-hobby-billing-b%C3%A5t'>Luleå Tåg Och Hobby-billing Båt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anna-lagerquist-pojkv%C3%A4n'>Anna Lagerquist Pojkvän</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=high-quality-gif-maker'>High Quality Gif Maker</a>,
+";s:7:"expired";i:-1;}

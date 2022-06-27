@@ -1,6 +1,6 @@
 <?php
 
-	/*  for PRO users! - *
+	/**
 	 * Swift Page Builder Media tab for adding media content to the builder
 	 *
 	 * @package SwiftPageBuilder
@@ -30,7 +30,7 @@
 	        $this->title = __('Image Gallery', "swiftframework");
 	        $this->pageLimit = 10;
 	        $this->selected_ids = $this->get('paged') ? Array() : preg_split('/\,/', preg_replace('/\s\t/', '', $this->get('selected_ids')));
-	        /*  for PRO users! -  show tab only if $_GET['tab'] == 'spb_images' */
+	        /* show tab only if $_GET['tab'] == 'spb_images' */
 	        if($this->get('tab')=='spb_images') {
 	            $this->addFilter('media_upload_tabs', 'buildTab');
 	            // $this->addAction('admin_head', 'header');
@@ -93,7 +93,7 @@
 	
 	        list($post_mime_types, $avail_post_mime_types) = wp_edit_attachments_query();
 	
-	        /*  for PRO users! -  Add selected media items to selected items block */
+	        /* Add selected media items to selected items block */
 	        foreach($this->selected_ids as $id) {
 	            if ( $item = $this->getMediaItem( $id, array( 'errors' => isset($this->errors[$id]) ? $this->errors[$id] : null) ) )
 	            $this->selected_objects_list .= "\n$item\n";

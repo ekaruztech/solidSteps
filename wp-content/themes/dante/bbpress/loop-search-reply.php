@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Search Loop - Single Reply
  *
  * @package bbPress

@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2786:"Skidhelgen, som 2020 arrangeras 8-9 februari, inleds traditionsenligt på torsdagen med öppningsceremoni på torget. Lugnet i Falun är en av Sveriges mest besökta arenor. Och när det är nära till det mesta, när du inte behöver sitta i bilkö eller pendla långa sträckor – finns det tid till vänner, familj, bio, konserter, skidturer eller vad du nu gillar att göra. <br> <br>Skidspår.se är skapad för att underlätta för skidåkare att hitta lämpliga skidspår. Det finns två spårsystem med motionsspår på Lugnet - Sjulsarvsspåren och Jungfrubergsspåren. Lugnet erbjuder en unik samling idrottsarenor, allt inom 500 meter. Här kan 60 av riksidrottsförbundets ca 70 specialidrottsförbund bedriva verksamhet. På Lugnet finns stenhårda tävlingsspår som håller internationell tävlingsklass, men även motionären hittar fantastiska skidspår i Lugnets terräng. <br> <br>I dagsläget information om mer än 1500 spåranläggningar/platser som tillsammans har över 2700 skidspår - från Skåne i söder till Lappland i norr! Elljusspår Det finns flera elljusspår i vackra omgivningar runt om i kommunen för dig som vill ta en löptur eller en promenad.  <br>Därefter fortsätter festligheterna och allmänheten bjuds in till “Warm up party” som anordnas på fredagskvällen. Vi har nio snökanoner, på Lugnet, dessa fördelas på våra spårslingor för att nyttja maximal kapacitet. Här finns information om de motionsspår som kommunen sköter och ansvarar för, var de finns och hur långa de är. Lugnets hoppbackar reser sig mäktigt ovanför skidstadion och har blivit Faluns viktigaste landmärke. Förutom hela världseliten i skidor lockar Svenska Skidspelen också närmare 20 000 besökare till Falun och Lugnet Skidstadion.  Välkommen till den aktiva familjens arena med allt inom 500 meter! I Falun är det enkelt att ha en aktiv livsstil, oavsett om du gillar friluftsliv eller kultur. Några av spåren är kuperade och erbjuder tuffare träning. Här finns alla möjligheter till en rolig vardag. Falun ska vara en bra cykelstad – vi fortsätter jobba på det Idag har biltrafiken företräde, i gaturummet och i kommunens planering. Vi jobbar på olika sätt med att förändra sådana regler – en stad ska vara för människor och planeringen ska utgå från minskade utsläpp av klimatgaser och mindre användning av jordens resurser. Försäsongen startade 27 oktober 2019 och är igång till dess att vädret tillåter preparerade spår enligt ordinarie säsong. 22 000 kubik snö är sparat från förra året och … Båda bjuder på väl anlagda motionsspår med spår från 2 km upp till 10 km. Elljusspåret prepareras med konstsnö och håller normalt toppskick från början av december till slutet av mars. <br>";s:7:"keyword";s:24:"elljusspår lugnet falun";s:5:"links";s:3096:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k-m%C3%A4rkta-hus-liding%C3%B6'>K Märkta Hus Lidingö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ultima-thule-s%C3%A5ngare'>Ultima Thule Sångare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv10-play-speedway'>Tv10 Play Speedway</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rami-problem-lyrics'>Rami Problem Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=countries-with-english-as-primary-language'>Countries With English As Primary Language</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=do-i-love-him'>Do I Love Him</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%B6dsstraff-r%C3%A4tt-eller-fel'>Dödsstraff Rätt Eller Fel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bahia-feliz-januari'>Bahia Feliz Januari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5lda-hus-timmernabben'>Sålda Hus Timmernabben</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llvandra-med-hund'>Fjällvandra Med Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bes%C3%B6kstider-mava-n%C3%A4l'>Besökstider Mava Näl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-on-call-login'>Volvo On Call Login</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ecotools-dry-brush'>Ecotools Dry Brush</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kunskapsskolan-uppsala-omd%C3%B6me'>Kunskapsskolan Uppsala Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eksj%C3%B6-kommun-befolkning'>Eksjö Kommun Befolkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-black-edition'>Aik Black Edition</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=easy-piano-game'>Easy Piano Game</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bank-id-generator'>Bank Id Generator</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabelsats-4-extraljus'>Kabelsats 4 Extraljus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hjalmars-bil-v%C3%A4xj%C3%B6-omd%C3%B6me'>Hjalmars Bil Växjö Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nstledighet-med-l%C3%B6n'>Tjänstledighet Med Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parti-p%C3%A5-h%C3%A4stens-ben'>Parti På Hästens Ben</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norra-europa-befolkning'>Norra Europa Befolkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Trond-Fausa-Aurv%C3%A5g'>Trond Fausa Aurvåg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-s%C3%A4ng-av-rosor-newkid'>En Säng Av Rosor Newkid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olearys-%C3%B6ppettider-jul'>Olearys öppettider Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=heaven-23-frukost'>Heaven 23 Frukost</a>,
+";s:7:"expired";i:-1;}

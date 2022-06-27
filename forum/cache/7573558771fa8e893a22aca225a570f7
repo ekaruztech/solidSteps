@@ -1,0 +1,93 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2019:"adidas Football General Manager Nick Craggs commented; “Arsenal has always had a unique culture that has seen them at the forefront of innovation, redefining the game, while staying true to their core values. An image of Pierre-Emerick Aubameyang and Alexandre Lacazette modelling Arsenal's home and away kits for the 2019/20 season appeared on social media last month and it got many fans rather excited. Arsenal’s 2019/20 home kit leaked online By Conor Laird Published: June 8, 2019 8:38 pm Photos of Arsenal’s rumoured home kit for next season have surfaced online this evening. A new season brings a new kit and fresh hope to all fans of The Gunners and show your support with the brand new kit for the 2019/2020 season by adidas. Arsenal kit 2019/20 Official images of the new Arsenal kits were revealed over the summer – and the kits are a throw-back to the style of the late 1980s. Arsenal have officially unveiled their new home shirt for the 2019/20 season, and it's safe to say it's one of the best the club have had in recent times. adidas Football and Arsenal Monday launched a progressive new era for the London club for the upcoming English Premiership 2019/2020 campaign. A sized-down version of Arsenal's home kit, it has a design that remixes a classic look from a dominant period for the club. Make sure your little one shines with true Gunners style in this Arsenal Home Mini Kit 2019-20. Arsenal launch new retro 2019/20 home kit … Read More Related Articles. Arsenal have spruced up their kits for the 2019/20 season The Gunners have simplified the design for their home kit this season, replacing the … The 2019/20 home jersey kicks off the brand-new partnership between adidas and Arsenal, which aims to elevate the club both on and off the field. Arsenal Football Shirts.  This kids' three-piece set includes a football jersey, shorts and socks. <br> <br>Arsenal Football Shirts. <br> <br>Matthijs de Ligt, Thomas Meunier, Andre Gomes - Every player linked with Arsenal this summer ";s:7:"keyword";s:24:"arsenal home kit 2019/20";s:5:"links";s:5844:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=capio-%C3%B6gon-stockholm'>Capio ögon Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cocktail-bar-vasastan'>Cocktail Bar Vasastan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokian-line-suv-test'>Nokian Line Suv Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-glc-suv'>Mercedes Glc Suv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=villa-k%C3%A4llhagen-meny'>Villa Källhagen Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wahlgrens-v%C3%A4rld-gr%C3%B6na-lund'>Wahlgrens Värld Gröna Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukers%C3%A4ttning-bo-utomlands'>Sjukersättning Bo Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6ndal-bra-omr%C3%A5de'>Gröndal Bra Område</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-innebandy-p07'>Aik Innebandy P07</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=latitude-59-barnkalas'>Latitude 59 Barnkalas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=printa-stora-bilder'>Printa Stora Bilder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalorier-pauluns-granola'>Kalorier Pauluns Granola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-gjorde-julius-caesar'>Vad Gjorde Julius Caesar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gravid-vecka-16-andra-barnet'>Gravid Vecka 16 Andra Barnet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sl-till-arlanda'>Sl Till Arlanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%26m-hoodie-barn'>H&m Hoodie Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=house-doctor-girlang-triangle'>House Doctor Girlang Triangle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chris-kl%C3%A4fford-idol-imagine'>Chris Kläfford Idol Imagine</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ta-billigt-i-new-york-2018'>äta Billigt I New York 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=idol-2012-deltagare'>Idol 2012 Deltagare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=golf-och-bad'>Golf Och Bad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=veckans-f%C3%B6rhandlingar-skaraborgs-tingsr%C3%A4tt'>Veckans Förhandlingar Skaraborgs Tingsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ej-allm%C3%A4nt-k%C3%A4nd'>Ej Allmänt Känd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ny-k%C3%B6ttrestaurang-g%C3%B6teborg'>Ny Köttrestaurang Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stad-vid-bokstaven-v'>Stad Vid Bokstaven V</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=manoto-live-khabar'>Manoto Live Khabar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ldreboende-fristad-bor%C3%A5s'>äldreboende Fristad Borås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=punk-royale-caf%C3%A9'>Punk Royale Café</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=do-i-love-him'>Do I Love Him</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=agnes-carlsson-2019'>Agnes Carlsson 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=teneriffa-hotell-playa-las-americas'>Teneriffa Hotell Playa Las Americas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=costa-adeje-karta'>Costa Adeje Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4xj%C3%B6-kommun-sotning'>Växjö Kommun Sotning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stormningen-av-bastiljen-konsekvenser'>Stormningen Av Bastiljen Konsekvenser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hakuna-matata-swahili'>Hakuna Matata Swahili</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Sevas-Studios4%2C0%2829%290%2C2%C2%A0miles-bort'>Sevas Studios4,0(29)0,2 miles Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blodsocker-efter-m%C3%A5ltid-frisk'>Blodsocker Efter Måltid Frisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-sk%C3%B6vde-arbetsf%C3%B6rmedlingen'>Sommarjobb Skövde Arbetsförmedlingen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beddinge-ikea-k%C3%B6k'>Beddinge Ikea Kök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skrota-bil-stockholm'>Skrota Bil Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=niklas-andersson-uddevalla'>Niklas Andersson Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-ff-2012'>Malmö Ff 2012</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=borgholms-kommun-inv%C3%A5nare'>Borgholms Kommun Invånare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bron-s%C3%A4song-2-cast'>Bron Säsong 2 Cast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gymnasium-eget-f%C3%B6retag'>Gymnasium Eget Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steam-hotel-erbjudande'>Steam Hotel Erbjudande</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gymnasium-eget-f%C3%B6retag'>Gymnasium Eget Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-med-l%C3%B6k-och-ansjovis'>Pizza Med Lök Och Ansjovis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-bedr%C3%A4geri-barn'>Swish Bedrägeri Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=convert-wma-to-mp3-mac'>Convert Wma To Mp3 Mac</a>,
+";s:7:"expired";i:-1;}

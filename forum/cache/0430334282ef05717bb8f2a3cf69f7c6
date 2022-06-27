@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1410:"<br>Karin Magnusson blir ny programledare för SVT:s nya morgonsatsning som får premiär i höst. Säsong 2 av Rebecka Martinsson har premiär på C More och TV4 under 2020. Se alla dina favoriter bland videor och musik, ladda upp originalinnehåll och dela allt med vänner, familj och hela världen på YouTube.  <br>Åsa Larsson har varit en del av manusgruppen som med-manusförfattare. 2017-01-10 09:36 SVT rekryterar Aftonbladets tv-ankare . Aftonbladets tv-ankare Karin Magnusson ska börja leda SVT:s morgonprogram. <br> Magnusson har tidigare varit programledare på SVT:s "Kulturnyheterna" och på Sveriges Radio, samt varit debattchef samt programledare på Aftonbladet. Det ska vara politik. (TT). Och det ska sändas live från en bar. Programmet har kritiserats bland annat för ett tempo som har upplevts som för snabbt, och i striden om tittarsiffrorna har "Morgonstudion" halkat efter TV4:s "Nyhetsmorgon". SVT ska göra ändringar i storsatsningen "Morgonstudion" som lanserades i höstas, skriver Dagens Nyheter. 0:30 Spela. Streama hela första säsongen av Rebecka Martinsson på C More redan nu.  Manusförfattare är Karin Arrhenius och Oskar Söderlund. <br> <br>2014-02-07 11:03 Aftonbladet växlar upp partiprogrammet . Arkiv för Karin Magnusson. <br> <br>Karin Magnusson blir ny programledare för SVT:s nya morgonsatsning som får premiär i höst. Karin Magnusson till SVT. <br>";s:7:"keyword";s:19:"karin magnusson svt";s:5:"links";s:3448:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-8800-pris'>Nokia 8800 Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julbord-enk%C3%B6pings-golfrestaurang'>Julbord Enköpings Golfrestaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eken-cup-2020'>Eken Cup 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jotex-rabattkod-blogg'>Jotex Rabattkod Blogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kappahl-%C3%B6ppettider-backaplan'>Kappahl öppettider Backaplan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antik-grekisk-val%C3%B6r'>Antik Grekisk Valör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tunnbr%C3%B6dssnittar-med-parmaskinka'>Tunnbrödssnittar Med Parmaskinka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chamonix-snow-depth-history'>Chamonix Snow Depth History</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matta-200x200-ikea'>Matta 200x200 Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fann-in-dr%C3%A4n-i8'>Fann In-drän I8</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A4nge-h%C3%A5ller-en-res%C3%A5rbotten'>Hur Länge Håller En Resårbotten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=furste-och-kung'>Furste Och Kung</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-tv-live'>Telia Tv Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-%C3%B6-%C3%A4r-la-isla-bonita'>Vilken ö är La Isla Bonita</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antal-f%C3%B6retag-i-stockholm'>Antal Företag I Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kung-oidipus-fulltext'>Kung Oidipus Fulltext</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xbox-game-pass-pc-games-list'>Xbox Game Pass Pc Games List</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=servitut-mall-lantm%C3%A4teriet'>Servitut Mall Lantmäteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skiathos-paralia-lalaria'>Skiathos Paralia Lalaria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skadereglerare-l%C3%A4nsf%C3%B6rs%C3%A4kringar-j%C3%B6nk%C3%B6ping'>Skadereglerare Länsförsäkringar Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=philips-mini-projektor'>Philips Mini Projektor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mk18-candy-red'>Mk18 Candy Red</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bodens-gk-banguide'>Bodens Gk Banguide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kokostoppar-allt-om-mat'>Kokostoppar Allt Om Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elgiganten-lediga-jobb'>Elgiganten Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bj%C3%B6rkl%C3%B6ven---u12'>Björklöven - U12</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schwere-panzer-abteilung-509'>Schwere Panzer Abteilung 509</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frico-sire-modbus'>Frico Sire Modbus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-har-h%C3%B6rt-om-en-stad-ovan-molnen-instrumental'>Jag Har Hört Om En Stad Ovan Molnen Instrumental</a>,
+";s:7:"expired";i:-1;}

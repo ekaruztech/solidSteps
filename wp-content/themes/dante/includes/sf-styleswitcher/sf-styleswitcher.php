@@ -1,10 +1,10 @@
 <?php
-	/*  for PRO users! - 
+	/*
 	*
 	*	Styleswitcher
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 	

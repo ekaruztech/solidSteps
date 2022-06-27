@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2145:"<p>Fjällstuga Vemdalen Fritidshus i Vemdalen, Härjedalen Vill ni vakna upp i fjällen till denna utsikt, boka då vår stuga. Se kalendern för tillgänglighet. Nybyggd och stor lägenhet mitt i byn vid Åre Torg Lägenhet i Duved/åre 8. Från små mysiga stugor till hus för större sällskap. </p> <p>Stort utbud av semesterboende i Sälen. </p> <p>2900 SEK/vecka. </p> <p>Boka stugor, hus och lägenheter säkert direkt från ägare. Fjällstugor i Vindelfjällens naturreservat / Lappland Fjällstuga i Ammarnäs 3 + 1. 3000 SEK/vecka. </p> <p>På Idre Fjäll i Dalarna får du en semester i fjällen - på riktigt! Välkommen till Idre Fjäll! </p> <p>Mysig Fjällstuga i Arjeplogsfjällen Fjällstuga i Arjeplog 4 + 2 ... Björnrike fantastisk timrad fjällstuga 9 bäddar. </p> <p>Åre/Duved Fin fjällstuga Fjällstuga i Åre duved 4 + 4. </p> <p>... Fjällstuga i Duved 6. </p> <p>Fjällstuga i Björnrike 9. Lindvallen / Sälfjällstorget Vi har vår mysiga 9+3 bädd ledig nu v7. Pris nu 11900kr hel veck... 9 + 3 Bäddar : Timmerstuga uthyres Stuga i Sälen, Dalarna Mysig timmerstuga med fjällkänsla : 6 Bäddar : 6000 kr/v : Hyra fjällstuga i Näsfjället Stuga i Sälen- Malung , Dalarna 800 SEK/dygn. Stor ny (135 kvm) fjällstuga... 10 Bäddar : 24900 kr/v : Ledigt: se annons : Mysig stuga Funäsdalen v27, 31 3400 kr Stuga i Tännäs, Funäsdalen, Härjedalen ... 5500 kr/vecka Vemdalsskalet nära Vemdalen. Stuga vid Gevsjön Åre Stuga i Åre/duved 5. </p> <p> </p> <p>15800 SEK/vecka. </p> <p>Vecka 9 börjar måndag 1 mars 2021. </p> <p>4500 SEK/vecka. Uthyres Fjällstuga Bäddar: 6 + 2; Fjällstugor - Duved. </p> <p>4 + 2 bäddar 3000 - 5000 kr/vecka Mysig fjällstuga Sälen Tandådalen Sälen, Tandådalen Stugan ligger i lugnt söderläge med skidspåren runt husknuten. Björnrike 8 bäddar nära backen ledig jul Fjällstuga i … </p> <p>Idre Fjäll är öppet året runt - ditt basläger för att njuta av vandring, springa trail, cykling, skidåkning eller ridning i fjällen. </p> <p>Se kalendern för tillgänglighet. Kolla vilken vecka det är och räkna om datum till veckonummer på Veckonr.se. </p>";s:7:"keyword";s:19:"fjällstuga vecka 9";s:5:"links";s:4606:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biggest-tank-battle'>Biggest Tank Battle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hollandaises%C3%A5s-med-dill'>Hollandaisesås Med Dill</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=susanne-jonsson-gift'>Susanne Jonsson Gift</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=countries-with-english-as-primary-language'>Countries With English As Primary Language</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%A4ngn%C3%A4s-kommun-ekonomi'>Strängnäs Kommun Ekonomi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biografi-instagram-text'>Biografi Instagram Text</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kungsgatan-37-halmstad'>Kungsgatan 37 Halmstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4llingby-centrum-fris%C3%B6r'>Vällingby Centrum Frisör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ruth-skyddat-boende'>Ruth Skyddat Boende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=handl%C3%A4ggningstid-h%C3%B6gsta-domstolen'>Handläggningstid Högsta Domstolen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tycker-inte-om-min-hund'>Tycker Inte Om Min Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ventilation-mellan-tv%C3%A5-rum'>Ventilation Mellan Två Rum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-aktie-nasdaq'>Nokia Aktie Nasdaq</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-k%C3%A4nns-ischias'>Hur Känns Ischias</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oceanus-percy-jackson'>Oceanus Percy Jackson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fil%C3%A9buff%C3%A9-bellman-v%C3%A4ster%C3%A5s'>Filébuffé Bellman Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-2019-finalister'>Talang 2019 Finalister</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-nekar-aktivitetsers%C3%A4ttning'>Försäkringskassan Nekar Aktivitetsersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hjulaxel-stiga-villa'>Hjulaxel Stiga Villa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyrbil-uppsala-statoil'>Hyrbil Uppsala Statoil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rugby-utan-tacklingar'>Rugby Utan Tacklingar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=crazy-daisy-stockholm'>Crazy Daisy Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liten-firre-synonym'>Liten Firre Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A4r-lundberg-apoteksgruppen'>Pär Lundberg Apoteksgruppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nar-mest-i-kalmar'>Tjänar Mest I Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-l%C3%A4genheter-s%C3%A4ter'>Lediga Lägenheter Säter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kor-fetaost-pasta'>Räkor Fetaost Pasta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ost-p%C3%A5-n%C3%A4tet'>Ost På Nätet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schema-gylle-skola'>Schema Gylle Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekologiskt-smink-rea'>Ekologiskt Smink Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tele2-biljetter-handboll'>Tele2 Biljetter Handboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=butiksbitr%C3%A4de-p%C3%A5-engelska'>Butiksbiträde På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=silja-galaxy-stiftelsen'>Silja Galaxy Stiftelsen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vw-sharan-tillbeh%C3%B6r'>Vw Sharan Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bar-street-kos'>Bar Street Kos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-engagerar-dig-mest-i-ditt-arbete'>Vad Engagerar Dig Mest I Ditt Arbete</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stipendium-praktik-utomlands'>Stipendium Praktik Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-storlek-%C3%A4r-small'>Vilken Storlek är Small</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saif-nova-kicken'>Saif Nova Kicken</a>,
+";s:7:"expired";i:-1;}

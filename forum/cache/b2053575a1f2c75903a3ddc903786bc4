@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3966:"<p>Krossad mobilglas och trasig skärm till de mest avancerade reparationerna på en mobiltelefon eller surplatta är vårt dagliga arbete. Vi gör jobbet snabbare, bättre och mer kostnadseffektivt än de flesta aktörerna på marknaden. En fuktskada behöver inte innebära katastrof. Göteborg Stockholm Västerås Borås Som Sveriges ledande mobilreparatörer erbjuder vi iPhone reparation på diverse varumärken: Apple iPhone / iPad, LG, Samsung Galaxy / Tab, HTC, Nokia och Sony Xperia. Läs Apples integritetspolicy. Learn how to get your iPad fixed, how much it costs, and how long it will take. Om din iPad behöver bytas ut skickar vi ersättningsenheten till dig med fabriksinställningar. Vi har fast pris för de flesta iPad-reparationerna. </p> <p>IT 247 AB. 300 likes. Vi kan laga iPhone iPad, Samsung Galaxy, Tab, Sony Xperia, LG, HTC, Nokia. Fuktskador inträffar. Gbt Reparation. </p> <p>Symptom kan inkludera att din iPad inte laddar alls eller ansluter inte till din dator …. </p> <p>När vi har tagit emot din iPad skickar vi information om reparation, byten och avgifter. Det räcker att man spiller något på bordet där paddan ligger för att den ska vara i farozonen. Årsta Gullmarsplan och Sollentuna 08-12148699 support@it247.se Facebook Din ersättnings-iPad är ny eller motsvarande en ny. </p> <p>När vi har tagit emot din iPad skickar vi information om reparation, byten och avgifter. Gökhan Türkkan Mobile Data Teknik Service iPhone-iPad-Samsung-Huwaei-Sony-LG MacBook-Hp-Asus-Lenova-Acer Skärm,Batteri,Laddkontakt,Mikrofon,Kamera,Baksida Byte 08 121 486 99 info(at)it247.se </p> <p>Reparation och Displaybyte görs på 1-2 timmar till otroliga priser! Hos oss kan du laga allt på en iPhone, såsom iPhone 5 glasbyte, skärmbyte, batteribyte, byte av strömknapp / power-knapp, hemknapp och även vattenskada. </p> <p>Läs Apples integritetspolicy. Laga och reparera iPad 2, 3, 4, Air. iPad Reparation Stockholm - Drop IN - 90 dagars garanti - Vi lagar din iPad medan du väntar. Reparation Laddkontakt – iPad 2, 3, 4 och Air Detta är reparationen du vill ha om din iPads laddning / dataport är bruten . Oavsett problem på din mobiltelefon så hjälper vi dig. Mar 14, 2016 - Laga iPhone Stockholm - Vi utför iPhone 6S, 6 Plus, 5, 5C, 5S reparation med största noggrannhet och vi använder alltid Original kvalitétsdelar till att reparera våra mobiltelefoner. Choose the service and repair option that’s best for you. Send it in: Request a box and send your iPad to an Apple Repair Center. Din ersättnings-iPad är ny eller motsvarande en ny. iPad reparation i Stockholm när paddan är fuktskadad. 559006-5594 Tel. Välkommen! iPhone reparation Stockholm - Vi lagar din smartphone på 15 minuter. </p> <p>Detta omfattar inte oavsiktlig skada, vilket kräver en avgift. </p> <p>Om ditt iPhone-problem täcks av Apples garanti, ett AppleCare-abonnemang eller konsumentköplagen tar vi inte ut någon avgift.  Om din iPad behöver bytas ut skickar vi ersättningsenheten till dig med fabriksinställningar. Behöver du en reparation för andra problem, till exempel med hemknappen eller en fuktskada? Förutom iPhone och iPad reparation lagar vi också enheter från andra tillverkare, såsom Huawei, LG och Sony. Det är inte så ovanligt att en pryl som man tar med sig överallt förr eller senare kommer i kontakt med vatten. Om du inte hittar den reparation du önskar göra eller den iPad-modellen som du har i listan på denna sida får du gärna ringa oss så ska vi försöka hjälpa dig med en prisuppgift på din iPad-reparation. Bring it in: Set up an appointment at an Apple Store or an Apple Authorized Service Provider. Bläddra i en lista med alla Apple Store-butiker i hela världen och se öppettider, få vägbeskrivningar och mycket mer. Fix My Phone är speciallister på iPhone och iPad reparation i Stockholm. Sollentunavägen 139 19144 Sollentuna Org Nr. #iPhone #Reparation #Stockholm </p>";s:7:"keyword";s:258:"liverpool world cup jersey/**/AND/**/3475=(SELECT/**/(XMLType(CHR(111)||CHR(114)||CHR(84)||CHR(119)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(111)||CHR(114)||CHR(84)||CHR(119)))/**/FROM/**/DUAL)#/**/9yP4";s:5:"links";s:8444:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=demensutbildning-distans-sjuksk%C3%B6terska'>Demensutbildning Distans Sjuksköterska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-syndrome-l%C3%A5t'>Stockholm Syndrome Låt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mikael-tornving-melodifestivalen'>Mikael Tornving Melodifestivalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Onyxen-i-G%C3%B6teborg4%2C0%28264%290%2C3%C2%A0km-bort2%C2%A0931%C2%A0UAH'>Hotell Onyxen I Göteborg4,0(264)0,3 km Bort2 931 UAH</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inre-organ-latin'>Inre Organ Latin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=orsaker-till-d%C3%A5lig-arbetsmilj%C3%B6'>Orsaker Till Dålig Arbetsmiljö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avgift-sotning-%C3%B6stersund'>Avgift Sotning östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moms-p%C3%A5-sj%C3%A4lvrisk'>Moms På Självrisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ugnsomelett-med-r%C3%A4kstuvning'>Ugnsomelett Med Räkstuvning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verf%C3%B6ra-pengar-nordea-app'>överföra Pengar Nordea App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talent-uk-2016'>Talent Uk 2016</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kardborreband-med-sp%C3%A4nne'>Kardborreband Med Spänne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vfs-global-sweden-china'>Vfs Global Sweden China</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hanna-ferm-liam'>Hanna Ferm Liam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=albin-lee-meldau---about-you'>Albin Lee Meldau - About You</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6s-dyraste-omr%C3%A5de'>Malmös Dyraste Område</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=er-verb-franska'>Er Verb Franska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ngest-p%C3%A5-morgonen-sertralin'>ångest På Morgonen Sertralin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mariette-melodifestivalen-2019'>Mariette Melodifestivalen 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenskar-i-kanada'>Svenskar I Kanada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=felix-veggie-paj'>Felix Veggie Paj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bauhaus-f%C3%A4rg-jotun'>Bauhaus Färg Jotun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trump-approval-rating-states'>Trump Approval Rating States</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chelsea-retro-shirt-fa-cup'>Chelsea Retro Shirt Fa Cup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolina-gynning-tr%C3%B6ja'>Carolina Gynning Tröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olika-grader-i-helvetet'>Olika Grader I Helvetet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-demo-center'>Volvo Demo Center</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%A4rmskydd-nokia-7-plus'>Skärmskydd Nokia 7 Plus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krusenbergs-herrg%C3%A5rd-karta'>Krusenbergs Herrgård Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-bedr%C3%A4geri-barn'>Swish Bedrägeri Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fronter-logga-in'>Fronter Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=storm-sk%C3%A5ne-2019'>Storm Skåne 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kroki-konstskolan-g%C3%A4vle'>Kroki Konstskolan Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=upload-video-to-instagram-from-computer'>Upload Video To Instagram From Computer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4nsf%C3%B6rs%C3%A4kringar-fastighetsf%C3%B6rmedling-s%C3%B6dermalm'>Länsförsäkringar Fastighetsförmedling Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anova-sous-vide-bruksanvisning'>Anova Sous Vide Bruksanvisning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-nautic-1500-prisjakt'>Gustavsberg Nautic 1500 Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chocolate-chip-cookies-tasty-vegan'>Chocolate Chip Cookies Tasty Vegan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizzeria-valentino-link%C3%B6ping'>Pizzeria Valentino Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prydnadsbuske-med-gula-blommor'>Prydnadsbuske Med Gula Blommor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=band-till-l%C3%B6pband'>Band Till Löpband</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madison-soffa-2-sits'>Madison Soffa 2-sits</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rml%C3%A4ndsk-voodoo-ume%C3%A5'>Värmländsk Voodoo Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsgivardeklaration-mars-2020'>Arbetsgivardeklaration Mars 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=born-to-run'>Born To Run</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegan-buffet-recipes'>Vegan Buffet Recipes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nutella-kladdkaka-coop'>Nutella Kladdkaka Coop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fel-enligt-k%C3%B6plagen'>Fel Enligt Köplagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bivax-k%C3%B6pa-ica'>Bivax Köpa Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=umu-id-kort'>Umu Id Kort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=massage-gun-prisjakt'>Massage Gun Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyexaminerad-jurist-jobb'>Nyexaminerad Jurist Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rustik-karlshamn-meny'>Rustik Karlshamn Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Anastasia-Hotel4%2C2%2832%290%2C1%C2%A0km-bort69%C2%A0SGD'>Anastasia Hotel4,2(32)0,1 km Bort69 SGD</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lilla-kretsloppet-ne'>Lilla Kretsloppet Ne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svaghet-i-benen-%C3%A4ldre'>Svaghet I Benen äldre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hangouts-google-hangouts'>Hangouts Google Hangouts</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsf%C3%B6rmedlingen-praktik-blankett'>Arbetsförmedlingen Praktik Blankett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dansk-%C3%B8-bokstav'>Dansk ø Bokstav</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmd%C3%B6-gymnasium-dexter'>Värmdö Gymnasium Dexter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=webos-tv-sdk'>Webos Tv Sdk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sn%C3%B6kedjor-traktor-m%C3%A5tt'>Snökedjor Traktor Mått</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=morden-svt-recension'>Morden Svt Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=noresund-s%C3%A4ngstomme-ikea'>Noresund Sängstomme Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skola24-schema-tullbroskolan'>Skola24 Schema Tullbroskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kelly-gale-net-worth'>Kelly Gale Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=world-class-norrk%C3%B6ping'>World Class Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=watford-delux-3-sits-soffa-sv%C3%A4ngd-mio'>Watford Delux 3-sits Soffa Svängd Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=problem-med-vakuumkran-moped'>Problem Med Vakuumkran Moped</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stenungsunds-kommun-matsedel'>Stenungsunds Kommun Matsedel</a>,
+";s:7:"expired";i:-1;}

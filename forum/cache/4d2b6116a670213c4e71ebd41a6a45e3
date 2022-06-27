@@ -1,0 +1,104 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3204:"<p>Högbo Brukshotell är på riktigt. Samtliga rum är dubbelrum och det finns även en modernt inredd svit. Mot lekplatsen finns ett nybyggt vaktelhus som ger ägg och en och annan vaktel. Konferensanläggning och hotell med SPA samt White Guide rankad restaurang norr om Gävle utanför Sandviken i fantastisk friluftsmiljö. Högbo Brukshotell ligger i et tidligere jernverksområde i landsbyen Högbo, 700 meter fra Högbo golfklubb. Alle de lyst innredede rommene har TV, eget bad med dusj og enten eget eller felles kjøkken. Hotellrummen finns i hotellbyggnaden, hotellbyn utanför, stugor och i sportbyn vid motionsspår och golfbana. Det här är platsen för frihetstörst, målmedvetna möten, jordnära matupplevelser och endorfiner. </p> <p>I anslutning till hotellet och ett stenkast från det kravmärkta växthuset. Avslutningen med en helt underbar ostbricka, med perfekt mognad och dessertbuffén, med … Har just avnjutit en fantastisk middag, här på Högbo Brukshotell. Det här är platsen för frihetstörst, målmedvetna möten, jordnära matupplevelser och endorfiner. Det här är platsen för frihetstörst, målmedvetna möten, jordnära matupplevelser och endorfiner. </p> <p>Her tilbys gratis Wi-Fi, et spa og en rekke friluftsaktiviteter. Högbo Brukshotell ligger i ett före detta järnbruksområde i byn Högbo, 700 meter från Högbo Golfklubb. </p> <p>En fyrarätters. Här finns spa, konstfrusna skidspår, golfbana, mountainbikeleder och fina promenadstråk längs sjön. Högbo Brukshotell med hotellrum och konferenslokaler ligger i byn Högbo, ett gammalt järnbruksområde, i Sandviken utanför Gävle. </p> <p>Här, mitt i spenaten och i den syrerika gästrikeluften, finns balansen mellan hög och vilsam puls. Här, mitt i spenaten och i den syrerika gästrikeluften, finns balansen mellan hög och vilsam puls. Meny. Högbo Brukshotell är på riktigt. Här, mitt i spenaten och i den syrerika gästrikeluften, finns balansen mellan hög och vilsam puls. Hit kommer du när du vill konferera eller koppla av, äta gott och njuta av en härlig miljö. Publicerad den 12 maj, 2012 12 maj, 2012 av Kors och Tvärs. Här, mitt i spenaten och i den syrerika gästrikeluften, finns balansen mellan hög och vilsam puls. Hem; Om oss; Högbo Brukshotell.  Här kan du hyra kanot, cyklar och längdskidutrustning , besöka brukets hantverkare eller ta en fika och koppla av. VÅRMENY Toast Skagen 1, 2, 3, 9, 10,12 98:- Stekt strömming 143:- Här erbjuds gratis WiFi, en rad utomhusaktiviteter och ett spa mot en extra kostnad. Alla de ljust inredda rummen har TV, eget badrum med dusch och antingen eget pentry eller tillgång till … Det här är platsen för frihetstörst, målmedvetna möten, jordnära matupplevelser och endorfiner. På hotellets område finns även ett kylt skidspår, glasbruk, […] Högbo Brukshotell är på riktigt. Högbo Brukshotell är på riktigt. Högbo Brukshotell ligger utanför Sandviken, två timmar norr om Stockholm. Noen av rommene på Högbo har kaffe- … </p> <p>Mitt i skogen bland svamp, bär och betande får finns vi. På Högbo Brukshotell utanför Gävle hittar du en naturlig mötesplats för alla sinnen. </p>";s:7:"keyword";s:23:"högbo brukshotell meny";s:5:"links";s:7434:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kommunen-sommarjobb-2020'>Kommunen Sommarjobb 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=detur-sista-minuten-fr%C3%A5n-lule%C3%A5'>Detur Sista Minuten Från Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fronter-logga-in'>Fronter Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-falk-full-movie'>Johan Falk Full Movie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reservdelar-stiga-sn%C3%B6slunga-blizzard'>Reservdelar Stiga Snöslunga Blizzard</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-karlstad-lampor'>Ikea Karlstad Lampor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pirates-of-the-caribbean-theme-song-tab'>Pirates Of The Caribbean Theme Song Tab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stadium-teamsales-eskilsminne'>Stadium Teamsales Eskilsminne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Biz-Apartment-G%C3%A4rdet4%2C2%28660%292%2C4%C2%A0km-bort69%C2%A0%E2%82%AC'>Biz Apartment Gärdet4,2(660)2,4 km Bort69 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nhl-winter-classic'>Nhl Winter Classic</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fillikid-dra-p%C3%A5-lakan'>Fillikid Dra-på Lakan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avloppsr%C3%B6r-godk%C3%A4nda-f%C3%B6r-ingjutning'>Avloppsrör Godkända För Ingjutning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=politiskt-styre-eksj%C3%B6'>Politiskt Styre Eksjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ken-sema-bror'>Ken Sema Bror</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=serfaus-fiss-ladis-apartment'>Serfaus Fiss Ladis Apartment</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runt-badkar-med-tassar'>Runt Badkar Med Tassar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=puls8-ltd-%C3%B6fk'>Puls8 Ltd öfk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=local-green-jotun'>Local Green Jotun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badehotellet-s%C3%A6son-7'>Badehotellet Sæson 7</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=statliga-jobb-j%C3%B6nk%C3%B6ping'>Statliga Jobb Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-dyraste-1a'>Sveriges Dyraste 1a</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guld-tapet-rusta'>Guld Tapet Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=granola-med-kik%C3%A4rtor'>Granola Med Kikärtor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4gledningscentrum-j%C3%B6nk%C3%B6ping-%C3%B6ppettider'>Vägledningscentrum Jönköping öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=world-class-norrk%C3%B6ping'>World Class Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=40-%C3%A5rig-sk%C3%A5despelare'>40 årig Skådespelare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-playa-del-ingles-till-puerto-rico'>Taxi Playa Del Ingles Till Puerto Rico</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ferrero-rocher-godis'>Ferrero Rocher Godis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stoppa-fl%C3%B6det-korsord'>Stoppa Flödet Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torrsprickor-d%C3%A4ck-husvagn'>Torrsprickor Däck Husvagn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-m%C3%A4ssan-telefon'>Svenska Mässan Telefon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fabriks%C3%A5terst%C3%A4llning-huawei-p20'>Fabriksåterställning Huawei P20</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lapplands-se-antag'>Lapplands Se Antag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bibliotek-berga-link%C3%B6ping'>Bibliotek Berga Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saga-bio-n%C3%A4ssj%C3%B6'>Saga Bio Nässjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%A4neringsbrunn-med-pump'>Dräneringsbrunn Med Pump</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anders-jansson-kungsbacka'>Anders Jansson Kungsbacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5gtider-bor%C3%A5s-varberg'>Tågtider Borås Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boka-bord-s%C3%B6dermalm'>Boka Bord Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5smamman-handling-s%C3%A4song-2'>Gåsmamman Handling Säsong 2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-badtunna-eskilstuna'>Hyra Badtunna Eskilstuna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kan-inte-%C3%B6ppna-bilder-iphone'>Kan Inte öppna Bilder Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elevspel-engelska-julord'>Elevspel Engelska Julord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klippan-karting-tr%C3%A4ning'>Klippan Karting Träning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laguppst%C3%A4llning-aik-%C3%B6stersund'>Laguppställning Aik östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-com-sous-vide-everything'>Youtube Com Sous Vide Everything</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=maria-persson-mallorca'>Maria Persson Mallorca</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mats-ljung-bjurfors'>Mats Ljung Bjurfors</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5larbilder-pok%C3%A9mon-eevee'>Målarbilder Pokémon Eevee</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dela-abonnemang-tre'>Dela Abonnemang Tre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontantkort-surf-halebop'>Kontantkort Surf Halebop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=body-fat-calculator-metric'>Body Fat Calculator Metric</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-stund-p%C3%A5-jorden-laleh-mening'>En Stund På Jorden Laleh Mening</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siemens-aquastop-manual'>Siemens Aquastop Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ford-anglia-f%C3%A4lgar'>Ford Anglia Fälgar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=midsommar-2019-sundsvall'>Midsommar 2019 Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ideellt-engagemang-statistik'>Ideellt Engagemang Statistik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=japan-rail-pass-official-site'>Japan Rail Pass Official Site</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-ofta-avmaska-hund-milbemax'>Hur Ofta Avmaska Hund Milbemax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-morotskaka-potatismj%C3%B6l'>Glutenfri Morotskaka Potatismjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ringagatan-5-link%C3%B6ping'>Väringagatan 5 Linköping</a>,
+";s:7:"expired";i:-1;}

@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Topics Loop
  *
  * @package bbPress

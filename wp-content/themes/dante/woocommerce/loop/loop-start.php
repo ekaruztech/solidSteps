@@ -1,5 +1,5 @@
 <?php
-/*  for PRO users! - *
+/**
  * Product Loop Start
  *
  * @author 		WooThemes

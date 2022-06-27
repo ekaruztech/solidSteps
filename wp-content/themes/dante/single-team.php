@@ -13,6 +13,7 @@
 	$member_dribbble = sf_get_post_meta($post->ID, 'sf_team_member_dribbble', true);
 	$member_xing = sf_get_post_meta($post->ID, 'sf_team_member_xing', true);
 	$member_image_url = wp_get_attachment_url( get_post_thumbnail_id(), 'full' );
+	$image_alt = esc_attr( sf_get_post_meta( get_post_thumbnail_id() , '_wp_attachment_image_alt', true) );
 	
 	$same_category_navigation = false;
 	if ( isset($options['same_category_navigation']) ) {
@@ -29,14 +30,14 @@
 			<!-- OPEN article -->
 			<article <?php post_class('clearfix '); ?> id="<?php the_ID(); ?>" itemscope itemtype="http://schema.org/Person">
 				
-				<div class="entry-title" itemprop="name"><?php echo $page_title; ?></div>
+				<div class="entry-title" itemprop="name"><?php the_title(); ?></div>
 				
 				<figure class="profile-image-wrap">
 					<?php $detail_image = sf_aq_resize( $member_image_url, 600, NULL, true, false); ?>
 					
 					<?php if ($detail_image) { ?>
 						
-					<img itemprop="image" src="<?php echo $detail_image[0]; ?>" width="<?php echo $detail_image[1]; ?>" height="<?php echo $detail_image[2]; ?>" />
+					<img itemprop="image" src="<?php echo $detail_image[0]; ?>" width="<?php echo $detail_image[1]; ?>" height="<?php echo $detail_image[2]; ?>" alt="<?php echo $image_alt; ?>" />
 						
 					<?php } ?>
 				</figure>			

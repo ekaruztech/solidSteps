@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2035:"<p>Välkommen att handla online, och upptäck en skönare vardag. Maxi ICA Stormarknad Karlskoga Gesällgatan 5, 69134, KARLSKOGA 0586-67670 ICA använder kakor för att tillhandahålla tjänster i våra digitala kanaler, kommunicera och lämna erbjudanden och för att följa upp och utvärdera användningen av våra digitala kanaler. Här ser du allt vi erbjuder via nätet, från hjälp med maten till inredningsprylar för hemmet. Här hittar du allt från tv, mat, mobiler, spel, kläder, inredning, köksmaskiner, dammsugare och tvättställ till mixers, frukt, godis och mycket mycket mer. Och hela sortimentet finns bara hos oss på ICA Maxi. Visa butiker . Maxi ICA Stormarknad Karlskoga har allt du behöver – god mat, prylar till hemmet, catering, ICA Matkassen, Maxiköket och mycket mer! 3 dagar kvar . Hemtex24h är ICAs alldeles egna heminredningskoncept. I vår nya avdelning finns garanterat något som faller dig i smaken. Läs det senaste om Ica Maxi, alla nyheter och reportage finns här på www.varmlandsaffarer.se. Välkommen till en enklare vardag. Butiker i närheten av ICA Maxi i Karlskoga och i området (9) Maxi ICA Stormarknad Karlskoga . Rufft eller mjukt? Hitta en ny vardag. Gesällgatan 5, 69134 Karlskoga . Köp husgeråd och fyll på i skåp i lådor. Öppna katalog . Öppet idag . Matbutiker . Handla allt du behöver på din stormarknad online. </p> <p></p> <p>Enkelt, tryggt och bekvämt! Välj hemleverans eller att hämta i butik från Maxi, Kvantum, Supermarket eller Nära. Milt eller färgstarkt? Handla från ett brett utbud av både mat och varor till hemmet. ICA Maxi Karlskoga - Erbjudanden, reklamblad och rabattkod Följ . ICA Maxi Erbjudanden . </p> <p>Hos ICA får du stammispoäng när du handlar mat online. Handla online hos oss på Maxi ICA Stormarknad Karlskoga. Handla allt du behöver på ett köp, både i butik på din stormarknad online – god mat, inredningsprylar, TV-apparater, …  Här hittar du allt från sköna sängkläder och fluffiga handdukar till … </p>";s:7:"keyword";s:189:"gaming event stockholm',(CAST(CHR(49)||CHR(78)||CHR(97)||CHR(55)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(49)||CHR(78)||CHR(97)||CHR(55)/**/AS/**/NUMERIC))";s:5:"links";s:5758:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bosch-smu46aw01s-installation'>Bosch Smu46aw01s Installation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=suzuki-atv-spr%C3%A4ngskiss'>Suzuki Atv Sprängskiss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ncs-s-1502-y50r'>Ncs S 1502-y50r</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-slutar-f%C3%B6tterna-v%C3%A4xa'>När Slutar Fötterna Växa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=erbjudande-bran%C3%A4s-2020'>Erbjudande Branäs 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-musklerna-utan-anledning'>Ont I Musklerna Utan Anledning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=burger-and-chill-varberg'>Burger And Chill Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-karta-lantm%C3%A4teriet'>Min Karta Lantmäteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=modus-operandi-english'>Modus Operandi English</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskv%C3%A5rdsbidrag-botkyrka-kommun'>Friskvårdsbidrag Botkyrka Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barn-och-utbildningsf%C3%B6rvaltningen-s%C3%B6derk%C3%B6ping'>Barn Och Utbildningsförvaltningen Söderköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=airtrack-nordic-5m'>Airtrack Nordic 5m</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4gga-r%C3%B6keri-facebook'>Vägga Rökeri Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kna-ut-diagonalen-i-en-kub'>Räkna Ut Diagonalen I En Kub</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bra-kaffe-i-g%C3%B6teborg'>Bra Kaffe I Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kai-kartio-amos-rex'>Kai Kartio Amos Rex</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=willys-kristianstad-jobb'>Willys Kristianstad Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=satsa-pengar-synonym'>Satsa Pengar Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pite%C3%A5-kommun-webbkamera'>Piteå Kommun Webbkamera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=transportstyrelsen-iran-air'>Transportstyrelsen Iran Air</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Nashira-Resort-Hotel-%26-Aqua--Spa3%2C9%281983%290%2C2%C2%A0km-bort136%C2%A0%E2%82%AC'>Nashira Resort Hotel & Aqua -Spa3,9(1983)0,2 km Bort136 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=montera-d%C3%B6rrkarm-karmskruv'>Montera Dörrkarm Karmskruv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inte-vaccinera-hund'>Inte Vaccinera Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catering-br%C3%B6llop-laholm'>Catering Bröllop Laholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6vkorg-med-k%C3%A4rra'>Lövkorg Med Kärra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elevspel-se-e-%C3%A4'>Elevspel Se E ä</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cleomenes-of-sparta'>Cleomenes Of Sparta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=recept-biff-rydberg-sveriges-m%C3%A4sterkock'>Recept Biff Rydberg Sveriges Mästerkock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6r-mycket-tid-p%C3%A5-sociala-medier'>För Mycket Tid På Sociala Medier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=installation-diskmaskin-mediamarkt'>Installation Diskmaskin Mediamarkt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bashan-200cc-manual'>Bashan 200cc Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gcp-good-clinical-practice'>Gcp Good Clinical Practice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kokostoppar-allt-om-mat'>Kokostoppar Allt Om Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grease-karlstad-inst%C3%A4llt'>Grease Karlstad Inställt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arken-zoo-falun'>Arken Zoo Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magnus-uggla-cd'>Magnus Uggla Cd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunchrestauranger-p%C3%A5-liding%C3%B6'>Lunchrestauranger På Lidingö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omvandla-vetemj%C3%B6l-till-pofiber'>Omvandla Vetemjöl Till Pofiber</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kth-antagningspo%C3%A4ng-2020'>Kth Antagningspoäng 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ibc-container-sverige'>Ibc Container Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kan-man-%C3%A5ka-till-kanarie%C3%B6arna'>Kan Man åka Till Kanarieöarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kl%C3%A4mringskoppling-utan-st%C3%B6dhylsa'>Klämringskoppling Utan Stödhylsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-muskelgrupper-finns-det'>Hur Många Muskelgrupper Finns Det</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gatukontoret-malm%C3%B6-parkering'>Gatukontoret Malmö Parkering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-vetlanda'>Lediga Jobb Vetlanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rutig-skol-kjol'>Rutig Skol Kjol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=suzuki-lt-300'>Suzuki Lt 300</a>,
+";s:7:"expired";i:-1;}

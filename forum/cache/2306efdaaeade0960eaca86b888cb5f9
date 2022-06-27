@@ -1,0 +1,67 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2424:"<br>The news is in line with Sweden’s vision of being a climate-neutral by 2050, and a critical milestone in achieving sustainable public transportation. Gothenburg’s first route for Volvo electric buses was opened on 15 June. The Swedish city will see the introduction of its first fully electric buses. Volvo Group announced in a press release earlier this week that they will be testing all-electric articulated (two large bus cabins joint together — see high-res pic below) buses on route 16 of Gothenburg, Sweden. ... Home News Bus News Volvo’s first electric bus in Gothenburg Ahead of [...] Welcome, Guest! One hundred fifty-seven new Volvo electric buses are set to hit the streets in Gothenburg, Partille, and Molndal in 2020. Gothenburg will soon have 220 electric bus units on its public transport network. Volvo Buses’ new electric bus is now being tested for the first time in regular traffic in Gothenburg.  The bus … New Gothenburg route 55 will be served by three all-electric and seven electric hybrid buses Volvo Buses’ new electric bus is now being tested for the first time in regular traffic in Gothenburg. Volvo Buses and ABB are helping to realize that aim with the supply of 157 new electric buses and supporting charging infrastructure to bus operator Transdev. The new technology enables completely new possibilities for future public-transport. This is part of the ElectriCity project that aims to electrify public transportation in Gothenburg with help from city government and other partners. The buses are silent and emission-free and run on electricity from wind power and hydropower. Next month, Gothenburg's public transport will get a little bit greener. The coaches, powered by charging technology from ABB, will start operations late this year. Volvo Buses has received the largest single order for e-buses in Europe.  Buses that glide noiselessly without emissions, that pick up passengers indoors and which are powered by a renewable source of electricity – this will become a reality in 2015, through the launch of an ultramodern bus service in Gothenburg. Volvo Buses will deliver 157 electric articulated buses to Transdev starting in 2020 and the buses will operate in Gothenburg. With their introduction, emissions and noise is said to significantly reduced, and the electric buses will be able to operate in sensitive areas or zones with special restrictions. <br>";s:7:"keyword";s:29:"volvo electric bus gothenburg";s:5:"links";s:2982:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizzeria-i-esl%C3%B6v'>Pizzeria I Eslöv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drinkar-med-absolut-raspberri'>Drinkar Med Absolut Raspberri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-hjulvinkel-%C3%A4ndrar-man-vid-byte-av-styrled-toe-in-out-eller-camber'>Vilken Hjulvinkel ändrar Man Vid Byte Av Styrled Toe In Out Eller Camber</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reebok-zr8-crosstrainer'>Reebok Zr8 Crosstrainer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%B6da-korset-t%C3%A4by-%C3%B6ppettider'>Röda Korset Täby öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-slang-jula'>Mc Slang Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nibe-f750-hetgaslarm-55'>Nibe F750 Hetgaslarm 55</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-med-kapris'>Lax I Ugn Med Kapris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dark-souls-3-follower-spear'>Dark Souls 3 Follower Spear</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-svenskar-f%C3%B6rv%C3%A4rvsarbetade-i-juli-2016'>Hur Många Svenskar Förvärvsarbetade I Juli 2016</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fm-mattsson-duschblandare'>Fm Mattsson Duschblandare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=redeem-code-fortnite'>Redeem Code Fortnite</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wibe-stege-8-m'>Wibe Stege 8 M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegan-caf%C3%A9-norrk%C3%B6ping'>Vegan Café Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inger-nilsson-%C3%A5lder'>Inger Nilsson ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6rebro-tingsr%C3%A4tt-livstid'>örebro Tingsrätt Livstid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fullmakt-f%C3%B6r-apoteksuttag'>Fullmakt För Apoteksuttag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-palma-resor'>La Palma Resor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparka-p%C3%A5-bollen-text'>Sparka På Bollen Text</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oddset-l%C3%A5ngen-tips'>Oddset Lången Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Zinkensdamm4%2C0%28964%290%2C2%C2%A0miles-bort51%C2%A0GBP'>Hotell Zinkensdamm4,0(964)0,2 miles Bort51 GBP</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=caf%C3%A9-italia-eriksberg'>Café Italia Eriksberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elite-prospect-calgary-flames'>Elite Prospect Calgary Flames</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thera-%C3%B6-webbkryss'>Thera ö Webbkryss</a>,
+";s:7:"expired";i:-1;}

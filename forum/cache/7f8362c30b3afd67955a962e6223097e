@@ -1,0 +1,73 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1502:"Svenska Idol har sedan 2004 varit ett av svenskarnas absoluta favoritprogram.  Tipsa oss gärna om en vän genom att maila: idol@tv4.se. Åldersgräns För att delta i Idol 2020 måste du fylla 16 år senast 1 september 2020. Du kan söka till Idol under hela vår bussturné som börjar den 22 februari i Åre. Hem speltips underhallning-specialer idol Idol odds 2020 – En sammanfattning av 2019. Idol 2020. Tipsa oss! Övriga sändningar programledes av Pär Lernström. 1 Under Idol 2013 var Karin "Kakan" Hermansson endast sidekick vid auditionuttagningarna samt programledare för Idol: Extra. I vilka städer kan jag söka till Idol 2020? Klicka här för att söka till Idol 2020. Beskriv din vän så bra som möjligt. Idols bussturné besöker sex städer runt om i Norrland och auditions hålls även i Sundsvall, Göteborg, Helsingborg och Stockholm. Med dess brittiska och amerikanska versioner som förlaga följer programmet det numera klassiska mönstret. Idolstäder Städer med uttagningar. Nu har det hänt – årets vinnare av IDOL 2019 har korats och det blev ingen mindre än den talangfulle, känslige och framför allt unga killen Tusse Chiza 17 år, från Tällberg som tog hem hela kalaset med buller och bång! Glöm inte att skicka med namn och kontaktuppgifter till den du tipsar om. Städerna nedan listas i den ordning som TV4 besökte dem i, en ordning som TV-sändningarna oftast inte följer. Efter att kandidater sållas fram genom att de endera ansöker under … ";s:7:"keyword";s:16:"crazy u soffa xl";s:5:"links";s:3568:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blue-merle-valp'>Blue Merle Valp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-%C3%A5hus'>Lediga Jobb åhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-ut-sjukpenning-mot-sjukers%C3%A4ttning'>Byta Ut Sjukpenning Mot Sjukersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=j%C3%A4garna-2-inspelningsplatser'>Jägarna 2 Inspelningsplatser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-dyraste-h%C3%A4stg%C3%A5rd'>Världens Dyraste Hästgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=atv-barn-honda'>Atv Barn Honda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lejonkungen-gratis-film'>Lejonkungen Gratis Film</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4ken-l%C3%A5ser-sig'>Käken Låser Sig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaniljs%C3%A5s-p%C3%A5-havremj%C3%B6lk'>Vaniljsås På Havremjölk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slang-32-mm-biltema'>Slang 32 Mm Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=capio-%C3%B6gon-stockholm'>Capio ögon Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resultat-ruka-2019'>Resultat Ruka 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=all-inclusive-oktober'>All Inclusive Oktober</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidningen-%C3%A5ngermanland-annons'>Tidningen ångermanland Annons</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carlstad-united-spelare'>Carlstad United Spelare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kycklingpaj-med-chilis%C3%A5s'>Kycklingpaj Med Chilisås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laila-och-korosh-hudv%C3%A5rd'>Laila Och Korosh Hudvård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=katolskt-dop-kl%C3%A4dsel'>Katolskt Dop Klädsel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shane-dawson-net-worth'>Shane Dawson Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=findus-fish-and-crisp-tillagning'>Findus Fish And Crisp Tillagning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stefan-billborn-l%C3%B6n'>Stefan Billborn Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=operan-g%C3%B6teborg-program'>Operan Göteborg Program</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apple-tv-4k-samsung-tv'>Apple Tv 4k Samsung Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=animal-crossing-character-maker'>Animal Crossing Character Maker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotellpaket-med-middag'>Hotellpaket Med Middag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsgivarens-skyldigheter-vid-utbr%C3%A4ndhet'>Arbetsgivarens Skyldigheter Vid Utbrändhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matchprogram-aik-fotboll'>Matchprogram Aik Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=miss-saigon-svenska-texter'>Miss Saigon Svenska Texter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=new-levels-3%2C-elevwebb'>New Levels 3, Elevwebb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flygtid-istanbul-kapstaden'>Flygtid Istanbul Kapstaden</a>,
+";s:7:"expired";i:-1;}

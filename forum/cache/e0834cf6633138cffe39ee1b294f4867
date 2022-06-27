@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3535:"<p>5.4 Riktlinjer för sjukskrivning vid frusen skuldra 6 Referenser E. Handledens sjukdomar och skador 1 Handledsbrott 1.1 Bakgrund 1.2 Förutsättningar att beakta vid beslut om sjukskrivning 1.3 Riktlinjer för sjukskrivning vid handledsbrott 2 Karpaltunnelsyndrom 2.1 Bakgrund 2.2 Riktlinjer för sjukskrivning vid karpaltunnelsyndrom  </p> <p>Försäkringskassan är skyldig att tillämpa Europaparlamentets och rådets förordningar om samordning av de sociala trygghetssystemen. Here you can ask general questions about social insurance. ... Här kan du läsa allt om sjukskrivning. It is very important that you do not upgrade until you have read below. Information om sjukpenning, ändra omfattning, avsluta sjukpenning, sjukanmälan, arbetsskada, förebyggande sjukpenning, närståendepenning och smittbärarpenning för dig som har någon slags anställning, även för dig som till exempel jobbar halvtid, som timvikarie eller är anställd utan sjuklön. De första 14 dagarna du är sjuk betalar din arbetsgivare sjuklön till dig istället för din vanliga lön. Nationella screeningprogram ... På webbplatsen kan du läsa om övergripande principer för sjukskrivning och söka i Socialstyrelsens vägledningar vid olika sjukdomar och sjukskrivningssituationer. Sen kan du ansöka om sjukpenning från Försäkringskassan. AMX Mod X 1.8.2 for 2013 HLDS Update: Feb 14, 2013 13:18: We have released AMX Mod X 1.8.2 as an emergency bug-fix release. Här finns indikatorer för att följa upp hur nationella riktlinjer används och påverkar praxis i vården och omsorgen. Watch Queue Queue </p> <p>Vissa arbetsgivare betalar inte sjuklön, då kan du istället ansöka om sjukpenning från Försäkringskassan. Vid medelsvår akut stressreaktion kan patienten sjukskrivas på heltid, alternativt partiell sjukskrivning, upp till 4 veckor. Vi samordnar även insatserna för personer som har aktivitetsersättning. Information om sjukskrivning med anledning av coronavirus covid-19. Försäkringskassan erbjuder då en så kallad smittbärarpenning, som innefattar corona och andra allmänfarliga sjukdomar. The February 2013 update to Counter-Strike 1.6 is part of a large transition of HLDS games to SteamCMD. Start by searching for answers to your question in the search field above. Indikatorerna speglar framför allt de viktigaste rekommendationerna i riktlinjerna, men även vårdresultat som bedöms vara viktiga att följa över tid. Welcome to Försäkringskassan's customer forum! Anställd. Vid lindrig akut stressreaktion kan arbete ha en positiv effekt och sjukskrivning bör i sådana fall undvikas. Bättre sjukskrivningar med tidigt engagemang och försäkringsmedicinska riktlinjer För information Siwert Gårdestig Försäkringskassan 08-786 94 10 070-323 11 31 Bo Lindblom Socialstyrelsen 08-555 536 02 Jan Larsson Socialstyrelsen 08-555 536 60 Presskontakt 08-786 98 88 Reglerna i förordningarna tillämpas på de flesta ersättningar som Försäkringskassan betalar ut. Watch Queue Queue. This video is unavailable. Vägledning om sjukskrivning vid olika situationer. Försäkringskassan utreder behovet av arbetslivsinriktade åtgärder och samordnar insatser från hälso- och sjukvården, arbetsgivaren, Arbetsförmedlingen, socialtjänsten och andra aktörer för att patienten ska kunna återgå i arbete eller arbetssökande. </p> <p>Webbplatsen riktar sig främst till sjukskrivande läkare och handläggare på Försäkringskassan. Sjukpenning för anställda. Nationella riktlinjer. </p>";s:7:"keyword";s:181:"half life 2 gman locations or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a)    and 1=1";s:5:"links";s:4836:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-sjukhuset-g%C3%A4vle'>Restaurang Sjukhuset Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=james-joyce-dikt'>James Joyce Dikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=weather-las-palmas-yr'>Weather Las Palmas Yr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalkon-till-jul'>Kalkon Till Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gyllenstiernsgatan-4-f%C3%B6retag'>Gyllenstiernsgatan 4 Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verf%C3%B6ra-pengar-till-utlandet-l%C3%A4nsf%C3%B6rs%C3%A4kringar'>överföra Pengar Till Utlandet Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gymnasieskolor-v%C3%A4xj%C3%B6-corona'>Gymnasieskolor Växjö Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=visitor-travelcard-london'>Visitor Travelcard London</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peter-och-sn%C3%B6gubben'>Peter Och Snögubben</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=group-id-em-2020'>Group Id Em 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avmaska-hund-med-diarr%C3%A9'>Avmaska Hund Med Diarré</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grotesco-s%C3%A4song-1'>Grotesco Säsong 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utebliven-avesta-tidning'>Utebliven Avesta Tidning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-se-kreta'>Apollo Se Kreta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=esperanto-english-wiki'>Esperanto English Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=domningar-i-benet-och-foten'>Domningar I Benet Och Foten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halmstad-museum-%C3%B6ppettider'>Halmstad Museum öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skenet-bedrar-ordspr%C3%A5k'>Skenet Bedrar Ordspråk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helvetesgr%C3%A4nd-gamla-stan'>Helvetesgränd Gamla Stan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-synonym-svenska'>Best Synonym Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=idrott-och-h%C3%A4lsa-utbildning'>Idrott Och Hälsa Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fakta-om-h%C3%A4rjedalen'>Fakta Om Härjedalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barnsk%C3%B6tare-jobb-sundbyberg'>Barnskötare Jobb Sundbyberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=us-marine-wiki'>Us Marine Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steve-the-bartender-vodka-drinks'>Steve The Bartender Vodka Drinks</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=printa-stora-bilder'>Printa Stora Bilder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=doppresent-kille-smycke'>Doppresent Kille Smycke</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallst%C3%A9ns-lediga-l%C3%A4genheter'>Wallsténs Lediga Lägenheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=felix-veggie-paj'>Felix Veggie Paj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-kundtj%C3%A4nst-%C3%B6ppettider'>Telia Kundtjänst öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6neservice-eskilstuna-kommun'>Löneservice Eskilstuna Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lindas-bakskola-blogg'>Lindas Bakskola Blogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dan-bilzerian-house'>Dan Bilzerian House</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-sociala-medier'>Aik Sociala Medier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-byggdes-parthenon'>När Byggdes Parthenon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=plan-arkitekt-l%C3%B6n'>Plan Arkitekt Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-d%C3%A4ck-solna'>Begagnade Däck Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peter-abrahamsson-preem'>Peter Abrahamsson Preem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemtex-bor%C3%A5s-city-%C3%B6ppettider'>Hemtex Borås City öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smedjebackens-kommun-%C3%A4ldreomsorg'>Smedjebackens Kommun äldreomsorg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taco-bar-bolln%C3%A4s'>Taco Bar Bollnäs</a>,
+";s:7:"expired";i:-1;}

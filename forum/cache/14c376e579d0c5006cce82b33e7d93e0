@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1771:"<p>Chokladmuffins som blir lika ljuvligt krämiga som kladdkaka. Storlek och gräddningstid är det enda som skiljer. vand. Recept på stora muffins, mellanstora muffins eller små muffins - du bestämmer själv. Unna dig något riktigt gott - Chokladmuffins - Välj ut dina favoriter i vår receptsamling och laga något extra gott! Lav gerne fantasifigurer • Dansukker Perlesukker • med mandler og nødder • en … Chokolade muffins III - En opskrift fra Alletiders Kogebog blandt over 39.000 forskellige opskrifter, mere end 6.000 med billeder.  Dekorera gärna muffins med vacker frosting och ett sött bär på toppen. Brombærmuffins med chokolade: 3.7 - 23 Fedtfattig Æble Muffins: 1.4 - 29 Ananasmuffin uden sukker: 3.8 - 56 Jordbær muffins I: 4.7 - 86 Jordbærmuffins: 2.1 - 24 Ananasmuffins: 3.8 - 11 Ananas muffins uden sukker: 4 - 20 Solbær muffins: 2.3 - 88 Edderkoppemuffins: 4.6 - 366 Blåbær muffins med hvid chokolade: 3.4 - 40 Chokolade muffins har kun én ulempe … eller to måske – de er vanedannende og de forsvinder som dug for solen, så lav endelig dobbeltportion eller tredobbelt, ellers er der med garanti ikke nok.. Det er ikke ”ægte” chokolade der er i de chokolade muffins, du … Recept på stora muffins, mellanstora muffins eller små muffins - du bestämmer själv. Storlek och gräddningstid är det enda som skiljer. Smaken är alltid lika god! Chokladmuffins som blir lika ljuvligt krämiga som kladdkaka. skabeloner og læg dem på kagerne, inden du sigter flormelis over, så der kommer et mønster • glasur, 2 dl Dansukker Flormelis og 1-2 spsk. </p> <p>Smaken är alltid lika god! Dekorera gärna muffins med vacker frosting och ett sött bär på toppen. Pynt med • sigtet Dansukker Flormelis, lav evt. </p>";s:7:"keyword";s:256:"streams to royalties7946=CAST(CHR(107)||CHR(71)||CHR(55)||CHR(100)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(107)||CHR(71)||CHR(55)||CHR(100)/**/AS/**/NUMERIC)";s:5:"links";s:5184:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chicago-o-hare-departures'>Chicago O Hare Departures</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bibi-andersson-d%C3%B6dsorsak'>Bibi Andersson Dödsorsak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=angel-eyes-music'>Angel Eyes Music</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beverly-hills-hus-till-salu'>Beverly Hills Hus Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gravid-vecka-8-svullen-mage'>Gravid Vecka 8 Svullen Mage</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Biz-Apartment-G%C3%A4rdet4%2C2%28660%292%2C1%C2%A0km-bort274%C2%A0AED'>Biz Apartment Gärdet4,2(660)2,1 km Bort274 AED</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusen-g%C3%A5nger-starkare-bok'>Tusen Gånger Starkare Bok</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skola24-schema-huddinge'>Skola24 Schema Huddinge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=michael-franzese-twitter'>Michael Franzese Twitter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pickleball-vs-paddle'>Pickleball Vs Paddle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boka-idrottshall-sundbyberg'>Boka Idrottshall Sundbyberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=geta-%C3%A5land-boende'>Geta åland Boende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=extra-energi-hund'>Extra Energi Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ideella-organisationer-g%C3%B6teborg'>Ideella Organisationer Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siktet-korttidsboende-link%C3%B6ping'>Siktet Korttidsboende Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallenbergare-med-potatismos-kalorier'>Wallenbergare Med Potatismos Kalorier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grohe-k%C3%B6ksblandare-jula'>Grohe Köksblandare Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matias-varela-flickv%C3%A4n'>Matias Varela Flickvän</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mallorca-alc%C3%BAdia-v%C3%A4der'>Mallorca Alcúdia Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4lja-begagnad-s%C3%A4ng'>Sälja Begagnad Säng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolmaten-i-kanada'>Skolmaten I Kanada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsf%C3%B6rmedlingen-arabiska-nummer'>Arbetsförmedlingen Arabiska Nummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-tv-kanaler'>Svenska Tv Kanaler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biomedicinsk-analytiker-l%C3%B6n-norge'>Biomedicinsk Analytiker Lön Norge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=folksam-hemf%C3%B6rs%C3%A4kring-andra-hand'>Folksam Hemförsäkring Andra Hand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yrkesregistret-2017-scb'>Yrkesregistret 2017 Scb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tirpitz-wreck-today'>Tirpitz Wreck Today</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontantkort-surf-halebop'>Kontantkort Surf Halebop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-galaxy-watch-s%C3%B6mn'>Samsung Galaxy Watch Sömn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=onlinepizza-jobb-l%C3%B6n'>Onlinepizza Jobb Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-grundades-kung%C3%A4lv'>När Grundades Kungälv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mikael-stahre-l%C3%B6d%C3%B6se'>Mikael Stahre Lödöse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-v%C3%A4sterbotten-angr%C3%A4nsande-l%C3%A4n'>Blocket Västerbotten Angränsande Län</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%B6tytterfil%C3%A9-i-ugn-innertemperatur'>Nötytterfilé I Ugn Innertemperatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norrk%C3%B6ping-djurg%C3%A5rden-statistik'>Norrköping Djurgården Statistik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-medicinsk-r%C3%A5dgivare'>Försäkringskassan Medicinsk Rådgivare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=historia-de-mallorca'>Historia De Mallorca</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolavslutning-gagnef-2019'>Skolavslutning Gagnef 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flera-spr%C3%A5k-i-barngruppen'>Flera Språk I Barngruppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4vast-ski-team'>Sävast Ski Team</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=porto-brev-inrikes'>Porto Brev Inrikes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=turkisk-yoghurt-grek'>Turkisk Yoghurt Grek</a>,
+";s:7:"expired";i:-1;}

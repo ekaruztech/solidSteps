@@ -1,7 +1,7 @@
 <?php
 class Redux_Options_color_gradient {
 
-    /*  for PRO users! - *
+    /**
      * Field Constructor.
      *
      * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function
@@ -14,7 +14,7 @@ class Redux_Options_color_gradient {
 		$this->args = $parent->args;
     }
 
-    /*  for PRO users! - *
+    /**
      * Field Render Function.
      *
      * Takes the vars and outputs the HTML for the field in the settings
@@ -25,21 +25,21 @@ class Redux_Options_color_gradient {
         $class = (isset($this->field['class'])) ? $this->field['class'] : '';
 
         if(get_bloginfo('version') >= '3.5') {
-            echo '<span style="vertical-align: middle;">' . __('From:', Redux_TEXT_DOMAIN) . '</span><input type="text" id="' . $this->field['id'] . '-from" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . '][from]" value="' . $this->value['from'] . '" class="' . $class . ' popup-colorpicker" style="width:70px;" data-default-color="' . esc_attr($this->value['from']) . '"/>';
-            echo '<span style="vertical-align: middle;">' . __('To:', Redux_TEXT_DOMAIN) . '</span><input type="text" id="' . $this->field['id'] . '-to" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . '][to]" value="' . $this->value['to'] . '" class="' . $class . ' popup-colorpicker" style="width:70px;" data-default-color="' . esc_attr($this->value['to']) . '"/>';
+            echo '<span style="vertical-align: middle;">' . __('From:', 'swiftframework') . '</span><input type="text" id="' . $this->field['id'] . '-from" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . '][from]" value="' . $this->value['from'] . '" class="' . $class . ' popup-colorpicker" style="width:70px;" data-default-color="' . esc_attr($this->value['from']) . '"/>';
+            echo '<span style="vertical-align: middle;">' . __('To:', 'swiftframework') . '</span><input type="text" id="' . $this->field['id'] . '-to" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . '][to]" value="' . $this->value['to'] . '" class="' . $class . ' popup-colorpicker" style="width:70px;" data-default-color="' . esc_attr($this->value['to']) . '"/>';
             echo (isset($this->field['desc']) && !empty($this->field['desc']))?' <span class="description">'.$this->field['desc'].'</span>':'';
         } else {
             echo '<div class="farb-popup-wrapper" id="' . $this->field['id'] . '">';
-            echo __('From:', Redux_TEXT_DOMAIN) . ' <input type="text" id="' . $this->field['id'] . '-from" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . '][from]" value="' . $this->value['from'] . '" class="' . $class . ' popup-colorpicker" style="width:70px;"/>';
+            echo __('From:', 'swiftframework') . ' <input type="text" id="' . $this->field['id'] . '-from" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . '][from]" value="' . $this->value['from'] . '" class="' . $class . ' popup-colorpicker" style="width:70px;"/>';
             echo '<div class="farb-popup"><div class="farb-popup-inside"><div id="' . $this->field['id'] . '-frompicker" class="color-picker"></div></div></div>';
-            echo __(' To:', Redux_TEXT_DOMAIN) . ' <input type="text" id="' . $this->field['id'] . '-to" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . '][to]" value="' . $this->value['to'] . '" class="' . $class . ' popup-colorpicker" style="width:70px;"/>';
+            echo __(' To:', 'swiftframework') . ' <input type="text" id="' . $this->field['id'] . '-to" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . '][to]" value="' . $this->value['to'] . '" class="' . $class . ' popup-colorpicker" style="width:70px;"/>';
             echo '<div class="farb-popup"><div class="farb-popup-inside"><div id="' . $this->field['id'] . '-topicker" class="color-picker"></div></div></div>';
             echo (isset($this->field['desc']) && !empty($this->field['desc'])) ? ' <span class="description">' . $this->field['desc'] . '</span>' : '';
             echo '</div>';
         }
     }
 
-    /*  for PRO users! - *
+    /**
      * Enqueue Function.
      *
      * If this field requires any scripts, or css define this function and register/enqueue the scripts/css

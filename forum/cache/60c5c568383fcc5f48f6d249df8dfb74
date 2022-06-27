@@ -1,0 +1,134 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3895:"<br>Semesterlön och semesterersättning. Semesterlön är den lön den anställde får under semestern. Du betalar också ut semesterersättning när en anställd avslutar sin anställning och vid kortare anställningar. För dig som är anställd i ett företag med kollektivavtal har Byggnads förhandlat och avtalat om en högre semesterlön … Det är … Förenklat ersätter semesterlönen den ordinarie lönen. Vad är Semesterlön? För nyanställda kan det här innebära att de inte får så mycket betald semester, om du har personal som börjat i februari har de bara hunnit tjäna in semester mellan februari och sista mars. Semesterlön. Hans månadslön är … <br> <br>Semesterersättning är en andel av lönen som läggs undan varje månad av arbetsgivaren. Intjänandeperioden är oftast 1 april–31 mars men kan variera, fråga din arbetsgivare. Varför är det skillnad på semesterlönen och semesteravdraget? Vad är semesterlön och hur beräknas den? Förenklat ersätter semesterlönen den … Arbetsgivaravgifter (från 1 juni 2016) Arbetsgivaravgifterna för personer som är födda 1951 och senare är … Så räknar du ut din semesterlön. Adam nyanställdes i mars. Villkoren för semester och eventuell förskottssemester ska framgå i anställningsavtalet. Du har rätt i att det görs både semesteravdrag och att man får semesterlön. <br> <br>Semesterlön ska beräknas på semesterlönegrundande lön med 12 procent. <br> <br>För att räkna ut semesterlönen tar man totalinkomsten under intjänandeperioden gånger procentsatsen för semesterlön … Arbetsgivaren har normalt sett inte rätt att inkludera semesterersättningen i den utbetalda provisionen, utan den ska betalas ut under semesteråret (vanligtvis under juni-juli) genom ett semestertillägg för varje betald semesterdag med 0,5 procent på den provision som utbetalats under intjänandeåret. Intjänandeåret är det år då betalda semesterdagar och semesterlön tjänas in. Pengarna är en summa som den anställde har tjänat in under intjänandeåret och som betalas ut samtidigt som semestern infaller. Det kan t ex vara när en anställd slutar sin anställning. <br> <br>Men vanligast är att detta sker samtidigt så den anställde ska inte se eller märka det. Semesterlönen finns reglerat både i semesterlagen och ditt kollektivavtal. Semesterlön är din månadslön plus ett semestertillägg.  <br>Ersättning i pengar som betalas ut månaden efter semesteruttaget istället för ordinarie lön. Löntagaren hämtar sedan den ersättning (i Sverige då kallat semesterlön) som denne arbetat ihop när denne tar … <br> <br>Om du får en skillnad på semesterlönen och semesteravdraget vid uttag av semester kan det bero på att den anställde ändrat … Semesterlön. Semesterlagen garanterar 12 procent av din årslön. Under din semester har du rätt till en semesterlön och ett semestertillägg som baseras på din månadslön. Finns det kollektivavtal så kan ni ha en annan procentsats eller beräkning, men villkoren kan aldrig vara sämre än semesterlagen. <br> Evas semesterlön är 86 kr + 923 kr = 1 095 kr per semesterdag . Semester beräknas alltid i hela dagar. Svar: I semesterlagen sägs att arbetstagare har rätt till semesterlön i den mån sådan har tjänats in under intjänandeåret. Om du får 1200 kr i … Det innebär att för att ha rätt till 25 dagars betald semester måste man ha jobbat ett helt intjänadeår. <br> <br>Har den anställda emellertid rörliga lönedelar så måste dessa betalas ut senast månaden efter att semestern avslutats. Semesterlön är den ersättning som du som företagare betalar ut till dina anställda när de har semester. Alla har rätt till semester, det står i Semesterlagen men för att få betald semester måste du ha tjänat in den, här kan du läsa om hur man beräknar semesterlön. <br>";s:7:"keyword";s:20:"vad är semesterlön";s:5:"links";s:10938:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biljetter-kite-operan'>Biljetter Kite Operan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-castrol-olja-stockholm'>Köpa Castrol Olja Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netflix-4k-philips-tv'>Netflix 4k Philips Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ldreboenden-j%C3%B6nk%C3%B6pings-kommun'>äldreboenden Jönköpings Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tryckluft-p%C3%A5-burk-byggmax'>Tryckluft På Burk Byggmax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skoghall-lockerud-live'>Skoghall Lockerud Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brolunda-f%C3%B6rskola-s%C3%B6dert%C3%A4lje'>Brolunda Förskola Södertälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=massey-ferguson-35-4-cylinder-diesel'>Massey Ferguson 35 4 Cylinder Diesel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustav-vasa---del-2'>Gustav Vasa - Del 2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stativ-h%C3%B6gtalare-netonnet'>Stativ Högtalare Netonnet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lustans-lakejer-texter'>Lustans Lakejer Texter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=postnummer-ume%C3%A5-%C3%A5lidhem'>Postnummer Umeå ålidhem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=locka-h%C3%A5ret-med-skumgummispolar'>Locka Håret Med Skumgummispolar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanal-5-kontakt'>Kanal 5 Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olle-olsson-drifting'>Olle Olsson Drifting</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sturebadet-massage-stockholm'>Sturebadet Massage Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djurg%C3%A5rden-brann-tv'>Djurgården Brann Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bbc-4-radio'>Bbc 4 Radio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trollh%C3%A4ttans-stad-sommarjobb'>Trollhättans Stad Sommarjobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skierg-5000-m-motst%C3%A5nd'>Skierg 5000 M Motstånd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bbs-f%C3%A4lgar-4x100'>Bbs Fälgar 4x100</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stersund-elitlicens-%C3%B6verklagan'>östersund Elitlicens överklagan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-gmo'>Vad är Gmo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-filmer-2020'>Svenska Filmer 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=humana-assistans-organisationsnummer'>Humana Assistans Organisationsnummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmd%C3%B6-gymnasium-dexter'>Värmdö Gymnasium Dexter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-5-km-varje-dag'>Cykla 5 Km Varje Dag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5l%C3%B6k-i-ugn'>Smålök I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakad-potatis-tillbeh%C3%B6r'>Bakad Potatis Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ers%C3%A4ttning-v%C3%A5rdskada-l%C3%B6f'>Ersättning Vårdskada Löf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-vegan-pasta-recipes'>Best Vegan Pasta Recipes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rens-sken-webbkryss'>Rens Sken Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmekabel-h%C3%A4ngr%C3%A4nna-pris'>Värmekabel Hängränna Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobbiga-grannar-radhus'>Jobbiga Grannar Radhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sons-of-anarchy-real'>Sons Of Anarchy Real</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bor%C3%A5s-kommun-trafik'>Borås Kommun Trafik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rml%C3%A4ndsk-voodoo-v%C3%A4ster%C3%A5s'>Värmländsk Voodoo Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-bost%C3%A4der-distrikt'>Svenska Bostäder Distrikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baklava-med-sm%C3%B6rdeg'>Baklava Med Smördeg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=visa-electron-vs-visa'>Visa Electron Vs Visa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=e-cigg-g%C3%A4vle'>E Cigg Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-flaskor-till-salu'>Absolut Vodka Flaskor Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pendelt%C3%A5g-40-biljett'>Pendeltåg 40 Biljett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=massmedia-i-demokrati-och-diktatur'>Massmedia I Demokrati Och Diktatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shuffleboard-stockholm-kungsholmen'>Shuffleboard Stockholm Kungsholmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=motsatsord-till-d%C3%B6mande'>Motsatsord Till Dömande</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%2Fs-kungsholm-1953'>M/s Kungsholm 1953</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ra-d%C3%B6dsboets-bil'>Köra Dödsboets Bil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-news-youtube-australia'>Abc News Youtube Australia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=produktionschef-martin-och-servera'>Produktionschef Martin Och Servera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-bottenventil-badkar'>Gustavsberg Bottenventil Badkar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-lyo-l21-android-6'>Huawei Lyo-l21 Android 6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billig-veckomatsedel-barnfamilj'>Billig Veckomatsedel Barnfamilj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-matsvinn'>Vad är Matsvinn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allm%C3%A4nhetens-%C3%A5kning-g%C3%B6teborg'>Allmänhetens åkning Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egen-receptbok-app'>Egen Receptbok App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swebbtv-erik-och-matti'>Swebbtv Erik Och Matti</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-suv-2020'>Mercedes Suv 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hembes%C3%B6k-l%C3%A4kare-v%C3%A4stra-g%C3%B6taland'>Hembesök Läkare Västra Götaland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kakor-i-form'>Kakor I Form</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=formfranska-fredriks-fika'>Formfranska Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-bedr%C3%A4geri---flashback'>Swish Bedrägeri - Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=feedback-control-engineering'>Feedback Control Engineering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=garage-uthyres-sollentuna'>Garage Uthyres Sollentuna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolchef-danderyds-kommun'>Skolchef Danderyds Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=redigera-bilder-samsung'>Redigera Bilder Samsung</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonyms-for-nice'>Synonyms For Nice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6jd-p%C3%A5-vatten-till-tv%C3%A4ttmaskin'>Höjd På Vatten Till Tvättmaskin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vitsippans-f%C3%B6rskola-morup'>Vitsippans Förskola Morup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tatuering-13-betydelse'>Tatuering 13 Betydelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rap-konsert-stockholm'>Rap Konsert Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catan-b%C3%A4sta-expansion'>Catan Bästa Expansion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=candy-series-bcaa'>Candy Series Bcaa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hallarna-halmstad-karta'>Hallarna Halmstad Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kramper-i-benen-diabetes'>Kramper I Benen Diabetes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=os-kval-handboll-2020-damer'>Os-kval Handboll 2020 Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-140-styling'>Volvo 140 Styling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telenor-f%C3%B6retag-thailand'>Telenor Företag Thailand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catan-expansion-5-6'>Catan Expansion 5-6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Elite-Plaza-Hotel-G%C3%B6teborg4%2C3%28786%290%2C4%C2%A0km-bort1%C2%A0888%C2%A0981%C2%A0IDR'>Elite Plaza Hotel Göteborg4,3(786)0,4 km Bort1 888 981 IDR</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikarierande-enhetschef-l%C3%B6n'>Vikarierande Enhetschef Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbd%C3%A4ck-40-622'>Dubbdäck 40 622</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trimma-cf-moto-520'>Trimma Cf Moto 520</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steka-fj%C3%A4rilskotletter-lax'>Steka Fjärilskotletter Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stenugnsbakad-pizza-kristianstad'>Stenugnsbakad Pizza Kristianstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fraktur-manke-h%C3%A4st'>Fraktur Manke Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=handl%C3%A4ggningstid-h%C3%B6gsta-domstolen'>Handläggningstid Högsta Domstolen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nn-en-doft-av-k%C3%A4rleken-lyrics'>Känn En Doft Av Kärleken Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-%C3%A4ldsta-chihuahua'>Världens äldsta Chihuahua</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huvudst%C3%A4der-4-bokst%C3%A4ver'>Huvudstäder 4 Bokstäver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=divan-soffa-mio'>Divan Soffa Mio</a>,
+";s:7:"expired";i:-1;}

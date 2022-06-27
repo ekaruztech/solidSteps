@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1833:"Hitta din passion och utveckla nya färdigheter! Utbildningen Musikproduktion vänder sig till dig som vill utveckla ditt musikskapande både ur ett musikaliskt och ljudtekniskt perspektiv. HAPARANDA: Styrelsen för Sverigefinska folkhögskolan, Svefi, har utsett Marie Järvinen till ny rektor/vd för skolan. Den första sverigefinska skolan startades år 1990 i Stockholm. Sverigefinska skolan i Stockholm, F–9 Fridhemsgatan 17–19 Visa på karta Spara som favorit Detta är en av drygt 250 kommunala och fristående grundskolor i Stockholms stad som du kan ansöka till. Dessutom finns Sverigefinska Amatörteaterförbundet (SFAT), Sverigefinska Idrottsförbundet och ett kvinnoförbund Sverigefinskt Kvinnoforum. SFRF bedriver utbildnings- och studieverksamhet genom att bland annat anordna medlems-, funktionärs- och ledarutbildning samt genom att driva två egna folkhögskolor , Sverigefinska folkhögskolan i Haparanda …  FSR: Skolan är ansluten till Folkhögskolornas studeranderättsliga råd, FSR Övrig information: Skolan har Hon tillträder sin tjänst den 22 augusti, och efterträder därmed Birgitta Tamminen som anställdes i juni förra året. Föreningen för Sverigefinska fhsk, medlemmar: Svefis vänner, Haparanda Stad och Finlandssamfundet. Sverigefinska folkhögskolan Välkommen till oss på Svefi — Sverigefinska folkhögskolan i Haparanda, mitt på den svenskfinska gränsen. I stället för fristående Hitta din passion och utveckla nya färdigheter! Under 1990–1996 fanns det ett tiotal sverigefinska skolor i Sverige som följde den svenska läroplanen och oftast hade tvåspråkiga pedagoger. Hos oss kan du förbereda dig för ett fortsatt yrkes Sverigefinska folkhögskolan Välkommen till oss på Svefi — Sverigefinska folkhögskolan i Haparanda, mitt på den svenskfinska gränsen. ";s:7:"keyword";s:30:"sverigefinska skolan haparanda";s:5:"links";s:3474:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolbusskort-helsingborg-lov'>Skolbusskort Helsingborg Lov</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=platanias-kreta-tips'>Platanias Kreta Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tema-b%C3%A5tar-i-f%C3%B6rskolan'>Tema Båtar I Förskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanal-5-gratis-stream'>Kanal 5 Gratis Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-andas-sn%C3%A4ckor-som-lever-p%C3%A5-land'>Hur Andas Snäckor Som Lever På Land</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smartstore-compact-clear'>Smartstore Compact Clear</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mio-sense-delux-kontinentals%C3%A4ng'>Mio Sense Delux Kontinentalsäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startmotor-saab-9-5-biltema'>Startmotor Saab 9 5 Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4s%C3%A5rstider-mora-2020'>Läsårstider Mora 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gsta-domaren-i-sverige'>Högsta Domaren I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=animal-crossing%3A-new-leaf-wiki'>Animal Crossing: New Leaf Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mallorca-alc%C3%BAdia-v%C3%A4der'>Mallorca Alcúdia Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4sttrafik-g%C3%B6teborg-partille'>Västtrafik Göteborg Partille</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tour-de-ski-sista-etappen'>Tour De Ski Sista Etappen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stylist-gymnasium-%C3%B6rebro'>Stylist Gymnasium örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torkarblad-bosch-mekonomen'>Torkarblad Bosch Mekonomen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bavaria-%C3%B6l-glutenfri'>Bavaria öl Glutenfri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resultat-fr%C3%B6lunda-lule%C3%A5'>Resultat Frölunda Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-v%C3%A4ster%C3%A5s-hemk%C3%B6rning'>Coop Västerås Hemkörning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bahia-feliz-i-november'>Bahia Feliz I November</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=centrumk%C3%A5por-vw-70mm'>Centrumkåpor Vw 70mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=suzuki-lt-300'>Suzuki Lt 300</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4skkarr%C3%A9-med-ingef%C3%A4ra'>Fläskkarré Med Ingefära</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ber%C3%B6ringsfri-blandare-biltema'>Beröringsfri Blandare Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolchef-danderyds-kommun'>Skolchef Danderyds Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kooperativt-l%C3%A4rande-h%C3%B6gstadiet'>Kooperativt Lärande Högstadiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-finalen-2020-margaux'>Talang Finalen 2020 Margaux</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fallstr%C3%B6mmens-%C3%A4ldreboende-m%C3%B6lndal'>Fallströmmens äldreboende Mölndal</a>,
+";s:7:"expired";i:-1;}

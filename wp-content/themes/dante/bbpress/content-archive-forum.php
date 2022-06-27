@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Archive Forum Content Part
  *
  * @package bbPress

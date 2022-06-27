@@ -1,6 +1,6 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Build Class
 	*	------------------------------------------------
@@ -56,7 +56,7 @@
 	    }
 	}
 	
-	/*  for PRO users! -  SETUP FOR ADMIN
+	/* SETUP FOR ADMIN
 	================================================== */ 
 	class SFPageBuilderSetupAdmin extends SFPageBuilderSetup {
 	    
@@ -77,7 +77,7 @@
 	        $this->swift_page_builder->addAction( 'wp_ajax_sf_load_template', 'loadSFTemplateJavascript_callback' );
 	        $this->swift_page_builder->addAction( 'wp_ajax_spb_delete_template', 'deleteTemplateJavascript_callback' );
 	
-	        /*  for PRO users! -  Add specific CSS class by filter */
+	        /* Add specific CSS class by filter */
 	        $this->addFilter( 'body_class', 'pageBuilderBodyClass' );
 	        $this->addFilter( 'get_media_item_args', 'jsForceSend' );
 	
@@ -90,7 +90,7 @@
 	        $this->addAction( 'admin_print_scripts-post.php', 'swiftPageBuilderScripts' );
 	        $this->addAction( 'admin_print_scripts-post-new.php', 'swiftPageBuilderScripts' );
 	
-	        /*  for PRO users! -  Create Media tab for images */
+	        /* Create Media tab for images */
 	        $this->swift_page_builder->createImagesMediaTab();
 	    }
 	

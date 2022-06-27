@@ -1,0 +1,113 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1326:"<p>Ögats fönster. Hornhinnan och linsen i ögat motsvarar kamerans linser, pupillen övertar funktionen som bländare. Den släpper in och bryter ljuset. Hornhinnan är en genomskinlig hinna som sitter framför pupill och regnbågshinna. Slutligen blir bilden avbildad på näthinnan på motsvarande sätt som på filmen i kameran. Ögats anatomi Ögat innehåller många olika komponenter, som på ett mycket fascinerande sätt samverkar för att du ska kunna se och tolka din omvärld. Främre kammaren är området mellan hornhinna, regnbågshinna och lins. Notera att källor presenteras som fotnoter i texten. </p> <p>Slutligen blir bilden avbildad på näthinnan på motsvarande sätt som på filmen i kameran. Ögats bländare.  </p> <p>I näthinnan omvandlas ljuset till nervimpulser. Därifrån förs de vidare genom synnerverna. Ögats anatomi fungerar på så sätt att när vi ser något så registreras ljusets våglängder av sinnescellerna i näthinnan. En nedskriven version av en muntlig presentation i Biologi B, där eleven redogör för ögat och vår syn. Fokus ligger bland annat på ögats olika delar och funktioner (se vilka delar av ögat som beskrivs under "Innehåll"). Varje … Främre kammare. Den innehåller kammarvatten som förser lins och hornhinna med näring. Hornhinna – kornea. </p>";s:7:"keyword";s:25:"ögats delar och funktion";s:5:"links";s:8244:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mariah-carey-g%C3%B6teborg-2018'>Mariah Carey Göteborg 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4sby-slott-historia'>Näsby Slott Historia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matias-varela-flickv%C3%A4n'>Matias Varela Flickvän</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ideella-organisationer-jobb'>Ideella Organisationer Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-hand-theme-jojo'>The Hand Theme Jojo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pajskal-med-keso'>Pajskal Med Keso</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolor-h%C3%B6gan%C3%A4s-kommun'>Skolor Höganäs Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avst%C3%A5nd-las-palmas-playa-del-ingl%C3%A9s'>Avstånd Las Palmas Playa Del Inglés</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=joel-kinnaman-2019'>Joel Kinnaman 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stora-p%C3%A5sk%C3%A4gg-%C3%B6b'>Stora Påskägg öb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse-idol-how-will-i-know'>Tusse Idol How Will I Know</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svart-kylsk%C3%A5p-ikea'>Svart Kylskåp Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-liten-prinsessa-bokrecension'>En Liten Prinsessa Bokrecension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astral-projection-music'>Astral Projection Music</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-v%C3%A4lsviken-lunch'>Coop Välsviken Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bistro-bl%C3%A5-meny'>Bistro Blå Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-g%C3%B6ra-i-dublin'>Att Göra I Dublin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tieto-education-s%C3%B6derk%C3%B6ping'>Tieto Education Söderköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-esl%C3%B6v-g%C3%A5rd'>Hemnet Eslöv Gård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-falk%C3%B6pings-kommun'>Sommarjobb Falköpings Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avlopp-p%C3%A5-burk'>Avlopp På Burk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lussebullar-med-dadlar'>Lussebullar Med Dadlar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=variatorvikter-cf-moto'>Variatorvikter Cf Moto</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-hilfiger-stores'>Tommy Hilfiger Stores</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-mycket-betalar-ni-i-underh%C3%A5ll'>Hur Mycket Betalar Ni I Underhåll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-do-i-get-from-dulles-airport-to-washington-dc'>How Do I Get From Dulles Airport To Washington Dc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badminton-stockholm-universitet'>Badminton Stockholm Universitet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klassen-cast-sverige'>Klassen Cast Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llvandra-med-hund'>Fjällvandra Med Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iksu-innebandy-damer'>Iksu Innebandy Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grammatikbolaget-verb-i-futurum'>Grammatikbolaget Verb I Futurum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frutti-di-mare-allt-om-mat'>Frutti Di Mare Allt Om Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cicamed-scar-apotea'>Cicamed Scar Apotea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skidstafett-2019-damer'>Skidstafett 2019 Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=streaming-from-pc-to-lg-smart-tv'>Streaming From Pc To Lg Smart Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saif-nova-kicken'>Saif Nova Kicken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skidskytte-hochfilzen-resultat'>Skidskytte Hochfilzen Resultat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kostnad-ladda-elcykel'>Kostnad Ladda Elcykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%B6tsel-av-h%C3%A4st'>Skötsel Av Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lutande-plan-fysik'>Lutande Plan Fysik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magmuskler-efter-kejsarsnitt'>Magmuskler Efter Kejsarsnitt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kaka-med-gr%C3%A4dde'>Kaka Med Grädde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hackebiff-a-la-rudolf'>Hackebiff A La Rudolf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=campinggrill-gasol-biltema'>Campinggrill Gasol Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=instruktionsbok-p%C3%A5-svenska'>Instruktionsbok På Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-mycket-fett-br%C3%A4nner-man-i-ketos'>Hur Mycket Fett Bränner Man I Ketos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hv71-nyf%C3%B6rv%C3%A4rv-rykten'>Hv71 Nyförvärv Rykten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steka-l%C3%B6k-med-socker'>Steka Lök Med Socker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-white-wolf-witcher'>The White Wolf Witcher</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medel-meritv%C3%A4rde-gymnasiet'>Medel Meritvärde Gymnasiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lilla-aktuellt-mens'>Lilla Aktuellt Mens</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-service-stockholm'>Honda Service Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=periodisk-fasta-tr%C3%A4ning'>Periodisk Fasta Träning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-com-java'>One Com Java</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gittan-j%C3%B6nsson-figur'>Gittan Jönsson Figur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prispengar-world-cup-bandy'>Prispengar World Cup Bandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pulled-beef-bbq'>Pulled Beef Bbq</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=java-steg-for-steg-prisjakt'>Java Steg For Steg Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=igtv-upload-from-computer'>Igtv Upload From Computer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ludvika-inv%C3%A5nare-2018'>Ludvika Invånare 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6ja-swish-gr%C3%A4ns-swedbank'>Höja Swish Gräns Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilka-muskler-arbetar-n%C3%A4r-du-b%C3%B6jer-dig-ner'>Vilka Muskler Arbetar När Du Böjer Dig Ner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slutspelsserien-allsvenskan-2020'>Slutspelsserien Allsvenskan 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studera-p%C3%A5-chalmers'>Studera På Chalmers</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bic-code-search'>Bic Code Search</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gamla-uppsala-vandring'>Gamla Uppsala Vandring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-riktig-kalvfond'>Köpa Riktig Kalvfond</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=English-toy-terrier'>English Toy Terrier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=riskfaktorer-psykisk-oh%C3%A4lsa'>Riskfaktorer Psykisk Ohälsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nippon-modus-105-vs-120'>Nippon Modus 105 Vs 120</a>,
+";s:7:"expired";i:-1;}

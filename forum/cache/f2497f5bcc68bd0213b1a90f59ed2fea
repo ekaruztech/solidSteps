@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2849:"<p>The vastus lateralis (/ ˈ v æ s t ə s ˌ l æ t ə ˈ r eɪ l ɪ s, ˈ r æ-/), also called the ''vastus externus'' [citation needed] is the largest and most powerful part of the quadriceps femoris, a muscle in the thigh.Together with other muscles of the quadriceps group, it serves to extend the knee joint, moving the lower leg forward. The myofascial pain pattern has pain locations that are displayed in red and associated trigger points shown as Xs. De vastus medialis is dicht bij de knieën gelegen, aan de binnenzijde van de benen. In this lesson we will discuss the three Vastus muscles: Lateralis, Intermedius, and Medialis. See more ideas about Exercise, Weight training and Workout guide. Vastus Lateralis trigger point diagram, pain patterns and related medical symptoms. Daarnaast bevat de quadriceps nog twee kniestrekkers, te weten: de vastus intermedius en rectus femoris, waarbij de laatstgenoemde ook geactiveerd wordt tijdens heupflexie (heupbuiging). It is one of the four muscles that form the quadriceps femoris muscle. Verschillende effectieve vastus medialis oefeningen vind je in dit overzicht. Musculus vastus lateralis vordere Oberschenkelmuskulatur Ursprung; laterale Fläche des Oberschenkelknochens (Facia ant. der Linea aspera) : Ansatz; Kniescheibe (Basis patellae, Lig. patellae, lat. The muscles of the anterior portion are all stimulated by the femoral nerve and function normally to elongate the leg at the knee joint . </p> <p>Deze spier is niet geïsoleerd te trainen maar er zijn wel oefeningen waarbij hij een goede workout krijgt. It lies beneath the iliotibial tract, which is a band of fascia that runs vertically along the outer thigh. The vastus lateralis is among the muscles that comprises the quadriceps femoris, and is included in the anterior portion of the thigh. De vastus lateralis is een grotere spier dan de vastus medialis en bevindt zich aan de buitenzijde van het bovenbeen en heeft ook als functie om de knie te strekken. Jun 1, 2017 - Explore healthzone2012's board "vastus lateralis exercise" on Pinterest. trochanter major, Labium lat. Tensor of Vastus Intermedius is a new muscle that is part of the Quadriceps&#91;3&#93;. Fascien des Retinaculum patellae), Tuberositas tibiae des Schienbeins: Funktion Strecker des Kniegelenks: Innervation; Nervus femoralis und lat. Bij voldoende spiermassa is hij goed te herkennen aan zijn druppelvorm. The vastus lateralis is located above the knee joint, toward the outer edge of the leg.  Vastus Intermedius is located centrally, underneath Rectus femoris[1] in the anterior compartment of the thigh and on each side of it: Vastus medialis and Vastus Lateralis respectively[2]. The vastus lateralis is susceptible to muscle fiber tearing -- which is called a muscle strain -- through knee extension in sports and everyday activities. </p>";s:7:"keyword";s:25:"vastus lateralis funktion";s:5:"links";s:7114:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=styrkor-och-svagheter-med-en-kontracyklisk-finanspolitik'>Styrkor Och Svagheter Med En Kontracyklisk Finanspolitik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=born-to-run'>Born To Run</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobba-som-sotare-flashback'>Jobba Som Sotare Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gjutj%C3%A4rnsgryta-clas-ohlson'>Gjutjärnsgryta Clas Ohlson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallst%C3%A9ns-lediga-l%C3%A4genheter'>Wallsténs Lediga Lägenheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-ryssland-fotboll-1994'>Sverige-ryssland Fotboll 1994</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uf-m%C3%A4ssa-emporia-2020'>Uf Mässa Emporia 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siffror-p%C3%A5-rum%C3%A4nska'>Siffror På Rumänska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-xs-release-date'>Iphone Xs Release Date</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=semlans-dag-2020'>Semlans Dag 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-link%C3%B6ping-frukost'>Ikea Linköping Frukost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-%C3%A4lvsj%C3%B6-skybar'>Scandic älvsjö Skybar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanelbullar-utan-sm%C3%B6r'>Kanelbullar Utan Smör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carina-berg-barn'>Carina Berg Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skilja-agnarna-fr%C3%A5n-vetet-bibeln'>Skilja Agnarna Från Vetet Bibeln</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smulpaj-med-vaniljs%C3%A5s'>Smulpaj Med Vaniljsås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4sby-slottspark-nyproduktion'>Näsby Slottspark Nyproduktion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schoolsoft-danderyd-vrs'>Schoolsoft Danderyd Vrs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-sundin-net-worth'>David Sundin Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=passande-f%C3%B6rr%C3%A4tt-till-torskrygg'>Passande Förrätt Till Torskrygg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=asih-palliativ-v%C3%A5rd'>Asih Palliativ Vård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmd%C3%B6-gymnasium-dexter'>Värmdö Gymnasium Dexter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socialtj%C3%A4nsten-%C3%B6stersund-jobb'>Socialtjänsten östersund Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-t%C3%A4nka-p%C3%A5-med-valp'>Att Tänka På Med Valp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flatcoated-retriever-jakt'>Flatcoated Retriever Jakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=conduct-an-orchestra'>Conduct An Orchestra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6vertagande-av-hund'>övertagande Av Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-pajdeg-potatis'>Glutenfri Pajdeg Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-nederl%C3%A4nderna-kanal'>Sverige Nederländerna Kanal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=2st-degree-burn'>2st Degree Burn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse-idol-how-will-i-know'>Tusse Idol How Will I Know</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=caf%C3%A9-karlshamn-s%C3%B6ndag'>Café Karlshamn Söndag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffransmuffins-med-dadlar'>Saffransmuffins Med Dadlar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=problem-lyrics-william'>Problem Lyrics William</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=master-i-kriminologi'>Master I Kriminologi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6da-barn-utomlands-f%C3%B6r%C3%A4ldrapenning'>Föda Barn Utomlands Föräldrapenning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nya-musik-barnb%C3%B6cker'>Nya Musik Barnböcker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=usa-bakljus-volvo-140'>Usa Bakljus Volvo 140</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prince-cigaretter-pris'>Prince Cigaretter Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grekisk-bokstav-iota'>Grekisk Bokstav Iota</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=supply-chain-management-cbs'>Supply Chain Management Cbs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hundutst%C3%A4llning-gimo-2020'>Hundutställning Gimo 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=intro-adaam-lyrics'>Intro Adaam Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linn%C3%A9-hostel-g%C3%B6teborg'>Linné Hostel Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A5rdsl%C3%B6shet-i-trafik-anm%C3%A4lan'>Vårdslöshet I Trafik Anmälan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrid-lindgren-v%C3%A4rld'>Astrid Lindgren Värld</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nutella-pizza-p%C3%A5-libabr%C3%B6d'>Nutella Pizza På Libabröd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schoolsoft-login-lindesberg'>Schoolsoft Login Lindesberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sovrum-inspiration-bl%C3%A5tt'>Sovrum Inspiration Blått</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-f31-et'>Bmw F31 Et</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apan-herman-barnprogram'>Apan Herman Barnprogram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=placering-tv%C3%A4ttmaskin-och-torktumlare'>Placering Tvättmaskin Och Torktumlare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lopp-p%C3%A5-cykel-synonym'>Lopp På Cykel Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=michelin-d%C3%A4ck-205%2F55r16'>Michelin Däck 205/55r16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-vanced-not-connected-to-internet'>Youtube Vanced Not Connected To Internet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=raska-promenader-g%C3%A5-ner-i-vikt'>Raska Promenader Gå Ner I Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bada-p%C3%A5-legoland'>Bada På Legoland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizzeria-valentin-kungsbacka'>Pizzeria Valentin Kungsbacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dalbyv%C3%A4gen-51-arl%C3%B6v'>Dalbyvägen 51 Arlöv</a>,
+";s:7:"expired";i:-1;}

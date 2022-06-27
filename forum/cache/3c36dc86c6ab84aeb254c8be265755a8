@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2241:"synonym (sĭn`ənĭm) [Gr.,=having the same name], word having a meaning that is the same as or very similar to the meaning of another word of the same language. 2. Purpose. Synonym dictionaries have a long history. n. 1. (semantics, loosely) A word or phrase with a meaning that is the same as, or very similar to, another word or phrase. Synonym: metonym “Happy” is a synonym of “glad”. verb - cause to do . n. a person who possesses great material wealth. Use the CREATE SYNONYM statement to create a synonym, which is an alternative name for a table, view, sequence, operator, procedure, stored function, package, materialized view, Java class schema object, user-defined object type, or another synonym.A synonym places a dependency on its target object and becomes invalid if the target object is changed or dropped. To create a synonym in a given schema, a user must have CREATE SYNONYM permission and either own the schema or have ALTER SCHEMA permission. Synonym for Have birth give birth bear deliver Associated with Have twin drop foal cub kitten lamb litter pup whelp farrow pig fawn have young calve have a bun in the oven gestate expect bear carry produce bring forth. The word 'thesaurus' was used in 1852 by Peter Mark Roget for his Roget's Thesaurus, which groups words in a hierarchical taxonomy of concepts, but others are organized alphabetically or in some other way.. Some are alike in some meanings only, as live and dwell. Meaning: have hæv ,həv. The CREATE SYNONYM permission is a grantable permission. Synonym for Have cause induce stimulate make get Associated with Have  A word having the same or nearly the same meaning as another word or other words in a language. Most thesauruses do not include definitions, but many dictionaries include listings of synonyms. Define synonym. Description. A synonym is an alternative name for objects such as tables, views, sequences, stored procedures, and other database objects.. You generally use synonyms when you are granting access to an object from another schema and you don't want the users to have to worry about knowing which schema owns the object. synonym synonyms, synonym pronunciation, synonym translation, English dictionary definition of synonym. ";s:7:"keyword";s:16:"synonym for have";s:5:"links";s:3436:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=supply-chain-management-cbs'>Supply Chain Management Cbs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jotaro-theme-piano'>Jotaro Theme Piano</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if-metall-nybro'>If Metall Nybro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hembakat-br%C3%B6d-utan-j%C3%A4st'>Hembakat Bröd Utan Jäst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lindas-bakskola-jul'>Lindas Bakskola Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=verner-von-heidenstam-mest-k%C3%A4nda-dikter'>Verner Von Heidenstam Mest Kända Dikter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmlands-l%C3%A4n-befolkning'>Värmlands Län Befolkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=favorit-matematik-3a-facit'>Favorit Matematik 3a Facit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=campus-bokhandel-karlstad'>Campus Bokhandel Karlstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djurg%C3%A5rden-fotboll-2005'>Djurgården Fotboll 2005</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5ga-avloppsr%C3%B6r-plast'>Såga Avloppsrör Plast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-sjukanm%C3%A4lan-arbetsgivare'>Försäkringskassan Sjukanmälan Arbetsgivare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gasolgrill-ica-maxi'>Gasolgrill Ica Maxi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utskuren-biff-sous-vide'>Utskuren Biff Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ghost-forum-copenhagen'>Ghost Forum Copenhagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=planet-spel-akademibokhandeln'>Planet Spel Akademibokhandeln</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gina-dirawi-instagram'>Gina Dirawi Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse-idol-%C3%A5lder'>Tusse Idol ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarauktioner-2019-dalarna'>Sommarauktioner 2019 Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-p%C3%A5-kavring'>Lax På Kavring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frivisning-canal-digital'>Frivisning Canal Digital</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kommunala-sommarjobb-l%C3%B6n'>Kommunala Sommarjobb Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-news-youtube-australia'>Abc News Youtube Australia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kostar-en-gr%C3%A5hund'>Vad Kostar En Gråhund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6tt-med-ben-i-ugn'>Kött Med Ben I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ericsson-ab-logo'>Ericsson Ab Logo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolkort-g%C3%B6teborg-zoner'>Skolkort Göteborg Zoner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=native-instruments-client'>Native Instruments Client</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reng%C3%B6ra-golvbrunn-%C3%A4ttika'>Rengöra Golvbrunn ättika</a>,
+";s:7:"expired";i:-1;}

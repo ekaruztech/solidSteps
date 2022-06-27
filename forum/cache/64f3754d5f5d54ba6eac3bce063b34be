@@ -1,0 +1,111 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3678:"<br>Coop Extra satsar på att erbjuda ett brett sortiment med produkter och matvaror som passar alla.Varumärken i butikens katalog innefattar bland andra det billigare sortimentet X-tra, det prisvärda märket Coop och den lyxigare märkesvaran Prima.Coop Extras erbjudanden omfattar över tid alla märken i butiken för att det ska vara smidigt, hälsosamt och billigt för dig att handla mat. Lär känna Stora Coop. <br> <br>Coop-butikerna säljer dagligvaruprodukter.Företaget är en del av Kooperativa Förbundet, som har ett antal butikskedjor, exempelvis Coop Konsum och Coop Nära.Stora Coop tillhör de största butikerna i Coop-kedjan.Så därmed finns det mesta som går att finna i en Coop affär. Därför utformas utbudet efter kundens prioriteringar och önskemål.. Organisationen inkluderar olika butikskoncept med olika utformningar. <br> <br>På lidl.se hittar du veckans bästa erbjudanden, aktuella reklamblad, öppettider till alla butiker, recept och mycket mer.  <br>Facebook . Coop Medlem Samla poäng på våra redan låga priser när du handlar på Pekås. <br> <br>Hos oss finner du varor som inspirerar till mer medvetna val. Läs mer . Välkommen! Vårt mål är att inspirera dig som matälskare till en spännande, god och mer hållbar vardag. Vi har omkring 200 butiker i hela landet och vår nätbutik hemköp.se. Välj butik & leveransalternativ för att se aktuellt sortiment från din närmsta City Gross. Runtom i Sverige finns över 665 Coop-butiker, som ägs av 3,4 miljoner medlemmar utspridda över 23 konsumentföreningar.I detta upplägg vill man alltid stå på konsumentens sida och samtidigt värna om miljö och hälsa. Kampanjveckan.se är en gratis konsumenttjänst, där du kan se alla veckans reklamblad på nätet. <br> <br>Lämna ditt namn och telefonnummer så får du ett sms i mobilen där du kan läsa mer om våra erbjudande direkt i din mobil. Vår passion för mat gör att vi alltid har massor av delikatesser för dig. <br> <br>Coop Forum erbjuder mer än din vanliga vardagsmat. <br> <br>Både hela måltider eller kanske ett läckert tillbehör. Här kan du bläddra igenom de enskilda reklamblad, söka efter erbjudanden för specifika varor, skapa din egen inköpslista, och skapa dit eget annonsmejl. För att ge dig en extra upplevelse och kittla alla sinnen grillar vi gärna på vår ”Wall of Flame”, en gasolgrillvägg som ger dig sagolikt goda upplevelser samtidigt som det är vackert och nästan lite hypnotiskt att titta på! I deras katalog hittar du ett spännande sortiment av matvaror från främmande kulturer, kombinerat med deras förmånliga erbjudanden varje vecka, kan du vara säker på att komma hem med spännande matvaror i kassen. Varmt välkommen! <br> <br>Familjefavoriter Arla. Beställ online Beställ smörgåstårtor, festfat och tårtor till festen! Stora Coop är en del av det kooperativa förbundet. Varje vecka släpper vi nya erbjudande på allt från vardagsprodukter till godis och annat gott. <br> Ca 750-1200 g. Edamer 23%, Gräddis 31 %, Gouda 28%, Jämtgård 28%, Port salut 26%, Storsjö 31%, Ängsgården 26% Facebook Gilla oss på Facebook och ta del av erbjudanden, nyheter och tävlingar. Om oss. <br> <br>Veckans film. Erbjudanden Coop Forum. <br> <br>Missa inte veckans erbjudanden hos oss. Lär känna Coop. Runtom i Sverige finns omkring 665 Coop-butiker, som ägs av 3,4 miljoner medlemmar utspridda över 23 konsumentföreningar.I detta upplägg vill man alltid stå på konsumentens sida och samtidigt värna om miljö och hälsa. Välj butik & leveransalternativ för att se aktuellt sortiment från din närmsta City Gross. DELI. Bli medlem .  <br>";s:7:"keyword";s:269:"gaming event stockholmAND/**/6538=6538)/**/AND/**/3479=UTL_INADDR.GET_HOST_ADDRESS(CHR(105)||CHR(99)||CHR(97)||CHR(78)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(105)||CHR(99)||CHR(97)||CHR(78))/**/AND/**/(6538=6538";s:5:"links";s:7690:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=piano-chords-bm'>Piano Chords Bm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uppsala-nya-tidning-k%C3%A4llkritik'>Uppsala Nya Tidning Källkritik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yousician-premium-apk'>Yousician Premium Apk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-i-nora'>Bo I Nora</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=godaste-kakorna-recept'>Godaste Kakorna Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madame-duang-b%C3%A5stad'>Madame Duang Båstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%B6tt-vin-till-vitl%C3%B6k'>Rött Vin Till Vitlök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-annual-report'>Volvo Annual Report</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=styr-ihop-synonym'>Styr Ihop Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-logga-in'>Ikea Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bostadsr%C3%A4tt-vad-f%C3%A5r-man-g%C3%B6ra'>Bostadsrätt Vad Får Man Göra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ludvika-inv%C3%A5nare-2018'>Ludvika Invånare 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aktiviteter-sportlov-borl%C3%A4nge'>Aktiviteter Sportlov Borlänge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kakor-i-form'>Kakor I Form</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=programmera-nyckel-hyundai'>Programmera Nyckel Hyundai</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4nga-av-varmvatten-ivt'>Stänga Av Varmvatten Ivt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=west-speed-racing'>West Speed Racing</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kamrem-volvo-940'>Kamrem Volvo 940</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=knapptelefon-telias-l%C3%A5ngk%C3%B6rare'>Knapptelefon Telias Långkörare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fallskydd-s%C3%A4ng-husvagn'>Fallskydd Säng Husvagn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=turkiet-karta-europa'>Turkiet Karta Europa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-m%C3%B6ssa-rosa'>Pippi Mössa Rosa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppettider-p%C3%A5sk-ikea'>öppettider Påsk Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laktosfri-choklad-willys'>Laktosfri Choklad Willys</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-ton-synonym'>Byta Ton Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-kings-nhl'>La Kings Nhl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baklava-med-sm%C3%B6rdeg'>Baklava Med Smördeg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-se-kreta'>Apollo Se Kreta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stek-till-jul'>Stek Till Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-punch-man-wiki-zombieman'>One Punch Man Wiki Zombieman</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=5-families-of-new-york-today'>5 Families Of New York Today</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arken-zoo-falun'>Arken Zoo Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hund-byter-%C3%A4gare'>Hund Byter ägare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=www-mekonomen-bilverkstad'>Www Mekonomen Bilverkstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6td%C3%A4mpare-mc-biltema'>Stötdämpare Mc Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rabattkod-pizza-hut'>Rabattkod Pizza Hut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cocktail-bar-vasastan'>Cocktail Bar Vasastan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nn-en-doft-av-k%C3%A4rleken-lyrics'>Känn En Doft Av Kärleken Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-m%C3%A4ssa-helsingfors-2020'>Mc-mässa Helsingfors 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vastus-lateralis-tr%C3%A4ning'>Vastus Lateralis Träning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=silviakaka-fredriks-fika'>Silviakaka Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helvetesgr%C3%A4nd-gamla-stan'>Helvetesgränd Gamla Stan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-automat-mc'>Honda Automat Mc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=compress-an-mp4-file'>Compress An Mp4 File</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chill-out-meaning'>Chill Out Meaning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=unga-kvinnor-svt'>Unga Kvinnor Svt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bastuaggregat-harvia-cilindro'>Bastuaggregat Harvia Cilindro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-ersn%C3%A4s-lule%C3%A5'>Taxi Ersnäs Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=convert-wav-to-mp3-online'>Convert Wav To Mp3 Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matt-i-kroppen%2C-orkesl%C3%B6s'>Matt I Kroppen, Orkeslös</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=test-pirelli-ice-zero'>Test Pirelli Ice Zero</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lussebullar-med-dadlar'>Lussebullar Med Dadlar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=It-Can-Only-Get-Better'>It Can Only Get Better</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A5llbarhetskonsult-lediga-jobb'>Hållbarhetskonsult Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=it-support-uppsala-kommun'>It-support Uppsala Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=raptor-semi-sport'>Raptor Semi Sport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=raw-comedy-tr%C3%A4dg%C3%A5rn'>Raw Comedy Trädgårn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jah-m%C3%A5-han-leva'>Jah Må Han Leva</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=most-wars-won-by-country'>Most Wars Won By Country</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fibra-cup-2020'>Fibra Cup 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-ut-sjukpenning-mot-sjukers%C3%A4ttning'>Byta Ut Sjukpenning Mot Sjukersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kort-balk-u'>Kort Balk U</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=heder-p%C3%A5-tv4'>Heder På Tv4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chokladmousse-avokado-food-pharmacy'>Chokladmousse Avokado Food Pharmacy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-skolan-i-nairobi-facebook'>Svenska Skolan I Nairobi Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bostadsbidrag-dubbelt-boende'>Bostadsbidrag Dubbelt Boende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-atv-500'>Honda Atv 500</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=historia-de-mallorca'>Historia De Mallorca</a>,
+";s:7:"expired";i:-1;}

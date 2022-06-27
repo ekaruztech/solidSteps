@@ -1,0 +1,132 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1537:"<p>Barnen kan gå i särskola från årskurs 1. En vårdnadshavare kan begära att barnet ska börja direkt i specialskolan utan att först ha gått ut förskoleklassen, och det kan godkännas om barnet bedöms ha förutsättningar för det. Att barnet har Downs syndrom innebär inget undantag från … Vårdnadshavarna ska ge hemkommunen sitt svar skriftligt. </p> <p></p> <p>Att börja i särskolan; Jämför förskolor, grundskolor och gymnasieskolor; ... Dina barn kan ta del av ordinarie förskoleverksamhet från det att de är 1 år gamla tills att de börjar skolan. Särskolan är i Sverige en skolform för elever som inte klarar skolgång i grundskolan på grund av utvecklingsstörning eller som på grund av en förvärvad hjärnskada fått en betydande och bestående begåvningsnedsättning. Detta regleras i Skollagen (SFS1985:1100, 3 kapitlet 3§ med flera). Särskola; Särskola. Det är specialpedagogiska skolmyndigheten (SPSM) som fattar beslut om ett barn ska tas emot i specialskolan. Grundsärskolans syfte ... Beslutet att låta ett barn börja i särskolan får långtgående och livslånga konsekvenser för det enskilda barnet och därför måste en utförlig och noggrann utredning göras innan. Om bara en av dem tackar ja är det inte möjligt för barnet att börja i särskolan. Innan hemkommunen kan fatta beslutet att en elev ska börja i särskolan måste båda vårdnadshavarna tacka ja till det.  Tidigare kunde även elever med autism eller autismspektrumstörning bli mottagna i särskolan. </p>";s:7:"keyword";s:20:"att börja särskola";s:5:"links";s:10544:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-dyraste-1a'>Sveriges Dyraste 1a</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ik-kongah%C3%A4lla-p09'>Ik Kongahälla P09</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-mamma-marianne-stream'>Min Mamma Marianne Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kung-lear-film'>Kung Lear Film</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=whitney-houston-album'>Whitney Houston Album</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hostel-3-rollista'>Hostel 3 Rollista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ngo-organisationer-lista'>Ngo Organisationer Lista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kallr%C3%B6kt-lax-i-skivor'>Kallrökt Lax I Skivor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-on-call-login'>Volvo On Call Login</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bk-kenty-p05'>Bk Kenty P05</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omega-3-finns-i'>Omega 3 Finns I</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smulpaj-med-vaniljs%C3%A5s'>Smulpaj Med Vaniljsås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=procivitas-student-2020'>Procivitas Student 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schema-skola24-varberg'>Schema Skola24 Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hammarby-varberg-svenska-cupen-tv'>Hammarby Varberg Svenska Cupen Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sp%C3%A5rkort-orsa-gr%C3%B6nklitt'>Spårkort Orsa Grönklitt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=niklas-thor-livets-ord'>Niklas Thor Livets Ord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fora-f%C3%B6rs%C3%A4kring-kostnad'>Fora Försäkring Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=visitor-travelcard-london'>Visitor Travelcard London</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kan-inte-sova-tr%C3%A4ningsv%C3%A4rk'>Kan Inte Sova Träningsvärk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rate-it-app'>Rate It App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=weather-las-palmas-yr'>Weather Las Palmas Yr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=economic-crisis-in-venezuela'>Economic Crisis In Venezuela</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fodral-innebandyklubba-barn'>Fodral Innebandyklubba Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krocka-med-sommard%C3%A4ck-p%C3%A5-vintern'>Krocka Med Sommardäck På Vintern</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=borgerlig-vigsel-solna'>Borgerlig Vigsel Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-i-nora'>Bo I Nora</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirius-innebandy-dam-instagram'>Sirius Innebandy Dam Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inreda-%C3%B6ppen-planl%C3%B6sning'>Inreda öppen Planlösning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trygg-hansa-bilf%C3%B6rs%C3%A4kring-sj%C3%A4lvrisk'>Trygg-hansa Bilförsäkring Självrisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rdefulla-japanska-frim%C3%A4rken'>Värdefulla Japanska Frimärken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flens-kommun-nyheter'>Flens Kommun Nyheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=handelsbanken-lediga-jobb'>Handelsbanken Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gambino-crime-family-boss'>Gambino Crime Family Boss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbels%C3%A4ng-180x200-mio'>Dubbelsäng 180x200 Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grillgaller-jamie-oliver'>Grillgaller Jamie Oliver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llg%C3%A5rd-till-salu'>Fjällgård Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kim-anderzon-dokument%C3%A4r'>Kim Anderzon Dokumentär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidningen-%C3%A5ngermanland-annons'>Tidningen ångermanland Annons</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aroma-di-limone-pasta'>Aroma Di Limone Pasta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egenavgifter-enskild-firma'>Egenavgifter Enskild Firma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=news-sports-news'>News Sports News</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-in-toalettstol'>Bygga In Toalettstol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=superbook-kanal-10'>Superbook Kanal 10</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=westlife-new-single'>Westlife New Single</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-%C3%A4r-stressade'>Hur Många är Stressade</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alexandra-bring-%C3%A5lder'>Alexandra Bring ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=john-deere-tramptraktor-med-sl%C3%A4p'>John Deere Tramptraktor Med Släp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ulfsunda-slott-utst%C3%A4llning'>Ulfsunda Slott Utställning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-e-commerce'>Swish E Commerce</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparco-custom-suit'>Sparco Custom Suit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buzzfeed-quiz-it'>Buzzfeed Quiz It</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sticker-ut-fr%C3%A5n-f%C3%B6rst%C3%A4v'>Sticker Ut Från Förstäv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=handl%C3%A4ggningstid-h%C3%B6gsta-domstolen'>Handläggningstid Högsta Domstolen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=autism-skola-v%C3%A4xj%C3%B6'>Autism Skola Växjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hth-kok-online'>Hth Kok Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Sure-Hotel-by-Best-Western-St%C3%A5ng%C3%A53%2C6%28247%290%2C7%C2%A0km-bort1%C2%A0878%C2%A0UAH'>Sure Hotel By Best Western Stångå3,6(247)0,7 km Bort1 878 UAH</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pulled-pork-fl%C3%A4skl%C3%A4gg'>Pulled Pork Fläsklägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-maxi-b%C3%A5lsta-sommarjobb'>Ica Maxi Bålsta Sommarjobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rap-konsert-stockholm'>Rap Konsert Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bli-allm%C3%A4nbildad-app'>Bli Allmänbildad App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-komiker-johan'>Svenska Komiker Johan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=practice-seterra-european-countries'>Practice Seterra European Countries</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4stmanlands-teater-corona'>Västmanlands Teater Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv3-sverige-live-streaming'>Tv3 Sverige Live Streaming</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stenugnsbakad-pizza-stockholm'>Stenugnsbakad Pizza Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barnstrumpor-storlek-cm'>Barnstrumpor Storlek Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=homestyling-utbildning-g%C3%B6teborg'>Homestyling Utbildning Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=em-basket-herrar-2021'>Em Basket Herrar 2021</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dra-ut-kylsk%C3%A5p'>Dra Ut Kylskåp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kaka-till-julkaffet'>Kaka Till Julkaffet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eluttag-bakom-diskmaskin'>Eluttag Bakom Diskmaskin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jupiter-i-stenbocken-2020'>Jupiter I Stenbocken 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sharepoint-mora-kommun'>Sharepoint Mora Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=problem-lyrics-william'>Problem Lyrics William</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=voulez-vous-coucher-avec-moi-ce-soir-translate'>Voulez Vous Coucher Avec Moi Ce Soir Translate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gefle-dagblad-ins%C3%A4ndare'>Gefle Dagblad Insändare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djup-beige-soffa'>Djup Beige Soffa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=esl%C3%B6vs-gk-t%C3%A4vlingar'>Eslövs Gk Tävlingar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=global-uppv%C3%A4rmning-ne'>Global Uppvärmning Ne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lill%C3%A5ngen-h%C3%B6gsk%C3%A5p-spegel'>Lillången Högskåp Spegel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=separera-med-barn-ekonomi'>Separera Med Barn Ekonomi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nexen-n%27fera-su1'>Nexen N'fera Su1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helgutflykt-fr%C3%A5n-stockholm'>Helgutflykt Från Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-ff-2012'>Malmö Ff 2012</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=capio-%C3%B6gonklinik-priser'>Capio ögonklinik Priser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-mycket-f%C3%A5r-man-i-aktivitetsst%C3%B6d'>Hur Mycket Får Man I Aktivitetsstöd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-uplandia-svit'>Scandic Uplandia Svit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=forex-bank-gula-kortet-inloggning'>Forex Bank Gula Kortet Inloggning</a>,
+";s:7:"expired";i:-1;}

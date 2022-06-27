@@ -1,5 +1,5 @@
 <?php
-/*  for PRO users! - *
+/**
  *  /!\ This is a copy of Walker_Nav_Menu_Edit class in core
  * 
  * Create HTML list of nav menu input items.
@@ -9,7 +9,7 @@
  * @uses Walker_Nav_Menu
  */
 class Walker_Nav_Menu_Edit_Custom extends Walker_Nav_Menu  {
-	/*  for PRO users! - *
+	/**
 	 * @see Walker_Nav_Menu::start_lvl()
 	 * @since 3.0.0
 	 *
@@ -18,7 +18,7 @@ class Walker_Nav_Menu_Edit_Custom extends Walker_Nav_Menu  {
 	function start_lvl(&$output, $depth = 0, $args = array()) {	
 	}
 	
-	/*  for PRO users! - *
+	/**
 	 * @see Walker_Nav_Menu::end_lvl()
 	 * @since 3.0.0
 	 *
@@ -27,7 +27,7 @@ class Walker_Nav_Menu_Edit_Custom extends Walker_Nav_Menu  {
 	function end_lvl(&$output, $depth = 0, $args = array()) {
 	}
 	
-	/*  for PRO users! - *
+	/**
 	 * @see Walker::start_el()
 	 * @since 3.0.0
 	 *
@@ -74,11 +74,11 @@ class Walker_Nav_Menu_Edit_Custom extends Walker_Nav_Menu  {
 	
 	    if ( ! empty( $item->_invalid ) ) {
 	        $classes[] = 'menu-item-invalid';
-	        /*  for PRO users! -  translators: %s: title of menu item which is invalid */
+	        /* translators: %s: title of menu item which is invalid */
 	        $title = sprintf( __( '%s (Invalid)', 'swift-framework-admin' ), $item->title );
 	    } elseif ( isset( $item->post_status ) && 'draft' == $item->post_status ) {
 	        $classes[] = 'pending';
-	        /*  for PRO users! -  translators: %s: title of menu item in draft status */
+	        /* translators: %s: title of menu item in draft status */
 	        $title = sprintf( __('%s (Pending)', 'swift-framework-admin' ), $item->title );
 	    }
 	
@@ -172,7 +172,7 @@ class Walker_Nav_Menu_Edit_Custom extends Walker_Nav_Menu  {
 	                </label>
 	            </p>        
 	            <?php
-	            /*  for PRO users! -  New fields insertion starts here */
+	            /* New fields insertion starts here */
 	            ?>      
 	           <!-- <p class="field-custom description description-wide">
 	                <label for="edit-menu-item-subtitle-<?php echo $item_id; ?>">
@@ -273,7 +273,7 @@ class Walker_Nav_Menu_Edit_Custom extends Walker_Nav_Menu  {
 	            </div>
 	            
 	            <?php
-	            /*  for PRO users! -  New fields insertion ends here */
+	            /* New fields insertion ends here */
 	            ?>
 	            <div class="menu-item-actions description-wide submitbox">
 	                <?php if( 'custom' != $item->type && $original_title !== false ) : ?>

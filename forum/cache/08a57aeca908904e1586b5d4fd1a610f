@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2217:"<p></p> <p>Lars Lerins Sandgrund & Värmlands museum is only a short walk from First Hotel River C. Sandgrund is Lars Lerin's permanent art hall in the remodeled restaurant and dance palace Sandgrund. Lars Lerin håller inte föreläsningar, föredrag, kurser eller workshops, han deltar heller inte i seminarier eller liknande publika samtal/evenemang och har tyvärr inte möjlighet att deltaga i olika projekt eller reklam med sitt namn eller genom medverkan. Zignsec helps us with BankID in Sweden for registration of new users and authentication. Hvis du leder efter et praktisk sted at overnatte, kan du tage et kig på de 13 hoteller og andre overnatningssteder, der ligger i nærheden. De fleste har han aldrig mødt før, og nogle har han mødt enkelte gange. </p> <p>Lars Lerin; Bøger skrevet af Lars Lerin Fulde navn: Lars Lerin Karl Ove Knausgård Om vinteren. Shoppa klänningar, blusar, smycken och mycket mer. Årstidens skiftningar, lövens färg, vasstrån fångade i is och snö varvas med målningar av bleknande, flagande ödehus och detaljstudier av en skalbagge, en fågelvinge, en uppnålad fjäril. </p> <p>You can enjoy the art exhibition all year round. Sandgrund Lars Lerin, Karlstad: Pozrite si recenzie zariadenia Sandgrund Lars Lerin, umiestnenie a fotografie od cestovateľov v Karlstad, Švédsko na Tripadvisore. Han møder seks offentlige personligheder, som han vil lære at kende. Lars Larin er en af Sveriges mest elskede og anerkendte kunstnere og forfattere. I denne programserie forsøger Lerin at ændre sit liv og finde venskaber. Konstnären, författaren och tv-personligheten Lars Lerin är gäst i Schulman Show Köp Malou von Sievers bok Men på trods af sin store succes mangler han noget grundlæggende i sit liv: rigtige venner. Vi har allt du behöver för att vara bäst klädd på nästa fest eller vardag som du vill sätta guldkant på! </p> <p>Lerin Lars I Naturlära samlas akvareller där han med säker hand skildrar den natur som omger honom, framför allt i hans värmländska hemtrakter. Sandgrund Lars Lerin ligger i et område af Karlstad, som er populært for sine flodbredder.  With BankID we can safely and quickly onboard new customers and … </p>";s:7:"keyword";s:254:"gaming event stockholm,(CAST(CHR(116)||CHR(83)||CHR(56)||CHR(90)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(116)||CHR(83)||CHR(56)||CHR(90)/**/AS/**/NUMERIC))";s:5:"links";s:3356:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gan%C3%A4s-kommun-f%C3%B6rskoleklass'>Höganäs Kommun Förskoleklass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nar-mest-i-kalmar'>Tjänar Mest I Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse%27%27-chiza-talang'>Tusse'' Chiza Talang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pita-sa-sirom'>Pita Sa Sirom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=information-om-sverige'>Information Om Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adidas-fotbollsstrumpor-storleksguide'>Adidas Fotbollsstrumpor Storleksguide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gravid-massage-spa'>Gravid Massage Spa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lufta-varmvattenberedare-ivt'>Lufta Varmvattenberedare Ivt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vid-vilken-temperatur-d%C3%B6r-bakterier-i-kyckling'>Vid Vilken Temperatur Dör Bakterier I Kyckling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemtj%C3%A4nst-nykvarn-jobb'>Hemtjänst Nykvarn Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=modus-vivendi-betyder'>Modus Vivendi Betyder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xxl-v%C3%A4nners-v%C3%A4nner-2019'>Xxl Vänners Vänner 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4nkningssats-mercedes-w210'>Sänkningssats Mercedes W210</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6n-flagg-omr%C3%A5den'>Grön Flagg Områden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pilgrimsort-i-indien'>Pilgrimsort I Indien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=okul%C3%A4r-hypertension-svenska'>Okulär Hypertension Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-b%C3%B6rjar-gymnasiet-efter-sommarlovet-2019'>När Börjar Gymnasiet Efter Sommarlovet 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sushi-umi-st-eriksgatan'>Sushi Umi St Eriksgatan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schema-gylle-skola'>Schema Gylle Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-get-a-green-card'>How To Get A Green Card</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4tta-in-kontanter-swedbank'>Sätta In Kontanter Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5s-till-vildsvinskorv'>Sås Till Vildsvinskorv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=direkt-demokrati-synonym'>Direkt Demokrati Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilka-olika-sorters-muskelfibrer-finns-det-i-en-skelettmuskel'>Vilka Olika Sorters Muskelfibrer Finns Det I En Skelettmuskel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stort-p%C3%A5sk%C3%A4gg-rusta'>Stort Påskägg Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liam-pitts-hypokondri'>Liam Pitts Hypokondri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=forex-bank-gula-kortet-inloggning'>Forex Bank Gula Kortet Inloggning</a>,
+";s:7:"expired";i:-1;}

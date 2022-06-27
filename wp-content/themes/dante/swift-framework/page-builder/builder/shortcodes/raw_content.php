@@ -1,10 +1,10 @@
 <?php
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Raw Content Shortcodes Config
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 	
@@ -82,7 +82,7 @@
 	) );
 	
 	class SwiftPageBuilderShortcode_spb_raw_js extends SwiftPageBuilderShortcode_spb_raw_html {
-	/*  for PRO users! - 
+	/*
 	    public function content( $atts, $content = null ) {
 	
 	        $el_class = $width = $el_position = '';

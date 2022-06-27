@@ -1,0 +1,101 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2911:"<br>UNF har personal både lokalt runt om i landet men också på UNF:s kansli på Stora Essingen i Stockholm.  <br>Som Sveriges främsta nykterhetsorganisation erbjuder vi ett meningsfullt arbete där du har möjlighet att medverka till ett samhälle, en värld, där alkohol och andra droger inte hindrar människor att leva ett fritt och rikt liv. Senaste nytt. Kamratstöd. Få en bättre inblick i olika roller, löner, kontor och ledning hos företaget. Beskriv vad du gjort och vad du är intresserad av på ett så tydligt sätt som möjligt. Du kan även läsa guider och reportage eller jämföra internationella levnadsomkostnader. Vad kul att du söker dig till UNF! / Om IOGT-NTO / Jobba hos oss / Lediga tjänster. 2019-07-02 Båtluff till Stockholms skärgård; Sänd gärna in en spontan ansökan för framtida lediga platser. Sänd till HR-avdelningen, Miljonlotteriet, 435 83 Mölnlycke. Följ IOGT-NTO Stockholms distrikt på Facebook så får du koll på det allra senaste. Lediga jobb Behandlingshemmet Dagöholm IOGT-NTO i Katrineholm Se alla lediga jobb från Behandlingshemmet Dagöholm IOGT-NTO i Katrineholm. Jobba hos IOGT-NTO lediga tjänster . Här hittar du även jobb inom hela IOGT-NTO-rörelsen. <br> Vi är en del av en världsomspännande folk- och bildningsrörelse som bygger på principen om alla människors lika värde och rättigheter, utan åtskillnad av något slag. Läs mer om våra värdeord. Jobba hos oss IOGT-NTO som arbetsgivare. Dessutom kan du köpa lotter i butik. <br> <br>Överskottet från Miljonlotteriet går oavkortat till IOGT-NTO-rörelsens verksamhet. Upptäck om IOGT-NTO kan vara det rätta företaget för dig. Att jobba på UNF innebär en massa engagemang, glädje och kanske en och annan kämpetår. IOGT-NTO Kommunikations- och påverkansavdelningen, Brysselkontoret.  Vi på IOGT-NTO ger dig en arbetsplats i trivsam miljö där du har roligt på jobbet. Hos oss kan du prenumerera på skraplotter, spela bingo och skrapa lotter online. Genom att välja ett specifikt yrke kan du även välja att se alla lediga jobb i Katrineholm som finns inom det yrket. Jämför löner för populära roller och läs mer om företagskulturen. / Om IOGT-NTO / Jobba hos oss. ... Hos oss annonserar arbetsgivare lediga jobb runt om i världen där rollerna kräver flytande svenskkunskaper. Genom Kamratstödet skapar vi tillsammans en nykter träffpunkt där vi kan koppla av, fika, lära sig något nytt eller skapa av gammalt. Ta reda på hur det är att jobba på IOGT-NTO. Att arbeta tillsammans med oss inom studieförbundet NBV eller IOGT-NTO-rörelsen är att ha ett meningsfullt yrkesliv och att bidra till samhällsutvecklingen. Miljonlotteriet är en av Sveriges största och äldsta speloperatörer. Våra värdeord är öppenhet, omtanke och kreativitet. Besök Miljonlotteriets Linkedin för att se vilka fler tjänster som är lediga >> <br>";s:7:"keyword";s:28:"bumbibj�rnarna trap remix'";s:5:"links";s:7098:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rent-apartment-new-york'>Rent Apartment New York</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gasolgrill-ica-maxi'>Gasolgrill Ica Maxi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=komplett-s%C3%A4ngpaket-ikea'>Komplett Sängpaket Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jojo-main-themes'>Jojo Main Themes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-resm%C3%A5let-i-thailand-f%C3%B6r-par'>Bästa Resmålet I Thailand För Par</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A4na-bort-stress'>Träna Bort Stress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-g%C3%B6r-dig-stressad'>Vad Gör Dig Stressad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-jula'>Lediga Jobb Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buzzfeed-quiz-it'>Buzzfeed Quiz It</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vitvinss%C3%A5s-med-dill'>Vitvinssås Med Dill</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4cka-intresse-engelska'>Väcka Intresse Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vredestein-vinterd%C3%A4ck-test'>Vredestein Vinterdäck Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klassiska-svenska-barnb%C3%B6cker'>Klassiska Svenska Barnböcker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brand-centrala-stockholm'>Brand Centrala Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hannover-messe-agritechnica-2019'>Hannover Messe Agritechnica 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-abonnemang-utomlands'>Tre Abonnemang Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skjutning-malm%C3%B6-flashback'>Skjutning Malmö Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bor%C3%A5s-kommun-trafik'>Borås Kommun Trafik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=3-r%C3%A4tters-meny-med-oxfil%C3%A9'>3 Rätters Meny Med Oxfilé</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kultur-i-bern'>Kultur I Bern</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dhl-tracking-barcode'>Dhl Tracking Barcode</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4kt-slang-150-mm'>Fläkt Slang 150 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ssab-b-avanza'>Ssab B Avanza</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wondershare-filmora-registration-key-and-email'>Wondershare Filmora Registration Key And Email</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sous-vide-f%C3%A4rsk-korv'>Sous Vide Färsk Korv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sockerkaka-med-sm%C3%B6rkr%C3%A4m'>Sockerkaka Med Smörkräm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6pande-text-synonym'>Löpande Text Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kylv%C3%A4tska-motorcraft-super-plus'>Kylvätska Motorcraft Super Plus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rml%C3%A4ndsk-voodoo-v%C3%A4ster%C3%A5s'>Värmländsk Voodoo Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wahlgrens-v%C3%A4rld-s%C3%A4song-7-antal-avsnitt'>Wahlgrens Värld Säsong 7 Antal Avsnitt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bananfl%C3%A4ckar-p%C3%A5-soffa'>Bananfläckar På Soffa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startrel%C3%A4-volvo-v70'>Startrelä Volvo V70</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4tat-halsband-hund'>Flätat Halsband Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beginners-spinning-workout'>Beginners Spinning Workout</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rordning-om-allm%C3%A4nna-f%C3%B6rvaltningsdomstolar'>Förordning Om Allmänna Förvaltningsdomstolar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=service-cf-moto-500'>Service Cf Moto 500</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laktosfri-vit-choklad'>Laktosfri Vit Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bergstr%C3%B6ms-alkohol--och-drogterapeut'>Bergströms Alkohol- Och Drogterapeut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dark-souls-3-follower-spear'>Dark Souls 3 Follower Spear</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kroppens-starkaste-muskel-hj%C3%A4rtat'>Kroppens Starkaste Muskel Hjärtat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spa-erbjudande-v%C3%A4ster%C3%A5s'>Spa Erbjudande Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-g%C3%A4stis-borensberg'>Lunch Gästis Borensberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ipad-batteri-laddar-ur-snabbt'>Ipad Batteri Laddar Ur Snabbt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st-l%C3%A4kare-oftalmologi-jobb'>St-läkare Oftalmologi Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bl%C3%A5b%C3%A4rsgr%C3%B6t-fredriks-fika'>Blåbärsgröt Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steka-l%C3%B6k-med-socker'>Steka Lök Med Socker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-maskroslampa-g%C3%B6ra-om'>Ikea Maskroslampa Göra Om</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ingen-chromecast-symbol-netflix'>Ingen Chromecast Symbol Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A5rd--och-omsorg-gymnasium-g%C3%B6teborg'>Vård- Och Omsorg Gymnasium Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hakuna-matata-swahili'>Hakuna Matata Swahili</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=salladsdressing-med-f%C3%A4rska-%C3%B6rter'>Salladsdressing Med Färska örter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zone-supreme-air-soft-feel'>Zone Supreme Air Soft Feel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frysa-vitk%C3%A5l-till-k%C3%A5ldolmar'>Frysa Vitkål Till Kåldolmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badehotellet-s%C3%A6son-7'>Badehotellet Sæson 7</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=em-kval-grupp-f'>Em-kval Grupp F</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kissat-i-s%C3%A4ngen-reng%C3%B6ring'>Kissat I Sängen Rengöring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spansk-musik-wikipedia'>Spansk Musik Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-bergman-sjuksk%C3%B6terska'>Daniel Bergman Sjuksköterska</a>,
+";s:7:"expired";i:-1;}

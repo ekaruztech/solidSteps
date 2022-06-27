@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2402:"<p>Nyhetsmorgon i TV4 från 2016-04-22: Det har nu gått 30 år sedan Tjernobylkatastrofen men fortfarande påverkas Sverige. For 30 år siden eksploderede en bombe ombord på et Boeing-fly, der styrtede ned i en lille skotsk by. Den vagthavende chef tog – uvidende om faren – beslutning efter beslutning, der førte til katastrofen. Efter 30 år som 'Apu' i The Simpsons vil skuespiller ikke længere lægge stemme til stereotyp inder Stemmen bag den indiske kioskejer fra "The Simpsons" er blevet fritaget for rollen. Mette Agerup . Såhär står det på Fk´s Hemsida. </p> <p>08:43 40. Efter 30 år, dit ansigt er meget følsom over for hver time, du ikke Dospat, hver kop te drukket inden jeg går i seng, og hver stressende situation, at du var nødt til at udholde. </p> <p>1 af 2. Og de vigtigste detaljer kunne læses i Ingeniøren allerede et halvt år efter braget. "Aktivitetsersättning är en ersättning för dig som är mellan 19 och 29 år och troligen inte kommer att kunna arbeta heltid på minst ett år på grund av sjukdom, skada eller funktionsnedsättning." 30 år efter vedtagelsen af FN’s Børnekonventionen 30 danske børneeksperter hylder historiske fremskridt for børns rettigheder i Danmark, men er dybt bekymrede over nye og akutte udfordringer i 2019 med stigende mistrivsel, social polarisering og faldende kendskab til rettigheder blandt danske børn. </p> <p>Jens Erik Sørensen har i 30 år haft en prominent rolle i det aarhusianske kulturliv. Takker af efter 30 år. Angrebet, der kostede 270 livet, er aldrig fuldt ud blevet opklaret, og vragrester fra flyet ligger stadig i depot. 20:09 Bemærk: Artiklen er mere end 30 dage gammel. Nyhetsmorgon är TV4:s morgonprogram som …  ? Derfor er du nødt til at lægge en stor indsats at se så frisk og ung, som de plejer. Apu Nahasapeemapetilon fra tv-serien "The Simpsons", der ejer kiosken "Kwik-E-Mart". Vad händer då man är över 30 år då och blir utförsäkrad eller vad dom nu menar? Men nu er det slut. 09. dec 2013, kl. Direktør har ikke flere Aros-drømme at realisere. 30 år efter Lockerbie: Tonsvis af flyrester er lokaliseret på en skrotplads. </p> <p>03:08 . Vad får man för pengar då? Af Thomas Djursing 25. apr 2016 kl. Tjernobyl 30 år efter: Sådan forløb de frygtelige minutter før eksplosionen. Du er nødt til at følge alle regler for pleje: </p> <p>21. december 2018 . </p>";s:7:"keyword";s:34:"aktivitetsersättning efter 30 år";s:5:"links";s:3302:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ns-zelmerl%C3%B6w-youtube'>Måns Zelmerlöw Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4tta-upp-bilder-p%C3%A5-v%C3%A4ggen-utan-m%C3%A4rken'>Sätta Upp Bilder På Väggen Utan Märken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ryggbiff-med-kappa'>Ryggbiff Med Kappa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A5ng%C3%A5staden-lediga-bost%C3%A4der'>Stångåstaden Lediga Bostäder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfria-havrekex-recept'>Glutenfria Havrekex Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dagens-lunch-lule%C3%A5'>Dagens Lunch Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catering-julbord-falun'>Catering Julbord Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flygbussarna-arlanda-hittegods'>Flygbussarna Arlanda Hittegods</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=visa-electron-vs-visa'>Visa Electron Vs Visa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4da-med-vin%C3%A4ger'>Städa Med Vinäger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-company-aktie'>Absolut Company Aktie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=august-strindberg-syskon'>August Strindberg Syskon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4xhj%C3%A4lp-b%C3%A4st-i-test'>Läxhjälp Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kliniska-riktlinjer-svenska-psykiatriska-f%C3%B6reningen'>Kliniska Riktlinjer Svenska Psykiatriska Föreningen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jamie-oliver-stekpanna-2-pack'>Jamie Oliver Stekpanna 2 Pack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sl%C3%A4ng-dig-i-brunnen-anders-ankan'>Släng Dig I Brunnen Anders Ankan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ta-billigt-i-new-york-2018'>äta Billigt I New York 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medeltiden-skatt-till-kungen'>Medeltiden Skatt Till Kungen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=crazy-u-soffa-xl'>Crazy U-soffa Xl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-sjukhuset-g%C3%A4vle'>Restaurang Sjukhuset Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=border-collie-psyke'>Border Collie Psyke</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=don-quijote-japan-2019'>Don Quijote Japan 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-snabbt-g%C3%A5r-man'>Hur Snabbt Går Man</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lazy-town-imdb'>Lazy Town Imdb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-med-kontanta-medel-inom-eu'>Resa Med Kontanta Medel Inom Eu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton---carolus-rex-lyrics'>Sabaton - Carolus Rex Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=specialkost-pite%C3%A5-kommun'>Specialkost Piteå Kommun</a>,
+";s:7:"expired";i:-1;}

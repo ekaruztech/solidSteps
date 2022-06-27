@@ -1,0 +1,73 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2197:"<p>iPhone 11 Pro – The iPhone 11 Pro features a 12MP front-facing camera. Camera. </p> <p>On the rear camera you get a dual 12MP wide and telephoto camera. But the rear camera is a triple-lens system with a 12MP wide-angle, ultra wide-angle, and telephoto lens, triple optical image stabilisation, optical zoom, and 4K video recording. The iPhone 11 Pro starts at $999, while the iPhone 11 Pro Max starts at $1,099.  iPhone 11: Specs and features. iPhone 8 Plus – The iPhone 8 Plus features a 7MP front-facing camera. 12 … The iPhone 11 Pro and iPhone XS have the same size screen, but the iPhone 11 Pro got a slight upgrade: the phone has a Super Retina XDR display, compared to the iPhone XS 's … iPhone 11 Pro Max. 6.1-inch LED Retina display. The 5.8-inch iPhone 11 Pro is the one to get if you want the most advanced iPhone that's easy to use with one hand. The Apple iPhone 11 Pro Max is the Cupertino tech giant’s latest and greatest flagship smartphone, featuring a 6.5-inch Super Retina XDR OLED display, Apple’s latest A13 Bionic chipset, and up to 512GB of internal storage. It’s also the first iPhone to come with a triple-camera setup. Anodized aluminum. Apple has unveiled a trio of new iPhones, namely the iPhone 11, iPhone 11 Pro and iPhone 11 Pro Max.These are all premium phones, but they also … Apple iPhone 11 Pro Max Specification, Image and Price in Nigeria, Kenya, Ghana, Egypt, Ivory Coast, Tanzania, Cameroon, Uganda, Morocco, Algeria, Senegal, Tunisia, Pakistan, India, Bangladesh The Apple iPhone 11 Pro Max comes with a 6.5 inch display and boasts of an Hexa Core (2 performance Cores + 4 Efficiency Cores) Processor with iOS 13. While the iPhone 11 is no heavier than its predecessor at 6.84 ounces, the 11 Pro is 6.63 ounces (as opposed to the XS’s weight of 6.24 ounces), and the large 11 Pro … The last phone to be announced but not least, One of my favorites, It’s the iPhone 11 Pro Max and is an upgrade to the iPhone XS Max from last year, comes with a massive 6.5-inch OLED Super Retina XDR Display with 2,688×1,242 pixels on the display, has dimensions of 6.22×3.06×0.32 in and weighs around 226g nearly same as the OnePlus 7 Pro. </p>";s:7:"keyword";s:258:"gaming innovation group')/**/AND/**/8651=DBMS_UTILITY.SQLID_TO_SQLHASH(CHR(57)||CHR(66)||CHR(98)||CHR(65)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(57)||CHR(66)||CHR(98)||CHR(65))/**/AND/**/('6538'='6538";s:5:"links";s:3596:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%A4neringsbrunn-med-pump'>Dräneringsbrunn Med Pump</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=passande-f%C3%B6rr%C3%A4tt-till-torskrygg'>Passande Förrätt Till Torskrygg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4ndningsl%C3%A5s-dinli-450'>Tändningslås Dinli 450</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trappor-i-varanasi'>Trappor I Varanasi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=soul-train-v%C3%A4ster%C3%A5s'>Soul Train Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=play-off-euro-2020'>Play-off Euro 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6t-m%C3%A4ttar-inte'>Gröt Mättar Inte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iogt-st%C3%A5r-f%C3%B6r'>Iogt Står För</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=igtv-minimum-length'>Igtv Minimum Length</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kappahl-hoodie-barn'>Kappahl Hoodie Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=manchester-united-tofflor'>Manchester United Tofflor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rundtur-i-stockholms-sk%C3%A4rg%C3%A5rd'>Rundtur I Stockholms Skärgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hdcs-distrikt-a'>Hdcs Distrikt A</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landseer-eller-newfoundland'>Landseer Eller Newfoundland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=perstorps-kommun-skola'>Perstorps Kommun Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jensen-v%C3%A4ster%C3%A5s-terminstider'>Jensen Västerås Terminstider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yoghurts%C3%A5s-till-falafel'>Yoghurtsås Till Falafel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-mycket-%C3%A4r-kungen-v%C3%A4rd-i-kortspel'>Hur Mycket är Kungen Värd I Kortspel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A4na-eller-t%C3%A4vla-argument'>Träna Eller Tävla Argument</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-barnmat-ursprung'>Hipp Barnmat Ursprung</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wildling-film-i-v%C3%A4st'>Wildling Film I Väst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oxdog-hyperlight-bl%C3%A5'>Oxdog Hyperlight Blå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-husmanskost-s%C3%B6dermalm'>Svensk Husmanskost Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mandelkakor-med-choklad'>Mandelkakor Med Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rusta-v%C3%A4ggf%C3%A4rg-stone-slate'>Rusta Väggfärg Stone Slate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-f%C3%A4lgar-tiguan'>Begagnade Fälgar Tiguan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=maxi-kalmar-personal'>Maxi Kalmar Personal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A5r-man-ta-nattvarden-utan-att-vara-konfirmerad'>Får Man Ta Nattvarden Utan Att Vara Konfirmerad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-on-demand'>Abc On Demand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5verkat-p%C3%A5-engelska'>Påverkat På Engelska</a>,
+";s:7:"expired";i:-1;}

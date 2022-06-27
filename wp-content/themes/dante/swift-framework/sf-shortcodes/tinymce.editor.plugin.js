@@ -2,7 +2,14 @@
 
 	tinymce.create('tinymce.plugins.swiftframework_shortcodes', {
 		init : function(ed, url) {
-
+			
+			if ('undefined' == typeof tinymce.plugins.dom) {
+                tinymce.plugins.dom = tinymce.dom;
+            }
+            if ('undefined' == typeof tinymce.plugins.util ) {
+                tinymce.plugins.util = tinymce.util;
+            }
+		
 			ed.addCommand('swiftframework_shortcodes', function() {
 				ed.windowManager.open({
 					file : url + '/interface.php',

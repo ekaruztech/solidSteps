@@ -1,0 +1,112 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4827:"<br>Handla dina böcker online eller i butik! <br> <br>Placerad i Gallerian ligger vår restaurang perfekt för den som vill koppla av efter shopping. Svarar vi inte genast är det bara att prata in på … Information om datum när respektive butik stänger kommer gradvis att göras tillgänglig i butiker och online på vår hemsida (www.gamestop.se). <br> <br>Stängt för dagen 15% rabatt på avhämtning. <br> <br>Hitta den FOREX Bankbutik som passar dig och se alla butikers öppettider. Glöm inte att du kan fira din födelsedag och andra festliga tillfällen hos Jensens Bøfhus. – Butikens tre medarbetare som arbetar extra, är anställda via vikariepoolen i Västerås och erbjuds därmed kommande arbetsmöjligheter via dem, säger Amanda Larsson. <br> <br>Placerad i Gallerian ligger vår restaurang perfekt för den som vill koppla av efter shopping. Under 2020 kommer GameStop-butikerna successivt att stänga i Sverige. Annons. E-post: info@gallerian.se Telefonnummer: 072 200 45 49 Besöksadress: Hamngatan 37 Klädbutiken Monki i gallerian Igor ger nu upp Västerås. Västerås. Uppdaterad information 20/2, 23/2 2018: H&M berättar att de ska stänga även i Gallerian och på Hötorget i Stockholm. Ta med dig barnen och kom – vi har ett lekrum som håller barnen syselsatta så att ni kan koppla av och njuta av maten. ... Västerås Hitta hit Citygallerian Igor. Vi har omkring 200 butiker i hela landet och vår nätbutik hemköp.se. Dessa lagras på din dator, men raderas automatiskt efter max 360 dagar. Behandlingen avslutas med en skön och avkopplande fotmassage. Dessutom använder vi några cookies som har en angiven utgångstid. <br> <br>De flesta busslinjer har hållplatser intill Punkt och Centra, antingen på Stora Gatan eller Vasagatan. På Erikslunds handelsområde har vi 160 butiker och 200 000 kvm handelsyta, som gärna vill hjälpa dig uppfylla alla dina önskemål och mer där till. Hjälp oss, lägg till en butik! Medicinsk Fotvårdsbehandling innebär förutom att få fina fötter, att diskutera förebyggande vård och att gå igenom och behandla besvär kunden har. ... De flesta cookies som används av oss är "session cookies" som tas bort så fort du stänger din webbläsare. <br> <br>I våra butiker kan du bland annat växla resevaluta, utföra enkla bankärenden och skicka pengar utomlands med Western Union.  <br>Ni når oss lättast genom att ringa 021-12 06 07. Kedjan planerar inte för någon ny butik i Västerås utan lämnar stan. 652 25 Karlstad. Öppet idag 11.00-18.00. <br> <br>Hos oss finner du varor som inspirerar till mer medvetna val. <br> <br>Vårt mål är att inspirera dig som matälskare till en spännande, god och mer hållbar vardag. Kontakta vår Infodisk. Gallerian besökes varje gång man är Västerås. Här hittar du öppettider, karta, vägbeskrivning samt annan information till Akademibokhandeln, Västerås. Vill du aktivera platstjänster för Öppettider finns en enkel guide hos Google om hur du delar din plats. Vår ambition är att bli Sveriges självklara val för att enklast och snabbast hitta öppettider till butiker, varuhus, myndigheter, osv. Hitta PostNords serviceställen och brevlådor för att t.ex. Lördag 10.00-16.00. Klädkedjan Monki har funnits i Västerås och Igor sedan invigningen av gallerian i september 2010. Gallerian 124, Västerås, City. Läs mer om butiken. Bor man centralt på något hotell så hamnar man alltid på Gallerian för inköp i någon av de … Ta med dig barnen och kom – vi har ett lekrum som håller barnen syselsatta så att ni kan koppla av och njuta av maten. Citygallerian Igor. <br> <br>lämna in och hämta paket eller köpa förpackningar. <br> <br>Din enhet verkar inte stödja eller tillåta platstjänster - vilket behövs för att söka efter företag i närheten av din position. <br> <br>Mitt i City-gallerian. <br> <br>Vasagatan 25. Här hittar du adresser och öppettider till alla Systembolagets 439 butiker och 500 ombud över hela Sverige. Du ser när de öppnar och stänger på vardagar och helgdagar samt var du hittar närmaste butik. <br> <br> Inspireras av personalens lästips, besök författarsamtal eller ta med barnen på sagostund. <br> <br>Sök via ort eller län! Men nu rapporterar Vlt att butiken har total utförsäljning och planerar att stänga den 15 september. Vardagar 10.00-19.00. GE DINA FÖTTER NYTT LIV! <br> <br>”Vi har inte kommit överens med hyresvärden om ett framtida samarbete helt enkelt”, säger vd Anton Granlund. Järnvägsgatan 14. <br> ... Monki har varit en av hyresgästerna i Igor sedan gallerian invigdes i september 2010. Har klädbutiker, restaurang, konditori, apotek, bokhandel och många fler. <br> <br>Besökt senast i mars 2016. Sigma är Västerås allra första galleria – sedan 1966. <br>";s:7:"keyword";s:29:"gallerian västerås stänger";s:5:"links";s:8102:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-olivolja-veganskt'>är Olivolja Veganskt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=monster-high---m%C3%A5larbilder'>Monster High - Målarbilder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mala-egen-k%C3%B6ttf%C3%A4rs'>Mala Egen Köttfärs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hitta-graven-pite%C3%A5'>Hitta Graven Piteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skierg-5000-m-motst%C3%A5nd'>Skierg 5000 M Motstånd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdmuffins-med-daim'>Kladdmuffins Med Daim</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dalecarlia-cup-2017'>Dalecarlia Cup 2017</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wsp-lediga-jobb'>Wsp Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=unga-och-sociala-medier'>Unga Och Sociala Medier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avsluta-remember-kort'>Avsluta Remember Kort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ppelmuffins-utan-socker'>äppelmuffins Utan Socker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-royal-flush'>Vad är Royal Flush</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mina-bygg%C3%A4renden-t%C3%A4by'>Mina Byggärenden Täby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inflammerad-hud-ansiktet'>Inflammerad Hud Ansiktet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fazer-br%C3%B6d-r%C3%A5gkusar'>Fazer Bröd Rågkusar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6d-till-skaldjurssoppa'>Bröd Till Skaldjurssoppa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korpen-regler-licensierade-spelare-innebandy'>Korpen Regler Licensierade Spelare Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-%C3%A4r-det-att-jobba-p%C3%A5-restaurang'>Hur är Det Att Jobba På Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ldersgr%C3%A4ns-alkohol-frankrike'>åldersgräns Alkohol Frankrike</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karta-skoterleder-s%C3%A4len'>Karta Skoterleder Sälen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%A4nkbar-pump-med-larm'>Dränkbar Pump Med Larm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fakta-om-sverige-p%C3%A5-spanska'>Fakta Om Sverige På Spanska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=casco-wetstop-t%C3%A4tband'>Casco Wetstop Tätband</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daddy-pig-weight'>Daddy Pig Weight</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-v%C3%A4rsting-till-syster-musikal-trailer'>En Värsting Till Syster Musikal Trailer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemsedal-norge-karta'>Hemsedal Norge Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liseberg-nyheter-2020'>Liseberg Nyheter 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=make-png-in-illustrator'>Make Png In Illustrator</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jly-bedside-crib'>Jly Bedside Crib</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-skolan-i-v%C3%A4rlden-2018'>Bästa Skolan I Världen 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%A5ga-vi-jesus-n%C3%A4rmare-efter-den-g%C3%A4rning'>Fråga Vi Jesus Närmare Efter Den Gärning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=convert-wma-to-mp3-windows-media-player'>Convert Wma To Mp3 Windows Media Player</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gittan-j%C3%B6nsson-figur'>Gittan Jönsson Figur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemtex-bor%C3%A5s-city-%C3%B6ppettider'>Hemtex Borås City öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gsta-berget-i-h%C3%A4rjedalen'>Högsta Berget I Härjedalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=www-cph-dk'>Www Cph Dk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=protein-in-vegan-diet'>Protein In Vegan Diet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fotografiska-museet-entrepris'>Fotografiska Museet Entrepris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-vegetariska-recepten'>Bästa Vegetariska Recepten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stdh-lediga-jobb'>Stdh Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nar-mest-i-kalmar'>Tjänar Mest I Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hel-fl%C3%A4skfil%C3%A9-i-gryta'>Hel Fläskfilé I Gryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torsk-med-tomat'>Torsk Med Tomat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-800-test'>Nokia 800 Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gkostnadsskydd-v%C3%A4stra-g%C3%B6taland'>Högkostnadsskydd Västra Götaland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=massmedia-i-demokrati-och-diktatur'>Massmedia I Demokrati Och Diktatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sista-minuten-september'>Sista Minuten September</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=recept-vinkokta-p%C3%A4ron'>Recept Vinkokta Päron</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kandidatexamen-kriminologi-su'>Kandidatexamen Kriminologi Su</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=folkslag-i-stilla-havet'>Folkslag I Stilla Havet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=800-grader-pizza'>800 Grader Pizza</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6ft-artros-test'>Höft Artros Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rum%C3%A4nien-sverige-biljetter'>Rumänien Sverige Biljetter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A5ret-shaun-remix'>Fåret Shaun Remix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filip-hammar-syster'>Filip Hammar Syster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=robinson-final-2019'>Robinson Final 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-%C3%A4ga-boston-terrier'>Att äga Boston Terrier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=palma-nova-karta'>Palma Nova Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=heder-p%C3%A5-tv4'>Heder På Tv4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grekiskt-glad-orfisk'>Grekiskt Glad Orfisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kavat-barnskor-rea'>Kavat Barnskor Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schrader-ventil-adapter'>Schrader Ventil Adapter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6ndal-bra-omr%C3%A5de'>Gröndal Bra Område</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amanda-idol-2011'>Amanda Idol 2011</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vett-och-etikett-kvinna'>Vett Och Etikett Kvinna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyproduktion-nyn%C3%A4shamn-hyresr%C3%A4tt'>Nyproduktion Nynäshamn Hyresrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=text-tv-106'>Text Tv 106</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-sundgren-instagram'>Daniel Sundgren Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moderna-klassiker-b%C3%B6cker'>Moderna Klassiker Böcker</a>,
+";s:7:"expired";i:-1;}

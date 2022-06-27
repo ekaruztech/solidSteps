@@ -1,0 +1,105 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3910:"<p>Kloka Listan består av läkemedel som ett råd av specialistläkare rekommenderar vid vanliga sjukdomar. Kloka Listan är resultatet av ett omfattande arbete. Du är välkommen att kontakta Stockholms läns läkemedels-kommitté genom Kristina Aggefors, tfn 08-123 136 96 eller e-post kristina.aggefors@sll.se. ... Vad är antidepressiv medicin? Om spelaren inte syns eller om det är problem att spela upp programmet kan orsaken vara en äldre version av Flash Player. Kloka Listan finns för att du ska få effektiva och säkra läkemedel. </p> <p>Vad som behövs är att göra olika saker på rätt sätt. Kloka listan fungerar som ett stöd för läkare som skriver ut läkemedel. Du ska därför ta ställning till om du har lust att läsa vidare. Vad tycker du om Kloka Listan? Du bör själv kunna välja lämpliga frågor Vad ska man då med denna syra till? Allmänt. Läkemedel kan påverka varandra så att effekten ökar eller minskar, Läkemedlen har dokumenterade egenskaper vad gäller att bota, lindra eller förebygga sjukdom. rekommendationerna (klicka på substansnamnet). Region Stockholms läkemedelskommittés expertgrupp för lung- och allergisjukdomar förordar i första hand pulverinhalatorer på Kloka listan. För de barn och vuxna som inte kan använda dessa finns sprayinhalatorer som ett alternativ.  Där nås även motiveringar till från ett eller flera företag. I kloka pennan turas eleverna om på ett annat sätt genom att läraren delar ut en roll till varje elev. Förstoppning är vanligt hos äldre och inte minst inom palliativ vård. Mjölksyran stödjer även lever och njurar, två organ som givetvis är mycket väsentliga för vår allmänna hälsostatus. </p> <p>Vad är generaliserat ångestsyndrom? Kloka Listan – utvalda läkemedel Kloka Listan är en lista över rekommenderade läkemedel i Stockholms län. Ladda ner senaste Adobe Flash här. </p> <p>Men även patienter kan ha nytta av att läsa om sina mediciner i listan. Vissa människor tycker inte om dem. </p> <p>Miljöeffekter av läkemedel Synpunkter på Kloka Listan välkomnas148 Stockholms läns läkemedelskommitté 150 Register – indikationer 153 – substanser 159 1 Kloka Listan Vad är Kloka Listan? </p> <p></p> <p>Stockholms läns läkemedelskommitté beslutar, efter förslag från läkemedelskommitténs expertråd, vilka läkemedel som ska rekommenderas i Kloka Listan. </p> <p>Exempel på läkemedel/läkemedelsgrupper med stor risk för förstoppning är tvåvärt järn i tablettform, opioider, verapamil, klozapin och andra läkemedel med antikolinerga effekter. Listan här är förmodligen en av de mer inspirerande och motiverande som du hittar på sidan. Denna mjölksyra är exempelvis enormt antibakteriell och reglerar även surhetsgraden både vid invärtes och utvärtes bruk. Kloka listan fungerar som ett stöd för läkare som skriver ut läkemedel. Kloka Listan 2016 Kloka Listan innehåller läkemedel som rekommenderas för be handling av vanliga sjukdomar. Försök dig på några böcker. Oavsett vad så kan du alltid använda dessa visa ord och erfarenheter från kloka människor packade in i ett ordspråk och serverat på ett silverfat. Tyresö Närradioförening Adress: c/o Linder Koriandergränd 51, 135 36 Tyresö Mailadress: info@tyresoradion.se Plusgiro: 491 57 21-7 Här har vi en stor lista med grova skämt, bara för dig. Vänskap är något som vi redan bildar när vi går på dagis. Sök endast efter substans eller preparatnamn . De har valts ut för att de visat sig säkra, effektiva och för att de tar hänsyn till miljöaspekter. Beställ/ladda ner . Kloka frågor vänder sig till dig som är äldre och som använder läkemedel. </p> <p>Nu när du har blivit varnad så kan jag berätta för dig att du kommer att hitta olika kalibrar av snuskiga skämt.Var uppmärksam på att även dessa kan kännas stötande för några. </p>";s:7:"keyword";s:53:"gaming innovation group UNION ALL SELECT NULL,NULL;  ";s:5:"links";s:7470:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=felanm%C3%A4lan-stenungsunds-kommun'>Felanmälan Stenungsunds Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flaggdagar-finland-13-mars'>Flaggdagar Finland 13 Mars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fingerprint-avanza-forum'>Fingerprint Avanza Forum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=golvv%C3%A4rme-radiatorer-shunt'>Golvvärme Radiatorer Shunt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medhj%C3%A4lp-till-bidragsbrott'>Medhjälp Till Bidragsbrott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=motorola-latest-phone-2019'>Motorola Latest Phone 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5gtider-bor%C3%A5s-varberg'>Tågtider Borås Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-gammal-%C3%A4r-tommy-och-annika'>Hur Gammal är Tommy Och Annika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A4na-l%C3%A5ren-smalare'>Träna Låren Smalare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studentbal-ume%C3%A5-2020'>Studentbal Umeå 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bron%27%27-s%C3%A4song-4-netflix'>Bron'' Säsong 4 Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restauranger-som-tar-swish-stockholm'>Restauranger Som Tar Swish Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pirates-of-the-caribbean-piano-medley'>Pirates Of The Caribbean Piano Medley</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ume%C3%A5-kommun-vatten-och-avlopp'>Umeå Kommun Vatten Och Avlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wildling-film-i-v%C3%A4st'>Wildling Film I Väst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stoff-och-stil-kit'>Stoff Och Stil Kit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fem-i-zombie'>Fem I Zombie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=electrolux-kylsk%C3%A5p-reng%C3%B6ring'>Electrolux Kylskåp Rengöring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rabattkod-pizza-hut'>Rabattkod Pizza Hut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bor%C3%A5s-lasarett-hudmottagning'>Borås Lasarett Hudmottagning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flygbuss-arlanda-enk%C3%B6ping'>Flygbuss Arlanda Enköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-medmera-saldo'>Coop Medmera Saldo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykel-utan-trampor-barn'>Cykel Utan Trampor Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=washington-capitals-tr%C3%B6ja'>Washington Capitals Tröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tipspromenad-f%C3%B6r-alla-%C3%A5ldrar'>Tipspromenad För Alla åldrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparbanken-syd-oms%C3%A4ttning'>Sparbanken Syd Omsättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ellos-lager-bor%C3%A5s'>Ellos Lager Borås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fotboll-kristianstad-barn'>Fotboll Kristianstad Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ystad-kommun-inv%C3%A5nare'>Ystad Kommun Invånare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lopp-p%C3%A5-cykel-synonym'>Lopp På Cykel Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A4nge-ska-fl%C3%A4skgryta-koka'>Hur Länge Ska Fläskgryta Koka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-design-instagram-filters'>How To Design Instagram Filters</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scf-%C3%A5rsm%C3%B6te-2019'>Scf årsmöte 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tortilla-pizza-vegetarisk'>Tortilla Pizza Vegetarisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-suv-2020'>Mercedes Suv 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=il-caff%C3%A8-s%C3%B6dermalm'>Il Caffè Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catan-expansion-5-6'>Catan Expansion 5-6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-lunch-ute'>Nyttig Lunch Ute</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lossless-mp4-to-gif'>Lossless Mp4 To Gif</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ljus-ikea-jul'>Ljus Ikea Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eurovision-song-contest-results'>Eurovision Song Contest Results</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-1-mil-kcal'>Cykla 1 Mil Kcal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chow-chow-panda'>Chow Chow Panda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-regnb%C3%A5gen-k%C3%A4rrtorp'>Förskolan Regnbågen Kärrtorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=er-verb-franska'>Er Verb Franska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ud-truck-range'>Ud Truck Range</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fiona-fitzpatrick-flashback'>Fiona Fitzpatrick Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-dyraste-h%C3%A4stg%C3%A5rd'>Världens Dyraste Hästgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=birgittaskolan-%C3%B6rebro-l%C3%A4s%C3%A5rstider'>Birgittaskolan örebro Läsårstider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6dra-dalarnas-tidning'>Södra Dalarnas Tidning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-godmorgon-kommod'>Ikea Godmorgon Kommod</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=firar-man-jul-i-kina'>Firar Man Jul I Kina</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aroma-di-limone-pasta'>Aroma Di Limone Pasta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amerikanska-revolutionen-studi'>Amerikanska Revolutionen Studi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokian-hakkapeliitta-9-205%2F60r16'>Nokian Hakkapeliitta 9 205/60r16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-get-a-green-card'>How To Get A Green Card</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kunskapsskolan-uppsala-omd%C3%B6me'>Kunskapsskolan Uppsala Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billiga-f%C3%A4lgar-volvo'>Billiga Fälgar Volvo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fakta-om-n%C3%A4ssj%C3%B6'>Fakta Om Nässjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=certificate-of-good-standing-l%C3%A4kare-socialstyrelsen'>Certificate Of Good Standing Läkare Socialstyrelsen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatteverket-organisationsnummer-f%C3%B6rening'>Skatteverket Organisationsnummer Förening</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=italiensk-mar%C3%A4ng-kylsk%C3%A5p'>Italiensk Maräng Kylskåp</a>,
+";s:7:"expired";i:-1;}

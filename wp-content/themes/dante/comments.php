@@ -1,6 +1,6 @@
 <?php
 
-	/*  for PRO users! -  SETUP THE COMMENTS SECTION
+	/* SETUP THE COMMENTS SECTION
 	================================================== */
 	?>
 	<div id="comments">
@@ -19,7 +19,7 @@
 	endif;
 	 
 	
-	/*  for PRO users! -  DISPLAY THE COMMENTS
+	/* DISPLAY THE COMMENTS
 	================================================== */
 	?>
 	
@@ -63,14 +63,14 @@
 			
 			<?php } ?>
 		
-		<?php endif /*  for PRO users! -  if ( $comments ) */ ?>
+		<?php endif /* if ( $comments ) */ ?>
 	
 	</div><!-- #comments-list .comments -->
 	 
 	<?php
 	
 	
-	/*  for PRO users! -  COMMENT ENTRY FORM
+	/* COMMENT ENTRY FORM
 	================================================== */
 	?>
 	
@@ -99,5 +99,5 @@
 			
 			<?php comment_form($comments_args); ?>
 		</div>
-	<?php endif /*  for PRO users! -  if ( 'open' == $post->comment_status ) */ ?>
+	<?php endif /* if ( 'open' == $post->comment_status ) */ ?>
 	</div><!-- #comments -->

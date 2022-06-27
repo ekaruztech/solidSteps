@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2435:"<p>Sonos recently acquired Snips but it's not clear whether that will eventually impact the integration with Google Assistant. I had to reset my paired Sonos One speakers that had Google Assistant on it before. Watch a video on the small screen with rich sound from Sonos, then ask Siri to adjust the volume. Here are just a few of the ways Google’s voice assistant gives you more control and enhances the brilliant sound experience of Sonos. </p> <p>The Sonos team has been hard at work with our partners at Google to bring you yet another easy way to control your Sonos system: the Google Assistant. </p> <p>Stream sound straight from your iPhone or iPad to Sonos. Sandie. The Google Assistant is here. The Google Assistant has finally come to Sonos smart speakers, a year and a half after it was first announced. </p> <p>We have a Sonos Beam we're unable to add to a group plus the Google Assistant on it doesn't offer the same command set as a Google speaker or display, which confuses people. Google’s remarkably smart voice assistant will let you do all kinds of things on Sonos; playing music with your voice is just the beginning of what’s possible. </p> <p>With the arrival of the Google Assistant, your Sonos system gets even smarter. Google may have been late to the smart speaker party but it's doing its level best to catch up. Apple AirPlay 2. Eller brug ganske enkelt den indbyggede mikrofon i Sonos One eller Beam. Shuffling your playlist. recommended this. Get hands-free control with the Google Assistant and Amazon Alexa on Sonos One, Move, and Beam. Google user. Original Poster. Nyd stemmestyring* til Sonos fra din telefon, en Google Home Mini eller en anden smartenhed med indbygget Google Assistant. 's round-up of the best Google speakers you can buy in 2020. </p> <p> Play music, check news, set alarms, and more. Adoption of Google voice control and Chromecast is becoming more common, meaning you might want to go for Google Assistant when it comes to picking a smart speaker. Best Google Assistant Speaker Buying Guide: Welcome to What Hi-Fi? For Sonos speakers without Google Assistant built-in, so the Sonos One SL, the Play:1, Play:3, Play:5, Playbase and Playbar, you won't get them talking back to you as you would with Google … Each time I attempt to reinstall Assistant on the speakers, the Google Assistant app tries to send me to sign into my Sonos account, but it consistently fails. </p>";s:7:"keyword";s:31:"aktivera google assistant sonos";s:5:"links";s:7014:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runda-mattor-mio'>Runda Mattor Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=suzuki-lt50-problem'>Suzuki Lt50 Problem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=massmedia-i-demokrati-och-diktatur'>Massmedia I Demokrati Och Diktatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-heminredning-lule%C3%A5'>Blocket Heminredning Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ag-meny-dryck'>Ag Meny Dryck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=partikelverb-p%C3%A5-arabiska'>Partikelverb På Arabiska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5g-karta-schweiz'>Tåg Karta Schweiz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abba-crazy-world'>Abba Crazy World</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saga-bio-n%C3%A4ssj%C3%B6'>Saga Bio Nässjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-pianist-dreamfilm'>The Pianist Dreamfilm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=montera-thule-cykelh%C3%A5llare'>Montera Thule Cykelhållare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=in-the-arms-of-the-angels-song'>In The Arms Of The Angels Song</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jaga-runt-synonym'>Jaga Runt Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-flanagan---jazz'>Tommy Flanagan - Jazz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muffins-i-pl%C3%A5tform'>Muffins I Plåtform</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ncis-season-1-stream'>Ncis Season 1 Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kl%C3%A4mringskoppling-m%C3%A5lade-r%C3%B6r'>Klämringskoppling Målade Rör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tallen-%C3%B6stra-sjukhuset'>Tallen östra Sjukhuset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6d-och-matchning-2020'>Stöd Och Matchning 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Sevas-Studios4%2C0%2829%290%2C2%C2%A0miles-bort'>Sevas Studios4,0(29)0,2 miles Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaniljs%C3%A5s-p%C3%A5-havremj%C3%B6lk'>Vaniljsås På Havremjölk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabelslang-gul-50-mm'>Kabelslang Gul 50 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=romantiska-filmer-2016'>Romantiska Filmer 2016</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-jobb-bor%C3%A5s'>Blocket Jobb Borås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sen-i-puberteten-kille'>Sen I Puberteten Kille</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gastric-bypass-operation'>Gastric Bypass Operation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=civilekonom-utbildning-uppsala'>Civilekonom Utbildning Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zone-supreme-air-soft-feel'>Zone Supreme Air Soft Feel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=res%C3%A5rmadrass-70-cm'>Resårmadrass 70 Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6rjournal-mall-visma'>Körjournal Mall Visma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=funktionsvred-cylinda-spis'>Funktionsvred Cylinda Spis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-g%C3%A4vle-ungdom'>Jobb Gävle Ungdom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4sta-auktion-limmared'>Nästa Auktion Limmared</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=what-is-cardio'>What Is Cardio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flip-phone-android'>Flip Phone Android</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anders-johansson-trummor'>Anders Johansson Trummor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kerstin-ekman-ingar%C3%B6'>Kerstin Ekman Ingarö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pantheon-rise-of-the-fallen-cohhcarnage'>Pantheon Rise Of The Fallen Cohhcarnage</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schema-skola24-varberg'>Schema Skola24 Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonym-p%C3%A5-ytterligare'>Synonym På Ytterligare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=student-falun-2020'>Student Falun 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-smart-tv-browser-update'>Samsung Smart Tv Browser Update</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seat24-avbokning-corona'>Seat24 Avbokning Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=troll-spj%C3%A4ls%C3%A4ng-romantica'>Troll Spjälsäng Romantica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allm%C3%A4n-f%C3%B6rskola-halmstad'>Allmän Förskola Halmstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=disney%27s-grand-californian-hotel-%26-spa'>Disney's Grand Californian Hotel & Spa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=auto-karta-tyskland'>Auto Karta Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pernod-ricard-avanza'>Pernod Ricard Avanza</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dagens-lunch-lule%C3%A5'>Dagens Lunch Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=budapest-spa-tips'>Budapest Spa Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drivning-atv-vagn'>Drivning Atv Vagn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djingis-khan-song'>Djingis Khan Song</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=salsiccia-korv-ica'>Salsiccia Korv Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kth-email-signature'>Kth Email Signature</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5-sm%C3%A5l%C3%A4ndska-%C3%A5krar'>På Småländska åkrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samh%C3%A4llsbyggnadsteknik-chalmers-antagningspo%C3%A4ng'>Samhällsbyggnadsteknik Chalmers Antagningspoäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frukost-g%C3%B6ra-dagen-innan'>Frukost Göra Dagen Innan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskv%C3%A5rdsbidrag-botkyrka-kommun'>Friskvårdsbidrag Botkyrka Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bjud-p%C3%A5-glutenfritt'>Bjud På Glutenfritt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sweden-russia-war'>Sweden Russia War</a>,
+";s:7:"expired";i:-1;}

@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * No Access Feedback Part
  *
  * @package bbPress

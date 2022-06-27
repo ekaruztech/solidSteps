@@ -1,0 +1,76 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2923:"<p>Placeras i din plånbok.  Skimskydd skyddar dina bank- och kreditkort, och finns att skaffa på www.skimskydd.com. Allt du behöver veta för att betala med Swish är mottagarens mobilnummer — och pengarna kommer fram direkt. Skriv svarskoden i fältet som visas i appen och klicka på Aktivera. Du skal have Jyske Netbank Privat for at bruge Mine Kort. Starta kortläsaren utan sladd genom att sätta in ditt kort, eller tryck OK om det redan sitter i. Tryck på knappen SIGN. </p> <p>2015 introducerades kontaktlösa kort där kunderna endast blippar sina kort utan … Handelsbanken slutade med sådana i 2006 och SEB och Swedbank 2009. Languages: Danish, Swedish, English and Spanish. Languages: Swedish, English and Spanish. For a long time, Handelsbanken has supported customers doing business in Greater China. Konton, kort och betala / Betala / Swish. As a part of a partial change in the Bank's strategic direction, Handelsbanken has reviewed the geographical presence outside the home markets. Rätt att få pengar tillbaka När du handlar på internet med ditt kort har du rätt att få pengarna tillbaka om du till exempel inte får någon leverans. Skyddar din plånbok med Skimskydd. Bestil, aktivér, spær. The decision has been made to wind down the Bank's business operations in Asia. Download app'en i Google Store. Skimming Blocker Kort Skyddar dina bank- och kreditkort mot trådlös skimning Supertunt kort Passar i alla plånböcker Påverkar inte magnetremsa/chip på övriga kort 5 års livslängd. Skriv kontrollkoden i kortläsaren och klicka på OK. Ange din PIN-kod till inloggningskortet i kortläsaren och klicka på OK. Det visas nu en svarskod i kortläsaren. Du kan både bestille, aktivere og spærre kort, og du får nye muligheder for at øge sikkerheden og bevare overblikket. E-mail: jekr06@handelsbanken.es. Swish. Du kan handla med ditt kort eller direkt från ditt konto. E-mail: vito01@handelsbanken.es. Mine Kort gør det nemt og hurtigt for dig selv at styre dine kort. Höj beloppsgräns Öppnas i nytt fönster. Höj beloppsgräns tillfälligt. Spørgsmål og svar om Mine Kort. Skydda din plånbok med Skimskydd (från www.skimskydd.com). Gäller ej dig som är under 18 år. KÖP NU! Teckna Swish. Du kan logga in och tillfälligt höja beloppsgränsen till 150 000 SEK. JavaScript has to be activated in your browser to be able to run Handelsbankens web applications. Phone: +34 952 817 550. KÖP NU! Customer complaints. Skyddskort som stör ut radiosignaler. 5 anledningar till varför alla borde ha SkimSafe-kortet i plånboken … 5 års garanti. Köpet sker på en gång Köpet blir klart direkt när du använder kortet. Download app'en i App Store. Handelsbankens app för Business Card hjälper dig att hantera ditt företagskort* på ett snabbt och enkelt sätt. We take complaints very seriously as they offer us the opportunity to improve our services. </p>";s:7:"keyword";s:28:"handelsbanken kort i mobilen";s:5:"links";s:4046:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=translate-camera-iphone'>Translate Camera Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontaktuppgifter-p%C3%A5-engelska'>Kontaktuppgifter På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobba-fackligt-kommunal'>Jobba Fackligt Kommunal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ns-zelmerl%C3%B6w-l%C3%A4ngd'>Måns Zelmerlöw Längd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vinterd%C3%A4ck-sl%C3%A4pvagn-jula'>Vinterdäck Släpvagn Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anneberg-sj%C3%B6villan-h%C3%A4lleforsn%C3%A4s'>Anneberg Sjövillan Hälleforsnäs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blad-innebandyklubba-intersport'>Blad Innebandyklubba Intersport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosens-namn-netflix'>Rosens Namn Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=my-home-gran-canaria-playa-del-ingl%C3%A9s'>My Home Gran Canaria Playa Del Inglés</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=paul%C3%BAns-granola-pris'>Paulúns Granola Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=retoriskt-grepp-synonym'>Retoriskt Grepp Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-ultraljud-skaraborg'>Privat Ultraljud Skaraborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=5-m%C3%A5naders-bebis-sova-p%C3%A5-mage'>5 Månaders Bebis Sova På Mage</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fris%C3%B6r-utbildning-j%C3%B6nk%C3%B6ping'>Frisör Utbildning Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4s%C3%A5rstider-j%C3%B6nk%C3%B6ping-gymnasiet'>Läsårstider Jönköping Gymnasiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daddy-pig-weight'>Daddy Pig Weight</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beethoven-f%C3%BCr-elise-therese'>Beethoven Für Elise Therese</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liseberg-nyheter-2020'>Liseberg Nyheter 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sous-vide-f%C3%A4rsk-korv'>Sous Vide Färsk Korv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fillikid-dra-p%C3%A5-lakan'>Fillikid Dra-på Lakan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=partikelverb-p%C3%A5-arabiska'>Partikelverb På Arabiska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-soff%C3%B6verdrag-ektorp'>Ikea Sofföverdrag Ektorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thanos-fotas-flashback'>Thanos Fotas Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=powerbank-p%C3%A5-flyg-tui'>Powerbank På Flyg Tui</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=berts-v%C3%A4rld-2019'>Berts Värld 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=russkiy-toy-rumsren'>Russkiy Toy Rumsren</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekonomiskt-bist%C3%A5nd-h%C3%A4sselby'>Ekonomiskt Bistånd Hässelby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-falk-full-movie'>Johan Falk Full Movie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6da-barn-utomlands-f%C3%B6r%C3%A4ldrapenning'>Föda Barn Utomlands Föräldrapenning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-kvantum-pite%C3%A5-%C3%B6ppettider'>Ica Kvantum Piteå öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fischer-crs-skate'>Fischer Crs Skate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-malax'>Lediga Jobb Malax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biologisk-rening-enskilt-avlopp'>Biologisk Rening Enskilt Avlopp</a>,
+";s:7:"expired";i:-1;}

@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * New/Edit Forum
  *
  * @package bbPress

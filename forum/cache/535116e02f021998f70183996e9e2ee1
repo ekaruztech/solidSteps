@@ -1,0 +1,69 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3311:"<p>Observera att informationen för Apotek Hjärtat I Göteborg, Linnégatan 62 och alla andra Butiker är för referens only. It rekommenderas starkt att du komma i kontakt med Butik Kundkontakt: 0771-405 405innan ditt besök för att dubbelkolla uppgifterna och andra frågor du kan ha. </p> <p>För den som inte önskar kött, finns ett urval av vegetariska rätter att välja bland. Och … Adress och karta för att hitta rätt, telefonnummer och kommentarer Öppettider för Apoteket, Svanen i Göteborg, Linnégatan 16. Därför ska du jobba hos oss, Apotekschef Mazyar berättar: Välkommen till vårt fina Apotek i Hjärtat av Linnégatan. </p> <p>Apotek Hjärtat Linnégatan 62, Göteborg, öppettider och helgtider under jul och nyår. – De var maskerade med halsdukar och solglasögon och lade fram en kniv på disken, säger Thomas Fuxborg, presstalesperson vid polisen i region Väst. Här hittar du öppettider, karta, vägbeskrivning samt annan information till Apoteket, Göteborg. Göteborg Publicerad 15 apr 2020 kl 10.32 På onsdagsförmiddagen slog två rånare till mot Apoteket på Linnégatan i Göteborg. Idag 14 maj 11:00 - 19:00; Imorgon 15 maj 11:00 - 19:00; Lördag 16 maj 11:00 - 16:00; Söndag 17 maj 11:00 - 16:00; Måndag 18 maj 11:00 - 19:00; Krokegårdsgatan 5, 41730 Göteborg Tillbaka Öppettider. Apotek / Apoteket Östra Hamngatan; Apoteket Östra Hamngatan Östra Hamngatan 26-28, 41107 Göteborg Tillbaka Öppettider. Krokegårdsgatan 5 41730 Göteborg Det finns goda parkeringsmöjligheter i anslutning till apoteket. Välkommen till Nordens ledande hälsokedja ♥. Många av de ståtliga stenhusen på båda sidor har över hundra år på nacken. Varmt välkommen till Texas Longhorn! Apotek Hjärtat butik - Linnégatan 62, Göteborg - Rabatt, öppettider och telefonnummer Följ  Vi är det närmsta apoteket till Gibraltargatans vårdcentral och vårdcentralen Din klinik. Du ser när de öppnar och stänger på vardagar och helgdagar samt var du hittar närmaste butik. </p> <p>Hitta öppettider, adress, telefonnummer för Apotek Hjärtat på Linnégatan 62 i Göteborg - Öppettider.nu Köp hälsokost & bli inspirerad på Lifebutiken.se Apotek Hjärtat är Sveriges största privata apoteksaktör med nästan 400 apotek runt om i landet. Öppettider till Apotek Hjärtat i Göteborg. Omsättningen är cirka 13 miljarder kronor och vi är en del av ICA gruppen. </p> <p>På Texas Longhorn vill vi ge våra gäster en bra upplevelse med god kvalitativ mat i en familjär atmosfär. Idag 15 maj 08:00 - 19:00; Imorgon 16 maj 10:00 - 17:00; Söndag 17 maj 11:00 - 17:00; Måndag 18 maj 08:00 - 19:00; Tisdag 19 maj 08:00 - 19:00; Onsdag 20 maj 08:00 - 19:00; Torsdag 21 maj 08:00 - 19:00; Postadress. Vår meny erbjuder den typ av mat som lagas i Texas, med stort fokus på kolgrillat kött. </p> <p>Brett utbud av kvalitetssäkrade produkter online & i butik. Linnégatan har fått sitt namn efter Carl von Linné som stannade till i Göteborg på sin forskningsresa genom Västergötland 1746. Få andra gator i Sverige är så restaurangtäta som Linnégatan. </p> <p>Apoteksgruppen Göteborg, Eklandagatan är ett centralt apotek och ligger ett stenkast från Korsvägen, nöjesparken Liseberg, Chalmers tekniska högskola samt Carlanderska sjukhuset. </p>";s:7:"keyword";s:28:"apotek göteborg linnégatan";s:5:"links";s:3010:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polis-akademisk-utbildning'>Polis Akademisk Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skara-sommarland-erbjudande'>Skara Sommarland Erbjudande</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-italien-med-i-eu'>är Italien Med I Eu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=meta-roos-youtube'>Meta Roos Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-e5372-manual'>Huawei E5372 Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ny%C3%A5r-skellefte%C3%A5-2019'>Nyår Skellefteå 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=take-away-v%C3%A4rmd%C3%B6'>Take Away Värmdö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-och-victor'>Emil Och Victor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korv-i-ugn-med-s%C3%A5s'>Korv I Ugn Med Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-l%C3%A4ngdskidor-falun'>åka Längdskidor Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parkeringsv%C3%A4rmare-seat-arona'>Parkeringsvärmare Seat Arona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saliv-dna-kost'>Saliv Dna Kost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=partykungen-rabattkod-youtube'>Partykungen Rabattkod Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6rsta-sociala-medierna-i-v%C3%A4rlden'>Största Sociala Medierna I Världen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-toppings-vegan'>Pizza Toppings Vegan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aimar-sher-instagram'>Aimar Sher Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4dret-spanien-december'>Vädret Spanien December</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lathund-c-uppsats'>Lathund C Uppsats</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-yoga-energy'>Friskis Yoga Energy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ofrivilliga-muskelryckningar-barn'>Ofrivilliga Muskelryckningar Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=turkiskt-kaffe-koffein'>Turkiskt Kaffe Koffein</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spansk-musik-wikipedia'>Spansk Musik Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4xj%C3%B6-bk---dam-kalender'>Växjö Bk - Dam Kalender</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kth-email-signature'>Kth Email Signature</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sandor-slash-ida-fr%C3%A5gor-och-svar'>Sandor Slash Ida Frågor Och Svar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidtabell-sp%C3%A5rvagn-7'>Tidtabell Spårvagn 7</a>,
+";s:7:"expired";i:-1;}

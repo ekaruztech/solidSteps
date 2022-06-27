@@ -1,11 +1,11 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Framework Sidebar Functions
 	*	------------------------------------------------
 	*	Swift Framework v2.0
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_setup_sidebars()
 	*	sf_sidebars_array()
@@ -13,7 +13,7 @@
 	*
 	*/
 	
-	/*  for PRO users! -  REGISTER SIDEBARS
+	/* REGISTER SIDEBARS
 	================================================== */
 	if (!function_exists('sf_register_sidebars')) {
 		function sf_register_sidebars() {
@@ -139,7 +139,7 @@
 	}
 	
 	
-	/*  for PRO users! -  GET SIDEBARS ARRAY
+	/* GET SIDEBARS ARRAY
 	================================================== */
 	function sf_sidebars_array() {
 	 	$sidebars = array();
@@ -151,7 +151,7 @@
 	}
 	
 	
-	/*  for PRO users! -  SET SIDEBAR GLOBAL
+	/* SET SIDEBAR GLOBAL
 	================================================== */
 	function sf_set_sidebar_global($sidebar_config) {
 		global $sf_sidebar_config;

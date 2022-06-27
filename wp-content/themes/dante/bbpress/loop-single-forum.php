@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Forums Loop - Single Forum
  *
  * @package bbPress

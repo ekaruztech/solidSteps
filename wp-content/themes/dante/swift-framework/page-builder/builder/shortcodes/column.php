@@ -1,11 +1,11 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Column Shortcode Class
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 
@@ -53,9 +53,10 @@
 	    }
 
 	    public function contentAdmin($atts, $content = null) {
-	        $width = '';
+	        $col_el_class = $width = '';
 	        extract(shortcode_atts(array(
-	            'width' => 'column_12'
+	            'width' => 'column_12',
+	            'col_el_class' => ''
 	        ), $atts));
 
 	        $output = '';
@@ -114,15 +115,19 @@
 	        for ( $i=0; $i < count($width); $i++ ) {
 	            $output .= '<div data-element_type="spb_column" class="spb_column spb_sortable spb_droppable '.$width[$i].' not-column-inherit">';
 	            $output .= '<input type="hidden" class="spb_sc_base" name="" value="spb_column" />';
+	            
 	            $output .= str_replace("%column_size%", spb_translateColumnWidthToFractional($width[$i]), $column_controls);
 	            $output .= '<div class="spb_element_wrapper">';
 	            $output .= '<div class="row-fluid spb_column_container spb_sortable_container not-column-inherit">';
 	            $output .= do_shortcode( shortcode_unautop($content) );
 	            $output .= SwiftPageBuilder::getInstance()->getLayout()->getContainerHelper();
 	            $output .= '</div>';
-	            $output .= '</div>';
+	            $output .= '<input type="hidden" class="spb_param_value col_el_class textfield " name="col_el_class" value="' . $col_el_class . '">';
+	            $output .= '</div>';  
 	            $output .= '</div>';
 	        }
+	       
+
 
 	        return $output;
 	    }

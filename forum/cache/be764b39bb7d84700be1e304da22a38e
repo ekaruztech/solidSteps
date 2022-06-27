@@ -1,0 +1,65 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3943:"<p>The Oyster Travelcard can be used on all London Transport networks, these include; London Underground London Buses DLR (Dockland Light Rail) London Overground. Oyster Travelcard is valid on all London Underground, Buses, Trams, Docklands Light Rail and Over-ground Trains within zones 1 – 6. The one-week pass including central London costs £36.10. If you stay in London for 6–7 days and use the underground, trains, and buses every day, the weekly Travelcard is the most cost-effective travel pass. Top Tip: An Off-Peak One Day Travelcard for zones 1–6 costs £8.90 with a Railcard. Do not get Visitor Oyster. This includes travel to and from Heathrow Airport and London City Airport. If not, and for the children anyway If 11-15, get Oyster cards. The Travelcard is a paper ticket that gives you unlimited access to London’s public transport for a limited amount of time, being the best option for the majority of tourists. Sie werden mit einem Guthaben aufgeladen, das Sie für Fahrten mit fast allen öffentlichen Verkehrsmitteln in London nutzen können: U-bahn (Tube) und Overground, DLR, die Busboote der MBNA Thames Clippers und … </p> <p>Travelcard for 4 days will cost more than Oyster/contactless. Chiidren <11 travel free . </p> <p>Would you recommend I get a Visitor Oyster Card, rather than a 7-day Travelcard? Ask the staff to add Young Visitor Discount to the children’s cards. They allow you to avoid buying a ticket each time you ride. A Travelcard will allow you to move easily, quickly and economically around London’s Public Transport network – whether you’re travelling by bus, tube or train a travelcard will cover you for all your journeys whilst in London.  </p> <p>Weekly Travelcards: 2020 prices. Over 40 attractions included in the London Pass are in Central London Zone 1-2 but the Oyster Travelcard is valid to use across all London Zones 1-9. </p> <p>This post compares the different Oyster Cards, as well as the Travelcard, to help you decide which one is best for you, including a breakdown based on the number of days you will be in London. You cannot use your Travelcard on the Heathrow Express train as the group are not part of the Transport for London network. Oystercard is a rechargeable card that you can charge with 15£, 20£, 25£, 30£, 35£ or 40£ and, as the travelcard, you can use it to travel on London public transport. Visitor Oyster Card und Oyster Card sind elektronische Fahrkarten. </p> <p>Fares How much it costs and how to pay to travel around London Find out what's the best ticket for you and how to use contactless and Oyster cards, view fares, check if you can get a refund or replacement and see if you're eligible for free and discounted travel. The Travelcard pass covers: - The London Underground network - The London red local bus network - The railway network in Greater London - Docklands Light Railway, TFL Railway and Overground Railway - 33% discount on many scheduled river services.. Heathrow. The Oyster Travelcard can be used for travel at any time of day, any day of the week so … Am I correct that the Visitor Oyster Card is not zoned? A hassle free day as you don't need to buy lots of different tickets – the Oyster Card includes everything you will need. Fares You can either get a 24 hour or 7-day Travelcard . If you have chosen to get your Oyster Travelcard sent out to you before you arrive, you can use it to get into London. With so much to see and do in every corner of the city, transportation is an essential part of your London adventure. No proof required except passport. Edited: 2:03 pm, December 18, 2019 I suppose I could buy the Travelcard for zones 1-2, and then pay separate fares for the Heathrow tube. They're essential when visiting London, as a single ride ticket's fare starts from 4,90£! Highlights. Oyster Card vs Visitor Oyster Card vs Travelcard. Am I correct that the Visitor Oyster Card is not zoned? </p>";s:7:"keyword";s:55:"ciao bella pizzeria') UNION ALL SELECT NULL,NULL   metJ";s:5:"links";s:2566:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Onyxen-i-G%C3%B6teborg4%2C0%28264%290%2C3%C2%A0km-bort2%C2%A0931%C2%A0UAH'>Hotell Onyxen I Göteborg4,0(264)0,3 km Bort2 931 UAH</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omelett-parmesan-tomat'>Omelett Parmesan Tomat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bastuaggregat-harvia-cilindro'>Bastuaggregat Harvia Cilindro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=donald-glover-star-wars'>Donald Glover Star Wars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svt-play-tv6'>Svt Play Tv6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=paljon-onnea-vaan'>Paljon Onnea Vaan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotel-transylvania-3-svenska'>Hotel Transylvania 3 Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tele2-faktura-mina-sidor'>Tele2 Faktura Mina Sidor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muskler-i-benet'>Muskler I Benet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carina-berg-barn'>Carina Berg Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatteverket-organisationsnummer-f%C3%B6rening'>Skatteverket Organisationsnummer Förening</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broschyr-mall-indesign'>Broschyr Mall Indesign</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koka-ryggbiff-m%C3%B6r'>Koka Ryggbiff Mör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valuta-cypern-turkiet'>Valuta Cypern Turkiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=war-in-sweden'>War In Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakstr%C3%B6m-vad-%C3%A4r-det'>Bakström Vad är Det</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jesper-r%C3%B6nndahl-evolution'>Jesper Rönndahl Evolution</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bahia-feliz-januari'>Bahia Feliz Januari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konserverade-p%C3%A4ron-p%C3%A5-burk'>Konserverade Päron På Burk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=budapest-spa-tips'>Budapest Spa Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stressfraktur---l%C3%B6pning'>Stressfraktur - Löpning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-koks'>Vad är Koks</a>,
+";s:7:"expired";i:-1;}

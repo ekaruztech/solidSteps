@@ -1,0 +1,69 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2955:"<p>Juristprogrammet består av obligatoriska kurser som studeras enligt en given studieordning på grundnivå samt specialkurser och examensarbete på avancerad nivå. Kurserna kan ingå i bland annat Kandidatprogram i kulturgeografi – samhälle, miljö och globala processer, 180 hp, Samhällsplanerarprogrammet, 180 hp, och Kandidatprogram i geografi, 180 … Juristprogrammet omfattar 270 hp (nio terminer) och som leder till juristexamen. Förkunskapskrav Tillträde till undervisning och examination har studerande som uppfyller det generella kravet för tillträde till specialkurser genom godkända resultat i obligatoriska kurser om minst 150 högskolepoäng inom juristprogrammet, bland vilka godkända resultat i de obligatoriska kurserna straffrätt och processrätt ska ingå. civilrätt A, B, C och D, samt associationsrätt (och företagsekonomi om man läser enligt den gamla studieordningen). Specialkurser kan vara en fördjupning av tidigare lästa ämnen eller en breddning inom vissa andra ämnesområden. </p> <p>( Juristprogrammet, HT20 270 HP, 100 % ) ( Juristprogrammet, VT21 270 HP, 100 % ) Vill du bli jurist? Specialkurser kan vara en fördjupning av tidigare lästa ämnen eller en breddning inom vissa andra ämnesområden. Som särskilt förkunskapskrav gäller att den studerande ska ha avlagt godkända tentamina i civilrätt 1-4, alt. Juristprogrammet består av obligatoriska kurser som studeras enligt en given studieordning samt specialkurser och examensarbete. Juristprogrammet består av obligatoriska kurser som studeras enligt en given studieordning samt specialkurser och examensarbete. Du hittar även denna videoguide i SU:s serviceportal på sidan Kom igång med Athena; IT-avdelningen finns även på plats i Studenthuset torsdagar klockan 12:00-13:00 i samband med ny terminsdel i period 1. Förkunskapskrav Godkända resultat i obligatoriska kurser inom juristlinjen med en summa om minst 150 hp. Termin 8 och 9 Specialkurser och examensarbeten 30 + 30 hp [2] Juristprogrammet på Stockholms universitet har under senare år varit landets mest sökta högskoleprogram. Specialkurser är forskningsnära valbara kurser inom bland annat andra terminen i kulturgeografi. Specialkurser kan vara en fördjupning av tidigare lästa ämnen eller en breddning inom vissa andra ämnesområden. Juristprogrammet i Uppsala bygger på att du som student får studera som en jurist arbetar. Juristexamen är en yrkesexamen som ger formell behörighet till vissa juridiska yrken, exempelvis kronofogde, domare, advokat och åklagare. Antagningspoängen ligger på omkring 21.5 inkluderat meritpoäng, alltså högsta betyg i nästan samtliga ämnen.  Stockholms universitet med utbildning och forskning på högsta nivå. Examensarbetet omfattar 30 hp och kan kombineras med praktik. www.su.se Med hjälp av den problembaserade inlärningsmetoden tränas du i att finna potentiella lösningar på juridiska problem. </p>";s:7:"keyword";s:200:"liverpool world cup jersey(SELECT/**/CHAR(71)+CHAR(48)+CHAR(86)+CHAR(122)+(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END))+CHAR(71)+CHAR(48)+CHAR(86)+CHAR(122))";s:5:"links";s:3196:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sous-vide-sparris-recept'>Sous Vide Sparris Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%A4ngn%C3%A4s-kommun-ekonomi'>Strängnäs Kommun Ekonomi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moderaterna-partiledare-2020'>Moderaterna Partiledare 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%B6gle-trupp-2018'>Rögle Trupp 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-stort-%C3%A4r-island'>Hur Stort är Island</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vattenfall-str%C3%B6mavbrott-%C3%A5rj%C3%A4ng'>Vattenfall Strömavbrott årjäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=designa-egen-jacka'>Designa Egen Jacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=canvas-material-textil'>Canvas Material Textil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kcocktail-med-aioli'>Räkcocktail Med Aioli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spr%C3%A5ktidningen-n%C3%A4sta-nummer'>Språktidningen Nästa Nummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=soppa-jord%C3%A4rtskocka-s%C3%B6tpotatis'>Soppa Jordärtskocka Sötpotatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=erik-penser-%2F-event'>Erik Penser / Event</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-v%C3%A4lsviken-lunch'>Coop Välsviken Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rordning-om-allm%C3%A4nna-f%C3%B6rvaltningsdomstolar'>Förordning Om Allmänna Förvaltningsdomstolar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huvudstad-uppv%C3%A4xt-vid-textilmanufaktur'>Huvudstad Uppväxt Vid Textilmanufaktur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hopprep-barn-xxl'>Hopprep Barn Xxl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ab-volvo-styrelse'>Ab Volvo Styrelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-n%C3%A4ra-malm%C3%B6'>Ica Nära Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samh%C3%A4llsf%C3%B6rlusten-av-sjukskrivningar'>Samhällsförlusten Av Sjukskrivningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wicked-game-lyrics'>Wicked Game Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ystad-camping-corona'>Ystad Camping Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skandia-lifeline-corona'>Skandia Lifeline Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=recovery-code-snapchat'>Recovery Code Snapchat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-v%C3%A4sterbotten-angr%C3%A4nsande-l%C3%A4n'>Blocket Västerbotten Angränsande Län</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4llskapsresan-full-movie-dreamfilm'>Sällskapsresan Full Movie Dreamfilm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=london-transport-card'>London Transport Card</a>,
+";s:7:"expired";i:-1;}

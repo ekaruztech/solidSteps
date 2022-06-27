@@ -1,0 +1,66 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3754:"<br>Jón Kalman Stefánsson is the winner of the Icelandic Prize for Literature and has been nominated three times for the Nordic Council Prize for Literature. Jón Kalman debuterte med diktsamlingen Með byssuleyfi á eilífðina (Med våpentillatelse mot evigheten, 1988), og har foruten dikt utgitt noveller og romaner. Februar 2007 im Internet Archive) Anmerkung: Isländer werden mit dem Vornamen oder mit Vor- und Nachnamen, jedoch nicht allein mit dem Nachnamen bezeichnet. <br> <br>Biografia. Biography. Biographie. Jón Kalman Stefánsson (born 17 December 1963) is an Icelandic author. <br> <br>Jón Kalman Stefánsson (Reykjavík, 17 dicembre 1963) è uno scrittore islandese. <br> Weiterführende Informationen finden sich …  Estudió literatura en la Universidad de Islandia de 1986 a 1991, pero no la acabó.Durante este período dio clases en distintas escuelas y escribió artículos para el diario «Morgunblaðið». Hann bjó í borginni til 12 ára aldurs en flutti þá til Keflavíkur og bjó þar til ársins 1986; þá lá leiðin aftur til Reykjavíkur, með stúdentspróf úr Fjölbrautaskóla Suðurnesja upp á vasann. He grew up there and in Keflavík. Han debuterede i 1988, har udgivet flere digtsamlinger, noveller og romaner. <br> <br> <br>Jón Kalman Stefánsson (f. 1963) er en af Islands allerstørste forfattere. Biographie. Jón Kalman Stefánsson (Reykjavík, 1963), ex professore e bibliotecario, è passato alla narrativa dopo tre raccolte poetiche. <br> <br>Jón Kalman Stefánsson grandit à Reykjavík et à Keflavík.Après avoir fini ses études au collège en 1982, il décroche de petits emplois en Islande de l'Ouest (par exemple dans les secteurs de la pêche et de la maçonnerie).. Il entreprend ensuite, de 1986 à 1991, des études en littérature à l'université d'Islande, sans parvenir à les terminer. I suoi romanzi sono stati nominati più volte al Premio del Consiglio Nordico e pubblicati dalle più importanti case editrici europee. Jón Kalman Stefánsson grandit à Reykjavík et à Keflavík.Après avoir fini ses études au collège en 1982, il décroche de petits emplois en Islande de l'Ouest (par exemple dans les secteurs de la pêche et de la maçonnerie).. Il entreprend ensuite, de 1986 à 1991, des études en littérature à l'université d'Islande, sans parvenir à les terminer. Bókmenntavefurinn – Jón Kalman Stefánsson (Memento vom 28. <br> <br>From 1975 to 1982, he lived in western Iceland, where he worked in different jobs after having finished high school. <br> <br>Jón Kalman Stefánsson, Philip Roughton (Translator) 3.89 avg rating — 1,423 ratings — published 2013 — 29 editions Jón Kalman was born in Reykjavík. Jón Kalman Stefánsson, islandsk forfatter, kritiker og oversetter. Jón Kalman Stefánsson, islandsk forfatter, kritiker og oversetter. Jón Kalman è nato a Reykjavík. Kalman har været slagteriarbejder, arbejdet i fiskeindustrien, studeret på universitet, undervist på højskole og arbejdet som bibliotekar. <br> <br>Jón Kalman debuterte med diktsamlingen Með byssuleyfi á eilífðina (Med våpentillatelse mot evigheten, 1988), og har foruten dikt utgitt noveller og romaner. Jón Kalman Stefánsson fæddist í Reykjavík 17. desember 1963. Boede i Kø Jón Kalman Stefánsson (17 de diciembre de 1963, Reikiavik) es un autor islandés.. Creció en Reikiavik y Keflavík.Tras acabar el colegio, trabajó en Islandia occidental como pescador entre otros. <br> <br>Heaven and Hell, is a perfectly formed, vivid and timeless story, lyrical in style, and as intense a reading experience … Il grandit à Reykjavík et à Keflavík. Jón Kalman Stefánsson (né le 17 décembre 1963 à Reykjavík) est un auteur islandais. <br>";s:7:"keyword";s:65:"öva svensk grammatik pdf) UNION ALL SELECT NULL,NULL,NULL   rxBb";s:5:"links";s:2820:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anders-jansson-kungsbacka'>Anders Jansson Kungsbacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kreta-v%C3%A4der-juni'>Kreta Väder Juni</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=troll-spj%C3%A4ls%C3%A4ng-romantica'>Troll Spjälsäng Romantica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=andel-h%C3%B6gskoleutbildade-per-kommun'>Andel Högskoleutbildade Per Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4sa-engelska-p%C3%A5-distans'>Läsa Engelska På Distans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bibi-andersson-d%C3%B6dsorsak'>Bibi Andersson Dödsorsak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fyrar-p%C3%A5-v%C3%A4stkusten'>Fyrar På Västkusten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=komplett-s%C3%A4ngpaket-ikea'>Komplett Sängpaket Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tomas-von-br%C3%B6mssen'>Tomas Von Brömssen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jazzdans-barn-g%C3%B6teborg'>Jazzdans Barn Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4sterbergs-folkh%C3%B6gskola-boende'>Västerbergs Folkhögskola Boende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inspiration-sovrum-gr%C3%B6nt'>Inspiration Sovrum Grönt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=last-minute-hotel-stockholm'>Last Minute Hotel Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pepparkornen-yeliz-2020'>Pepparkornen Yeliz 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fitbit-inspire-hr-fels%C3%B6kning'>Fitbit Inspire Hr Felsökning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=august-strindberg-ne'>August Strindberg Ne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmlands-l%C3%A4n-befolkning'>Värmlands Län Befolkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-olivolja-veganskt'>är Olivolja Veganskt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ber%C3%B6ringsfri-blandare-biltema'>Beröringsfri Blandare Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-och-svettis-malm%C3%B6-schema'>Friskis Och Svettis Malmö Schema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=new-linux-distro'>New Linux Distro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tekanna-sk%C3%B6nheten-och-odjuret'>Tekanna Skönheten Och Odjuret</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontonummer-swedbank-autogiro'>Kontonummer Swedbank Autogiro</a>,
+";s:7:"expired";i:-1;}

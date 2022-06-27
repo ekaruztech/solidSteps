@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * User Registration Form
  *
  * @package bbPress

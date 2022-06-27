@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2442:"<p>Join Songkick to track Lill Lindfors and get concert alerts when they play near you. Artist information Sort name: Lindfors, Lill Type: Person Gender: Female Born: 1940-05-12 (79 years ago)Born in: Helsinki, Uusimaa, Finland Area: Sweden ISNI code: 0000 0000 7890 7068 Rating. who represented Norway.. Lill Lindfors On tour: no Upcoming 2020 concerts: none 3,980 fans get concert alerts for this artist. Maj Lillemor "Lill" Lindfors, born 12 May 1940 in Helsinki, Finland, is a Swedish singer who has performed in Scandinavia since the 1960s. </p> <p>She represented Sweden in the 1966 contest where she finished second with the song Nygammal Vals, a duet with Svante Thuresson.. Lill is best remembered for her relaxed and humorous presentation style, making jokes throughout the show in … Lill Lindfors (d. 12 Mayıs 1940 Helsinki) İsveçli şarkıcı. Genres.  Lill Lindfors and Svante Thuresson. Country Sweden Final Finished 2nd Song Nygammal Vals Eller Hip Man Svinaherde Written by Björn Lindroth Composed by Bengt-Arne Wallin On the internet Broadcaster SR Lyrics of Nygammal Vals Eller Hip Man Svinaherde. 1966 yılında İsveç'i Eurovision'da temsil etmeye hak kazanmış, Svante Thuresson ile birlikte katıldığı yarışmada 2. olmuştur.. Lill, 1985 Eurovision … The 1985 Eurovision Song Contest was the 30th in the series, and was held on May 4 1985, in Gothenburg, Sweden, due to the victory made the previous year by the Herreys.The contest was won by duo Bobbysocks! Bobbysocks!' jazz. Svensk skådespelerska, komiker och sångerska. 108 pratar om detta. </p> <p>Hon debuterade i början av 1960-talet i Hagge Geigerts nyårsrevy. Lill Lindfors was born in Helsinki, Finland in 1940. Lill Lindfors, née le 12 mai 1940 à Helsinki, est une chanteuse et présentatrice de télévision finno-suédoise. Show all release groups instead, or show various artists release groups. The official lyrics of Nygammal Vals Eller Hip Man Svinaherde are not (yet) available. Om du nånsin kommer fram till Samarkand official lyrics by Lill Lindfors : Jag vaknade vid att solen lyste på mig Genom fönstret, som stod öppet, kom </p> <p>Showing official release groups by this artist. </p> <p>Other tags </p> <p>Biographie Elle débute en tant qu'actrice dans les années 1960, puis rencontre un certain succès dans les pays scandinaves en tant que chanteuse. 80'li yıllarda İskandinavya bölgesinde üne kavuşmuştur. </p>";s:7:"keyword";s:22:"lill lindfors official";s:5:"links";s:5838:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-white-wolf-witcher'>The White Wolf Witcher</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4pplen-till-%C3%A4ppelkaka'>äpplen Till äppelkaka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=intellektuell-funktionsneds%C3%A4ttning-ers%C3%A4ttning'>Intellektuell Funktionsnedsättning Ersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fris%C3%B6rskolan-kavelbro-sk%C3%B6vde'>Frisörskolan Kavelbro Skövde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-tv-series'>Samsung Tv Series</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torkarblad-bosch-mekonomen'>Torkarblad Bosch Mekonomen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonym-for-have'>Synonym For Have</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-trucks-organisation'>Volvo Trucks Organisation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ring-of-fire-chili'>Ring Of Fire Chili</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-black-edition'>Aik Black Edition</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konfirmationsl%C3%A4ger-2020-dalarna'>Konfirmationsläger 2020 Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hanna-folkesson-ratsit'>Hanna Folkesson Ratsit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magaluf---flashback'>Magaluf - Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=countries-with-english-as-primary-language'>Countries With English As Primary Language</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=borgerlig-vigsel-solna'>Borgerlig Vigsel Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=internationella-skolan-uppsala'>Internationella Skolan Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=perstorps-kommun-skola'>Perstorps Kommun Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ng-till-8-%C3%A5ring'>Säng Till 8 åring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stekt-torsk-med-bacon'>Stekt Torsk Med Bacon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-sparrissoppa-burk'>Vit Sparrissoppa Burk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tour-de-ski-sista-etappen'>Tour De Ski Sista Etappen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fris%C3%B6r-utbildning-j%C3%B6nk%C3%B6ping'>Frisör Utbildning Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-universitet-studera'>Malmö Universitet Studera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=timr%C3%A5-ik-tr%C3%A4ningsmatcher'>Timrå Ik Träningsmatcher</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torrsprickor-d%C3%A4ck-husvagn'>Torrsprickor Däck Husvagn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ng-160x200-rea'>Säng 160x200 Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talgje-b%C3%A4ddmadrass-ikea'>Talgje Bäddmadrass Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarlov-2020-hultsfred'>Sommarlov 2020 Hultsfred</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fakta-om-sverige-p%C3%A5-spanska'>Fakta Om Sverige På Spanska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5-upp-i-vikt-kosttillskott'>Gå Upp I Vikt Kosttillskott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4tts-upp-p%C3%A5-teatern'>Sätts Upp På Teatern</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=soffa-sitth%C3%B6jd-48-cm'>Soffa Sitthöjd 48 Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dra-ut-kylsk%C3%A5p'>Dra Ut Kylskåp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wellpur-madrass-80x200'>Wellpur Madrass 80x200</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amerikansk-s%C3%A5ngerska-f%C3%B6dd-1962'>Amerikansk Sångerska Född 1962</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kompisar-p%C3%A5-n%C3%A4tet-quiz'>Kompisar På Nätet Quiz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggmax-upplands-v%C3%A4sby'>Byggmax Upplands Väsby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beer-pong-regler'>Beer Pong Regler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llvandra-med-hund'>Fjällvandra Med Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobbiga-grannar-radhus'>Jobbiga Grannar Radhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=travel-plan-london-transport'>Travel Plan London Transport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-work-v%C3%A4ster%C3%A5s'>After Work Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skola-i-kenya'>Skola I Kenya</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bultcirkel-volvo-xc60'>Bultcirkel Volvo Xc60</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-druid-l%C3%A4ngd'>David Druid Längd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marinad-grillspett-n%C3%B6tk%C3%B6tt'>Marinad Grillspett Nötkött</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rasmus-lindgren-sk%C3%A5despelare'>Rasmus Lindgren Skådespelare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spolknapp-v%C3%A4ggh%C3%A4ngd-toalett'>Spolknapp Vägghängd Toalett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reservdelar-suzuki-intruder'>Reservdelar Suzuki Intruder</a>,
+";s:7:"expired";i:-1;}

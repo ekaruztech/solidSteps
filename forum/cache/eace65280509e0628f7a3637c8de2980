@@ -1,0 +1,76 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2122:"<br>Exempel. <br> <br>CV - Curriculum vitae = Livets lopp 58 ord - välj 5 Tio vanligaste ord i ett CV (Enligt Linked In 2016) 1. Strategisk 5. Bred erfarenhet Grundlig Handlingskraftig Du kan nemt tilpasse den til dine behov ved at bruge de indbyggede temaer og farver. CV och personligt brev! Personligt brev ”Första kontaktenmedennykundär avgörande”Dennakliché instämmerallasäljcheferi såväl stora som småföretagi. Klicka på bilden och starta din egen Hemsida Nu. Når du skriver et personligt brev, skal du tænke på din modtager. Personligt brev 2017.01.18 1. Motiverad 9. <br> Ledarskap 2. CV Exempel Ett smartare och bättre CV .  Konsten att sammanfatta den viktigaste informationen i ett personligt brev är svårt och det gäller att prioritera då man inte ska ta med allt för mycket detaljer. Positiv 10. <br> <br>Et personligt brev er privat. Driven 3. Det kan också vara svårt att på ett professionellt sätt övertyga arbetsgivaren om varför man anser sig vara bäst lämpad för jobbet.  <br>Word-format för gratis nerladdning. Personligt brevhoved Brug denne handicapvenlige skabelon til at oprette personligt brevpapir til et brev med et frisk udseende, når du ikke vil nøjes med en mail. Et personligt brev er en berettende tekst, hvor du fx kan berette om dine oplevelser. Du skal tilpasse brevets sprog og form efter din modtager. 2019-jan-03 - Vi publicerar personligt brev butik mall & exempel för dig.Tips för att förbereda ett imponerande personligt brev butik mall svenska. Kreativ 4. Passionerad 6. Att söka arbete är en hel vetenskap i sig, och förutsätter att du bland annat har kunskap om hur man skrivet ett CV – curriculum vitae (latin för levnadsteckning) – och hur man skriver ett personligt brev på ett intressant sätt. Betydande erfarenhet 7. Et brev har nogle helt faste genretræk, som du kan bruge, når du selv skal skrive. Ett personligt brev kan se ut på många olika sätt, här listar vi två exempel på hur man skulle kunna skriva . Ansvarsfull 8. Et brev har nogle helt faste genretræk, som du kan bruge, når du selv skal skrive. <br>";s:7:"keyword";s:267:"streams to royaltiesAND/**/6538'='6538')/**/AND/**/7732/**/IN/**/(SELECT/**/(CHAR(118)+CHAR(78)+CHAR(104)+CHAR(88)+(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END))+CHAR(118)+CHAR(78)+CHAR(104)+CHAR(88)))/**/AND/**/('6538'='6538";s:5:"links";s:3942:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sota-sj%C3%A4lv-kurs-kalmar'>Sota Själv Kurs Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ppelknyten-med-%C3%A4ppelmos'>äppelknyten Med äppelmos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-balder-ume%C3%A5'>Restaurang Balder Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-frim%C3%A4rken-1970'>Svenska Frimärken 1970</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-f%C3%B6rnyas-skelettet'>Hur Förnyas Skelettet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toro-spare-parts'>Toro Spare Parts</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=janne-andersson-f%C3%B6rbundskapten'>Janne Andersson Förbundskapten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Fun%C3%A4sdalen4%2C2%28296%290%2C1%C2%A0miles-bort72%C2%A0US%24'>Hotell Funäsdalen4,2(296)0,1 miles Bort72 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utsatta-omr%C3%A5den-g%C3%B6teborg'>Utsatta Områden Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-work-liljeholmen'>After Work Liljeholmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=triathlon-mariefred-2019'>Triathlon Mariefred 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=qr-kod-swish-sparbanken'>Qr Kod Swish Sparbanken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6blera-%C3%B6ppen-planl%C3%B6sning'>Möblera öppen Planlösning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kroki-konstskolan-g%C3%A4vle'>Kroki Konstskolan Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skierg-5000-m-motst%C3%A5nd'>Skierg 5000 M Motstånd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jape-gr%C3%B6n-fri-recension'>Jape Grön-fri Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ggbricka-pex-16'>Väggbricka Pex 16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aktivitetsers%C3%A4ttning-efter-30-%C3%A5r'>Aktivitetsersättning Efter 30 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosa-gin-systembolaget'>Rosa Gin Systembolaget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hund-d%C3%B6r-i-s%C3%B6mnen'>Hund Dör I Sömnen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gluten-och-laktosfri-dr%C3%B6mt%C3%A5rta'>Gluten Och Laktosfri Drömtårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madame-duang-b%C3%A5stad'>Madame Duang Båstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slp-slutburk-arctic-cat'>Slp Slutburk Arctic Cat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bolia-mr-big'>Bolia Mr Big</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-falk%3A-alla-r%C3%A5ns-moder-stream'>Johan Falk: Alla Råns Moder Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llstuga-vecka-9'>Fjällstuga Vecka 9</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-bank-flashback'>Byta Bank Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gaming-event-stockholm'>Gaming Event Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skype-share-screen'>Skype Share Screen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=link%C3%B6pings-pk-facebook'>Linköpings Pk Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uddevalla-lediga-jobb'>Uddevalla Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fingerprint-avanza-forum'>Fingerprint Avanza Forum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=210-s%C3%A4ng-sammet'>210 Säng Sammet</a>,
+";s:7:"expired";i:-1;}

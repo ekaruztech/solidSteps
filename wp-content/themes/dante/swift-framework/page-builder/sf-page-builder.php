@@ -1,5 +1,5 @@
 <?php
-	/*  for PRO users! - 
+	/*
 	* 
 	*	Swift Page Builder - Main Class
 	*	------------------------------------------------
@@ -11,7 +11,7 @@
 	if (!defined('ABSPATH')) die('-1');
 	
 
-	/*  for PRO users! -  DEFINITIONS
+	/* DEFINITIONS
 	================================================== */ 
 	define('SPB_VERSION', '2.0');
 	define('SPB_PATH', dirname(__FILE__));
@@ -25,24 +25,23 @@
 	);
 	define( 'SPB_SHORTCODES', $spb_settings['SPB_BUILDER_SHORTCODES'] );
 	
-	/*  for PRO users! -  INCLUDE PAGE BUILDER INCLUDES
+	/* INCLUDE PAGE BUILDER INCLUDES
 	================================================== */ 
 	require_once( $spb_settings['SPB_BUILDER'] . 'spb-includes.php' );
 	
 	
-	/*  for PRO users! -  INCLUDE BUILDER SETUP
+	/* INCLUDE BUILDER SETUP
 	================================================== */ 
 	require_once( $spb_settings['SPB_BUILDER'] . 'build.php' );
 	
 	
-	/*  for PRO users! -  LAYOUT & SHORTCODE SETUP
+	/* LAYOUT & SHORTCODE SETUP
 	================================================== */ 
 	require_once( $spb_settings['SPB_BUILDER_LIB'] . 'default-map.php' );
 	
 	
-	/*  for PRO users! -  INITIALISE BUILDER
+	/* INITIALISE BUILDER
 	================================================== */ 
 	$wpSPB_setup = is_admin() ? new SFPageBuilderSetupAdmin() : new SFPageBuilderSetup();
 	$wpSPB_setup->init($spb_settings);
-
-?>
+	

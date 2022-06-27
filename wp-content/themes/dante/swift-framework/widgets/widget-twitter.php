@@ -1,5 +1,5 @@
 <?php
-/*  for PRO users! - 
+/*
 Plugin Name: Simple Twitter Widget
 Plugin URI: http://chipsandtv.com/
 Description: A simple but powerful widget to display updates from a Twitter feed. Configurable and reliable.
@@ -28,13 +28,13 @@ Foundation, Inc., 51 Franklin St, Fifth Floor, Boston, MA  02110-1301  USA
 class Twitter_Widget extends WP_Widget {
 
 
-	function Twitter_Widget() {
+	function __construct() {
 								
 		// Widget settings
 		$widget_ops = array('classname' => 'twitter-widget', 'description' => 'Display your latest tweets.');
 
 		// Create the widget
-		$this->WP_Widget('twitter-widget', 'Swift Framework Tweets', $widget_ops);
+		parent::__construct('twitter-widget', 'Swift Framework Tweets', $widget_ops);
 	}
 	
 	

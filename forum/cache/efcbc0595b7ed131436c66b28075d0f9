@@ -1,0 +1,105 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2576:"<p>I tried to cast a video with VLC through command line and I don't seem to be able to do it. VLC finally embraces Chromecast. Select your preferred Chromecast device.  Just stream it from VLC player using a Chromecast. Follow next steps. Just make sure you turn your PC’s audio off before you get started casting. I can cast via gui without issues but this won't work with the below code vlc "D:\test.avi" --sout-chromecast-ip=192.168.1.1 I've also tried various combo's like vlc "D:\test.avi" --sout-chromecast-ip="192.168.1.1" Here's how to do it. You will need 3 things to carry out the task-Google Chromecast device Videos and music files of all formats supported by VLC media player now can be streamed to Chromecast. In this guide, I will try to use Chromecast to represent them all, instead of listing them all. Next, to stream VLC to Chromecast, all you have to do is play any media content on your computer and it will be displayed on your widescreen TV. Here is a step by step guide on How to Stream From VLC to Your Chromecast using VLC ChromeCast. With version 2.9.1, you can now use VLC for Android to stream local media to Chromecast. How to stream from VLC to Chromecast. You may also customize the audio, video, and subtitles to find everything just how you like it. One of the major new features added to VLC 3.0 is support for Chromecast.If you want to use VLC with Chromecast, and watch videos, you will need to upgrade to version 3.0. Chromecast Ultra, Chromecast Audio, Google Home, Google Home Mini and Google Home Max. VLC is one of the most popular media players as not only it provides you with a lot of advantages, such as support for multiple file formats and access to dozens of playback options, but it also comes without a price tag. </p> <p>With VLC player and Chromecast, you can set up a live entertainment system using your PC as the streaming media. VLC 3.0 “Vetinari” is a significant update of VLC, the first in several years, and it offers many new improvements to the program. The Top Steps to Streaming from VLC to Your Chromecast. Unfortunately, that version is most likely version 2.x, and not the new 3.0 version. Step 1: Gather the things you will need. You can now watch an old video, movie or a TV Show from your Windows PC on your TV. In regards to casting media, 3.0 can stream to Chromecast devices, even in formats not supported natively. Here’s how you can do it. VLC for iOS now packs Chromecast support, allowing you to stream audio and video files from your iPhone or iPad to a compatible Chromecast device. </p>";s:7:"keyword";s:24:"vlc stream to chromecast";s:5:"links";s:7496:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allm%C3%A4nhetens-%C3%A5kning-sundbyberg'>Allmänhetens åkning Sundbyberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=maria-persson-mallorca'>Maria Persson Mallorca</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kommunikat%C3%B6r-h%C3%B6gan%C3%A4s-kommun'>Kommunikatör Höganäs Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbd%C3%A4ck-danmark-tyskland'>Dubbdäck Danmark Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landslagstruppen-mot-rum%C3%A4nien'>Landslagstruppen Mot Rumänien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=black-mesa%3A-xen'>Black Mesa: Xen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Scandic-Opalen4%2C0%282166%290%2C5%C2%A0km-bort3%C2%A0164%C2%A0UAH'>Scandic Opalen4,0(2166)0,5 km Bort3 164 UAH</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bbc-2-tonight'>Bbc 2 Tonight</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-fotbollsf%C3%B6rbundet-barn'>Svenska Fotbollsförbundet Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grillad-fl%C3%A4skfil%C3%A9-tillbeh%C3%B6r'>Grillad Fläskfilé Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5hus-beach-l%C3%A4ger'>åhus Beach Läger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vandra-p%C3%A5-madeira'>Vandra På Madeira</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=per-andersson-humor'>Per Andersson Humor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rdet-i-stenen-ekorre'>Svärdet I Stenen Ekorre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=robocop-falling-scene'>Robocop Falling Scene</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amanda-winberg-panna'>Amanda Winberg Panna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=idol-2012-deltagare'>Idol 2012 Deltagare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=psykolog-jobba-utomlands'>Psykolog Jobba Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6rbyskolan----g%C3%A4vle'>Sörbyskolan -- Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mor%C3%B6tter-i-ugn-nyttigt'>Morötter I Ugn Nyttigt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kaios-apps-list'>Kaios Apps List</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kort-effektivt-l%C3%B6ppass'>Kort Effektivt Löppass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=heaven-23-frukost'>Heaven 23 Frukost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-estetic-wc'>Gustavsberg Estetic Wc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-f%C3%B6rskola-g%C3%B6teborg'>Privat Förskola Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=referera-till-skolverkets-allm%C3%A4nna-r%C3%A5d'>Referera Till Skolverkets Allmänna Råd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arctic-cat-tillbeh%C3%B6r'>Arctic Cat Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=go-kart-80cc'>Go Kart 80cc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tappventil-tv%C3%A4ttmaskin-h%C3%B6jd'>Tappventil Tvättmaskin Höjd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if%C3%B6-aqua-spolknapp'>Ifö Aqua Spolknapp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thule-caravan-smart'>Thule Caravan Smart</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spotify-premium-telia'>Spotify Premium Telia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karl-xi-d%C3%B6dsorsak'>Karl Xi Dödsorsak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-t%C3%A4nkte-man-om-stj%C3%A4rnor-f%C3%B6rr'>Hur Tänkte Man Om Stjärnor Förr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mens-vid-10-%C3%A5rs-%C3%A5lder'>Mens Vid 10 års ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-ekparken-motala'>Förskolan Ekparken Motala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubrovnik-i-italien'>Dubrovnik I Italien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-play-start'>Telia Play Start</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dplay-sport-pris'>Dplay Sport Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=auktion-klockor-rolex'>Auktion Klockor Rolex</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norra-europa-befolkning'>Norra Europa Befolkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ldreboende-svartb%C3%A4cken-uppsala'>äldreboende Svartbäcken Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4mta-pinkod-l%C3%A4nsf%C3%B6rs%C3%A4kringar'>Hämta Pinkod Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ster-malma-kurser'>öster Malma Kurser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=japanska-ambassaden-e-post'>Japanska Ambassaden E Post</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=massage-gun-prisjakt'>Massage Gun Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-de-las-americas-shopping'>Playa De Las Americas Shopping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bj%C3%B6rkl%C3%B6ven---u12'>Björklöven - U12</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6rk-hud-bl%C3%A5-%C3%B6gon'>Mörk Hud Blå ögon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medlefors-hotell-%26-konferens-skellefte%C3%A5'>Medlefors Hotell & Konferens Skellefteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hjortytterfil%C3%A9-med-mandelpotatispur%C3%A9-recept'>Hjortytterfilé Med Mandelpotatispuré Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jogging-hastighet-km%2Fh'>Jogging Hastighet Km/h</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-pizza-ch%C3%A8vre'>Vit Pizza Chèvre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mobilen-st%C3%A4nger-av-sig-sj%C3%A4lv-samsung'>Mobilen Stänger Av Sig Själv Samsung</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=styrfarten-2-g%C3%B6teborg----bjurfors-hisingen'>Styrfarten 2 Göteborg -- Bjurfors Hisingen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-motala-sn%C3%A4ckan'>Lunch Motala Snäckan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rolf-lassg%C3%A5rd-barn'>Rolf Lassgård Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olympia-gymnasium-helsingborg'>Olympia Gymnasium Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=indragning-av-sjukpenning'>Indragning Av Sjukpenning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kna-ut-target-height'>Räkna Ut Target Height</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fakta-om-muskler-f%C3%B6r-barn'>Fakta Om Muskler För Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=innebandy-domare-l%C3%B6n'>Innebandy Domare Lön</a>,
+";s:7:"expired";i:-1;}

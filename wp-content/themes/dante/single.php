@@ -4,8 +4,8 @@
 	
 	$options = get_option('sf_dante_options');
 	$default_sidebar_config = $options['default_sidebar_config'];
-	$default_left_sidebar = $options['default_left_sidebar'];
-	$default_right_sidebar = $options['default_right_sidebar'];
+	$default_left_sidebar = strtolower($options['default_left_sidebar']);
+	$default_right_sidebar = strtolower($options['default_right_sidebar']);
 	$sidebar_width = $options['sidebar_width'];
 	
 	$pb_active = sf_get_post_meta($post->ID, '_spb_js_status', true);
@@ -35,8 +35,8 @@
 	}
 	
 	$sidebar_config = sf_get_post_meta($post->ID, 'sf_sidebar_config', true);
-	$left_sidebar = sf_get_post_meta($post->ID, 'sf_left_sidebar', true);
-	$right_sidebar = sf_get_post_meta($post->ID, 'sf_right_sidebar', true);
+	$left_sidebar = strtolower(sf_get_post_meta($post->ID, 'sf_left_sidebar', true));
+	$right_sidebar = strtolower(sf_get_post_meta($post->ID, 'sf_right_sidebar', true));
 	
 	if ($sidebar_config == "") {
 		$sidebar_config = $default_sidebar_config;
@@ -165,6 +165,17 @@
 		}
 							
 		$figure_output .= '</figure>'."\n";
+		
+		$logo = $logo_width = $logo_height = "";
+		if (isset($options['logo_upload'])) {
+		$logo = __( $options['logo_upload'] , 'swiftframework' );
+		}
+		if (isset($options['logo_width'])) {
+		$logo_width = $options['logo_width'];
+		}
+		if (isset($options['logo_height'])) {
+		$logo_height = $options['logo_height'];
+		}
 	?>
 	
 	<div class="inner-page-wrap <?php echo $page_wrap_class; ?> clearfix">
@@ -201,19 +212,31 @@
 				<?php if ($sidebar_config == "no-sidebars" && $pb_active == "true") { ?>
 				<div class="container">
 				<?php } ?>
+				
+				<meta itemprop="datePublished" content="<?php echo get_the_date( 'Y-m-d' ); ?>"/>
+				<meta itemprop="dateModified" content="<?php echo get_the_modified_date( 'Y-m-d' ); ?>"/>
+				<div itemprop="publisher" itemscope="" itemtype="https://schema.org/Organization">
+					<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject" style="display:none;">
+						<img src="<?php echo $logo; ?>" />
+						<meta content="<?php echo $logo; ?>" itemprop="url" />
+					  	<meta content="<?php echo $logo_width; ?>" itemprop="width" />
+					  	<meta content="<?php echo $logo_height; ?>" itemprop="height" />
+				   	</div>
+				  	<meta itemprop="name" content="<?php bloginfo('name'); ?>" />
+				</div>
 			
-				<div class="entry-title"><?php echo $page_title; ?></div>
+				<div class="entry-title"><?php the_title(); ?></div>
 				
 				<ul class="post-pagination-wrap curved-bar-styling clearfix">
 					<li class="prev"><?php next_post_link('%link', __('<i class="ss-navigateleft"></i> <span class="nav-text">%title</span>', 'swiftframework'), $same_category_navigation); ?></li>
 					<li class="next"><?php previous_post_link('%link', __('<span class="nav-text">%title</span><i class="ss-navigateright"></i>', 'swiftframework'), $same_category_navigation); ?></li>
 				</ul>
 				
-				<!--<div class="post-info clearfix">
+				<div class="post-info clearfix">
 					<?php if ($single_author && !$remove_dates) { ?>
 						<span><?php echo sprintf(__('Posted on <span class="date updated">%1$s</span> in %2$s', 'swiftframework'), $post_date, $post_categories); ?></span>
 					<?php } else if ($single_author && $remove_dates) { ?>
-						<span><?php //echo sprintf(__('Posted in %1$s', 'swiftframework'), $post_categories); ?></span>
+						<span><?php echo sprintf(__('Posted in %1$s', 'swiftframework'), $post_categories); ?></span>
 					<?php } else if ($remove_dates) { ?>
 						<span class="vcard author"><?php echo sprintf(__('Posted by <span itemprop="author" class="fn">%1$s</span> in %2$s', 'swiftframework'), $post_author, $post_categories); ?></span>
 					<?php } else { ?>
@@ -224,7 +247,7 @@
 						<div class="comments-wrapper"><a href="#comments"><i class="ss-chat"></i><span><?php comments_number(__('0 Comments', 'swiftframework'), __('1 Comment', 'swiftframework'), __('% Comments', 'swiftframework')); ?></span></a></div>
 					</div>
 					<?php } ?>
-				</div>-->
+				</div>
 				
 				<?php if (!$full_width_display && $media_type != "none") {
 					echo $figure_output;
@@ -253,7 +276,7 @@
 					
 					<?php if ($show_social) { ?>
 					<div class="share-links curved-bar-styling clearfix">
-						<div class="share-text"><?php _e("Share this:", "swiftframework"); ?></div>
+						<div class="share-text"><?php _e("Share this article:", "swiftframework"); ?></div>
 						<ul class="social-icons">
 							<li class="sf-love">
 							<div class="comments-likes">
@@ -335,7 +358,7 @@
 					}
 					
 					$related_posts_query = new wp_query($args);
-					/*if( $related_posts_query->have_posts() ) {	
+					if( $related_posts_query->have_posts() ) {	
 						echo '<h3 class="spb-heading"><span>';
 						_e("Related Articles", "swiftframework");
 						echo '</span></h3>';
@@ -357,12 +380,18 @@
 							if ( isset($options['related_article_thumb_height']) ) {
 								$thumb_height = $options['related_article_thumb_height'];
 							}
+							if ($thumb_width == "") {
+								$thumb_width = 300;
+							}
+							if ($thumb_height == "") {
+								$thumb_height = 225;
+							}
 							$image = sf_aq_resize( $thumb_img_url, $thumb_width, $thumb_height, true, false);
 							?>
 							<li class="related-item col-sm-3 clearfix">
 								<figure class="animated-overlay overlay-alt">
 									<?php if ($image) { ?>
-									<img itemprop="image" src="<?php echo $image[0]; ?>" width="<?php echo $image[1]; ?>" height="<?php echo $image[2]; ?>" alt="<?php echo $item_title; ?>" />
+									<img src="<?php echo $image[0]; ?>" width="<?php echo $image[1]; ?>" height="<?php echo $image[2]; ?>" alt="<?php echo $item_title; ?>" />
 									<?php } else { ?>
 									<div class="img-holder"><i class="ss-pen"></i></div>
 									<?php } ?>
@@ -375,9 +404,9 @@
 								</figure>
 								<h5><a href="<?php the_permalink() ?>" rel="bookmark" title="Permanent Link to <?php the_title_attribute(); ?>"><?php echo $item_title; ?></a></h5>
 							</li>
-						<?php /*}
+						<?php }
 						echo '</ul>';
-					}*/
+					}
 												
 					wp_reset_query();
 				?>

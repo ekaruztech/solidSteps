@@ -1,11 +1,11 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Blog Shortcode
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 
@@ -41,7 +41,7 @@
 	        $width = spb_translateColumnWidthToSpan($width);
 	        
 	        
-	        /*  for PRO users! -  SIDEBAR CONFIG
+	        /* SIDEBAR CONFIG
 	        ================================================== */ 
 	        $sidebar_config = sf_get_post_meta(get_the_ID(), 'sf_sidebar_config', true);
 	        
@@ -55,19 +55,19 @@
 	        }
 	        
 	        
-	        /*  for PRO users! -  BLOG AUX
+	        /* BLOG AUX
 	        ================================================== */ 
 	        if ($show_blog_aux == "yes" && $sidebars == "no-sidebars") {
 	        	$blog_aux = sf_blog_aux($width);
 	        }
 	        
 	        
-	        /*  for PRO users! -  BLOG ITEMS
+	        /* BLOG ITEMS
 	        ================================================== */ 
 	        $items = sf_blog_items($blog_type, $masonry_effect_type, $show_title, $show_excerpt, $show_details, $excerpt_length, $content_output, $show_read_more, $item_count, $category, $exclude_categories, $pagination, $sidebars, $width, $offset, $posts_order);
 	        
 	      			
-			/*  for PRO users! -  FINAL OUTPUT
+			/* FINAL OUTPUT
 			================================================== */ 
  			
     		$el_class = $this->getExtraClass($el_class);

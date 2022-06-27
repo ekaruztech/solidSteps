@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2931:"<p>Villa Boulevard är ett permanent boende med inriktning demens. </p> <p>På våra boenden ger vi dig: Mat som hemma: Vi lagar mat på plats och du är varmt välkommen att hjälpa till med köksbestyren. </p> <p>I Vardaga är målsättningen tydlig: Vi ska göra världen lite bättre, en människa i taget. Du som bor hos oss är gammal nog att bestämma själv och boendet är i första … venenatis, Tills vidare gäller besöksstopp på Vardagas äldreboenden. Villa Boulevard är ett toppmodernt äldreboende med trevliga omgivningar i Kristianstad. Nu bygger Vardaga Villa Danspalatset i Hässleholm. Här läser du mer om vårt värdegrundsarbete . leo vel, accumsan ut efficitur. </p> <p>Vi välkomnar boende från hela landet. Genom vårt helhetskoncept för äldreomsorg, Den goda dagen, ger vi våra boende en individanpassad omsorg som bygger på omtanke, integritet och valfrihet. Vi utgår från var och ens behov, ser till det friska och stärker den boendes identitet och självständighet.  Hos oss bor du ombonat och trevligt med kompetent personal, god mat, roliga aktiviteter och härlig gemenskap direkt utanför dörren till din egen lägenhet. Villa ... Kristianstad, Skåne. De små detaljerna är viktiga för att varje dag ska bli en riktigt god dag. </p> <p>Du har enligt lag rätt att ansöka om äldreboende i vilken kommun du vill. På Vardagas drygt 100 boenden runt om i Sverige erbjuder vi en äldreomsorg där varje dag är lika viktig. Här finns fina promenadstråk med parkbänkar i grönskan.… Kolla vård- och omsorgsboende består av både demens- och omvårdnadsboende i stora, ljusa och fräscha lokaler. </p> <p>Äldreboendet har fått sitt namn efter det ... Hässleholm, Skåne. Vardaga Äldreomsorg AB - Sommarlustvägen Vb minskade sin omsättning med -4.24% senaste räkenskapsåret. Läs allt om Vardaga Äldreomsorg i Kristianstad, Skåne län på Vården.se. Copyright 2020 Vardaga AB - Personuppgifter - Tillgänglighet - Cookies neque. Varmt välkommen till Vardaga! </p> <p>Boendet är beläget i ett lugnt villaområde i Kungsbacka med närhet till Onsalafjorden. Bolaget har 1521 anställda, snittlönen har ökat 0%. Detaljer. Ditt boende hos oss är ditt hem och vårt mål är att du ska trivas. Villa Danspalatset. Demens, Permanenta platser. Öppnar Q4 2021. Vår kultur genomsyras av värderingarna respekt, enkelhet, ansvar och kunskap – och får oss alla att dra åt samma håll. Detaljer. Öppnar Q4 2021 . Du får då vända dig direkt till den kommun dit… Om Vardaga . Demens, Omvårdnad, Permanenta platser. </p> <p>Här hittar du våra äldreboenden, demensboenden och Särskilt boende. Vardaga Äldreomsorg AB - Sommarlustvägen Vb gick med förlust, -9 783 tkr. Villa Boulevard är ett toppmodernt äldreboende med trevliga omgivningar i Kristianstad. Boendet ligger i ett lugnt, nybyggt villaområde med närhet till Onsalafjorden i Kungsbacka. </p>";s:7:"keyword";s:195:"gaming innovation group(SELECT/**/CHAR(55)+CHAR(53)+CHAR(50)+CHAR(89)+(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END))+CHAR(55)+CHAR(53)+CHAR(50)+CHAR(89))";s:5:"links";s:5180:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ggh%C3%A4ngd-toalett-geberit'>Vägghängd Toalett Geberit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakad-potatis-ugn-125-grader'>Bakad Potatis Ugn 125 Grader</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aktin-och-myosin-filament'>Aktin Och Myosin Filament</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gamla-arsenal-tr%C3%B6jor'>Gamla Arsenal Tröjor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snapchat-dagar-hack'>Snapchat Dagar Hack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-lyrics-anomaly'>Stockholm Lyrics Anomaly</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-muffins-banan'>Lchf Muffins Banan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=speculation-spel-regler'>Speculation Spel Regler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betong-katt-s%C3%A4ljes'>Betong Katt Säljes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f-d-tysk-stat'>F D Tysk Stat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=problem-med-vakuumkran-moped'>Problem Med Vakuumkran Moped</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jultr%C3%B6ja-ifk-g%C3%B6teborg'>Jultröja Ifk Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blandare-tv%C3%A4ttst%C3%A4ll-biltema'>Blandare Tvättställ Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eritreansk-jul-datum'>Eritreansk Jul Datum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julbord-enk%C3%B6pings-golfrestaurang'>Julbord Enköpings Golfrestaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolor-h%C3%B6gan%C3%A4s-kommun'>Skolor Höganäs Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matbord-tibergs-m%C3%B6bler'>Matbord Tibergs Möbler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=takr%C3%A4cke-bmw-e61'>Takräcke Bmw E61</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=misshandel-straff-under-18-%C3%A5r'>Misshandel Straff Under 18 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adjektiv-p%C3%A5-l'>Adjektiv På L</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=royal-canin-puppy-maxi'>Royal Canin Puppy Maxi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4vlingsbett-i-dressyr'>Tävlingsbett I Dressyr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stortorget%2C-malm%C3%B6-restaurang'>Stortorget, Malmö Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ilskna-till-synonym'>Ilskna Till Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egenremiss-hud-uddevalla'>Egenremiss Hud Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=var-dog-beethoven'>Var Dog Beethoven</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=windows-movie-maker-crop-video'>Windows Movie Maker Crop Video</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4len-winter-games-2020'>Sälen Winter Games 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrologen-lyrics-darin'>Astrologen Lyrics Darin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=van-veeteren-f%C3%B6rnamn'>Van Veeteren Förnamn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-en-ledare-el'>Vad är En Ledare El</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyheter-fr%C3%B6lunda-hockey'>Nyheter Frölunda Hockey</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ta-selfie-med-iphone'>Ta Selfie Med Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolkort-g%C3%B6teborg-zoner'>Skolkort Göteborg Zoner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=folkslag-i-stilla-havet'>Folkslag I Stilla Havet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-modern-family'>Abc Modern Family</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guldf%C3%A5geln-tunnskivad-kycklingfil%C3%A9'>Guldfågeln Tunnskivad Kycklingfilé</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bismarck-halsband-10g'>Bismarck Halsband 10g</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-till-turkiet'>Flyg Till Turkiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-slang-jula'>Mc Slang Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cf-moto-800-terralander-2014'>Cf Moto 800 Terralander 2014</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betong-katt-s%C3%A4ljes'>Betong Katt Säljes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-hipp-flugan'>Hipp Hipp Flugan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hundras-american-akita'>Hundras American Akita</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton-release-date'>Sabaton Release Date</a>,
+";s:7:"expired";i:-1;}

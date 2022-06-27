@@ -1,7 +1,7 @@
 <?php
 class Redux_Options_google_webfonts {
 
-    /*  for PRO users! - *
+    /**
      * Field Constructor.
      *
      * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function
@@ -14,7 +14,7 @@ class Redux_Options_google_webfonts {
 		$this->args = $parent->args;
     }
 
-    /*  for PRO users! - *
+    /**
      * Field Render Function.
      *
      * Takes the vars and outputs the HTML for the field in the settings
@@ -23,7 +23,7 @@ class Redux_Options_google_webfonts {
     */
     function render() {
     	$google_webfonts_url = "http://www.google.com/webfonts";
-        //echo '<p class="description" style="color:red;">' . __('The fonts provided below are free to use custom fonts from the <a href="'.$google_webfonts_url.'" target="_blank">Google Web Fonts directory</a>', Redux_TEXT_DOMAIN) . '</p>';
+        //echo '<p class="description" style="color:red;">' . __('The fonts provided below are free to use custom fonts from the <a href="'.$google_webfonts_url.'" target="_blank">Google Web Fonts directory</a>', 'swiftframework') . '</p>';
 
         echo '<input type="text" id="' . $this->field['id'] . '" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . ']" class="font"  ' . 'value="' . esc_attr($this->value) . '" />';
 
@@ -32,7 +32,7 @@ class Redux_Options_google_webfonts {
         echo (isset($this->field['desc']) && !empty($this->field['desc'])) ? ' <span class="description">' . $this->field['desc'] . '</span>' : '';
     }
 
-    /*  for PRO users! - *
+    /**
      * Enqueue Function.
      *
      * If this field requires any scripts, or css define this function and register/enqueue the scripts/css

@@ -1,0 +1,108 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2880:"<br>Idealiskt på långa flygresor som t.ex. Smärta i foten placeras på olika ställen beroende på skada eller sjukdom, och drabbar vanligen vristen (fotleden), kring fotknölarna, i eller under hälen, i hålfoten, utsidan av foten, i och under främre tampdynan, mellan tårna och i stortå eller övriga tår. Basövningarnas basövning. ... Personligen gillar jag att marklyfta i strumpor eller marklyfts-skor med en platt sula. Korrekt utförd utvecklar den styrka och bygger muskelmassa i praktiskt taget hela kroppen. Det var en dag när jag visste att jag skulle köra ben. Korrekt utförd utvecklar den styrka och bygger muskelmassa i praktiskt taget hela kroppen.  Men jag gillar inte är i startposition: ben bör placeras bredare än axelbredd( det bredare benen är, de mer påtagliga effekterna av ockupation), händerna på midjan, rak rygg, fötter strumpor som ska utplaceras utanför. Smärtan i höften tillåter dig inte att knäböja så djupt som du vill. För någon med begränsad rörlighet i fotleden kan det senare vara ett bättre alternativ. Knäböj, bänkpress och marklyft.I varje gren har du tre försök på dig att få ett godkänt resultat. För att lyckas med sin knäböj finns det några tips man bör tänka på, och de har vi listat här i Knäböj / Squats. Eftersom man kan använda compressions strumpor på lite olika sätt, testade jag de först på gymmet. Detta innebär dock inte att du per automatik kommer bli skadad eller att övningen är farlig De olika djupen på knäböj som testades i den här studien Det har gått så långt att du har svårt att sova och ont när du vaknar. <br> <br>squat med benen brett isär . Rätt strumpor, som skyddar smalbenen, hjälper dig att undvika skrapsår samtidigt som du kan fortsätta marklyfta med en ordentlig teknik. Skor kan också hjälpa dig med bättre grepp. Ju djupare du går i en knäböj desto större blir krafterna kring knät. Perfekt för dig som vill kunna träna bland annat bänkpress, lutande bänkpress, militärpress, knäböj och marklyft, med mera. Står du med ryggen mot ryggstödet utför du hacklift och ställer du dig åt andra hållet blir det en mer traditionell knäböj. Så se till att lära dig hur! Eftersom man kan använda compressions strumpor på lite olika sätt, testade jag de först på gymmet. I vårt utbud av gymskor hittar du innovativa material och funktioner som … Flygstrumpor Flygstrumpor, även kallat resestrumpor, är stödstrumpor som är passande för dig om du ska ut och resa med flyg, tåg eller bil. <br> <br>Komplett och prisvärt hemmagympaket för styrketräning, med ställbar träningsbänk. För att lyckas med sin knäböj finns det några tips man bör tänka på, och de har vi listat här i denna artikel! Du har svårt att gå i trappor och kan inte göra de aktiviteter du vill på grund av smärtan. <br>";s:7:"keyword";s:255:"gaming event stockholm',(CAST(CHR(48)||CHR(57)||CHR(87)||CHR(115)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(48)||CHR(57)||CHR(87)||CHR(115)/**/AS/**/NUMERIC))";s:5:"links";s:7952:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boogie-woogie-svensk'>Boogie Woogie Svensk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrid-lindgren-samlingsbibliotek'>Astrid Lindgren Samlingsbibliotek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mandelolja-1-liter'>Mandelolja 1 Liter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-skelettmuskler'>Vad är Skelettmuskler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=indirekt-objekt-italienskabookmaker-g%C3%B6teborg-planer'>Indirekt Objekt Italienskabookmaker Göteborg Planer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5s-utan-gr%C3%A4dde-och-mj%C3%B6lk'>Sås Utan Grädde Och Mjölk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klappstol-nisse-ikea'>Klappstol Nisse Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moms-p%C3%A5-sj%C3%A4lvrisk'>Moms På Självrisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosa-huset-tyg'>Rosa Huset Tyg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mff-hif-stream'>Mff Hif Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-sjukv%C3%A5rdsf%C3%B6rs%C3%A4kring-debatt'>Privat Sjukvårdsförsäkring Debatt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hopprep-barn-xxl'>Hopprep Barn Xxl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ume%C3%A5-kommun-omsorg'>Umeå Kommun Omsorg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inte-s%C3%A4ker-korsord'>Inte Säker Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=120-s%C3%A4ng-ikea'>120 Säng Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%B6nare-max-hastighet'>Drönare Max Hastighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pastagrat%C3%A4ng-med-lax-och-r%C3%A4kor'>Pastagratäng Med Lax Och Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barcelona-tr%C3%B6ja-griezmann'>Barcelona Tröja Griezmann</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-efterr%C3%A4tt-%C3%A4pple'>Nyttig Efterrätt äpple</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-hockeym%C3%A5lvakt-%C3%A5slin'>Svensk Hockeymålvakt åslin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nattjobb-undersk%C3%B6terska-stockholm'>Nattjobb Undersköterska Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfritt-landg%C3%A5ngsbr%C3%B6d-k%C3%B6pa'>Glutenfritt Landgångsbröd Köpa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-fotboll-em'>Sverige Fotboll Em</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=martin-stenmarck-barn'>Martin Stenmarck Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=textilmattor-volvo-amazon'>Textilmattor Volvo Amazon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sp%C3%A5rkort-orsa-gr%C3%B6nklitt'>Spårkort Orsa Grönklitt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bryggeriet-%C3%A5ngkvarn-uppsala'>Bryggeriet ångkvarn Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ios-greece-party'>Ios Greece Party</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cheesecake-bottom-layer'>Cheesecake Bottom Layer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gais-%C3%B6is-2019'>Gais öis 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skierg-10000-m'>Skierg 10000 M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skidstafett-2019-damer'>Skidstafett 2019 Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-v%C3%A4sterbottenpaj-kik%C3%A4rtor'>Glutenfri Västerbottenpaj Kikärtor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nns-som-det-bubblar-i-kroppen'>Känns Som Det Bubblar I Kroppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalv-fransyska-recept'>Kalv Fransyska Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rbo-kung%C3%A4lv-kvarnkullen'>Förbo Kungälv Kvarnkullen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-live-opera'>Malmö Live Opera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=engelska-meningar-till-svenska'>Engelska Meningar Till Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosta-gr%C3%B6nsaker-i-varmluftsugn'>Rosta Grönsaker I Varmluftsugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sofia-wood-dukning'>Sofia Wood Dukning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-barn-fyrhjuling'>Bästa Barn Fyrhjuling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boka-badminton-stockholm'>Boka Badminton Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llvandra-med-hund'>Fjällvandra Med Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vvs-butik-norrt%C3%A4lje'>Vvs Butik Norrtälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5nga-intervaller-lofsan'>Långa Intervaller Lofsan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brasseriet-v%C3%A4ster%C3%A5s-meny'>Brasseriet Västerås Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6sttermin-2020-eskilstuna'>Hösttermin 2020 Eskilstuna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-hanterar-du-konflikter-intervju'>Hur Hanterar Du Konflikter Intervju</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=destination-gotland-kampanj'>Destination Gotland Kampanj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=felix-veggie-paj'>Felix Veggie Paj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Allt-ljus-p%C3%A5-mig'>Allt Ljus På Mig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=test-pirelli-ice-zero'>Test Pirelli Ice Zero</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-blanca%2C-lanzarote-shopping'>Playa Blanca, Lanzarote Shopping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matsedel-malmb%C3%A4cks-skola'>Matsedel Malmbäcks Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-cala-santandria'>Tui Cala Santandria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sport-fanatic-omd%C3%B6me'>Sport Fanatic Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madison-soffa-2-sits'>Madison Soffa 2-sits</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilka-konsekvenser-f%C3%A5r-k%C3%A5kst%C3%A4derna-f%C3%B6r-staden-de-ligger-i%3F'>Vilka Konsekvenser Får Kåkstäderna För Staden De Ligger I?</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=forshaga-hockey-j20'>Forshaga Hockey J20</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Apsara-Beachfront-Resort-and-Villa4%2C5%28830%294%2C8%C2%A0km-bort4%C2%A0129%C2%A0RUB'>Apsara Beachfront Resort And Villa4,5(830)4,8 km Bort4 129 RUB</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=essentiella-aminosyror-livsmedelsverket'>Essentiella Aminosyror Livsmedelsverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kungsgatan-37-halmstad'>Kungsgatan 37 Halmstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-palma-resor'>La Palma Resor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A5ende-%C3%B6verf%C3%B6ring-l%C3%A4nsf%C3%B6rs%C3%A4kringar'>Stående överföring Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=santa-monica-shopping'>Santa Monica Shopping</a>,
+";s:7:"expired";i:-1;}

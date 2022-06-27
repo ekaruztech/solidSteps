@@ -2,7 +2,7 @@
 require_once(dirname(__FILE__).'/../select/'.'field_select.php'); 
 class Redux_Options_post_type_multi_select extends Redux_Options_select {
 
-    /*  for PRO users! - *
+    /**
      * Field Constructor.
      *
      * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function

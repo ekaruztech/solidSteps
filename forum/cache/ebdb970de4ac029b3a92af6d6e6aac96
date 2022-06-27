@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3436:"<p>Du ska behärska vetenskapens senaste landvinningar och även … Läkarprogrammet vid Örebro universitet har fokus på att förebygga och behandla ohälsa utifrån dagens och morgondagens behov.  Utbildningen bygger på ett studentcentrerat, problembaserat lärande (PBL) med syfte att förbereda dig för ett livslångt lärande. Vi lyfter fram evidensbaserad hälso- och sjukvård samt forskning. Tidsfördelning VFU, 30 timmar/vecka. Behörighetskraven är samma för alla sökande, men platserna fylls från två olika urvalsgrupper – ett vanligt urval och ett alternativt urval. Läkarprogrammet vid Örebro universitet har fokus på att förebygga och behandla ohälsa utifrån dagens och morgondagens behov. Vårterminen 2020. VFU-schema Schema med samtliga placeringar för vårterminen 2019 finns endast i lisam, se VFU-dokument i vänstermenyn. Läkarprogrammet har normalt 130 nybörjarplatser. Du studerar läkarvetenskapens traditionella ämnen och integrerar kunskaperna ur ett helhetsperspektiv för människan. De som antas till forskaraspiranterna är delaktiga under 3 år, främst under somrarna då de får 2 månaders stipendium för att forska. För studenter vid läkarprogrammet och ett antal andra program vid Medicinska fakulteten, finns en forskaraspirantverksamhet som innebär att studenter parallellt med studierna prövar på forskning hos någon forskargrupp. Sök ut ditt schema Gör så här: Undantagsvis kan även föreläsningar vara obligatoriska. Utbildningen bygger på ett studentcentrerat, problembaserat lärande (PBL) med syfte att förbereda dig för ett livslångt lärande. En spännande utbildning med många framtida möjligheter väntar dig som väljer läkarprogrammet vid Umeå universitet. Det vanliga urvalet står för 67 procent av platserna och det alternativa urvalet för 33 procent av platserna. </p> <p>Vi lyfter fram evidensbaserad hälso- och sjukvård samt forskning. Läkarprogrammet i Umeå har en särskild antagningsprocess. </p> <p>Det finns en mängd inställningar för att ändra utseendet på ditt schema. </p> <p>Vanligtvis rör det sig om gruppundervisning, seminarier, och avdelningsplaceringar. Läs mer här: T idsfördelning av studentens skyldighet att delta i VFU under T7; Bedömning av VFU Läkarprogrammet erbjuder en utbildning där du tidigt får komma i nära kontakt med din framtida yrkesroll och träffa patienter. Läkarprogrammet, termin 10. </p> <p>Du ska behärska vetenskapens senaste landvinningar och även kunna se och möta människan bakom symtomen. ( Läkarprogrammet, HT20 330 HP, 100 % ) ( Läkarprogrammet, VT21 330 HP, 100 % ) Förebygga, lindra och läka - kraven på läkaren är höga. Klinisk utbildningsavdelning (KUA) Posted on 24 november, 2018, uppdaterad 16 februari, 2019 by kistudentenlinnealin. Undervisningen på läkarprogrammet sker i form av föreläsningar, student­aktiverande pedagogik med fallövningar, laborationer, grupparbeten, seminarier och litteraturuppgifter. På Läkarprogrammet i Uppsala får du grunden till både läkaryrket och medicinsk forskning. I slutet av oktober var jag placerad två veckor på KUA, vilket jag glömt skriva om. Detta innebär att en student på en kurs skall ha godkänt på dessa undervisningsmoment för att erhålla godkänd kurs. </p> <p>Vårterminen 2021 Vårterminen 2020. Här finns en l athund för att ändra utseendet på schema. Höstterminen 2020. </p>";s:7:"keyword";s:21:"who owns warnermedia"";s:5:"links";s:5204:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mandelkakor-med-choklad'>Mandelkakor Med Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=120-knots-to-kmh'>120 Knots To Kmh</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttiga-v%C3%A5fflor-havremj%C3%B6l'>Nyttiga Våfflor Havremjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=har-gyllene-%C3%A4pple'>Har Gyllene äpple</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gokart-klubb-g%C3%B6teborg'>Gokart Klubb Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socionomprogrammet-g%C3%B6teborg-antagningsstatistik'>Socionomprogrammet Göteborg Antagningsstatistik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4s%C3%A5rstider-uppsala-2020'>Läsårstider Uppsala 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koka-ryggbiff-m%C3%B6r'>Koka Ryggbiff Mör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-parkering-gr%C3%B6na-lund'>Mc-parkering Gröna Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stora-b%C3%A4ltbron-olycka'>Stora Bältbron Olycka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-var-det-att-leva-i-%C3%B6sttyskland'>Hur Var Det Att Leva I östtyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biltema-startmotor-volvo'>Biltema Startmotor Volvo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=undersk%C3%B6terska-jobb-sollentuna'>Undersköterska Jobb Sollentuna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=se-k%C3%B6n-i-vecka-13'>Se Kön I Vecka 13</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=electra-kalmar-vd'>Electra Kalmar Vd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skjutning-malm%C3%B6-idag'>Skjutning Malmö Idag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djingis-khan-song'>Djingis Khan Song</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=janssons-frestelse-ica'>Janssons Frestelse Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anh%C3%B6rig-sova-p%C3%A5-sjukhus'>Anhörig Sova På Sjukhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-tv-live'>Telia Tv Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-st%C3%A5r-sisu-f%C3%B6r'>Vad Står Sisu För</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikariebanken-lund-f%C3%B6rskola'>Vikariebanken Lund Förskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverigefinska-skolan-kista'>Sverigefinska Skolan Kista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=america%27s-got-talent-judges-2017'>America's Got Talent Judges 2017</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cat-animal-crossing-new-horizons'>Cat Animal Crossing New Horizons</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biljetter-em-2020'>Biljetter Em 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Spar-Hotel-G%C3%A5rda3%2C9%28819%292%2C2%C2%A0km-bort97%C2%A0%E2%82%AC'>Spar Hotel Gårda3,9(819)2,2 km Bort97 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-kronor-m%C3%B6ssa'>Tre Kronor Mössa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mekonomen-%C3%B6ppettider-s%C3%B6dert%C3%A4lje'>Mekonomen öppettider Södertälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=problem-med-vakuumkran-moped'>Problem Med Vakuumkran Moped</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=myheritage-dna-test-kritik'>Myheritage Dna-test Kritik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=engelsk-setter-utst%C3%A4llning'>Engelsk Setter Utställning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-slime-recept'>Bästa Slime Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carlstad-united-spelare'>Carlstad United Spelare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rfattarna-och-studentlitteratur'>Författarna Och Studentlitteratur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=art-new-leaf'>Art New Leaf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-betalar-lantm%C3%A4terif%C3%B6rr%C3%A4ttning'>Vem Betalar Lantmäteriförrättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skara-sommarland-erbjudande'>Skara Sommarland Erbjudande</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=raccoon-or-racoon'>Raccoon Or Racoon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-hurra-for-bamsefar'>Hipp Hurra For Bamsefar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=erik-gr%C3%B6nwall-idol'>Erik Grönwall Idol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-och-torsk-i-ugn-med-s%C3%A5s'>Lax Och Torsk I Ugn Med Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-spindelled-mercedes-w211'>Byta Spindelled Mercedes W211</a>,
+";s:7:"expired";i:-1;}

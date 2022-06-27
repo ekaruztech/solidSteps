@@ -871,7 +871,7 @@ jQuery( document ).ready(
                     if ( postdivrich.is( ":visible" ) ) {
 
                         if ( !isTinyMceActive() ) {
-                            if ( switchEditors != undefined ) switchEditors.switchto( $( '#content-tmce' ).get( 0 ) );
+                            if ( switchEditors != undefined )  $( '#content-tmce' ).get( 0 ).click();
                         }
                         postdivrich.hide();
                         swiftPageBuilder.show();
@@ -925,7 +925,7 @@ jQuery( document ).ready(
             function() {
                 if ( $( '#spb_js_status' ).val() == 'true' && jQuery( '#wp-content-wrap' ).hasClass( 'tmce-active' ) ) {
                     //spb_shortcodesToBuilder();
-                    window.setTimeout( 'spb_shortcodesToBuilder()', 50 );
+                    window.setTimeout( 'spb_shortcodesToBuilder()', 900 );
                     spb_navOnScroll();
                 }
             }
@@ -1491,7 +1491,7 @@ function spb_shortcodesToBuilder() {
 
     if ( jQuery.trim( content ).length > 0 && jQuery.trim( content ).substr(
             0, 1
-        ) != "[" && jQuery.trim( content ).substr( 0, 5 ) != "<span" ) {
+        ) != "[" && jQuery.trim( content ).substr( 0, 5 ) != "<span"  && jQuery.trim( content ).substr( 0, 3 ) != "<p>" ) {
         alert( "By switching to the page builder, any content not in page builder assets will be removed for consistency." );
         //content = '[spb_text_block pb_margin_bottom="no" pb_border_bottom="no" width="1/1" el_position="first last"]' + content + '[/spb_text_block]';
         if ( isTinyMceActive() ) {
@@ -1546,6 +1546,9 @@ function spb_getContentFromTinyMCE() {
     if ( isTinyMceActive() ) {
         var spb_ed = tinyMCE.get( 'content' ); // get editor instance
         content = spb_ed.save();
+        if ( content == undefined ) {
+             content = jQuery('#content').val();
+        }
     } else {
         content = jQuery( '#content' ).text();
     }
@@ -2290,6 +2293,7 @@ function showEditSmallForm( element ) {
 function updateTabTitleIds( title ) {
 
 	var id_title = title.replace(/[^A-Za-z0-9\-_]/g, '');
+    id_title = id_title.toLowerCase();
 
     if ( jQuery( '.ui-tabs-nav span:contains("' + title + '")' ).length > 1 ) {
 
@@ -2347,7 +2351,7 @@ function saveSmallFormEditing() {
     tab_title = jQuery( '.small_form_title' ).val();
 
     if ( element.parent().hasClass( 'ui-tabs-nav' ) ) {
-        element.find( 'span' ).text( tab_title );
+        element.find( 'span' ).first().text( tab_title );
 
     } else {
         element.find( '.title-text' ).text( tab_title );
@@ -2355,7 +2359,7 @@ function saveSmallFormEditing() {
 
     element.attr( 'data-title-icon', jQuery( '.small_form_icon' ).val() );
 
-    if( element.hasClass('ui-accordion-header') ){
+    if ( element.hasClass('ui-accordion-header') ){
 		new_tab_id = updateAccordionTitleIds( tab_title );
 	}else{
 		new_tab_id = updateTabTitleIds( tab_title );
@@ -2427,7 +2431,7 @@ function saveFormEditing( element ) {
                 new_value = jQuery( this ).val();
             }
             // Color - input
-            else if ( jQuery( this ).hasClass( "colorpicker" ) ) {
+            else if ( jQuery( this ).hasClass( "spb-colorpicker" ) ) {
                 new_value = jQuery( this ).val();
             }
             // Slider - input

@@ -1,0 +1,123 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3173:"<p>I'm the captain for the Uppsala chapter and would like to welcome new members. Find event and ticket information. "Relevance" sorting ranks restaurants based on your search input and several criteria: average rating over the last 12 months, available offers, distance, ability to make a reservation instantly via TheFork, table availability, accolades in famous guides, and compliance with our standards (including the number of cancellations by the restaurant). Telefon: 018-418 02 00 E-post: info@bryggerietangkvarn.se. Eventbrite - Heartbiznet presents Heartbiznet in Uppsala 23th March 2020 - Monday, 23 March 2020 at Bryggeriet Ångkvarn. Our history involves both Uppsala Bavarian Brewery, which was formed in 1865 and Uppsala Ångqvarn (steam mill), which was formed in 1874. See activity, upcoming events, photos and more Östra Ågatan 59, 753 22 Uppsala Visa på karta. </p> <p>Welcome to Mikkeller Running Club in collaboration with Bryggeriet Ångkvarn! Beer and whisky tasting.  Eventbrite - Heartbiznet presents Heartbiznet in Uppsala 27th April 2020 - Monday, 27 April 2020 at Bryggeriet Ångkvarn. See what's currently available on Bryggeriet Ångkvarn's beer menu in Uppsala, Uppsala län in real-time. Receive Venue Notifications. </p> <p>106 af 348 restauranter i Uppsala. Bryggeriet Angkvarn, Uppsala: Se 58 objektive anmeldelser af Bryggeriet Angkvarn, som har fået 3,5 af 5 på Tripadvisor og er placeret som nr. </p> <p>Bryggeriet Ångkvarn. Bryggeriet Ångkvarn Bar & restaurang I hörnet av Bäverns gränd och Östra Ågatan, precis vid Fyrisån, ligger Uppsalas första bryggeripub. </p> <p>Photos at Bryggeriet Ångkvarn in Uppsala, Uppsala län on Untappd. </p> <p>Öppettider. Uppsala Beer Guide: Uppsala area beer bars, brewpubs, breweries and more. Receive alerts via Untappd on your mobile device when this venue adds new beers and/or events! Complete with Full Beers, Ratings, Reviews, Suggestions and more! Alongside Uppsala’s student nations you can find everything from small bars and cosy pubs to modern nightclubs and classic restaurants. If you are looking for a genuine brewery experience, visit Bryggeriet Ångkvarn. Bryggeriet Angkvarn: Good to support local brewery - See 58 traveler reviews, 26 candid photos, and great deals for Uppsala, Sweden, at Tripadvisor. Captain: Anders Bergman I'm 32 year old with a passion for running and beer. Find event and ticket information. Follow along as we brew beer at a local Uppsala brewery - and then taste it two weeks later at the Uppsala Beer and Whisky Festival! Bryggeriet Ångkvarn Östra Ågatan 59, 753 22 Uppsala +46 18 418 02 00 Web: thefork.se. See checkins and rating and reviews for Bryggeriet Ångkvarn Bryggeriet Ångkvarn from Uppsala, Uppsala län on Untappd. Beställs på telefon 0700 900 491 och hämtas på bryggeriet mellan 1600 och 2000 de dagar vi har öppet. Visa vår take awaymeny. Reservér bord på Bryggeriet Ångkvarn i Uppsala kommun. </p> <p>Bryggeriet Ångkvarn is Uppsala's first brewpub with a history dating back to Uppsala's industrialisation. Find restaurant anmeldelser, menu, pris og åbningstider for Bryggeriet Ångkvarn på TheFork. </p>";s:7:"keyword";s:28:"bryggeriet ångkvarn uppsala";s:5:"links";s:9802:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Tatueraren-i-Auschwitz'>Tatueraren I Auschwitz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rg%C3%A5st%C3%A5rta-ica-maxi-j%C3%B6nk%C3%B6ping'>Smörgåstårta Ica Maxi Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gossk%C3%B6rens-hus-g%C3%B6teborg'>Gosskörens Hus Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=economic-crisis-in-venezuela'>Economic Crisis In Venezuela</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-rutschkana-inomhus'>Bygga Rutschkana Inomhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=namn-som-betyder-stj%C3%A4rna'>Namn Som Betyder Stjärna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mekonomen-%C3%B6rebro-bista-%C3%B6ppettider'>Mekonomen örebro Bista öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varmr%C3%B6kt-lax-kamado'>Varmrökt Lax Kamado</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krocka-med-sommard%C3%A4ck-p%C3%A5-vintern'>Krocka Med Sommardäck På Vintern</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ppelknyten-med-%C3%A4ppelmos'>äppelknyten Med äppelmos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-eller-gr%C3%B6n-sparris'>Vit Eller Grön Sparris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netflix-stop-autoplay-trailers'>Netflix Stop Autoplay Trailers</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helmer-ljus-flashback'>Helmer Ljus Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rea-tyger-online'>Rea Tyger Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viking-line-boka-resa'>Viking Line Boka Resa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4kt-slang-150-mm'>Fläkt Slang 150 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-med-swish-ica'>Betala Med Swish Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linnea-henriksson-elle'>Linnea Henriksson Elle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stora-b%C3%A4ltbron-pay-by-plate'>Stora Bältbron Pay By Plate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chark-willys-b%C3%A5stad'>Chark Willys Båstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m-and-m'>M And M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lgh%C3%B6grev-i-ugn'>älghögrev I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bichon-fris%C3%A9-fakta'>Bichon Frisé Fakta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6n-l%C3%A4kare-capio'>Lön Läkare Capio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5smamman-handling-s%C3%A4song-2'>Gåsmamman Handling Säsong 2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatt-l%C3%B6n-gr%C3%A4nser'>Skatt Lön Gränser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-finns-det-s%C3%A5-m%C3%A5nga-leddjur-p%C3%A5-jorden'>Varför Finns Det Så Många Leddjur På Jorden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-fotboll-em'>Sverige Fotboll Em</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=afc-eskilstuna-u19'>Afc Eskilstuna U19</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barken-viking-wikipedia'>Barken Viking Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=region-uppsala-infrastruktur'>Region Uppsala Infrastruktur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-skolan-gymnasium-tyskland'>Svenska Skolan Gymnasium Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolverkets-allm%C3%A4nna-r%C3%A5d-planering-och-genomf%C3%B6rande-av-undervisningen'>Skolverkets Allmänna Råd Planering Och Genomförande Av Undervisningen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolans-inre-organisation'>Förskolans Inre Organisation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marknader-i-juli'>Marknader I Juli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=welsh-springer-spaniel-jakt'>Welsh Springer Spaniel Jakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=diet-doctor-pizza-dough'>Diet Doctor Pizza Dough</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=politiskt-styre-eksj%C3%B6'>Politiskt Styre Eksjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ved-sk%C3%A5ne-blocket'>Ved Skåne Blocket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6n%C3%B6kaka-recept-sm%C3%B6rg%C3%A5st%C3%A5rta'>Hönökaka Recept Smörgåstårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grohe-k%C3%B6ksblandare-jula'>Grohe Köksblandare Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Apartamentos-Marola-Portosin4%2C3%28281%290%2C3%C2%A0km-bort'>Apartamentos Marola Portosin4,3(281)0,3 km Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ir-spectra-table'>Ir Spectra Table</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pussel-v%C3%A4rldskarta-5000'>Pussel Världskarta 5000</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lekt%C3%A4lt-barn-rusta'>Lektält Barn Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-portugal-stream'>Sverige Portugal Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matberedare-barnmat-b%C3%A4st-i-test'>Matberedare Barnmat Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ers%C3%A4ttning-vid-vattenskada-bostadsr%C3%A4tt'>Ersättning Vid Vattenskada Bostadsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jojo-part-2'>Jojo Part 2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=highlights-storvreta-pixbo'>Highlights Storvreta Pixbo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ggbricka-pex-16'>Väggbricka Pex 16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smirnoff-ice-tyskland'>Smirnoff Ice Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%A4ckhotell-pris-bilia'>Däckhotell Pris Bilia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brittisk-s%C3%A5ngare-f%C3%B6dd-1974'>Brittisk Sångare Född 1974</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=morden-i-sandhamn-s%C3%A4song-4'>Morden I Sandhamn Säsong 4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=redigera-bilder-iphone-app-gratis'>Redigera Bilder Iphone App Gratis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chili-cheese-coop'>Chili Cheese Coop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-display'>Iphone 11 Display</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6rkt-hamburgerbr%C3%B6d-recept'>Mörkt Hamburgerbröd Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=what-does-the-numbers-on-snapchat-mean'>What Does The Numbers On Snapchat Mean</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kortspel-f%C3%B6r-tre'>Kortspel För Tre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hallarna-halmstad-karta'>Hallarna Halmstad Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-11-eng-wiki'>Apollo 11 Eng Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=okul%C3%A4r-hypertension-svenska'>Okulär Hypertension Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-temperatur-d%C3%B6r-bakterier-i-vatten'>Vilken Temperatur Dör Bakterier I Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=katedralskolan-lund-student-2019'>Katedralskolan Lund Student 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sitty-m%C3%B6bler-s%C3%A4ngar'>Sitty Möbler Sängar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alternativ-medicin-synonym'>Alternativ Medicin Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betong-katt-s%C3%A4ljes'>Betong Katt Säljes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konserverade-p%C3%A4ron-p%C3%A5-burk'>Konserverade Päron På Burk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cypern-eurovision-2018'>Cypern Eurovision 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-tv-kanaler'>Svenska Tv Kanaler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-bedr%C3%A4geri---flashback'>Swish Bedrägeri - Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-l%C3%A5ter-hj%C3%A4rtat'>Varför Låter Hjärtat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karta-tyskland-frankrike'>Karta Tyskland Frankrike</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stenugnsbakad-pizza-kristianstad'>Stenugnsbakad Pizza Kristianstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-startpaket-3kontant-bredband'>Tre Startpaket 3kontant Bredband</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amir-al-ammari-djurg%C3%A5rden'>Amir Al-ammari Djurgården</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varmr%C3%B6kt-lax-kamado'>Varmrökt Lax Kamado</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-penta-tamd-31-service-manual'>Volvo Penta Tamd 31 Service Manual</a>,
+";s:7:"expired";i:-1;}

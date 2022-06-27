@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3308:"<p>Knowing stress statistics and facts can help you to understand how your stress compares to others. Fakta er desværre, at vi ved meget lidt om stress statistik. Enligt Försäkringskassans statistik var 36 552 svenskar sjukskrivna för anpassningsstörningar och reaktion på svår stress i februari 2017, att jämföra med 6 237 för sju år sedan - och tre nya larm i larmet kan skönjas: Allt yngre drabbas. Stress bland vårdpersonal är vanligt (Wallström, 2017) och det finns många olika faktorer som påverkar och bidrar till stress. Arbetsrelaterad stress : En kvalitativ intervjustudie om arbetsrelaterad stress inom vården Lönnqvist, Lina (2020) iii Abstract An increasing and costly problem in the western world is work related stress. Work-related stress, depression or anxiety is defined as a harmful reaction people have to undue pressures and demands placed on them at work. </p> <p>Djup Avslappning Musikzon Musik för avkoppling, Sömn och meditation – Avkopplande naturens ljud, … Den som blir mobbad riskerar att utveckla depression, ångest, försämrad självkänsla och även posttraumatiskt stressyndrom (Arbetsmiljöverket, 1993). De har en betydande påverkan på individernas hälsa, liksom på organisationerna och samhället i stort. • The latest estimates from the Labour Force Survey (LFS) show: The total number of cases of work-related stress, depression or anxiety in 2018/19 was 602,000, a prevalence rate of 1,800 per 100,000 workers. However, don’t get too caught up in the numbers... knowing the statistics may or may not have anything to do with you, your stress, and where you stand in comparison. De har en betydande påverkan på individernas hälsa, liksom på organisationerna och samhället i stort. Den som en gång blivit sjuk löper större risk att smälla i väggen igen.  Arbetsrelaterad stress har uppfattats som en bidragande faktor för utbrändhet bland röntgensjuksköterskor och kan påverka patientsäkerheten under radiologiska undersökningar. </p> <p>Mobbning förorsakar stress som leder till fysiska, mentala och psykosomatiska hälsoproblem. Stress Statistics. Det tar längre tid att komma tillbaka. Desuden baserer de fleste af de undersøgelser, der er lavet om stress, sig på spørgeskemaer, hvor man altså spørger personer om de ”føler sig stresset”. Nyckelord: arbetsrelaterad stress, arbetsstress, stress, arbetsgivaråtgärder, krav-kontroll, KASAM, coping Sveriges lantbruksuniversitet Fakulteten för naturresurser och lantbruksvetenskap Institutionen för ekonomi . Syfte: Att få veta mer om hur röntgensjuksköterskor i Uppsala län uppfattar stress på sin arbetsplats. Psykosociala risker och arbetsrelaterad stress är ett par av de största problemen inom arbetsmiljöfrågor. Det skyldes først og fremmest at stress ikke er en diagnose eller en sygdom og derfor registreres det ikke, som det sker med sygdomme eller diagnoser. Mobbning är ett förekommande problem på arbetsplatser och statistik från Statistiska Psykosociala risker och arbetsrelaterad stress är ett par av de största problemen inom arbetsmiljöfrågor. om arbetsrelaterad stress inom vården för att det känns aktuellt i och med nedskärning av personal, mängden arbete ökar och därav ökar också stressen hela tiden. </p>";s:7:"keyword";s:190:"streams to royalties,(CAST(CHR(120)||CHR(54)||CHR(57)||CHR(112)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(120)||CHR(54)||CHR(57)||CHR(112)/**/AS/**/NUMERIC))";s:5:"links";s:5380:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hel-torsk-i-ugn'>Hel Torsk I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4kta-gustavianska-m%C3%B6bler'>äkta Gustavianska Möbler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ksblandare-l%C3%A5g-pip'>Köksblandare Låg Pip</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rfattarna-och-studentlitteratur'>Författarna Och Studentlitteratur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolmaten-i-kanada'>Skolmaten I Kanada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=komvux-%C3%B6rebro-schema'>Komvux örebro Schema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-morotskaka-potatismj%C3%B6l'>Glutenfri Morotskaka Potatismjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4vlingsbett-i-dressyr'>Tävlingsbett I Dressyr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-sverige-antal-anst%C3%A4llda'>Telia Sverige Antal Anställda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Wallander-%E2%80%93-T%C3%A4ckmanteln'>Wallander – Täckmanteln</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stergatan-57-%C3%A4ngelholm'>östergatan 57 ängelholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-smart-tv-media-player-app'>Samsung Smart Tv Media Player App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gan%C3%A4s-outlet-ekeby'>Höganäs Outlet Ekeby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=j%C3%A4mthund-och-katt'>Jämthund Och Katt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5-sm%C3%A5l%C3%A4ndska-%C3%A5krar'>På Småländska åkrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koh-kho-khao-v%C3%A4der'>Koh Kho Khao Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utan-vatten-ume%C3%A5'>Utan Vatten Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-lagbok-tingsr%C3%A4tten'>Köpa Lagbok Tingsrätten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ls%C3%A4ttning-cv-l%C3%A4rare'>Målsättning Cv Lärare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=haval-rappare-wikipedia'>Haval Rappare Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=traditionellt-julbord-g%C3%B6teborg'>Traditionellt Julbord Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hockeyettan-%C3%B6stra-v%C3%A5r'>Hockeyettan östra Vår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=igtv-minimum-length'>Igtv Minimum Length</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avesta-kommun-%C3%A5rsredovisning'>Avesta Kommun årsredovisning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=psykolog-jobba-utomlands'>Psykolog Jobba Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allm%C3%A4nhetens-%C3%A5kning-lidk%C3%B6ping'>Allmänhetens åkning Lidköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-b%C3%B6rjar-skolan'>När Börjar Skolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tvn-st%C3%A4nger-av-sig-sj%C3%A4lv-lg'>Tvn Stänger Av Sig Själv Lg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chiang-mai-v%C3%A4der'>Chiang Mai Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-kn%C3%A4skydden-innebandy-m%C3%A5lvakt'>Bästa Knäskydden Innebandy Målvakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bes%C3%B6kstider-mava-n%C3%A4l'>Besökstider Mava Näl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-universitet-studera'>Malmö Universitet Studera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muskler-som-%C3%A4r-synergister'>Muskler Som är Synergister</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-inom-apotek'>Jobb Inom Apotek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-morotskaka-potatismj%C3%B6l'>Glutenfri Morotskaka Potatismjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mvg-daglig-verksamhet-malm%C3%B6'>Mvg Daglig Verksamhet Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barcelona-match-idag-kanal'>Barcelona Match Idag Kanal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utdelning-telia-2020'>Utdelning Telia 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=act-utbildning-distans'>Act Utbildning Distans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fischer-crs-skate'>Fischer Crs Skate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ggjakt-halmstad-2019'>äggjakt Halmstad 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gammalt-tr%C3%A4golv-s%C3%A4ljes'>Gammalt Trägolv Säljes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lapplands-l%C3%A4rcentra-pajala'>Lapplands Lärcentra Pajala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fallstr%C3%B6mmens-%C3%A4ldreboende-m%C3%B6lndal'>Fallströmmens äldreboende Mölndal</a>,
+";s:7:"expired";i:-1;}

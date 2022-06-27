@@ -1,0 +1,78 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3857:"<p>Än i dag är Kreta en plats för både gudar och vanliga dödliga som vill vara för sig själva en stund. Priserna på boende kan skilja markant mellan låg- och högsäsong. Här kan du fortfarande hitta små smultronställen, eller välja att bo i samhällen med ett större utbud och en högre puls. </p> <p>Korfu – bäst för familjen Korfu är den perfekta ön för att skapa fina barndomsminnen. Spenatliknande chórta växer vilt på Kretas bergssidor, kokas och serveras med olivolja och vinäger. </p> <p>Man kan få betala 5-10 euro extra för , </p> <p>Det finns en hel värld där ute – hitta ett boende att minnas för evigt! Upptäck stränder som Elafonissi och Baloslagunen. </p> <p>Kreta är Greklands största ö och det kan vara svårt att veta var man ska bo. Jag har bott där i nästan 2 år och här har jag samlat ihop mina bästa tips på hotell, restauranger, sevärdheter, stränder, hur man tar sig runt, vart man ska bo och mycket mer!  </p> <p>Kreta hyser dessutom några av Europas bästa stränder. 1. </p> <p>English (UK) … </p> <p>Utflykter på Kreta. </p> <p>Ingen annan europeisk ö har tilldelats så många blåa flaggor av EU för sina … English (UK) … Alla som kan Kreta vet att det är ett bra ställe att gömma sig på. </p> <p>Sammanfattningsvis indikerar FN: s rapport att världen blir en bättre plats att bo på. Världens bästa ställen att bo på om du vill få ett långt och lyckligt liv Costa Rica har en avslappnad attityd till det mesta. Vill du ha lyx är Elounda det bästa valet. Svenska English (UK) English (US) 简体中文 Polski Deutsch Alla språk. </p> <p>Läs gästrecensioner och boka den perfekta stället att bo på för din resa. SEK Laddar Välj vilket språk du vill. </p> <p>Vi talar svenska och 42 andra språk. Läs gästrecensioner och boka den perfekta stället att bo på för din resa. Vi hjälper dig att hitta din favorit. </p> <p>Här är våra bästa tips till de bästa städerna och Kreta har ett rikt kök med många typiska rätter värda att prova: Sfakia är pannkakor fyllda med fetaost serverade med timjanshonung. </p> <p>En av de mest populära utflykterna på Kreta är en tur till Samariaravinen på västra delen av ön. Trots att ön är ett av Europas främsta turistmål finns det ännu många platser där turisterna är få och ensamheten nära. International-living har med dessa faktorer i åtanke pekat ut de fem bästa platserna att bo på i världen. Vi funderar starkt på Tanzania och Zanzibar men då är frågan, vart på Zanzibar är bäst att bo? Det går charter till fler än 25 olika orter och områden på Kreta, så det är bara att välja och vraka. </p> <p>Svenska English (UK) English (US) 简体中文 Polski Deutsch Alla språk. De flesta hamnar på den populära och vackra Chaniakusten, som består av flera olika badorter som alla har sin egen charm. </p> <p>Väljs oftast av folk i Sverige . </p> <p>Hitta och boka erbjudanden på de bästa ställena att bo på i Chania, Grekland! Hitta och boka erbjudanden på de bästa ställena att bo på i Västra Kreta, Grekland! Vi är ett par i 25-30års åldern och vi vill ha lite liv och party, det får Chania stad. </p> <p>De flesta som åker till Kreta hamnar på den västra delen av ön. På en dag kan du uppleva mycket på västra Kreta. </p> <p>Tips på 10 fantastiska stränder på västra Kreta att besöka på din resa. </p> <p>Nackdelar med att bo i Spanien Det finns gott om fördelar med att bo i Spanien, men det är inte bara guld och gröna skogar så klart, precis som i vilket annat land som helst, så finns där ett par nackdelar som kan vara värda att Publicerad 12 juni 2018 Dela Facebook Twitter. Inspireras och boka din resa på Apollo.se. Typisk huvudrätt är Yemistés, tomater, paprika eller aubergine - fyllda med ris och köttfärs. </p>";s:7:"keyword";s:78:"gaming innovation group UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL;  ";s:5:"links";s:4182:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=feedback-control-engineering'>Feedback Control Engineering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alexander-kacaniklic-instagram'>Alexander Kacaniklic Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-parkering-uddevalla-sjukhus'>Betala Parkering Uddevalla Sjukhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=christina-aguilera-spanish'>Christina Aguilera Spanish</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anders-bagge-barn'>Anders Bagge Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bovieran-i-staffanstorp'>Bovieran I Staffanstorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-truck-center-malm%C3%B6-hyra-lastbil'>Volvo Truck Center Malmö Hyra Lastbil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hertz-bilbolaget-sundsvall'>Hertz Bilbolaget Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inreda-ny-l%C3%A4genhet'>Inreda Ny Lägenhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=golfrestaurangen-enk%C3%B6ping-julbord'>Golfrestaurangen Enköping Julbord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ferrero-rocher-godis'>Ferrero Rocher Godis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saya-sushi-h%C3%B6torget'>Saya Sushi Hötorget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kall-s%C3%A5s-till-ryggbiff'>Kall Sås Till Ryggbiff</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avg%C3%A5ende-t%C3%A5g-l%C3%A4ggesta'>Avgående Tåg Läggesta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viasat-film-telia'>Viasat Film Telia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bio-karlskrona-corona'>Bio Karlskrona Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-f%C3%B6ddes-elvis'>När Föddes Elvis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rusta-soft-harmony'>Rusta Soft Harmony</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6r-att-starta-med-ponny-kr%C3%A4vs-ett-g%C3%A4llande-svenskt'>För Att Starta Med Ponny Krävs Ett Gällande Svenskt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-gotland-g%C3%A5rdar'>Hemnet Gotland Gårdar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-starttid-ryggs%C3%A4ck'>Ikea Starttid Ryggsäck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotels-com-expedia'>Hotels Com Expedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=america%27s-got-talent-best-auditions-ever'>America's Got Talent Best Auditions Ever</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-i-kvibille'>Bo I Kvibille</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=idol-2019-gruppmoment'>Idol 2019 Gruppmoment</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bokst%C3%A4ll-barn-golv'>Bokställ Barn Golv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygg-din-volvo-tonade-rutor'>Bygg Din Volvo Tonade Rutor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skapa-konto-albert'>Skapa Konto Albert</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lock-new-pin-conf'>Lock New Pin Conf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muffins-med-n%C3%B6tcreme'>Muffins Med Nötcreme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bsf-g%C3%A4nga-tabell'>Bsf Gänga Tabell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=erik-penser-%2F-event'>Erik Penser / Event</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-liten-prinsessa-bokrecension'>En Liten Prinsessa Bokrecension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjunker-blodsockret-vid-infektion'>Sjunker Blodsockret Vid Infektion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magnus-wislander-camilla-wislander'>Magnus Wislander Camilla Wislander</a>,
+";s:7:"expired";i:-1;}

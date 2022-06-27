@@ -1,0 +1,119 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4123:"Area Moment of Inertia - Typical Cross Sections II - Area Moment of Inertia, Moment of Inertia for an Area or Second Moment of Area for typical cross section profiles; Beam Loads - Support Force Calculator - Calculate beam load and supporting forces; Beams - Fixed at Both Ends - Continuous and Point Loads - Support loads, stress and deflections Second Moments of Area / Moments of Inertia: The second moments of area, also known in engineering as the moments of inertia, are related to the bending strength and deflection of a beam. If the polar moment of inertia is large, the torsion produced by a given torque would be smaller. The second moment of inertia, or mass moment of inertia, is a mathematical representation of a beam's resistance to bending. Area Moments of Inertia by Integration • Second moments or moments of inertia of an area with respect to the x and y axes, x ³ yI y ³ xdA 2 2 • Evaluation of the integrals is simplified by choosing dA to be a thin strip parallel to one of the coordinate axes ME101 - Division III Kaustubh Dasgupta 1. Example: Calculate the second moment of inertia of a thin rectangular plate size 15cm x 30cm . Similarly, the first moment of area is sometimes called the moment of mass. The area moment of inertia is a geometrical property which shows how its points are distributed and predicts the beam deflection. The beams resistance to bending is represented by second moment area. Note that all values are taken about the centroid of the cross-section, though values are available for both geometric and principal axes. In the U.S. customary system, m is in slugs (1 slug = 32.2 pounds) and r in feet, with I expressed in terms of slug-foot square. This actually sounds like some sort of rule for separation on a dance floor. The unit of moment of inertia is a composite unit of measure. For the Layman: “A geometric property used to describe the effect a shape has on the stiffness or resistance to bending.” Second Moment of Inertia or area moment of inertia is a geometrical property of an area which reflects how its points are distributed with regard to an arbitrary axis, The unit of dimension of the second moment of area is length to fourth power, Examples: mm4, cm4, m4, in4, ft4 In general, it conveys the way in which the cross-sectional area is … Second Moment of inertia. In statics, the second moment of area is sometimes called, confusingly, the moment of inertia. The moment of inertia (second moment or area) is used in beam theory to describe the rigidity of a beam against flexure (see beam bending theory). Polar second moment of inertia gives an object’s ability to resist torsion (i.e. The 2 nd moment of area, or second area moment and also known as the area moment of inertia, is a geometrical property of an area which reflects how its points are distributed with regard to an arbitrary axis.The second moment of area … Here physical quanitiy can be force, electric field etc. 2 Moment of Inertia - Composite Area Monday, November 26, 2012 Radius of Gyration ! It is the measure of … “twisting”) about a given axis due to an applied torque. Moment of Inertia Composite Areas A math professor in an unheated room is cold and calculating. What is second moment of area? It actually is just a property of a shape and is used in the analysis of how some In physics, moment is obtained by multiplying some physical quantity with some power of distance from an arbitrary axis or a point.  Also commonly referred to as the Area Moment of Inertia, this geometric property of area distribution having a unit value of length to the fourth power (L 4) can be defined as:. ! The term second moment of area seems more accurate in this regard. Applications. The moment of inertia of an object is a calculated measure for a rigid body that is undergoing rotational motion around a fixed axis: that is to say, it measures how difficult it would be to change an object's current rotational speed. First moment of area -- Used to find centroid of a plane figure, for example Second moment of area -- A beam cross section's resistance to bending ";s:7:"keyword";s:19:"35 kw to hp and 1=1";s:5:"links";s:8942:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rtar-ned-crossboss'>Svärtar Ned Crossboss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skoghall-lockerud-live'>Skoghall Lockerud Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grov-misshandel-straff-under-21'>Grov Misshandel Straff Under 21</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bio-och-mat-j%C3%B6nk%C3%B6ping'>Bio Och Mat Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4ngm%C3%B6rad-entrecote-grilla'>Hängmörad Entrecote Grilla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=video-stockholm-se'>Video Stockholm Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rdeg-efterr%C3%A4tt-choklad'>Smördeg Efterrätt Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ik-brage-matcher'>Ik Brage Matcher</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolina-neurath-star-wars'>Carolina Neurath Star Wars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taco-bar-bolln%C3%A4s'>Taco Bar Bollnäs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=promenera-bort-magen'>Promenera Bort Magen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaniljfluff-till-t%C3%A5rta'>Vaniljfluff Till Tårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sportshopen-charlottenberg-nord'>Sportshopen Charlottenberg Nord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-erbjudande-f%C3%B6rl%C3%A4nga-abonnemang'>Tre Erbjudande Förlänga Abonnemang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tempolopp-cykel-hastighet'>Tempolopp Cykel Hastighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-800-tough'>Nokia 800 Tough</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=troll-sk%C3%B6tbord-begagnat'>Troll Skötbord Begagnat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-helsingborg-student'>Sommarjobb Helsingborg Student</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=2018-19-alpine-skiing-world-cup'>2018 19 Alpine Skiing World Cup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lindas-bakskola-chokladt%C3%A5rta'>Lindas Bakskola Chokladtårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-pro-battery-mah'>Iphone 11 Pro Battery Mah</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-maxi-k%C3%B6ping-jobb'>Ica Maxi Köping Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snittar-med-gorgonzola-och-p%C3%A4ron'>Snittar Med Gorgonzola Och Päron</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peter-och-sn%C3%B6gubben'>Peter Och Snögubben</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personliga-presenter-f%C3%B6delsedagspresent'>Personliga Presenter Födelsedagspresent</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biljetter-kite-operan'>Biljetter Kite Operan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kub-test-%C3%B6vervikt'>Kub Test övervikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gambino-crime-family-boss'>Gambino Crime Family Boss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=translate-camera-iphone'>Translate Camera Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bashan-200cc-manual'>Bashan 200cc Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-sundin-fru'>David Sundin Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smart-tv-50-tum-prisjakt'>Smart Tv 50 Tum Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chilimarinerade-r%C3%A4kor-tapas'>Chilimarinerade Räkor Tapas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A5t-rika-p%C3%A5-medeltiden'>Vad åt Rika På Medeltiden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-f%C3%B6retag-kvitto'>Swish Företag Kvitto</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ttgryta-med-slow-cooker'>Köttgryta Med Slow Cooker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rmorstunga-olika-sorter'>Svärmorstunga Olika Sorter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eldningsf%C3%B6rbud-sk%C3%A5ne-2020'>Eldningsförbud Skåne 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billiga-mattor-ikea'>Billiga Mattor Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-v%C3%A4ggh%C3%A4ngd-toalett'>Byta Vägghängd Toalett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lyxloppis-slagthuset-2019'>Lyxloppis Slagthuset 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schwere-panzer-abteilung-509'>Schwere Panzer Abteilung 509</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-tj%C3%A4nar-mest-i-%C3%A5sele'>Vem Tjänar Mest I åsele</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karta-norge-ryssland'>Karta Norge Ryssland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=run-tv-serie'>Run Tv Serie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varm-s%C3%A5s-till-r%C3%B6kt-k%C3%B6tt'>Varm Sås Till Rökt Kött</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=selected-player-sundsvall'>Selected Player Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=khao-lak-v%C3%A4der-november'>Khao Lak Väder November</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-brunch-barkarby'>Ikea Brunch Barkarby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ghost-setlist-nottingham'>Ghost Setlist Nottingham</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-aktier-nordea'>Köpa Aktier Nordea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ving-thassos-stad'>Ving Thassos Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-var-doktor-romands-f%C3%B6rsta-l%C3%B6gn'>Vilken Var Doktor Romands Första Lögn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4nka-vid-halsfluss'>Sänka Vid Halsfluss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saif-nova-kicken'>Saif Nova Kicken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tampa-bay-hockey'>Tampa Bay Hockey</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=modus-120-s'>Modus 120 S</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=08-fotboll%3A-polisen'>08 Fotboll: Polisen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=twisted-feet-stora-teatern-2019'>Twisted Feet Stora Teatern 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gossk%C3%B6rens-hus-g%C3%B6teborg'>Gosskörens Hus Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ola-forssmed-flickv%C3%A4n'>Ola Forssmed Flickvän</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-punch-man-hero-theme'>One Punch Man Hero Theme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=35-%C3%A5ringen-anna-lindh'>35-åringen Anna Lindh</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4ksallad-med-ris'>Räksallad Med Ris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zlatan-ibrahimovic-barn'>Zlatan Ibrahimovic Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%A5nes-%C3%A4ldsta-stad'>Skånes äldsta Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-size-kepsar'>One Size Kepsar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trappmaskin-life-fitness'>Trappmaskin Life Fitness</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=waterloo-abba-meaning'>Waterloo Abba Meaning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rr%C3%A4daren-p%C3%A5-orn%C3%A4s'>Förrädaren På Ornäs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6s-dyraste-omr%C3%A5de'>Malmös Dyraste Område</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-radio-app'>Sveriges Radio App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cf-moto-800-terralander-2014'>Cf Moto 800 Terralander 2014</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=j%C3%A4mst%C3%A4lldhet-globala-m%C3%A5l'>Jämställdhet Globala Mål</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-skolan-kostnad'>Svenska Skolan Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-efterr%C3%A4tt-pannacotta'>Lchf Efterrätt Pannacotta</a>,
+";s:7:"expired";i:-1;}

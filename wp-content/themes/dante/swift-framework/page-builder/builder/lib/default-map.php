@@ -1,6 +1,6 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Default Config Map
 	*	------------------------------------------------
@@ -9,7 +9,7 @@
 	*
 	*/	
 					
-	/*  for PRO users! -  LAYOUT CONFIG
+	/* LAYOUT CONFIG
 	================================================== */ 
 	SPBMap::layout( array( 'id' => 'row', 'title' => 'Row' ) );
 	SPBMap::layout(array('id'=>'column_12', 'title'=>'1/2'));

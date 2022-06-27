@@ -1,11 +1,11 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Framework Media Functions
 	*	------------------------------------------------
 	*	Swift Framework v2.0
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_return_slider()
 	*	sf_video_embed()
@@ -18,7 +18,7 @@
 	*/
 
 	
-	/*  for PRO users! -  REVSLIDER RETURN FUNCTION
+	/* REVSLIDER RETURN FUNCTION
 	================================================== */
 	function sf_return_slider($revslider_shortcode) {
 	    ob_start();
@@ -27,7 +27,7 @@
 	}
 
 
-	/*  for PRO users! -  VIDEO EMBED FUNCTIONS
+	/* VIDEO EMBED FUNCTIONS
 	================================================== */
 	if (!function_exists('sf_video_embed')) {
 		function sf_video_embed($url, $width = 640, $height = 480) {
@@ -85,7 +85,7 @@
 		}
 	}	
 		
-	/*  for PRO users! -  FEATURED IMAGE TITLE
+	/* FEATURED IMAGE TITLE
 	================================================== */
 	function sf_featured_img_title() {
 		global $post;
@@ -97,7 +97,7 @@
 	}
 	
 	
-	/*  for PRO users! -  SWIFT SLIDER
+	/* SWIFT SLIDER
 	================================================== */
 	if (!function_exists('sf_swift_slider')) {
 		function sf_swift_slider() {
@@ -262,7 +262,7 @@
 	}
 	
 
-	/*  for PRO users! -  GET ATTACHMENT META
+	/* GET ATTACHMENT META
 	================================================== */
 	if ( ! function_exists( 'sf_get_attachment_meta' ) ) {
 	    function sf_get_attachment_meta( $attachment_id ) {

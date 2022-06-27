@@ -1,18 +1,18 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Framework Comments Functions
 	*	------------------------------------------------
 	*	Swift Framework v2.0
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_custom_comments()
 	*	custom_pings()
 	*
 	*/
 	
-	/*  for PRO users! -  COMMENTS
+	/* COMMENTS
 	================================================== */
 	if (!function_exists('sf_custom_comments')) {
 		function sf_custom_comments($comment, $args, $depth) {

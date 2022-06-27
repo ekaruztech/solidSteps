@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2424:"Det här visar fjolårets trygghetsindex för allmänna platser. Tryggast känner sig invånarna i Lund, Linköping och Umeå. Satsa på en semester i ett land som rankas bland världens tryggaste. De här städerna är säkrast i hela världen – Sverige i topp. Plats 98 jämfört med Malmö på plats 152 och Stockholm på plats 226. Esbo är än en gång den tryggaste storstaden i Finland. Institutet för ekonomi och fred (IEP) slår nu fast vilka länder som toppar listan i sitt årliga globala fredsindex för 2018. Conde Nast Traveler rapporterar nu om årets 10 säkraste länder. Av de 20 områden i Sverige med flesta anmälda våldsbrott är sju i Stockholm, tre i Göteborg, tre i Malmö och övriga sju utspridda över hela Sverige. Yle har fått uppgifterna på förhand. Det visar en ny rapport från teknik- och arkitektföretaget PE. ... De tre största städerna delas upp i stadsdelar. De flesta städerna på vår lista är små tätorter i södra halvan av Sverige. Men när det kommer till trafiksäkerheten är det dock betydligt säkrare att strosa runt på gatorna i Berlin. ... Och Sverige gjorde verkligen bra ifrån sig och var ett av få länder från Europa som kom med på listan. Det kan vara intressant att nämna att ordet stad saknar bestämd definition och att vi i denna artikel även kallar små tätorter för … Mer än hälften av svenskarna uppger att de känner sig trygga i sin stad. Statistik från Brottsförebyggande rådets Nationella … Sverige har tre storstäder, och snart fyra. Sverige betraktas ofta som ett säkert land och Stockholm rankas enligt tidningen The Economist som världens fjärde säkraste stad (delad plats med ett antal andra länder). Dock varierar det kraftigt beroende på vart i landet de är bosatta. I Eskilstuna, Helsingborg och Västerås är det dock betydligt färre som upplever att de är trygga. Göteborg är enligt undersökningen Öppna jämförelser – Trygghet och säkerhet 2019 den överlägset tryggaste storstaden. Uppsala tog sig över 200 000-gränsen redan för åtta år sedan och har i dag över 220 000 invånare. Det är nämligen där majoriteten av landets riktigt gamla samhällen ligger.  Expansionen sker i hög grad söderut, där Uppsala är beroende av förstärkningar på järnvägssidan med fyra spår till Stockholm. Stockholm är dock den enda som kan anses ha dålig trygghet av de tre stora städerna. ";s:7:"keyword";s:29:"tryggaste städerna i sverige";s:5:"links";s:4402:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=global-h%C3%A4lsa-artiklar'>Global Hälsa Artiklar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=degerfors-marknad-2020'>Degerfors Marknad 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muskelkramp-p%C3%A5-latin'>Muskelkramp På Latin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adjektiv-p%C3%A5-l'>Adjektiv På L</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bahia-feliz-januari'>Bahia Feliz Januari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=piprensare-pyssel-spindel'>Piprensare Pyssel Spindel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=types-of-biome'>Types Of Biome</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6renar-tj%C3%A4nstem%C3%A4n-ptk'>Förenar Tjänstemän Ptk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gan%C3%A4s-kommun-fritids'>Höganäs Kommun Fritids</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=atv-barn-honda'>Atv Barn Honda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liam-pitts-hypokondri'>Liam Pitts Hypokondri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=namn-som-betyder-stj%C3%A4rna'>Namn Som Betyder Stjärna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runda-mattor-mio'>Runda Mattor Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=myror-i-brallan-spel-regler'>Myror I Brallan Spel Regler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4ckmans-fastigheter-boden'>Bäckmans Fastigheter Boden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=countries-with-english-as-primary-language'>Countries With English As Primary Language</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppna-f%C3%B6rskolan-svenska-kyrkan'>öppna Förskolan Svenska Kyrkan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hoover-torktumlare-test'>Hoover Torktumlare Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korpen-regler-licensierade-spelare-innebandy'>Korpen Regler Licensierade Spelare Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=unga-astrid-%C3%A5ldersgr%C3%A4ns'>Unga Astrid åldersgräns</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muskler-i-benet'>Muskler I Benet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppna-golfbanor-stockholm'>öppna Golfbanor Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ifk-g%C3%B6teborg-futsal-biljetter'>Ifk Göteborg Futsal Biljetter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ylva-h%C3%A4llen-ylvania'>Ylva Hällen Ylvania</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flygbuss-arlanda-enk%C3%B6ping'>Flygbuss Arlanda Enköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-s%C3%A4ng-av-rosor-darin-chords'>En Säng Av Rosor Darin Chords</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ort-n%C3%A4ra-%C3%B6-vik'>Ort Nära ö-vik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cheesecake-med-mandelbotten'>Cheesecake Med Mandelbotten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linssoppa-kokosmj%C3%B6lk-r%C3%A4kor'>Linssoppa Kokosmjölk Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beddinge-ikea-k%C3%B6k'>Beddinge Ikea Kök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zlatan-tr%C3%B6ja-barn'>Zlatan Tröja Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-china-town'>Restaurang China Town</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ph-deltagare-2017'>Ph Deltagare 2017</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5-sm%C3%A5l%C3%A4ndska-%C3%A5krar'>På Småländska åkrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=celine-komplett-s%C3%A4ngpaket-180x200-sammet'>Celine Komplett Sängpaket 180x200 Sammet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ibc-container-sverige'>Ibc Container Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inflammerad-hud-ansiktet'>Inflammerad Hud Ansiktet</a>,
+";s:7:"expired";i:-1;}

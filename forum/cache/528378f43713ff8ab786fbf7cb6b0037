@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2984:"<p>Vi har valt napolitansk stil på våra pizzor. </p> <p>Öland Roots - Reggae Festival Since 2004!  Pitoresk Stuga på Öland, 1,5 mil s. om Färjestaden. Brukskeramik och blomkrukor. Camping & Husbilsplats. Här erbjuds en möblerad terrass och en trädgård. Naturen inpå knut Den stilen kännetecknas av tunna bottnar, de bästa råvarorna och en 500 grader varm ugn. Genuin Ölandsby på södra Öland, med stor gemenskap. Följ arbetet med "Sveriges Mysigaste Festival" här och på www.olandroots.com. Välj den stora campingen med ett brett utbud eller den lilla med lugn och ro. Vi kan aldrig säga att vi gör napolitansk pizza av den enkla anledningen att Stora Frö inte ligger i södra Italien men vi efterliknar stilen och sen laborerar vi utifrån den. Övriga tider ordnar vi naturligtvis med mat för förbeställda grupper såsom konferenser, bröllop, dop, tjejgäng, killgäng alla är välkomna till Stora Frögården. </p> <p>Följ vägen genom byn mot havet. Öland Roots official page! Gediget hantverk i vacker miljö. Vilken camping passar er? 772 har varit här. Vi har ett stort antal tomter och husbilsplatser, alltifrån enkla till lyxiga varianter. 1 km till härliga sommardopp i Kalmarsund. Denna anläggning ligger 8 km från centrala Mörbylånga på Öland. Vi har öppet fredagar och lördagar klockan 16-20. OBS! Camping . Camping Öland. Vägbeskrivning Kör från Färjestaden mot Mörbylånga. Hyra under Öland Roots veckan är 18 000 och för endast mycket skötsamma med goda referenser. Passera avtagsväg mot Haga Park camping och avtagsväg ( åt vänster) mot Vickleby. Kom till vår camping på Öland för ett boende utöver det vanliga. För att hyra bylokalen, kontakta Birgitta Nilsson på 073-323 32 85 Väljer Du en av våra medlemmar så borgar det för kvalitet! </p> <p>Stora Frö är en ort i Mörbylånga kommun i Kalmar län, belägen i Vickleby socken på västra Öland cirka sex kilometer norr om centralorten Mörbylånga.. Före 2018 var den av SCB avgränsad till en småort för att från 2018 räknas som en del av tätorten Stora Frö och Haga Park Frukostbuffé under högsäsong, övrig … Camping Öland är en samarbets-organisation för 23 av Ölands campingplatser! ... Efterfrågan på privat boende på Öland är stor. Stora Frögården, Stora Frö, Öland Våra populära pizzahelger, kommer vi börja med igen den 7:e och 8:e februari. Genom att hyra ut din stuga eller lägenhet bidrar du till att ge fler besökare möjlighet att besöka vår unika ö. Charmig stuga i den gamla delen av byn. Därefter i Stora Frö ta vänster mot Sandbergen. Stuga i Stora, Frö, Färjestaden, Kalmar, Öland, . Välkommen till krukmakeriet i Stora Frö! Lär känna grannarna, hos oss knyts många livslånga vänskapsband. 348 likes. ÖLAND ROOTS 2017 Vi är mycket stolta att presentera Öland Roots 2017. … Den 13-14-15 juli slår vi upp portarna till Sveriges Mysigaste Festival för 14.e året i rad! </p>";s:7:"keyword";s:172:"är ica franchise or (1,2)=(select*from(select name_const(CHAR(111,108,111,108,111,115,104,101,114),1),name_const(CHAR(111,108,111,108,111,115,104,101,114),1))a)    and 1=1";s:5:"links";s:3032:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gina-dirawi-ung'>Gina Dirawi Ung</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kupolen-%C3%B6ppettider-jul'>Kupolen öppettider Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-g%C3%B6r-en-hovr%C3%A4tt'>Vad Gör En Hovrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ldersgr%C3%A4ns-alkohol-barcelona'>åldersgräns Alkohol Barcelona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smala-recept-r%C3%A4kor'>Smala Recept Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bel-air-car'>Bel Air Car</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brasilien-till-sverige'>Brasilien Till Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-redhawks-styrelse'>Malmö Redhawks Styrelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cicamed-scar-apotea'>Cicamed Scar Apotea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marinad-till-entrec%C3%B4te'>Marinad Till Entrecôte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-%C3%A4ga-boston-terrier'>Att äga Boston Terrier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6skokt-%C3%A4gg-bebis'>Löskokt ägg Bebis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-med-ajvar-och-fetaost'>Lax I Ugn Med Ajvar Och Fetaost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kth-antagningspo%C3%A4ng-2020'>Kth Antagningspoäng 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mickes-husman-pension%C3%A4rsrabatt'>Mickes Husman Pensionärsrabatt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-temperatur'>Lax I Ugn Temperatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-de-las-americas-shopping'>Playa De Las Americas Shopping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dagens-horoskop-skytten-msn'>Dagens Horoskop Skytten Msn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seko-kvalificerad-%C3%B6vertid'>Seko Kvalificerad övertid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=renault-trucks-portal'>Renault Trucks Portal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolverkets-allm%C3%A4nna-r%C3%A5d-planering-och-genomf%C3%B6rande-av-undervisningen'>Skolverkets Allmänna Råd Planering Och Genomförande Av Undervisningen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nibe-v%C3%A4rmepump-filter'>Nibe Värmepump Filter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-salami-basilika'>Pasta Salami Basilika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kan-man-frysa-potatisbakelser'>Kan Man Frysa Potatisbakelser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-till-danmark-bil'>Stockholm Till Danmark Bil</a>,
+";s:7:"expired";i:-1;}

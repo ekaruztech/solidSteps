@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3589:"To open Photos, click on Start button, scroll down to 'P' and there you will have Photos. <br> <br>At least, that’s the intention of the Spotlight feature Cool Things to Do with the Windows 10 Lock Screen The Windows 10 lock screen is more than a stylish display to cover the login screen. You should now be able to see the Windows Photo Viewer and set it as the default program for various image files. <br> <br>Click View in File Explorer. <br> <br>Transferring photos from your iPhone or iPad to your Windows 10 PC seems like a hassle, but it's really not that bad. <br> <br>windows 10 photo gallery free download - Windows 10, Apple Safari, Windows Live Photo Gallery, and many more programs Windows itself stores images in your “Pictures” folder. Click the View tab. Although these steps work for most digital cameras and Android smartphones, iPhone owners must go […] On Windows 10, Photos is an essential app designed to help you to organize your pictures and videos.Using the app, you can view your media files. 3. How to Find Windows 10's Spotlight Lock Screen Pictures. Read More on Windows 10’s lock screen.  <br>1. To do this, open the Control Panel and go to Default Programs > Set Default Programs. Click Start, type powershell, right-click Windows Powershell and choose Run as Administrator. If you have a Photos app not working issue, these fixes can be implemented, as can this alternative that's built right into Windows. If the Photos app does not start or causes an error, you can repair it using PowerShell. Usually you could use Windows Photo Viewer to view your image files in a variety of ways. <br> <br>Windows 10 comes with Photos app . Windows 10 has a handy Photos app that makes sorting your images easier. 4.  Restore Windows Photo Viewer in Windows 10. A Photo Finish. The built-in software in Windows 10 easily fetches photos from nearly any make and model of digital camera, as well as most smartphones. 2. 3. Now you know how to import photos, create albums, and even sort pictures by face. <br> <br>Let us show you everything it can do and how you can customize or disable it. To open Photos, click on Start button, … Click Options. <br> <br>The Photos app in Windows 10 has a nice interface and decent image filtering options right off the bat. You can also print, order prints, attach pictures to an e‑mail message, burn, or open photos in another app on your PC. A Folder Options window will appear. Hi, In the test you do, once the video has been completed you must click on finish video, it will ask you to export it to save it on your computer, then go to the path where I save it, right click to open with the editor and you will see in the Top Edit & Create when you click there you will have the menu where you select Trim and define the range of the video you want. <br> <br>Windows 10 uses the Photos app as the default app to open image files with instead now. Here are the steps for Windows 10. Find Windows Photo Viewer in the list of programs, click it, and choose Set this program as default. Select "Show hidden files, folders and drives" and click Apply. <br> <br>It even lets you group your camera’s photo sessions into different folders, each named after the event. Some syncing services try to respect that, but you’ll often find pictures transferred from things like DropBox, iCloud, and OneDrive in their own folders. Do you have any photo sorting tips for Windows 10 users? However, it's also prone to not working as it should. Shout out below! 5. Here are a few simple methods that will get your photos … <br>";s:7:"keyword";s:17:"windows 10 photos";s:5:"links";s:2916:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sunwing-kallithea-beach-karta'>Sunwing Kallithea Beach Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hud-%26-spa'>Hud & Spa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-en-lagfaren-domare'>Vad är En Lagfaren Domare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-stuga-fulufj%C3%A4llet'>Hyra Stuga Fulufjället</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kelly-gale-net-worth'>Kelly Gale Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbd%C3%A4ck-danmark-tyskland'>Dubbdäck Danmark Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-sockerfritt-choklad'>Baka Sockerfritt Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdkakecookies-alexandra-bring'>Kladdkakecookies Alexandra Bring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=more-parkour-atlas'>More Parkour Atlas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=recept-biff-rydberg-sveriges-m%C3%A4sterkock'>Recept Biff Rydberg Sveriges Mästerkock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=normal-tyres%C3%B6-centrum'>Normal Tyresö Centrum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fromma-som-lamm'>Fromma Som Lamm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=modus-vivendi-betyder'>Modus Vivendi Betyder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seb-sverigefond-sm%C3%A5bolag'>Seb Sverigefond Småbolag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lg-g8x-prisjakt'>Lg G8x Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-mc-m%C3%A4rken'>Svenska Mc Märken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=he%27s-a-pirate-piano-sheet'>He's A Pirate Piano Sheet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bibringa-4-bokst%C3%A4ver'>Bibringa 4 Bokstäver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lufttryck-d%C3%A4ck-sl%C3%A4pk%C3%A4rra'>Lufttryck Däck Släpkärra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-h%C3%A4ssleholm'>Lediga Jobb Hässleholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scf-%C3%A5rsm%C3%B6te-2019'>Scf årsmöte 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rdegspizza-med-ost'>Smördegspizza Med Ost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-pilgrims-d%C3%B6d'>En Pilgrims Död</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vattent%C3%A4kter-ume%C3%A5-kommun'>Vattentäkter Umeå Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polisen-lidk%C3%B6ping-facebook'>Polisen Lidköping Facebook</a>,
+";s:7:"expired";i:-1;}

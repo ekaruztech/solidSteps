@@ -1,0 +1,108 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2900:"<p>Kanalgatan är ett LSS-serviceboende beläget längs pråmkanalen mitt i Karlstad som vänder sig till dig med autismspektrumtillstånd, såsom autism eller Aspergers syndrom, och är 18 år eller äldre. Vår kultur genomsyras av våra värderingar - respekt, ansvar, enkelhet och kunskap. Vi har även utbildningsverksamheten Lära. Jobbsafari erbjuder den mest kompletta listan över lediga jobb i Sverige. Inom Vardaga är vi i ständig utveckling. Ett gratis, snabbt och enkelt sätt att hitta ett jobb med 36.000+ annonser i Karlstad och andra stora städer i Sverige. Vardaga är en av Sveriges största privata aktörer inom äldreomsorg med över 80 boenden runt om i landet. </p> <p>Vår sökmotorsida hämtar automatiskt in jobbannonser från alla möjliga arbetsgivare på ön. I Vardaga är det viktigt att våra boende får äta i en lugn och trevlig miljö. Förutom att publicera egna platsannonser, fungerar Jobbsafari också som en sökrobot som varje natt scannar efter nya platsannonser på mängder av jobbsidor och privata företag i Sverige inklusive Arbetsförmedlingen, Platsbanken och andra jobbsajter. Hitta lediga jobb i Karlstad med hjälp av denna jobbsite. Vi gör det enklare för dig att söka jobb, och enklare för arbetsgivare att hitta rätt kandidat! För äldre är det extra viktigt att maten håller hög kvalitet, att den är näringstät, vällagad och smakrik för att ge den näring som behövs. Vi serverar frukost, lunch, middag, mellanmål och nattmål om så önskas. Vi erbjuder boende, daglig verksamhet, stöd till individ och familj samt skola på cirka 400 enheter runt om i landet.  Vi skapar trivsel i vardagen för våra boende vars omsorgskvalitet ytterst garanteras av 7 000 experter på omsorg. Lediga jobb i Lidingö. Platsbanken, rekryteringsträffar, starta eget. Blocket Jobb är Sveriges nya mötesplats för arbetsgivare och arbetssökande. Breared är vackert beläget nära hav och skog samt närhet till storstad med snabba kommunikations vägar. Sida 2. Det finns flera sätt att hitta rätt jobb. Nytida ger stöd till barn, unga och vuxna för hela livets behov inom funktionsnedsättning och psykosocial problematik. ... Sveagatan 10 Karlstad, 65222. Verifierade arbetsgivare. Sök efter nya Timvikarier-jobb i Karlstad. Nu söker vi dig som vill ha ett varierande och utvecklande sommarjobb, som rustar dig för framtiden - … Välj att visa bara jobb från en specifik arbetsgivare eller inom ett specifikt yrke i Karlstad. </p> <p>Sök efter lediga jobb bland tusentals jobbannonser i hela Sverige och Norge. </p> <p>Vardaga driver Breared med tre äldreboendeenheter på driftsentreprenad i Varberg. Vid en flytt till Kanalgatan får du två kontaktpersoner som du har lite extra kontakt med. Nytida ger stöd till barn, unga och vuxna för hela livets behov inom funktionsnedsättning och psykosocial problematik. </p>";s:7:"keyword";s:21:"vardaga karlstad jobb";s:5:"links";s:7656:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatteverket-personbevis-id-kort'>Skatteverket Personbevis Id-kort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=verdi-italiens-enande'>Verdi Italiens Enande</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-v50-startar-inte-klickar'>Volvo V50 Startar Inte Klickar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vw-sharan-tillbeh%C3%B6r'>Vw Sharan Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ster%C3%A5s-invitational-2020'>Västerås Invitational 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ve-flygplats-museum'>Säve Flygplats Museum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lantm%C3%A4teri-log-in'>Lantmäteri Log In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lagar-p%C3%A5-medeltiden'>Lagar På Medeltiden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marianne-faithfull-2019'>Marianne Faithfull 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pickleball-vs-paddle'>Pickleball Vs Paddle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wildling-film-i-v%C3%A4st'>Wildling Film I Väst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ra-egen-pastas%C3%A5s'>Göra Egen Pastasås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=australian-silky-terrier'>Australian Silky Terrier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-docka-%C3%A5hl%C3%A9ns'>Pippi Docka åhléns</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A4nge-lever-en-med-downs-syndrom'>Hur Länge Lever En Med Downs Syndrom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fira-ny%C3%A5r-i-stockholm-med-barn'>Fira Nyår I Stockholm Med Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-brukar-energin-i-matvaror-deklareras'>Hur Brukar Energin I Matvaror Deklareras</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kna-ut-timl%C3%B6n-fr%C3%A5n-m%C3%A5nadsl%C3%B6n-unionen'>Räkna Ut Timlön Från Månadslön Unionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanarie%C3%B6arna-farliga-djur'>Kanarieöarna Farliga Djur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trysil-h%C3%B6gfj%C3%A4llscenter-restaurang'>Trysil Högfjällscenter Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=suzuki-50cc-fyrhjuling-reservdelar'>Suzuki 50cc Fyrhjuling Reservdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=miele-tv%C3%A4ttmaskin-%C3%B6ppna-luckan'>Miele Tvättmaskin öppna Luckan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blad-innebandyklubba-intersport'>Blad Innebandyklubba Intersport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-pilgrims-d%C3%B6d'>En Pilgrims Död</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rkr%C3%A4m-med-mascarpone'>Smörkräm Med Mascarpone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-turer-tyskland'>Mc Turer Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse-idol-how-will-i-know'>Tusse Idol How Will I Know</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-edit-gifs'>How To Edit Gifs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skuru-handboll-damer'>Skuru Handboll Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=janne-andersson-f%C3%B6rbundskapten'>Janne Andersson Förbundskapten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valla-bibliotek-s%C3%B6k'>Valla Bibliotek Sök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ving-kos-marmari'>Ving Kos Marmari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdkaka-vita-b%C3%B6nor'>Kladdkaka Vita Bönor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-l%C3%A5ngstrump-p%C3%A5-thail%C3%A4ndska'>Pippi Långstrump På Thailändska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Fri-som-en-vind'>Fri Som En Vind</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fem-myror-cykel'>Fem Myror Cykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elevspel-se-e-%C3%A4'>Elevspel Se E ä</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-%C3%A4r-n%C3%A4sta-vm-i-fotboll'>När är Nästa Vm I Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sol-placering-umg%C3%A4nge'>Sol Placering Umgänge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=costa-adeje-karta'>Costa Adeje Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mallorca-karta-europa'>Mallorca Karta Europa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=autism-skola-v%C3%A4xj%C3%B6'>Autism Skola Växjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drottning-kristina-familj'>Drottning Kristina Familj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=world-class-norrk%C3%B6ping'>World Class Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stream-genk-liverpool'>Stream Genk Liverpool</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vasaloppet-tv-stakmaskin'>Vasaloppet Tv Stakmaskin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=max-darj-fru'>Max Darj Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siggesta-g%C3%A5rd-loppis'>Siggesta Gård Loppis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liverpool-football-academy'>Liverpool Football Academy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leilas-goda-kladdkaksmuffins'>Leilas Goda Kladdkaksmuffins</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rhandsbesked-bygglov-norrt%C3%A4lje'>Förhandsbesked Bygglov Norrtälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-madonna-2019'>Youtube Madonna 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lossless-mp4-to-gif'>Lossless Mp4 To Gif</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=diskho-komposit-repor'>Diskho Komposit Repor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bila-norra-italien'>Bila Norra Italien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-grekland-maj'>Tui Grekland Maj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tyres%C3%B6-centrum-karta'>Tyresö Centrum Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mat-med-mycket-kalorier'>Mat Med Mycket Kalorier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sp%C3%A5rvagn-7-rutt'>Spårvagn 7 Rutt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avskedsrum-visby-lasarett'>Avskedsrum Visby Lasarett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-service-stockholm'>Honda Service Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ibc-container-sverige'>Ibc Container Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kokostoppar-allt-om-mat'>Kokostoppar Allt Om Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lego-masters-uk'>Lego Masters Uk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-spindelled-mercedes-w211'>Byta Spindelled Mercedes W211</a>,
+";s:7:"expired";i:-1;}

@@ -1,6 +1,6 @@
 <?php
 
-    /*  for PRO users! - 
+    /*
     *
     *	Page Heading
     *	------------------------------------------------
@@ -12,7 +12,7 @@
     */
 
 
-    /*  for PRO users! -  PAGE HEADING
+    /* PAGE HEADING
     ================================================== */
     if ( ! function_exists( 'sf_page_heading' ) ) {
         function sf_page_heading() {
@@ -138,20 +138,20 @@
 
                         <?php } else if ( is_archive() ) { ?>
 
-                            <?php /*  for PRO users! -  If this is a tag archive */
+                            <?php /* If this is a tag archive */
                             if ( is_tag() ) { ?>
                                 <h1 <?php echo $article_heading_text; ?>><?php _e( "Posts tagged with", "swiftframework" ); ?>
                                     &#8216;<?php single_tag_title(); ?>&#8217;</h1>
-                                <?php /*  for PRO users! -  If this is a daily archive */
+                                <?php /* If this is a daily archive */
                             } elseif ( is_day() ) { ?>
                                 <h1 <?php echo $article_heading_text; ?>><?php _e( "Archive for", "swiftframework" ); ?> <?php the_time( 'F jS, Y' ); ?></h1>
-                                <?php /*  for PRO users! -  If this is a monthly archive */
+                                <?php /* If this is a monthly archive */
                             } elseif ( is_month() ) { ?>
                                 <h1 <?php echo $article_heading_text; ?>><?php _e( "Archive for", "swiftframework" ); ?> <?php the_time( 'F, Y' ); ?></h1>
-                                <?php /*  for PRO users! -  If this is a yearly archive */
+                                <?php /* If this is a yearly archive */
                             } elseif ( is_year() ) { ?>
                                 <h1 <?php echo $article_heading_text; ?>><?php _e( "Archive for", "swiftframework" ); ?> <?php the_time( 'Y' ); ?></h1>
-                                <?php /*  for PRO users! -  If this is an author archive */
+                                <?php /* If this is an author archive */
                             } elseif ( is_author() ) { ?>
                                 <?php $author = get_userdata( get_query_var( 'author' ) ); ?>
                                 <?php if ( class_exists( 'ATCF_Campaigns' ) ) { ?>
@@ -159,7 +159,7 @@
                                 <?php } else { ?>
                                     <h1 <?php echo $article_heading_text; ?>><?php _e( "Author archive for", "swiftframework" ); ?> <?php echo esc_attr($author->display_name); ?></h1>
                                 <?php } ?>
-                                <?php /*  for PRO users! -  If this is a paged archive */
+                                <?php /* If this is a paged archive */
                             } elseif ( isset( $_GET['paged'] ) && ! empty( $_GET['paged'] ) ) { ?>
                                 <h1 <?php echo $article_heading_text; ?>><?php _e( "Blog Archives", "swiftframework" ); ?></h1>
                             <?php } else { ?>
@@ -197,7 +197,7 @@
     }
 
 
-    /*  for PRO users! -  POST SPLIT CONTENT HEADING BUTTONS
+    /* POST SPLIT CONTENT HEADING BUTTONS
     ================================================== */
     if ( ! function_exists( 'sf_post_split_heading_buttons' ) ) {
         function sf_post_split_heading_buttons() {

@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Statistics Content Part
  *
  * @package bbPress

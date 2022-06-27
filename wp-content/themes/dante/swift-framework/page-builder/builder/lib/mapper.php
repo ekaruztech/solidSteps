@@ -1,5 +1,5 @@
 <?php
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder Shortcode Mapper
 	*	------------------------------------------------
@@ -62,7 +62,7 @@
 	        }
 	    }
 	
-	    /*  for PRO users! -  Extend params for settings */
+	    /* Extend params for settings */
 	    public static function addParam($name, $attribute = Array()) {
 	        if( !isset(self::$sc[$name]))
 	            return trigger_error( __("Wrong name for shortcode:" . $name . ". Name required", "swiftframework"));

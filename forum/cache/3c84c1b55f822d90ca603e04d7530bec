@@ -1,0 +1,73 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4141:"Gävle har mer att erbjuda än jobb och plugg - är du intresserad av sport kanske en match med Brynäs är något för dig, eller varför inte svänga förbi Julbocken under juletider. Ett gratis, snabbt och enkelt sätt att hitta ett jobb med 34.000+ annonser i Gävle och andra stora städer i Sverige. Är du en ungdom mellan 15-21 år? Share on Facebook Share on Twitter Share on LinkedIn. Du kommer i fortsättningen att få e-post så fort det finns matchande jobbannonser, samt små jobbtips och råd. Trafikverket, Borlänge, Gävle, … <br> <br> Gävle kommun, Gävle Platsbanken AMV. <br> <br>Du finner aktuella datum på Gävle kommuns hemsida. History of the University of Gävle Our Campus Job Opportunities Contact Us Search. Du tjänar 71 kr i timmen under ditt sommarjobb. Vare sig du söker ett sommarjobb för att tjäna en slant till en resa, extrajobb vid sidan av studierna eller helgjobb när schemat tillåter, så bygger du, genom att … <br> <br>THIS POSITION IS BASED IN THE GÄVLE/SANDVIKEN REGION. Sök jobb hos Gävle kommun. 183 hittade annonser. 22 Lediga Ungdomar jobb i Gävle på Indeed.com. Watch Queue Queue. Ønsker du at være frivillig i Red Barnet Ungdom, så læs mere her. Läs vidare om du vill veta mer om vem som kan söka sommarjobb och hur du gör. Gävle kommun erbjuder varje år sommarjobb för ungdomar. Välkommen med din ansökan! <br> <br>Sökningen har nu registrerats hos din Jobbevakning. Verifierade arbetsgivare. Sök jobb hos Gävle kommun. <br> <br>Gävle har mer att erbjuda än jobb och plugg - är du intresserad av sport kanske en match med Brynäs är något för dig, eller varför inte svänga förbi Julbocken under juletider. Välkommen med din ansökan! alla jobb. Volvo har varje år hundratals lediga sommarjobb runt om i landet. Sök efter nya Extra ungdom-jobb i Gävle. Om du läser andra året på gymnasiet och är folkbokförd i Gävle kommun kan du söka sommarjobb via kommunen. Sök och filtrera. Vill du göra Gävle ännu bättre? Listen. Ett gratis, snabbt och enkelt sätt att hitta ett jobb med 34.000+ annonser i Gävle och andra stora städer i Sverige. Watch Queue Queue Share . <br> <br>Gå in på Gävle kommuns hemsida om du är intresserad av att söka sommarjobb, där finner du även kontaktuppgifter om du skulle ha några frågor. När tilldelningen av arbetsplatser sker beror på inom vilket område du vill jobba. Read in Swedish Print. Det är dock bara du som inte tidigare haft sommarjobb via kommunen som kan söka. Hej, jag heter Henrik Mattsson. Välkommen till min kanal för Receptfavoriter. en sökning. Sök efter nya Arbeta extra dag kväll eller helg-jobb i Gävle. This video is unavailable. På Yepstr kan du hitta ditt första jobb, tjäna pengar och ta klivet in på arbetsmarknaden. <br> <br>200 feriepraktikplatser erbjuds för ungdomar i nionde klass och första året på gymnasiet. Du kan söka sommarjobb via Gävle kommun. <br> <br>För att få ett feriejobb 2019 hos Volvo måste du vara minst 16 år. <br> <br>Exempel på jobb är att ta hand om äldre eller laga mat till barn och äldre. Microsoft's Cloud Operations & Innovation (CO+I) is the engine that powers our cloud services. Red Barnet Ungdom søger løbende frivillige til vores projekter over hele landet. Söker Ungdom Jobb - Gävle. Visar -/- Sök. Sök lediga anställningar hos oss. Här finns intressanta och utmanande jobb, 7500 kollegor och möjligheter för dig att växa. Spara ... ungdom Jobbevakning har skapats. University of Gävle / About the University / Job Opportunities; Job Opportunities. Registrera en Jobbevakning Enhetschef Trafikslagsövergripande Funktioner Välkommen att söka jobb hos oss som Enhetschef Trafikslagsövergripande Funktioner. <br> <br>Här finns intressanta och utmanande jobb, 7500 kollegor och möjligheter för dig att växa. Vad du än är intresserad av kan ett deltidsjobb i Gävle ge dig chansen att du har råd att göra det du vill. Detta är för att så … Vad du än är intresserad av kan ett deltidsjobb i Gävle ge dig chansen att du har råd att göra det du vill. Verifierade arbetsgivare. ";s:7:"keyword";s:18:"jobb gävle ungdom";s:5:"links";s:3498:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%B6lunda-leksand-live'>Frölunda Leksand Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chris-kl%C3%A4fford-idol-usa'>Chris Kläfford Idol Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5f%C3%A5glar-r%C3%B6tt-huvud'>Småfåglar Rött Huvud</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bubbelbadkar-170-cm'>Bubbelbadkar 170 Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ljusshow-link%C3%B6ping-2019-ny%C3%A5r'>Ljusshow Linköping 2019 Nyår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koka-broccoli-n%C3%A4ring'>Koka Broccoli Näring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-hus-hirtshals'>Hyra Hus Hirtshals</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blue-wear-arbetskl%C3%A4der'>Blue Wear Arbetskläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6teborgsgirot-mtb-2020'>Göteborgsgirot Mtb 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gothia-cup-spelschema-2019'>Gothia Cup Spelschema 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bic-code-search'>Bic Code Search</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6nt-kort-ingar%C3%B6'>Grönt Kort Ingarö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ankan-johansson-stand-up'>Ankan Johansson Stand Up</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4stroms-fall-%C3%A5rtal'>Västroms Fall årtal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fm-mattsson-str%C3%A5lsamlare'>Fm Mattsson Strålsamlare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dammsugare-electrolux-ultraone-euoc92db'>Dammsugare Electrolux Ultraone Euoc92db</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=piano-chords-play-online'>Piano Chords Play Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=35-%C3%A5ringen-anna-lindh'>35-åringen Anna Lindh</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pingstkyrkan-st%C3%B6pen-kalender'>Pingstkyrkan Stöpen Kalender</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oxfil%C3%A9-med-peppars%C3%A5s'>Oxfilé Med Pepparsås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=styr-ihop-synonym'>Styr Ihop Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-sprinter-lastutrymme'>Mercedes Sprinter Lastutrymme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-sanuk'>Vad Betyder Sanuk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-uplandia-svit'>Scandic Uplandia Svit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pvc-r%C3%B6r-limning'>Pvc Rör Limning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-kindberg-h%C3%A4ktad'>Daniel Kindberg Häktad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tyska-kyrkan-g%C3%B6teborg'>Tyska Kyrkan Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabinv%C3%A4ska-m%C3%A5tt-sas'>Kabinväska Mått Sas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=digitala-sp%C3%A5ret-mat'>Digitala Spåret Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pendelt%C3%A5g-40-biljett'>Pendeltåg 40 Biljett</a>,
+";s:7:"expired";i:-1;}

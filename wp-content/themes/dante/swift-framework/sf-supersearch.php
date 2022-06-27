@@ -1,15 +1,15 @@
 <?php
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Super Search
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_super_search()
 	*/
 
-	/*  for PRO users! -  SUPER SEARCH
+	/* SUPER SEARCH
 	================================================== */ 
 	if (!function_exists('sf_super_search')) {
 		function sf_super_search() {

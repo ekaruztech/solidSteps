@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2940:"<p>I 2011 vann ho ein romankonkurranse forlaget Schibsted hadde stelt til, og i 2012 kom romanen Det fine som flyter forbi ut. Fakta om stress Det er ikke farligt at føle sig stresset i korte perioder, men en langvarig stresstilstand er meget ubehagelig og kan føre til alvorlig sygdom. Den samme gudinde har mange navne, bl.a. Ida Maria Warg, född 27 november 1986 i Åmål, är en svensk bloggare, youtubare, podcastare och influerare med över 233.000 prenumeranter och över 66 miljoner visningar på sin Youtubekanal.Hon driver sedan många år tillbaka en blogg där hon bland annat skriver om träning och hälsa med mera och 2016 vann hon Blog Awards i kategorin Årets hälsoblogg. Lad fakta tale: IDAs kampagne op til Folketingsvalget i 2019 Op til Folketingsvalget d. 5. juni 2019 kørte IDA en kampagne med en opfordring til vælgerne om at huske at fokusere på fakta: Tjek at udsagn og forslag baserer sig på reelle fakta, der lader sig dokumentere. det statslige, kommunale og regionale område. </p> <p>For alternative betydninger, se Ida (flertydig). Later telescopic observations categorized Ida as an S-type asteroid, the most numerous type in the inner asteroid belt. </p> <p>... Du kan kontakte IDA for at få mere detaljeret rådgivning om disse kontraktformuleringer. Varumärket IDA WARG står för kvalitet, en sund livsstil, hälsa och välmående. Warg was born in Örebro, the youngest of two daughters, to accountant Anders Warg (died 1708) and Karin Livijn (died 1755).In 1710, her mother married the nobleman Eric Rosenstråle, with whom she had seven more children and moved with to Borggård Manor outside Finspång.. Career. (Se også artikler, som begynder med Ida)Ida er navnet på to bjerge, som var hellige i den græske mytologi.Begge blev kaldt Gudindens bjerg, og i begge tilfælde henviser det til gudinden Demeter, modergudinden (de = "gud" + meter = moder") i de førgræske myter. 46 procent af IDAs offentligt ansatte medlemmer valgte at bruge deres stemme, hvoraf 96,6 procent stemte ja til de indgåede OK18-forlig. Ida Løkås (fødd 23. september 1985) er ein norsk forfattar fødd i Bodø og oppvaksen i Stavanger.. Løkås har studert ved universiteta i Bergen og Oslo og har mastergrad i skrivekunst frå Kingston University i London. Alla produkter är allergitestade, 100% veganska och cruelty free. 364 likes. </p> <p>Ophavsret - fakta og regler Hvad er ophavsret, og hvem har ejerskabet over det, du skaber i din arbejdstid? Læs dem her og tilhørende faktaark, der beskriver forligene på hhv. Mater Idae ("Idabjergets moder"). Få indblik i de vigtigste regler om ophavsret her. Ida Warg Beauty. </p> <p>Ida, minor planet designation 243 Ida, is an asteroid in the Koronis family of the asteroid belt.It was discovered on 29 September 1884 by Austrian astronomer Johann Palisa at Vienna Observatory and named after a nymph from Greek mythology. Early life. Om ophavsret.  </p>";s:7:"keyword";s:17:"fakta om ida warg";s:5:"links";s:4976:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lena-endre-thomas-hansson'>Lena Endre Thomas Hansson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bultcirkel-volvo-xc60'>Bultcirkel Volvo Xc60</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dora-and-the-lost-city-svenska-trailer'>Dora And The Lost City Svenska Trailer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=minihus-p%C3%A5-hjul'>Minihus På Hjul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badrum-utan-golvbrunn'>Badrum Utan Golvbrunn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leeds-united-home-shirt'>Leeds United Home Shirt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lindas-bakskola-br%C3%B6d'>Lindas Bakskola Bröd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-sam'>Vad Betyder Sam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=last-minute-flights-from-gothenburg'>Last Minute Flights From Gothenburg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vipan-n%C3%A4ssj%C3%B6-kommun'>Vipan Nässjö Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ford-anglia-f%C3%A4lgar'>Ford Anglia Fälgar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jic-g%C3%A4nga-tabell'>Jic Gänga Tabell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyrbil-uppsala-statoil'>Hyrbil Uppsala Statoil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=knights-of-cydonia'>Knights Of Cydonia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=midsommar-liding%C3%B6-2019'>Midsommar Lidingö 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gothia-cup-spelschema-2019'>Gothia Cup Spelschema 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kr%C3%A4mig-overnight-oats'>Krämig Overnight Oats</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=american-talang-2019'>American Talang 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elvis-heartbreak-hotel'>Elvis Heartbreak Hotel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buske-med-gula-blommor-p%C3%A5-bar-kvist'>Buske Med Gula Blommor På Bar Kvist</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-ett-sakrament-katolska-kyrkan'>Vad är Ett Sakrament Katolska Kyrkan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mariette-melodifestivalen-2019'>Mariette Melodifestivalen 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-banken-f%C3%B6r-bol%C3%A5n'>Bästa Banken För Bolån</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bullar-f%C3%B6r-diabetiker'>Bullar För Diabetiker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=houses-in-california-los-angeles'>Houses In California Los Angeles</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glamour-rollista-2020'>Glamour Rollista 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flip-phone-android'>Flip Phone Android</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosen-p%C3%A5-tistel%C3%B6n%3A-ber%C3%A4ttelse-fr%C3%A5n-v%C3%A4stra-sk%C3%A4rg%C3%A5rden'>Rosen På Tistelön: Berättelse Från Västra Skärgården</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bli-medlem-hsb-s%C3%B6dra-norrland'>Bli Medlem Hsb Södra Norrland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-var-det-att-leva-i-%C3%B6sttyskland'>Hur Var Det Att Leva I östtyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ginza-aor-rock'>Ginza Aor Rock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6ndal-bra-omr%C3%A5de'>Gröndal Bra Område</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fixa-rummet-spel'>Fixa Rummet Spel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=romantisk-serie-netflix'>Romantisk Serie Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finnish-language-relation'>Finnish Language Relation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5-hundar-till-salu-v%C3%A4rmland'>Små Hundar Till Salu Värmland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-blanca%2C-lanzarote-shopping'>Playa Blanca, Lanzarote Shopping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-limone-gr%C3%A4dde'>Pasta Limone Grädde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lovdagar-vellinge-kommun-2019'>Lovdagar Vellinge Kommun 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=verb-svenska-2019'>Verb Svenska 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatte%C3%A5terb%C3%A4ring-2020-r%C3%A4kna-ut'>Skatteåterbäring 2020 Räkna Ut</a>,
+";s:7:"expired";i:-1;}

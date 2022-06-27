@@ -1,11 +1,11 @@
 <?php
 
-    /*  for PRO users! - 
+    /*
     *
     *	Swift Page Builder - Parallax Shortcode
     *	------------------------------------------------
     *	Swift Framework
-    * 	Copyright Swift Ideas 2015 - http://www.swiftideas.com
+    * 	Copyright Swift Ideas 2016 - http://www.swiftideas.com
     *
     */
 
@@ -16,7 +16,7 @@
             $title = $el_position = $width = $el_class = '';
             extract( shortcode_atts( array(
                 'title'                   => '',
-                'parallax_type'           => '',
+                'parallax_type'           => 'image',
                 'bg_image'                => '',
                 'bg_video_mp4'            => '',
                 'bg_video_webm'           => '',
@@ -35,7 +35,7 @@
             ), $atts ) );
             $output = '';
 
-            /*  for PRO users! -  SIDEBAR CONFIG
+            /* SIDEBAR CONFIG
             ================================================== */
             global $sf_sidebar_config;
 
@@ -269,7 +269,7 @@
                 "heading" => __("Alt Background Preview", "swift-framework-admin"),
                 "param_name" => "altbg_preview",
                 "value" => "",
-                "description" => __("", "swift-framework-admin")
+                "description" => ""
             ),
             array(
                 "type"        => "textfield",

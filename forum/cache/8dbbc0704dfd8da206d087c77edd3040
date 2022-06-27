@@ -1,0 +1,97 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1892:"<p>Uppdaterad: … Sahlgrenska Universitetssjukhuset 413 45 Göteborg Postadress: Laboratoriemedicin i NU-sjukvården är en diagnostisk serviceenhet bestående av klinisk kemi, klinisk mikrobiologi och transfusionsmedicin fördelat på laboratorierna på NÄL och Uddevalla sjukhus. The work is closely linked to the hematology diagnostics departments at Sahlgrenska University Hospital. Tailored Approaches in Drug Development and Diagnostics: From Molecular Design to Biological Model Systems. This is so that the cancer patient could receive a better care in the future than in today’s society. Turku Centre for Biotechnology, Åbo Akademi University and University of Turku, FI‐20520 Turku, Finland . </p> <p>Prislista; Provtagningshandbok; Tidtabell provtransporter; Röntgen; Du är här: Klinisk fysiologi, laboratoriemedicin och röntgen; Vårdgivare; Laboratoriemedicin; Provtagningshandbok; Laboratoriemedicins provtagningshandbok; LÄNKEN DU HAR KLICKAT PÅ FUNGERAR INTE. Translational cancer research with the patient in focus Here at Sahlgrenska Cancer Center we focus our research with the patient in mind. The overall aim of our research is to improve the basis for … Faculty of Science and Engineering, Cell Biology, Åbo Akademi University, FI‐20520 Turku, Finland. Department of Biomedical Engineering, Technical … </p> <p>För att minska smittspridning råder besöksförbud på Karolinska (utom för vårdnadshavare). </p> <p>... the coronary care unit at Sahlgrenska University Hospital with signs or symptoms of an ACS were recruited for a study of prognosis and risk factors in ACS. Cecilia Sahlgren.  </p> <p></p> <p>levels in patients with acute coronary syndromes (ACS). Besöksförbud och begränsningar för medföljare 03 april 2020, 08:53. </p> <p>Informationen är flyttad till vår nya webbplats, Folkhälsa och sjukvård i Jönköpings län . </p>";s:7:"keyword";s:222:"liverpool world cup jersey'/**/OR/**/2563=CONCAT(CHAR(80)+CHAR(89)+CHAR(105)+CHAR(51),(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END)),CHAR(80)+CHAR(89)+CHAR(105)+CHAR(51))  /**/qNZp";s:5:"links";s:6414:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=more-parkour-atlas'>More Parkour Atlas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4ddmadrass-180x200-prisjakt'>Bäddmadrass 180x200 Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bovetegr%C3%B6t-eller-havregrynsgr%C3%B6t'>Bovetegröt Eller Havregrynsgröt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thessaloniki-kommande-evenemang'>Thessaloniki Kommande Evenemang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=houses-in-california-los-angeles'>Houses In California Los Angeles</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matsedel-malmb%C3%A4cks-skola'>Matsedel Malmbäcks Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=albin-lee-meldau---about-you'>Albin Lee Meldau - About You</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rundtur-i-stockholms-sk%C3%A4rg%C3%A5rd'>Rundtur I Stockholms Skärgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=clara-henry-twitter'>Clara Henry Twitter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lily-dam-suite'>Lily Dam Suite</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=geta-%C3%A5land-boende'>Geta åland Boende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=afrikansk-elefant-vs-indisk-elefant'>Afrikansk Elefant Vs Indisk Elefant</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polis-akademisk-utbildning'>Polis Akademisk Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fel-p%C3%A5-gasregulator'>Fel På Gasregulator</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=clarion-hotell-falun'>Clarion Hotell Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4rran%C3%A4s-dagens-lunch'>Kärranäs Dagens Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-med-kallr%C3%B6kt-lax'>Pasta Med Kallrökt Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pokemon-m%C3%A5larbilder-solgaleo'>Pokemon Målarbilder Solgaleo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-f%C3%A4rg-gr%C3%A5'>Nordsjö Färg Grå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rjestad---fr%C3%B6lunda'>Färjestad - Frölunda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hallonmousse-t%C3%A5rtfyllning-f%C3%A4rdig'>Hallonmousse Tårtfyllning Färdig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4sttrafik-g%C3%B6teborg-partille'>Västtrafik Göteborg Partille</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pastagrat%C3%A4ng-med-lax-och-r%C3%A4kor'>Pastagratäng Med Lax Och Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bovetegr%C3%B6t-food-pharmacy'>Bovetegröt Food Pharmacy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirius-innebandy-dam-instagram'>Sirius Innebandy Dam Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4xla-pengar-billigast-euro'>Växla Pengar Billigast Euro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trangia-lediga-jobb'>Trangia Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=enkla-firman-swedbank'>Enkla Firman Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helsingborg-december-2019'>Helsingborg December 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daimmousse-till-t%C3%A5rta'>Daimmousse Till Tårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=strand-las-palmas'>Strand Las Palmas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-fotbollsspelare-damer'>Svenska Fotbollsspelare Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-ultraljud-g%C3%A4vle'>Privat Ultraljud Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-m%C3%B6rdeg-finax'>Glutenfri Mördeg Finax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ett-gott-skratt-youtube'>Ett Gott Skratt Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swedish-posture-trainer'>Swedish Posture Trainer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5tit-som-en-tjur'>Låtit Som En Tjur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avdelning-social-h%C3%A5llbarhet-vgr'>Avdelning Social Hållbarhet Vgr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emf-str%C3%A5lning-ir-bastu'>Emf Strålning Ir Bastu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zeta-pasta-halloumi'>Zeta Pasta Halloumi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=do-re-mi-blackbear'>Do Re Mi Blackbear</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=igtv-minimum-length'>Igtv Minimum Length</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tyska-verb-sein'>Tyska Verb Sein</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mares-fri-akustisk'>Mares Fri Akustisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-internt-jobb'>Personligt Brev Internt Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemtj%C3%A4nst-nykvarn-jobb'>Hemtjänst Nykvarn Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=electrolux-kylsk%C3%A5p-reng%C3%B6ring'>Electrolux Kylskåp Rengöring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vanilj-granola-recept'>Vanilj Granola Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-ford-traktorer'>Begagnade Ford Traktorer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=salsiccia-korv-ica'>Salsiccia Korv Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolavslutning-gagnef-2019'>Skolavslutning Gagnef 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=motionsserien-badminton-ume%C3%A5'>Motionsserien Badminton Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4nger-toppen-p%C3%A5'>Hänger Toppen På</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizzeria-i-esl%C3%B6v'>Pizzeria I Eslöv</a>,
+";s:7:"expired";i:-1;}

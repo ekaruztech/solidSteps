@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * User Roles Profile Edit Part
  *
  * @package bbPress

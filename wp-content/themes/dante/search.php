@@ -4,8 +4,8 @@
 
 	$options = get_option('sf_dante_options');
 	$sidebar_config = $options['archive_sidebar_config'];
-	$left_sidebar = $options['archive_sidebar_left'];
-	$right_sidebar = $options['archive_sidebar_right'];
+	$left_sidebar = strtolower($options['archive_sidebar_left']);
+	$right_sidebar = strtolower($options['archive_sidebar_right']);
 	$blog_type = $options['archive_display_type'];
 	
 	$page_wrap_class = '';

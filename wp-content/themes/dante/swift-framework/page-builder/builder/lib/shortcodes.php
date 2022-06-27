@@ -1,6 +1,6 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Shortcodes Class
 	*	------------------------------------------------
@@ -57,7 +57,7 @@
 	
 	            $iner = '';
 	            foreach ($this->settings['params'] as $param) {
-	                $param_value = $$param['param_name'];
+	                $param_value = ${$param['param_name']};
 	                //var_dump($param_value);
 	                if ( is_array($param_value)) {
 	                    // Get first element from the array
@@ -113,7 +113,7 @@
 	        return $output;
 	    }
 	
-	    /*  for PRO users! - *
+	    /**
 	     * Create HTML comment for blocks
 	     *
 	     * @param $string
@@ -125,7 +125,7 @@
 	        return ( !empty($_GET['spb_debug']) &&  $_GET['spb_debug']=='true' ? '<!-- END '.$string.' -->' : '' );
 	    }
 	
-	    /*  for PRO users! - *
+	    /**
          * Start row comment for html shortcode block
          *
          * @param $position - block position
@@ -159,7 +159,7 @@
             return $output;
         }
 
-        /*  for PRO users! - *
+        /**
          * End row comment for html shortcode block
          *
          * @param $position -block position
@@ -179,7 +179,7 @@
             if ( strpos( $position, 'last' ) !== false ) {
                 if ( $fullwidth && ( $content_mode == "content-width" || $content_mode == "full-width" ) ) {
                 	$output = '</div></div></section>' . ( ! empty( $_GET['spb_debug'] ) && $_GET['spb_debug'] == 'true' ? "\n" . '<!-- END row --> ' . "\n" : '' . "\n" );
-                } else if ( $fullwidth && $fullwidth != "no" ) {
+                } else if ( $fullwidth) {
                     $output = '</div></div></section>' . ( ! empty( $_GET['spb_debug'] ) && $_GET['spb_debug'] == 'true' ? "\n" . '<!-- END row --> ' . "\n" : '' . "\n" );
                 } else if ( $sf_sidebar_config == "no-sidebars" ) {
                     $output = '</div></section>' . ( ! empty( $_GET['spb_debug'] ) && $_GET['spb_debug'] == 'true' ? "\n" . '<!-- END row --> ' . "\n" : '' . "\n" );
@@ -217,7 +217,7 @@
 	        return $output;
 	    }
 	
-	     /*  for PRO users! -  This returs block controls
+	     /* This returs block controls
 	---------------------------------------------------------- */
 	    public function getColumnControls($controls) {
 	        $controls_start = '<div class="controls sidebar-name">';
@@ -256,14 +256,14 @@
 	        }
 	    }
 	
-	    /*  for PRO users! -  This will fire callbacks if they are defined in map.php
+	    /* This will fire callbacks if they are defined in map.php
 	   ---------------------------------------------------------- */
 	    public function getCallbacks($id) {
 	        $output = '';
 	
 	        if (isset($this->settings['js_callback'])) {
 	            foreach ($this->settings['js_callback'] as $text_val => $val) {
-	                /*  for PRO users! -  TODO: name explain */
+	                /* TODO: name explain */
 	                $output .= '<input type="hidden" class="spb_callback spb_'.$text_val.'_callback " name="'.$text_val.'" value="'.$val.'" />';
 	            }
 	        }
@@ -330,7 +330,7 @@
 				$output .= '</div>';
 				
 	            foreach ($this->settings['params'] as $param) {
-	                $param_value = isset($$param['param_name']) ? $$param['param_name'] : null;
+	                $param_value = isset(${$param['param_name']}) ? ${$param['param_name']} : null;
 	
 	                if ( is_array($param_value)) {
 	                    // Get first element from the array
@@ -641,7 +641,7 @@
 				$output .= '<div class="spb_edit_wrap">';
 				
 	            foreach ($this->settings['params'] as $param) {
-	                $param_value = isset($$param['param_name']) ? $$param['param_name'] : null;
+	                $param_value = isset(${$param['param_name']}) ? ${$param['param_name']} : null;
 	
 	                if ( is_array($param_value)) {
 	                    // Get first element from the array

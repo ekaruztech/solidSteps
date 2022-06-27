@@ -1,11 +1,11 @@
 <?php 
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Theme Customizer Options
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_customize_register()
 	*	sf_customize_preview()
@@ -19,7 +19,7 @@
 			$wp_customize->get_setting('blogdescription')->transport='postMessage';
 			$wp_customize->get_setting('header_textcolor')->transport='postMessage';	
 						
-			/*  for PRO users! -  MAIN COLOR SCHEME
+			/* MAIN COLOR SCHEME
 			================================================== */
 			
 			$wp_customize->add_section( 'color_scheme', array(
@@ -81,7 +81,7 @@
 			) ) );
 			
 			
-			/*  for PRO users! -  PAGE STYLING
+			/* PAGE STYLING
 			================================================== */
 			
 			$wp_customize->add_section( 'page_styling', array(
@@ -142,7 +142,7 @@
 			) ) );
 			
 			
-			/*  for PRO users! -  HEADER STYLING
+			/* HEADER STYLING
 			================================================== */
 			
 			$wp_customize->add_section( 'header_styling', array(
@@ -277,7 +277,7 @@
 			) ) );
 			
 			
-			/*  for PRO users! -  NAVIGATION STYLING
+			/* NAVIGATION STYLING
 			================================================== */
 			
 			$wp_customize->add_section( 'nav_styling', array(
@@ -444,7 +444,7 @@
 				'priority'       => 12,
 			) ) );
 			
-			/*  for PRO users! -  PROMO BAR STYLING
+			/* PROMO BAR STYLING
 			================================================== */
 					
 			$wp_customize->add_section( 'promo_bar_styling', array(
@@ -479,7 +479,7 @@
 			) ) );
 			
 			
-			/*  for PRO users! -  PAGE HEADING STYLING
+			/* PAGE HEADING STYLING
 			================================================== */
 					
 			$wp_customize->add_section( 'page_heading_styling', array(
@@ -540,7 +540,7 @@
 			) ) );
 			
 			
-			/*  for PRO users! -  BODY STYLING
+			/* BODY STYLING
 			================================================== */
 			
 			$wp_customize->add_section( 'body_styling', array(
@@ -703,7 +703,7 @@
 			) ) );
 			
 			
-			/*  for PRO users! -  SHORTCODE STYLING
+			/* SHORTCODE STYLING
 			================================================== */
 			
 			$wp_customize->add_section( 'shortcode_styling', array(
@@ -880,7 +880,7 @@
 			) ) );
 			
 			
-			/*  for PRO users! -  EXTRA ICON STYLING
+			/* EXTRA ICON STYLING
 			================================================== */
 			
 			$wp_customize->add_section( 'extra_icon_styling', array(
@@ -1002,7 +1002,7 @@
 			) ) );
 						
 			
-			/*  for PRO users! -  FOOTER STYLING
+			/* FOOTER STYLING
 			================================================== */
 					
 			$wp_customize->add_section( 'footer_styling', array(

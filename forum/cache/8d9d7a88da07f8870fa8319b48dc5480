@@ -1,0 +1,115 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3979:"<p>Denna sida drivs av Svenska FN-förbundet. FN:s och den svenska försvarsmaktens internationella insatser På denna del av Försvarsmaktens hemsida kan du studera de internationella insatser (främst FN-operationer) som svenska försvaret just nu är upptagen med, men även insatser som Sverige har gjort tidigare under 1900-talet. See more of Svenska FN-förbundet on Facebook. Allt material på globalis.se skrivs ursprungligen av Norska FN-sambandet och översätts av Svenska FN-förbundet, detta kan innebära problem i beroendekriteriet. Om Skolmaterialet. Bli medlem idag! 333 check-ins. Speciellt då källan faktiskt är översatt. Facebook. Globalis är en världsatlas från svenska fn förbundet. www.fn.se. Vi vill skapa en bättre värld genom att varje dag arbeta för FN:s tre pelare: mänskliga rättigheter, hållbar utveckling, samt fred och säkerhet. </p> <p>Nonprofit Organization. Vi skapar en bättre värld genom att varje dag arbeta för fred, utveckling och mänskliga rättigheter.Som medlem och bidragsgivare skapar du hopp och räddar liv. </p> <p>Hemsidan jag använt mig av är inte FN:s egna utan tillhör det svenska FN-förbundet vilket jobbar med FN:s frågor i Sverige. 17,384 people follow this. Get Directions +46 8 462 25 40. Källkritik Sri Lanka srihann Det finns en mail webbredaktor@fn.se som man kan skriva till om man har några frågor om själva sidan eller om någon speciell fakta. Globalis är en världsatlas från svenska fn förbundet. Community See All. or. Create New Account. Svenska FN-förbundet, Stockholm. Materialet ger bland annat eleverna möjlighet att öva på följande förmågor: analys, källkritik och presentationsteknik. Contact Svenska FN-förbundet on Messenger . Materialet ger bland annat eleverna möjlighet att öva på följande förmågor: analys, källkritik och presentationsteknik. Inﬂytande och påverkan Maktutövning: Att få någon att handla efter ens vilja, även om handlingen strider mot dennes vilja Maktresurser: Pengar, … Not Now. Källkritik. Dela det här. Syftet är att detta skolmaterial ska assistera lärare genom att ge basfakta och inspirera till diskussion om FN:s säkerhetsråd och vilken roll Sverige kan ha i säkerhetsrådet. Nyhetsflöde (RSS) Få senaste nytt direkt till din webbläsare, Alla interaktiva världskartor - Globalis. 17K likes. </p> <p>Organisationer kräver vapenembargo och sanktioner mot Myanmar . Skolgränd 2 (4,702.32 mi) Stockholm, Sweden 118 24. SH1b / 1a1 - Makt & vanmakt 1. </p> <p>Då kan det lätt ske tolkningsfel. Karlsson Lars-Olof, 2011, Arena 123 - Samhällskunskap för gymnasiet. 17,092 people like this. Globalis sköts (i Sverige) av Svenska FN-förbundet Lär dig mer om källkritik på Kolla Källan. För ... En Google-sökning på filmens namn visar dock att filmen är en del av en programserie som visas på UR som handlar om källkritik. Däremot är FN-förbundet en trovärdig källa då de har direktkontakt med de viktiga besluten och idéerna i FN. Religion Ekonomin Familjen Lagen Staten Aktörer, institutioner & strukturer Företag Myndigheter Organisationer Grupper Individer 3. Då kan det lätt ske tolkningsfel. Det är en trovärdig sida tycker jag eftersom där finns en flik på sidan som man kan läsa mer om själva globalis, vad man kan läsa fakta om mm. The area of performance psychology is a relatively new field which has started to gain prominence since branching off from the field of sports psychology. Det är en trovärdig sida tycker jag eftersom där finns en flik på sidan som man kan läsa mer om själva globalis, vad man kan läsa fakta om mm. Om Skolmaterialet. Denna sida drivs av Svenska FN-förbundet. About See All. Tillsammans arbetar vi för att skapa ett starkare FN – och därmed en bättre värld. Vi skapar en bättre värld genom att varje dag arbeta för fred, utveckling och mänskliga rättigheter.Som medlem och bidragsgivare skapar du hopp och räddar liv. </p>";s:7:"keyword";s:134:"debattartikel om läxor') UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL   ISsk";s:5:"links";s:8706:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=i-birkaland-webbkryss'>I Birkaland Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=my-heritage-pris'>My Heritage Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leilas-goda-kladdkaksmuffins'>Leilas Goda Kladdkaksmuffins</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykel-em-landsv%C3%A4g'>Cykel Em Landsväg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%A4lsning-ortodoxa-kyrkan'>Frälsning Ortodoxa Kyrkan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adidas-arsenal-2019'>Adidas Arsenal 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-f%C3%B6rvaring-k%C3%B6k'>Ikea Förvaring Kök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatt-p%C3%A5-sjukers%C3%A4ttning-2020'>Skatt På Sjukersättning 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oljefilter-cf-moto-450'>Oljefilter Cf Moto 450</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-all-inclusive-rhodos'>Tui All Inclusive Rhodos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-tunet-hedemora'>Förskolan Tunet Hedemora</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drottning-blanka-s%C3%B6dra-recension'>Drottning Blanka Södra Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%B6msunds-kommun-utbildning'>Strömsunds Kommun Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grand-hotel-lund-tripadvisor'>Grand Hotel Lund Tripadvisor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telenor-bredbandsbolaget-tv'>Telenor Bredbandsbolaget Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-bank-flashback'>Byta Bank Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-i-huddinge-centrum'>Jobb I Huddinge Centrum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cf-moto-850-xc-review'>Cf Moto 850 Xc Review</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5skk%C3%A4rring-vilken-dag'>Påskkärring Vilken Dag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-chokladmousse-t%C3%A5rtfyllning'>Vit Chokladmousse Tårtfyllning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hbo-nordic-serier-lista'>Hbo Nordic Serier Lista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-choklad-florsocker'>Vit Choklad Florsocker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trim-golf-6'>Trim Golf 6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cut-of-beef'>Cut Of Beef</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sonos-beam-google-assistant'>Sonos Beam Google Assistant</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=folksam-pension-omd%C3%B6me'>Folksam Pension Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj-natt%C3%A5g-tidtabell'>Sj Nattåg Tidtabell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatte%C3%A5terb%C3%A4ring-2020-r%C3%A4kna-ut'>Skatteåterbäring 2020 Räkna Ut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ltr%C3%A4nad-med-plankan'>Vältränad Med Plankan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=paj-med-mandelmassa'>Paj Med Mandelmassa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ser-bebisar-upp-och-ner'>Ser Bebisar Upp Och Ner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ung-f%C3%B6retagsamhet-t%C3%A4vlingar'>Ung Företagsamhet Tävlingar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=senior-surfarna-svt'>Senior Surfarna Svt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laila-och-korosh-hudv%C3%A5rd'>Laila Och Korosh Hudvård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-hamburgare-dressing'>Lchf Hamburgare Dressing</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%A5netrafiken-skolkort-p%C3%A5sklov'>Skånetrafiken Skolkort Påsklov</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=variatorvikter-cf-moto'>Variatorvikter Cf Moto</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gluten-och-laktosfri-dr%C3%B6mt%C3%A5rta'>Gluten Och Laktosfri Drömtårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sofa-store-soffbord'>Sofa Store Soffbord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elite-hotell-skellefte%C3%A5'>Elite Hotell Skellefteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laga-iphone-g%C3%B6teborg'>Laga Iphone Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6lands-st%C3%B6rsta-stad'>ölands Största Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omelettrulle-med-laxr%C3%B6ra'>Omelettrulle Med Laxröra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vi-%C3%A4r-b%C3%A4st-stream'>Vi är Bäst Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=airtours-parkering-arlanda'>Airtours Parkering Arlanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magdalena-forsberg-klubb'>Magdalena Forsberg Klubb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kan-det-finnas-f%C3%B6r-f%C3%B6r-och-nackdelar-med-kommunala-skolor-respektive-frist%C3%A5ende-skolor'>Vad Kan Det Finnas För För Och Nackdelar Med Kommunala Skolor Respektive Fristående Skolor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ystad-kommun-inv%C3%A5nare'>Ystad Kommun Invånare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hammarby-innebandy-dam'>Hammarby Innebandy Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boende-f%C3%B6r-personer-med-funktionsneds%C3%A4ttning'>Boende För Personer Med Funktionsnedsättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-smutsigaste-flod'>Världens Smutsigaste Flod</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fyrar-p%C3%A5-v%C3%A4stkusten'>Fyrar På Västkusten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=soyokaze-white-guide'>Soyokaze White Guide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-%C3%B6-%C3%A4r-la-isla-bonita'>Vilken ö är La Isla Bonita</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-bastu-i-timmer'>Bygga Bastu I Timmer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sp%C3%A5rvagn-7-rutt'>Spårvagn 7 Rutt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lufta-varmvattenberedare-ivt'>Lufta Varmvattenberedare Ivt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fondue-malm%C3%B6-natalie'>Fondue Malmö Natalie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siberian-husky-kennel'>Siberian Husky Kennel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=enkla-tekakor-med-torrj%C3%A4st'>Enkla Tekakor Med Torrjäst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julkalender-f%C3%B6rskola-matematik'>Julkalender Förskola Matematik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mio-troms%C3%B6-s%C3%A4nggavel'>Mio Tromsö Sänggavel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ford-focus-diesel-startar-inte'>Ford Focus Diesel Startar Inte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djur-p%C3%A5-island'>Djur På Island</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baklava-med-sm%C3%B6rdeg'>Baklava Med Smördeg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thai-ridgeback-uppf%C3%B6dare'>Thai Ridgeback Uppfödare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hv71-nyf%C3%B6rv%C3%A4rv-rykten'>Hv71 Nyförvärv Rykten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medell%C3%A4ngd-sverige-2019'>Medellängd Sverige 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mark--och-milj%C3%B6%C3%B6verdomstolen-svea-hovr%C3%A4tt'>Mark- Och Miljööverdomstolen Svea Hovrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sallad-till-palt'>Sallad Till Palt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bonjour-ost-gravid'>Bonjour Ost Gravid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chris-kl%C3%A4fford-idol-2010'>Chris Kläfford Idol 2010</a>,
+";s:7:"expired";i:-1;}

@@ -1,6 +1,6 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Includes Class
 	*	------------------------------------------------
@@ -9,13 +9,13 @@
 	*
 	*/
 	
-	/*  for PRO users! -  DEFINITIONS
+	/* DEFINITIONS
 	================================================== */ 
 	$lib_dir = $spb_settings['SPB_BUILDER_LIB'];
 	$shortcodes_dir = $spb_settings['SPB_BUILDER_SHORTCODES'];
 	
 	
-	/*  for PRO users! -  INCLUDE LIB FILES
+	/* INCLUDE LIB FILES
 	================================================== */ 
 	require_once( $lib_dir . 'abstract.php' );
 	require_once( $lib_dir . 'helpers.php' );
@@ -26,7 +26,7 @@
 	require_once( $lib_dir . 'layouts.php' );	
 	
 	
-	/*  for PRO users! -  INCLUDE SHORTCODE FILES
+	/* INCLUDE SHORTCODE FILES
 	================================================== */
 	if ( ! function_exists( 'spb_register_assets' ) ) {
         function spb_register_assets() {
@@ -62,7 +62,7 @@
         }
     }
 	
-	/*  for PRO users! -  LAYOUT & SHORTCODE SETUP
+	/* LAYOUT & SHORTCODE SETUP
 	================================================== */
 	require_once( $lib_dir . 'default-map.php' );
 	

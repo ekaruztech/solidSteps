@@ -1,0 +1,98 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2908:"<p>Introduction to electromagnetic waves. Wave: They are transverse electromagnetic waves. </p> <p>1. (See Figure 1.) </p> <p>The transverse nature of light … </p> <p>The reflection and refraction of light explains how people see images, colour and even optical illusions. c = 1 √μ0ϵ0. Those are the three important conclusions from this mathematical excursion. Let's recall the steps that led … Radio waves-Microwaves-Infrared waves-Ultraviolet waves-X Rays-Gamma Rays. Like all electromagnetic waves, light can travel through a vacuum. In electromagnetic waves, the amplitude is the maximum field strength of the electric and magnetic fields. Electromagnetic light is the another term for the products of electromagnetic activity.Due to the interaction of magnetic and electric fields, electromagnetic waves travel outward from their source at a variety of different frequencies and wavelengths. </p> <p>An electromagnetic wave can be created by accelerating charges; moving charges back and forth will produce oscillating electric and magnetic fields, and these travel at the speed of light. ﻿ history. Rabbits Meet In Very Unique eXpensive Gardens. </p> <p>Other electromagnetic waves include the microwaves you use to heat up leftovers for dinner, and the radio waves that are broadcast from radio stations. electromagnetic waves propagate at the speed of light, light is an electromagnetic wave, and; there are other forms of electromagnetic radiation. </p> <p>In fact, for a continuous sinusoidal electromagnetic wave, the average intensity I ave is given by </p> <p>The electromagnetic (EM) spectrum is the range of all types of EM radiation. </p> <p>However , modern physics has proven the principle of duel nature of waves, which states that the electromagnetic waves have :. </p> <p>Light is a transverse, electromagnetic wave that can be seen by the typical human. </p> <p>That is 300 million meters every second, or: 3 … More generally, he predicted the existence of electromagnetic radiation: coupled electric and magnetic fields traveling as waves at a speed equal to the known speed of light. Thus the energy carried and the intensity I of an electromagnetic wave is proportional to E 2 and B 2. c = 1 μ 0 ϵ 0. where μ 0 is the permeability of free space and ε 0 is the permittivity of free space. Electromagnetic waves travel through vacuum without the requirement of a medium. Electromagnetic waves consist of oscillating electric and magnetic fields and propagate at the speed of light c. They were predicted by Maxwell, who also showed that. Electromagnetic waves are transverse waves with a wide range of properties and uses. Visible light is a form of electromagnetic (EM) radiation, as are radio waves, infrared radiation, ultraviolet radiation, X-rays and microwaves. Polarization of light, linear and circular. This is a mnemonic of the electromagnetic spectrum. </p>";s:7:"keyword";s:27:"light electromagnetic waves";s:5:"links";s:6510:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kohler-engine-parts-europe'>Kohler Engine Parts Europe</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lejonet-och-bj%C3%B6rnen-laktosfri'>Lejonet Och Björnen Laktosfri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-bra-%C3%B6rnsk%C3%B6ldsvik'>Bo Bra örnsköldsvik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4ttviks-marknad-terror'>Rättviks Marknad Terror</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polisen-link%C3%B6ping-adress'>Polisen Linköping Adress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marie-antoinette-film-anachronisme'>Marie-antoinette Film Anachronisme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mickey-mouse-girl'>Mickey Mouse Girl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ljare-p%C3%A5gen-l%C3%B6n'>Säljare Pågen Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bishara-morad-dokument%C3%A4r'>Bishara Morad Dokumentär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lapplands-se-antag'>Lapplands Se Antag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oljefilter-husqvarna-rider'>Oljefilter Husqvarna Rider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=diskho-komposit-repor'>Diskho Komposit Repor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-portugal-stream'>Sverige Portugal Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tipspromenad-f%C3%B6r-alla-%C3%A5ldrar'>Tipspromenad För Alla åldrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talf%C3%B6ljder-och-m%C3%B6nster-spel'>Talföljder Och Mönster Spel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grekiska-halvgudar-lista'>Grekiska Halvgudar Lista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6vbiff-pasta-cr%C3%A8me-fraiche'>Lövbiff Pasta Crème Fraiche</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-diplomat-svit'>Hotell Diplomat Svit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bl%C3%B6dningar-i-underlivet-vid-anstr%C3%A4ngning'>Blödningar I Underlivet Vid Ansträngning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alpint%3A-v%C3%A4rldscupen-flachau'>Alpint: Världscupen Flachau</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-karta-lantm%C3%A4teriet'>Min Karta Lantmäteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-kindberg-mutbrott'>Daniel Kindberg Mutbrott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xkcd-epoch-fail'>Xkcd Epoch Fail</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-trx-500'>Honda Trx 500</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badstol-barn-ikea'>Badstol Barn Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bl%C3%A5sljud-p%C3%A5-hj%C3%A4rtat-h%C3%A4st'>Blåsljud På Hjärtat Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dogo-argentino-pris'>Dogo Argentino Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=loncin-re250-manual'>Loncin Re250 Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pvc-slang-bensin'>Pvc Slang Bensin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ondskan-film-recension'>Ondskan Film Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-till-alanya'>Resa Till Alanya</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4stmanlands-teater-corona'>Västmanlands Teater Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6rkt-hamburgerbr%C3%B6d-recept'>Mörkt Hamburgerbröd Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lassalyckan-ulricehamn-fotboll'>Lassalyckan Ulricehamn Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smirnoff-black-no-55'>Smirnoff Black No 55</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%A4neringsbrunn-med-pump'>Dräneringsbrunn Med Pump</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kortspel-f%C3%B6r-tre'>Kortspel För Tre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trosor-barn-pippi'>Trosor Barn Pippi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparbanken-syd-problem'>Sparbanken Syd Problem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brio-vyssan-lull-montering'>Brio Vyssan Lull Montering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-utdragbar-s%C3%A4ng'>Bygga Utdragbar Säng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muffins-med-n%C3%B6tcreme'>Muffins Med Nötcreme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-lastbilar-volvo'>Begagnade Lastbilar Volvo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%2Fs-silja-europa'>M/s Silja Europa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stefan-billborn-l%C3%B6n'>Stefan Billborn Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=auto-karta-tyskland'>Auto Karta Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A5ng-tid-tar-det-att-%C3%B6ppna-f%C3%B6retagskonto'>Hur Lång Tid Tar Det Att öppna Företagskonto</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4ngdskidor-i-kanada'>Längdskidor I Kanada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klimakteriet-behandling-naturmedicin'>Klimakteriet Behandling Naturmedicin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ingelsta-kalkon-%C3%B6ppettider'>Ingelsta Kalkon öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uponor-clean-1-serviceavtal'>Uponor Clean 1 Serviceavtal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-parkering-gr%C3%B6na-lund'>Mc-parkering Gröna Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magaluf---flashback'>Magaluf - Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uf-m%C3%A4ssa-emporia-2020'>Uf Mässa Emporia 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-franska-%C3%B6rter'>Lax I Ugn Franska örter</a>,
+";s:7:"expired";i:-1;}

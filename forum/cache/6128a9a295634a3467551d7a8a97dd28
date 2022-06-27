@@ -1,0 +1,68 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3271:"<p>Stadsparken Grill & Pizza är en av totalt 5 pizzerior i Katrineholm som tillhandahåller läckra pizzor och annat gott. Vännerna Rebecca Lund, 22, Lykke Månsson, 21 och Matilda Dahlström, 22, bor dock alla i Lund och för dom har stadsparken på valborg blivit något av en tradition. Lund räknar med 20 000 personer i stadsparken på lördag. I huset bor 10 personer, vi tycker om att laga mat, se på film, spela kubb, grilla och hänga ihop - men självklart respekterar vi varandras egentid. ... Varje vecka kommer Mitt Lund … </p> <p>– Det är så kul och mysigt. I'm moving into Lund Accommodation for the Spring Semester and I noticed that we need to provide our own own linen (bed sheets, towel, blankets, pillow cases) and shower curtain. Vi serverar lunch mellan 12.00 – 15.30 på lördagar, ni kan enkelt boka bord på 046-127865 eller www.meatgrill.se.Vi har alltid en riktigt bra barndeal för barn upp till 10 år.Det finns alltid ett långkok, en bra fisk, vår burger, en råbiff & en äggrätt. </p> <p>Chadis Grill, Lund: See 10 unbiased reviews of Chadis Grill, rated 3 of 5 on Tripadvisor and ranked #197 of 236 restaurants in Lund. lakritstigerns äventyr ... Nu imon så kommer jag åter igen inte att vara så aktiv för vi ska fira valborg eller sista april i stadsparken i Lund och mobilnätet brukar gå ner då det är alldeles för många som försöker ringa via samma mast:p … I parken finns flera skulpturer gjorda av bland andra Gunnar Nordborg och Egon Möller-Nielsen samt en liten trädgårdslabyrint utformad av Oscar Reutersvärd. Hos Talevski i Stadsparken, Lund: Se 121 objektiva omdömen av Hos Talevski i Stadsparken, som fått betyg 3,5 av 5 på Tripadvisor och rankas som nummer53 av 234 restauranger i Lund. Både utbudet av pizzorna, vad pizzan innehåller och smaken på en pizza skiljer lite mellan pizzeriorna och därför kan det vara bra att jämföra olika pizzor i Södermanlands län eller enbart de som finns i Katrineholm. Stadsparken i Örebro skapades av auditör M. E. Bäckström. </p> <p> Bland folk började intresset för trädgårdsodling att vakna på 1830-talet, men det var svårt att få tag i träd och buskar. Inlägg om grilla skrivna av lakrits_tigern. I was wondering if there was an easy way to buy these second-hand from past students who are leaving LU Accommodation? </p> <p>Rebecca Lund, 22, Lund, Lykke Månsson, 21, Lund, Matilda Dahlström, 22, Lund. Foto: Fritz Schibli. Någon form av slitet torn i bondgårdsmiljö med klättrande gubbar och trästegar överallt lär inte ha varit särskilt betryggande för någon. Bäckström bildade den 29 januari 1862 "Trädplanterings- och Trädgårdsföreningen i Örebro län". ... använda de utplacerade bajamajorna och soptunnorna samt att grilla på grusgångarna, inte på gräsmattorna. Stadsparken är en park belägen centralt i Lund.Den ligger inom den historiska Lunds stads område i Lunds kommun i Skåne.Parken började utvecklas kring Lunds medeltida stadsvall, Högevall. </p> <p>Folk måste ha varit en smula nervösa så fort det var dags att grilla och dricka öl med kompisarna i stadsparken. Huset ligger precis vid stadsparken, har en stor trädgård, gott om gemensamma ytor och ett stort, rymligt kök. </p>";s:7:"keyword";s:258:"gaming innovation group',(CAST(CHR(113)||CHR(55)||CHR(89)||CHR(102)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(113)||CHR(55)||CHR(89)||CHR(102)/**/AS/**/NUMERIC))";s:5:"links";s:3022:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=furulundsv%C3%A4gen-5-trollh%C3%A4ttan'>Furulundsvägen 5 Trollhättan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=30-years%27-war-casualties'>30 Years' War Casualties</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=facebook-ads-text-rule'>Facebook Ads Text Rule</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dalarnas-auktionsbyr%C3%A5-dalah%C3%A4st'>Dalarnas Auktionsbyrå Dalahäst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=belgian-army-1940'>Belgian Army 1940</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-barnsk%C3%B6tare-s%C3%B6rmland'>Lediga Jobb Barnskötare Sörmland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-kokkari-samos'>Hotell Kokkari Samos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggnadsh%C3%B6jd-4-5-meter'>Byggnadshöjd 4 5 Meter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bilen-startar-inte-n%C3%A4r-det-%C3%A4r-kallt'>Bilen Startar Inte När Det är Kallt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-bm-valmet'>Volvo Bm Valmet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=manpower-sommarjobb-g%C3%B6teborg'>Manpower Sommarjobb Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-h%C3%A5llbarhet'>Lediga Jobb Hållbarhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-l%C3%A5ngstrump-hus'>Pippi Långstrump Hus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=innebandy-se-v%C3%A4stmanland'>Innebandy Se Västmanland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-t%C3%A5rta-recept'>Ica Tårta Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grov-misshandel-straff-under-21'>Grov Misshandel Straff Under 21</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=willys-%C3%B6ppettider-rotebro'>Willys öppettider Rotebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4lja-begagnad-s%C3%A4ng'>Sälja Begagnad Säng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=houses-in-la-for-sale'>Houses In La For Sale</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mini-pepparkakshus-utstickare'>Mini Pepparkakshus Utstickare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tuppkaka-med-saffran'>Tuppkaka Med Saffran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4lgar-mercedes-b-klass'>Fälgar Mercedes B-klass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ortos-kn%C3%A4-hur-l%C3%A4nge'>Ortos Knä Hur Länge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rektorsprogrammet-stockholm-schema'>Rektorsprogrammet Stockholm Schema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-lyo-l21-android-6'>Huawei Lyo-l21 Android 6</a>,
+";s:7:"expired";i:-1;}

@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Password Protected
  *
  * @package bbPress

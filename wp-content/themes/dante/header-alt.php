@@ -171,19 +171,14 @@
 			})();
 		</script>
 		<?php } ?>
-		<script type='text/javascript' src='http://solidsteps.org/wp-content/themes/dante/js/jquery-1.7.2.min.js'></script>
-			<script>
-			$(document).ready(function()
-{
-    $('img').bind('contextmenu', function(e){
-        return false;
-    }); 
-});
-		</script>
 		<?php if (($body_font_option == "fontdeck") || ($headings_font_option == "fontdeck") || ($menu_font_option == "fontdeck")) { ?>
 		<!--// FONTDECK LOADER //-->
 		<?php echo $fontdeck_js; ?>
-		<?php } ?>
+		<?php } ?>	
+		
+		<?php if ($options['google_analytics'] != "") {
+			echo $options['google_analytics'];
+		} ?>
 		
 		<!--// WORDPRESS HEAD HOOK //-->
 		<?php wp_head(); ?>

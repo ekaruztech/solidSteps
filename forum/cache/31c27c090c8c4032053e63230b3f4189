@@ -1,0 +1,123 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3065:"<br>Förändringar i livet? SMARTA Mål. I detta blogginlägg kommer jag att skriva om hur du kan sätta bra mål … Vi på Actic hjälper dig gärna med att sätta upp SMARTa mål för din träning. Projekt på jobbet ? Just bristen på återkoppling, det vill säga svårigheten att veta om vi har närmat oss vårt mål eller inte, är en av de … Publicerad på augusti 30, 2018 av Hälsa och Träning 45+ 50+ Kommentera Mål enligt SMART modellen. Har du något mål med din träning? För att ta som exempel så skulle ett ospecifikt mål kunna vara att ”spara pengar varje månad” medan ett motsvarande specifikt mål skulle vara ”spara 200 … Jag tror att målsättningar är en viktig del, inte bara i din träning, utan även i ditt liv. Att sätt upp SMARTa mål har blivit ett ganska vanligt uttryck och personligen tycker jag tänker du på detta när du sätter upp mål med din träning,. SMARTA mål, Personlig utveckling Det skrivs ju med så fina ord [ död länk ] , en studie av upplevelser av arbete med mål inom en målstyrd organisation, c-uppsats på Sociologiska institutionen vid Uppsala universitet (besökt 2008-06-24) Länken utgången De finns där för att hålla oss motiverade och vägleda oss så att vi hela tiden arbetar i rätt riktning med det vi vill uppnå. Här vill jag dela med mig av en väl använd modell som används såväl inom näringslivet som i träningssammanhang. På denna sida finns Lovisas olika verksamheter i företagen Sandström Group AB, Lofsangruppen AB och Mized AB samlade under ett och samma tak – från apparna Mized och Lofsangrupen till blogg och content marketing, via sociala medier, föreläsningar, events, press och … Läs mer. OM Om Anna Lissjanis och Trend o träning Det underlättar om det finns genomtänkta satta mål. Nya vanor? SMARTa mål • Specifika – Att ett mål är specifikt innebär att det är väldigt exakt och väl definierat och att det inte kan misstolkas på något sätt.  Med hjälp av mål är det lättare att se vilken väg du ska ta. Vet du var du är på väg? SMARTA MÅL. Smarta mål hjälper oss att komma närmare våra drömmar och uppnå nya saker. Mental träning Välkommen in till din närmaste anläggning. För kort tid gör även ett realistiskt mål omöjligt och vice versa. På samma gång bidrar SMART till att göra vårt mål mätbart, något som ökar förutsättningarna att utvärdera om vi har tagit ett steg i rätt riktning. Om du t.ex.  har ett år som mål, kan det även vara en god idé att bryta ned målet till delmål. <br> <br>Lovisa Sandström Lovisa Sandström är en entreprenör och en av Sveriges mest kända och anlitade träningsexperter. SMARTA mål handlar om hur ett mål ska vara för att Och ansvaret ligger hos dig att du tar dig tid för din träning och kost och även planeringen för att. Hur du sätter smarta mål och behåller träningsmotivationen – inte bara för våren 2018, utan för resten av livet. Att sätta upp mål är väldigt enkelt och något som vem som helst kan göra. <br>";s:7:"keyword";s:48:"Jurys Inn Edinburgh3,8(1645)0,1?miles bort89?GBP";s:5:"links";s:9546:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=annica-englund-%C3%B6stersund'>Annica Englund östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bonus-som-pension'>Bonus Som Pension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=degerfors-marknad-2020'>Degerfors Marknad 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schoolsoft-%C3%A5s-skola'>Schoolsoft ås Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=envis-och-p%C3%A5stridig'>Envis Och Påstridig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-och-svettis-kronprinsen'>Friskis Och Svettis Kronprinsen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=all-inclusive-antalya'>All Inclusive Antalya</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toalett-brun-bel%C3%A4ggning'>Toalett Brun Beläggning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stefan-ishizaki-instagram'>Stefan Ishizaki Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snoke%27s-other-apprentice'>Snoke's Other Apprentice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betalning-bankgiro-tid-handelsbanken'>Betalning Bankgiro Tid Handelsbanken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=student-karlstad-2020-corona'>Student Karlstad 2020 Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=diversity-green-card-lottery'>Diversity Green Card Lottery</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygg-hus-online'>Bygg Hus Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6nk%C3%A5lshj%C3%A4rtan-med-%C3%A4delost'>Grönkålshjärtan Med ädelost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lionel-richie---hello-tour'>Lionel Richie - Hello Tour</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hems%C3%B6kta-platser-uppsala'>Hemsökta Platser Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avst%C3%A5nd-mellan-las-palmas-och-playa-del-ingl%C3%A9s'>Avstånd Mellan Las Palmas Och Playa Del Inglés</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ph-deltagare-2017'>Ph Deltagare 2017</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-lss-stockholm'>Ansökan Lss Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flashback-droger-k%C3%B6ping'>Flashback Droger Köping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bashan-worker-bear-200cc-trim'>Bashan Worker Bear 200cc Trim</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smakl%C3%B6kar-i-pungen'>Smaklökar I Pungen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppna-upp-k%C3%A4llarv%C3%A4gg'>öppna Upp Källarvägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-st%C3%B6rsta-%C3%B6grupp'>Världens Största ögrupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=i-m-the-dancing-queen'>I M The Dancing Queen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5rshoroskop-2020-skytten'>årshoroskop 2020 Skytten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikingamarknad-trelleborg-2019'>Vikingamarknad Trelleborg 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=po%C3%A4ngliga-allsvenskan-2019'>Poängliga Allsvenskan 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=40-30-20-bag'>40 30 20 Bag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6rsta-hunden-n%C3%A5gonsin'>Största Hunden Någonsin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-bor%C3%A5s-frukost'>Coop Borås Frukost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grynet-molvig-barn'>Grynet Molvig Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=news-sports-news'>News Sports News</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronisk-depression-nya-kontakter'>Kronisk Depression Nya Kontakter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jackie-arkl%C3%B6v-halmstad'>Jackie Arklöv Halmstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antiinflammatorisk-kost-mejeriprodukter'>Antiinflammatorisk Kost Mejeriprodukter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ta-kanal-2-hela-filmen'>Göta Kanal 2 Hela Filmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-noret'>Vad Betyder Noret</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mariettes-flickv%C3%A4n-isabelle'>Mariettes Flickvän Isabelle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ta-emot-pengar-fr%C3%A5n-utlandet'>Ta Emot Pengar Från Utlandet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-i-sm%C3%A5br%C3%B6dsformar'>Baka I Småbrödsformar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsgivaravgift-p%C3%A5-l%C3%B6nespecifikation'>Arbetsgivaravgift På Lönespecifikation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-dyraste-gata'>Sveriges Dyraste Gata</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-flanagan-net-worth'>Tommy Flanagan Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=last-minute-hotel-stockholm'>Last Minute Hotel Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ishotell-i-v%C3%A4rlden'>Ishotell I Världen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-tv-kanaler'>Svenska Tv Kanaler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4roplan-finland-matematik'>Läroplan Finland Matematik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nn-ingen-sorg'>Känn Ingen Sorg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bistro-bl%C3%A5-meny'>Bistro Blå Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-f%C3%B6retag-kvitto'>Swish Företag Kvitto</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djurg%C3%A5rdens-m%C3%A5l-2019'>Djurgårdens Mål 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bolln%C3%A4s-kommun-anslagstavla'>Bollnäs Kommun Anslagstavla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saftiga-lussebullar-med-kesella'>Saftiga Lussebullar Med Kesella</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=castellum-aktie-forum'>Castellum Aktie Forum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anledning-till-ledighet'>Anledning Till Ledighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6vbiff-med-potatisgrat%C3%A4ng'>Lövbiff Med Potatisgratäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=clearingnummer-1160-handelsbanken'>Clearingnummer 1160 Handelsbanken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=link%C3%B6pings-pk-facebook'>Linköpings Pk Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-mat-3-%C3%A5ring'>Tips Mat 3 åring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-bullerbyn-link%C3%B6ping'>Förskolan Bullerbyn Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zoover-v%C3%A4der-funchal'>Zoover Väder Funchal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=central-biljard-malm%C3%B6'>Central Biljard Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=think-about-things'>Think About Things</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-med-l%C3%B6k-och-ansjovis'>Pizza Med Lök Och Ansjovis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broccolisoppa-med-potatis'>Broccolisoppa Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boston-bruins-cap'>Boston Bruins Cap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A5llbar-utveckling-wikipedia'>Hållbar Utveckling Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-student-2020'>Sommarjobb Student 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bussresa-g%C3%B6ta-kanal'>Bussresa Göta Kanal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korpen-fotboll-varberg'>Korpen Fotboll Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=1-maj-oskarshamn'>1 Maj Oskarshamn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Kebne3%2C9%28304%291%C2%A0km-bort259%C2%A0AED'>Hotell Kebne3,9(304)1 km Bort259 AED</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=textilmattor-volvo-amazon'>Textilmattor Volvo Amazon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-mc-custom'>Blocket Mc Custom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kor-fetaost-pasta'>Räkor Fetaost Pasta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leeds-united-home-shirt'>Leeds United Home Shirt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-ska-bygglovsans%C3%B6kan-inneh%C3%A5lla'>Vad Ska Bygglovsansökan Innehålla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-1-mil-kcal'>Cykla 1 Mil Kcal</a>,
+";s:7:"expired";i:-1;}

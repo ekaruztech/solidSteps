@@ -1,7 +1,7 @@
 <?php
 class Redux_Options_post_type_select {
 
-    /*  for PRO users! - *
+    /**
      * Field Constructor.
      *
      * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function
@@ -14,7 +14,7 @@ class Redux_Options_post_type_select {
 		$this->args = $parent->args;
     }
 
-    /*  for PRO users! - *
+    /**
      * Field Render Function.
      *
      * Takes the vars and outputs the HTML for the field in the settings

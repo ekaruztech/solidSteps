@@ -1,11 +1,11 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Custom Portfolio Widget
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 	
@@ -14,8 +14,9 @@
 	function init_sf_portfolio_grid() { return register_widget('sf_portfolio_grid'); }
 	
 	class sf_portfolio_grid extends WP_Widget {
-		function sf_portfolio_grid() {
-			parent::WP_Widget( 'sf_custom_portfolio_grid', $name = 'Swift Framework Portfolio Grid' );
+	
+		function __construct() {
+			parent::__construct( 'sf_custom_portfolio_grid', $name = 'Swift Framework Portfolio Grid' );
 		}
 	
 		function widget( $args, $instance ) {
@@ -88,7 +89,7 @@
 			echo $after_widget;
 		}
 	
-		/*  for PRO users! -  Widget control update */
+		/* Widget control update */
 		function update( $new_instance, $old_instance ) {
 			$instance    = $old_instance;
 				
@@ -98,7 +99,7 @@
 			return $instance;
 		}
 		
-		/*  for PRO users! -  Widget settings */
+		/* Widget settings */
 		function form( $instance ) {	
 		
 			    // Set defaults if instance doesn't already exist

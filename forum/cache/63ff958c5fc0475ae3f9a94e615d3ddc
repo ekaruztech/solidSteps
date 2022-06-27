@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3865:"<p>V tomto článku se budu zabývat goniometrickými funkcemi, občas též zvanými trigonometrickými funkcemi. The six trigonometric functions can be defined as coordinate values of points on the Euclidean plane that are related to the unit circle, which is the circle of radius one centered at the origin O of this coordinate system. Welke van de 3 je moet nemen hangt af van welke 2 zijdes je wilt gebruiken. Vi tenker oss en rettvinklet trekant der de to andre vinklene er … Értékkészlet. Defineres enklest for en spiss vinkel i en rettvinklet trekant som forholdet mellom to av sidene i trekanten. Autor: Jakub Grzegorzek Aturan kosinus menyatakan bahwa. Teorija tēmā Sin, cos, tg vērtības. Zo is de sinus de functie met als grafiek de bekende golflijn. Je kunt een hoek berekenen door de sinus, cosinus of tangens te nemen van de verhouding van 2 zijdes (die moet je dus delen). In video 7 en 8 gaan we algemene toepassingen laten zien van sinus, cosinus en tangens waar je zelf rechthoekige driehoek moet creëren door hulplijnen te … I denne seksjonen definerer vi de tre grunnleggende trigonometriske funksjonene: sinus, cosinus og tangens. Video 5 en 6 geven de toepassingen van sinus, cosinus en tangens met betrekking tot het berekenen van hoeken en zijden in rechthoekige driehoeken. A szekáns minden π/2+kπ, a koszekáns minden kπ pontban szakad.  Slovo goniometrie pochází z řečtiny a znamená měření úhlů, trigon se pak překládá jako trojúhelník. De tre . Známe čtyři základní goniometrické funkce – sinus, cosinus, tangens a … Matemātika 9.klasei/Ilze France, Gunta Lāce, Ligita Pickaine, Anita Miķelsone. De formules zijn als volgt: Ezelsbruggetje. Cosinus. Wir schauen uns in diesem Artikel die geometrischen Aussagen an, die sich auf rechtwinklige Dreiecke beziehen. Auf die Winkelfunktionen Sinus (sin(x)), Kosinus (cos(x)) und Tangens (tan(x)) werdet ihr in vielen mathematischen Bereichen sehr häufig treffen. Cotangens (ctg) kąta w trójkącie prostokątnym jest równy długości przyprostokątnej przy tym kącie do długości przyprostokątnej naprzeciw tego kąta. Funksjonene sinus, cosinus, tangens og cotangens. Inversen till sinus, cosinus och tangens skrivs antingen sin-1, cos-1 och tan-1, eller arcsin, arccos och arctan. Trigonometriske funksjoner. A szinusz és a koszinusz korlátos függvények, értékkészletük a [-1,1] intervallum. Dit is makkelijker te onthouden met het volgende ezelsbruggetje: A tangens és a kotangens az összes valós számot felveszi. </p> <p>Es handelt sich um die wichtigsten trigonometrischen Funktionen. Eksakte verdier av sinus, cosinus og tangens for alle multipler av / radianer (3°) kan faktisk finnes for hånd. Sinus (sin), cosinus (cos), tangens (tg), cotangens (ctg) kątów o mierze 0, 30, 45, 60, 90 stopni. Formules van sinus, cosinus en tangens. Sinus, cosinus og tangens. Sinus en cosinus zijn onderling sterk samenhangende goniometrische functies.Zij worden in de wiskunde gebruikt als aanduidingen van de verhouding van lengtes van lijnstukken.Later werden van deze verhoudingen functies afgeleid. \(\alpha \) \(15^\circ \) \(18^\circ \) \(22^\circ 30'\) \(30^\circ \) \(45^\circ \) \(60^\circ \) \(75^\circ \) \(\sin \alpha \) \[\frac{\sqrt{6}-\sqrt{2}}{4}\] A tangens szakadási helyei π/2+kπ, a kotangensé kπ alakúak. Hukum kosinus, atau disebut juga aturan kosinus, dalam trigonometri adalah aturan yang memberikan hubungan yang berlaku dalam suatu segitiga, yaitu antara panjang sisi-sisi segitiga dan kosinus dari salah satu sudut dalam segitiga tersebut.. Perhatikan gambar segitiga ini. Dessa inversa trigonometriska funktioner kan vi alltså använda för att ta reda på hur stor en av de spetsiga vinklarna i en rätvinklig triangel är, om vi känner till längden på minst två av triangelns sidor. </p> <p></p>";s:7:"keyword";s:23:"sinus, cosinus, tangens";s:5:"links";s:7104:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-film-milit%C3%A4r'>Svensk Film Militär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokian-hakkapeliitta-9-215%2F55-r16'>Nokian Hakkapeliitta 9 215/55 R16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=3-abonnemang-familj'>3 Abonnemang Familj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-brantaste-v%C3%A4g'>Sveriges Brantaste Väg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bebis-8-m%C3%A5nader-s%C3%B6mn'>Bebis 8 Månader Sömn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=storm-sk%C3%A5ne-2019'>Storm Skåne 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kerstin-ekman-citat'>Kerstin Ekman Citat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-spolknapp-v%C3%A4ggh%C3%A4ngd'>Gustavsberg Spolknapp Vägghängd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenskar-i-kroatien'>Svenskar I Kroatien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gravad-lax-v%C3%A4tska'>Gravad Lax Vätska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-zakynthos-kalamaki'>Hotell Zakynthos Kalamaki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=variatorkit-polaris-axys-800'>Variatorkit Polaris Axys 800</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hallonkladdkaka-fredriks-fika'>Hallonkladdkaka Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shuffleboard-g%C3%B6teborg-hard-rock'>Shuffleboard Göteborg Hard Rock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brieost-med-sylt'>Brieost Med Sylt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=favorit-matematik-4b'>Favorit Matematik 4b</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startmotor-saab-9-5-biltema'>Startmotor Saab 9 5 Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drops-pippitr%C3%B6ja-barn'>Drops Pippitröja Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontaktstycke-volvo-740'>Kontaktstycke Volvo 740</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4st-tr%C3%A4ningsv%C3%A4rk-rygg'>Häst Träningsvärk Rygg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=re-verb-franska-pass%C3%A9-compos%C3%A9'>Re-verb Franska Passé Composé</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toll-norge-import'>Toll Norge Import</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brand-g%C3%B6teborg-idag'>Brand Göteborg Idag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jtb-rail-pass'>Jtb Rail Pass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ack-ack-ack-crossboss'>Ack Ack Ack Crossboss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-falk-jack'>Johan Falk Jack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seko-kvalificerad-%C3%B6vertid'>Seko Kvalificerad övertid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A5-lockigt-h%C3%A5r-under-natten'>Få Lockigt Hår Under Natten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%A5-rosa-v%C3%A4ggf%C3%A4rg'>Grå Rosa Väggfärg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korpen-regler-licensierade-spelare-innebandy'>Korpen Regler Licensierade Spelare Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chris-kl%C3%A4fford-idol-usa'>Chris Kläfford Idol Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omvandla-vetemj%C3%B6l-till-pofiber'>Omvandla Vetemjöl Till Pofiber</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A4ning-och-yogaresa'>Träning Och Yogaresa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggmax-h%C3%A4llefors-telefon'>Byggmax Hällefors Telefon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ondskan-film-recension'>Ondskan Film Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jm-hyllie-s%C3%B6derl%C3%A4ge'>Jm Hyllie Söderläge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-till-lanzarote-corona'>åka Till Lanzarote Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vitsippans-f%C3%B6rskola-morup'>Vitsippans Förskola Morup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5ta-festligt-webbkryss'>Låta Festligt Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tiffany-persson-gta'>Tiffany Persson Gta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A5djurssadel-med-r%C3%B6dvinss%C3%A5s'>Rådjurssadel Med Rödvinssås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wisp-animal-crossing'>Wisp Animal Crossing</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blackmagic-design-ltd'>Blackmagic Design Ltd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=deposition-hyra-lokal'>Deposition Hyra Lokal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=online-seterra-south-america'>Online Seterra South America</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4tta-in-mynt-seb'>Sätta In Mynt Seb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hj%C3%A4rt-lungmask-hund'>Hjärt Lungmask Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-barnmat-4-m%C3%A5nader'>Hipp Barnmat 4 Månader</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ber%C3%A4kna-hypotenusan-med-vinkel'>Beräkna Hypotenusan Med Vinkel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gym-student-uppsala'>Gym Student Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A5ng%C3%A5staden-lediga-bost%C3%A4der'>Stångåstaden Lediga Bostäder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elliptical-machine-svenska'>Elliptical Machine Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tour-de-ski-overall-standings-2019'>Tour De Ski Overall Standings 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsrelaterad-stress-sjuksk%C3%B6terska'>Arbetsrelaterad Stress Sjuksköterska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-estetic-wc'>Gustavsberg Estetic Wc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samlat-in-synonym'>Samlat In Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekg-kvinna-bh'>Ekg Kvinna Bh</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chill-out-meaning'>Chill Out Meaning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flygtid-istanbul-kapstaden'>Flygtid Istanbul Kapstaden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5-upp-i-vikt-tr%C3%A4ning'>Gå Upp I Vikt Träning</a>,
+";s:7:"expired";i:-1;}

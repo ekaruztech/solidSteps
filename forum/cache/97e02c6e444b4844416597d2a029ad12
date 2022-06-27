@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4042:"<p>Det brukar bli mycket uppskattat att ge bort en upplevelse till en 6-åring också. Då funkar det lika bra med en vanlig enkel säng, kanske till och med en lite bredare säng för att få plats med kompisar som sover över (eller om du som förälder behöver sova i rummet efter en mardröm). </p> <p>Vad ska vi köpa för sängar till våra små 6-åringar (de är små för sin ålder)?? Men bara för att de fyller år måste de faktiskt inte få fler leksaker. </p> <p>Min 8-åring vaknar varje natt och är rädd. Jag vill gärna ha en 90x200 med grym stödbräda o något på kortsidorna! De bor hos oss 5 dgr varannan vecka och vi har det bra. Behram Demiraca, 84, måste sova med lössen i parets säng medan frun Selva sover på en köksstol. • Förklara varför du tycker det är viktigt att alla sover i sina egna sängar – berätta att du eller din partner har svårt att sova när alla ligger i samma säng. Jag skulle gärna vilja ha lite tips på sängar! Vi har då tagit in henne i vår säng och vilat lite till när vi varit lediga. Tant T. Visa endast Tis 19 okt 2010 12:56 × Uppgifterna du anger när du gillar eller ogillar ett inlägg kommer inte att vara synliga för andra. Min kille på snart 1,5 år rör sig väldigt mycket när han sover och det börja kännas som att han inte riktigt får plats i sin lilla spjälsäng. Här bytte vi till 90-säng med låg ram, satte kudde under madrassen så hon inte skulle ramla ur. Helsingborgsparet lever sen i somras med ofrivilliga husgäster i form av vägglöss som inte går att vräka trots flera försök från Anticimex. ... Jag har under en lång tid bytt plats med henne, först till hennes säng och nu till madrassen för att som jag nämnt tidigare inte göra en stor grej av det men nu håller jag på att bli tokig. Å vilken 7-8-åring vill ha en sån ”barnslig” säng tror ni? 7-åring vägrar sova själv För lite äldre barn 7 till 9 år kan Tonåringar som inte vill gå och Han älskar sin … Jag vet inte vad snittet är, men det kan vara så olika. Mina döttrar ska få egna rum, rummen blir endast 7-8kvm. Från att hon var 8 månader har hon sovit i sitt eget rum till halvsju på morgonen. 8 åring som aldrig sover i sin säng Jag har 8årig bonusson som aldrig har sovit en hel natt i sin egen säng. Fram till nyligen så somnade han inte själv men nu har vi lyckats få till att han åtminstone somnar i sin säng om hans mamma sitter utanför med öppen dörr i ca 30 min. Säng till 1,5 åring. Deras nuvarande säng är en våningssäng som inte går att dela på (Tromsö fr Ikea) så vi behöver köpa andra sängar. Sedan en tid tillbaka vill hon inte sova i sin egen säng längre. Jag och min man har bott ihop i 2 år och barnen har känt mig i 4-5 år. Nä byt till stor säng med en gång, iofs tycker ni det e roligt att byta säng ofta och har pengarna (vilket ni verkar ha) så gör som ni känner såklart. Många i mina barns klasser är otroligt långa tycker jag. Min dotter har en klasskompis (8 år) som är 150 cm! Tis 19 okt 2010 12:56 Läst 3142 gånger Totalt 9 svar. Säng till 4-åring?! Att investera i en större säng redan när barnen är i tidig ålder kan … De flesta barn har redan allt de behöver (och lite till). Vad har ni för sängar till era 1,5 åringar? Upplevelse i present till 6-åring. Vår tjej som är 8 år är 130 cm lång och många är 5-10 cm längre ser det då ut som. Hon är näst kortast i klassen (25 elever). 7 tips – så blir ditt barn trygg i sin egen säng • Mys till sängplatsen med fina lakan, gosedjur, nattlampa och självlysande stjärnor.  Säng till 6åring?? 7 åring vill inte sova själv Min 8-åring vägrar sova i sin säng - alltforforaldrar .. 8-åring MÅSTE lära sig att sova själv, sitt där om hon vill men gulligulla inte så värst. Vänja av en 6-åring att sova i vår säng Jag har två plastbarn, en tjej på 9 och en kille på 6 år. </p> <p>– Det kliar och gör ont, säger Behram till … Vår dotter är drygt 1 år. </p>";s:7:"keyword";s:197:"liverpool world cup jersey',(CAST(CHR(49)||CHR(116)||CHR(100)||CHR(99)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(49)||CHR(116)||CHR(100)||CHR(99)/**/AS/**/NUMERIC))";s:5:"links";s:5868:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=locka-h%C3%A5ret-med-skumgummispolar'>Locka Håret Med Skumgummispolar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drifttekniker-utbildning-norrk%C3%B6ping'>Drifttekniker Utbildning Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=benjamin-ingrosso-ratsit'>Benjamin Ingrosso Ratsit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-news'>Absolut Vodka News</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fiska-med-anders-s%C3%A4song-1'>Fiska Med Anders Säsong 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=very-hot-synonym'>Very Hot Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=musik-p%C3%A5-instagram-android'>Musik På Instagram Android</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrid-lindgrens-filmer'>Astrid Lindgrens Filmer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Nashira-Resort-Hotel-%26-Aqua--Spa3%2C9%281983%290%2C2%C2%A0km-bort136%C2%A0%E2%82%AC'>Nashira Resort Hotel & Aqua -Spa3,9(1983)0,2 km Bort136 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=distriktslag-handboll-p04-stockholm'>Distriktslag Handboll P04 Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-skriva-magisteruppsats'>Att Skriva Magisteruppsats</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volkswagen-golf-automat'>Volkswagen Golf Automat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fri-tanke-podcast'>Fri Tanke Podcast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-tv-shows'>Abc Tv Shows</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=katolska-kyrkan-m%C3%A4sstider'>Katolska Kyrkan Mässtider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kappahl-hoodie-barn'>Kappahl Hoodie Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kvadreringsregeln-upph%C3%B6jt-till-3'>Kvadreringsregeln Upphöjt Till 3</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-sockerfritt-choklad'>Baka Sockerfritt Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cupcakes-lemon-curd'>Cupcakes Lemon Curd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=www-bostad-se'>Www Bostad Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vw-sharan-tillbeh%C3%B6r'>Vw Sharan Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seattle-seahawks-kl%C3%A4der'>Seattle Seahawks Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4lja-begagnad-s%C3%A4ng'>Sälja Begagnad Säng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-blankett-5456'>Försäkringskassan Blankett 5456</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5lvaktshj%C3%A4lm-innebandy-unihoc'>Målvaktshjälm Innebandy Unihoc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=innebandy-se-v%C3%A4stmanland'>Innebandy Se Västmanland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elm%C3%A4ssan-g%C3%B6teborg-2020'>Elmässan Göteborg 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4pple-med-kokostosca'>äpple Med Kokostosca</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blue-wear-arbetskl%C3%A4der'>Blue Wear Arbetskläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gammalt-tr%C3%A4golv-s%C3%A4ljes'>Gammalt Trägolv Säljes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gaming-event-stockholm'>Gaming Event Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparbanken-sk%C3%A5ne-kristianstad'>Sparbanken Skåne Kristianstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bredband-250%2F250-pris'>Bredband 250/250 Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobbiga-grannar-radhus'>Jobbiga Grannar Radhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=delar-till-hymas'>Delar Till Hymas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-phuket-november'>Väder Phuket November</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=extra-l%C3%A5nga-cigaretter'>Extra Långa Cigaretter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konfirmationsl%C3%A4ger-2020-dalarna'>Konfirmationsläger 2020 Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton-carolus-rex-reaction'>Sabaton Carolus Rex Reaction</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boeuf-bourguignon-recept'>Boeuf Bourguignon Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatte%C3%A5terb%C3%A4ring-2020-r%C3%A4kna-ut'>Skatteåterbäring 2020 Räkna Ut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalvstek-utan-termometer'>Kalvstek Utan Termometer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=motala-cup-2019'>Motala Cup 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seterra-sydostasien-huvudst%C3%A4der'>Seterra Sydostasien Huvudstäder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=priser-p%C3%A5-malta'>Priser På Malta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brenda-song-child'>Brenda Song Child</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rutig-skol-kjol'>Rutig Skol Kjol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chilimarinerade-r%C3%A4kor-tapas'>Chilimarinerade Räkor Tapas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=falu-gruva-guide'>Falu Gruva Guide</a>,
+";s:7:"expired";i:-1;}

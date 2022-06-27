@@ -1,6 +1,6 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Abstract Class
 	*	------------------------------------------------
@@ -28,7 +28,7 @@
 	    public function addFilter($filter, $method, $priority = 10) {
 	        add_action($filter, array($this, $method), $priority);
 	    }
-	    /*  for PRO users! -  Shortcode methods */
+	    /* Shortcode methods */
 	    public function addShortCode($tag, $func) {
 	        add_shortcode($tag,$func);
 	    }

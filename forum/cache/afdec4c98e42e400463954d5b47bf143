@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3799:"<p>Bra boenden och god mat. De vackra vyerna och den skonsamt kuperade terrängen gör vandringen till en behaglig historia, även för de små och de som är lite äldre. Kartor finns att köpa på Sälens Turistbyrå samt ett flertal serviceställen runtom i Sälen. En tvåtimmarstur där vi ska få vandra med renar till en kåta i skogen, provsmaka samiska delikatesser och komma nära både renen och naturen. Det viktigaste är att ha roligt på vägen - inga turer är för korta för att vara ett riktigt äventyr! När det är sommar finns det tid att upptäcka en helt ny sida av Sälen. precis som de flesta lederna i Dalarna passar det bäst att vandra här i juni-sept. Vandra i Sälenfjällen Här är en hemsida som har en massa bra ledbeskrivningar . Barn hittar på sina egna små äventyr inne i … Att i Sälen gå Södra Kungsleden med barn. Sverige är sällan så vackert som just där! Men för att göra det lite enklare även med små barn tipsar vi om åtta leder som brukar vara en hit för de små upptäckarna. Mitt namn är Johanna, jag är gift med Håkan, har en 15-årig dotter som heter Elvira, en 11-årig son som heter Oskar, tre vuxna bonusbarn, Kalle,Josefin och Mathilda och tre bonusbarnbarn, Penny, Roxanna och Milian. Ha alltid kläder för de flesta väder med dig i ryggsäcken. ... En åttaåring klarar lätt att vandra fler kilometer än man kunde ana under en dag – och har kul mest hela tiden. Vandring i Sälen. </p> <p>Början av leden är asfalterad och mycket lättvandrad – perfekt för den som vill ta med barnvagn. Jag är utbildad hälsocoach, dip. Vandra på egen hand i Europa. Välj mellan lyxigt lodgeboende, välutrustade lägenheter och gemytliga stugor. </p> <p>Och är man ändå där ska man absolut passa på. Sträckan ner till Västerdalälvens början innehåller blandat lugnt, strömmande vatten och fors med ett par ofarbara partier där lyft är nödvändigt. På Instagram och framför allt på Instastories har jag visat bilder från vår semester vilken bland annat innehållit fjällvandring med barnen i Lindvallen i Sälen. X. Sök. Jag arbetar som lärare på en skola i närheten av vårt hem. Trollstigen. Lämmelspaning tröttnar de aldrig på. Titta upp mot våra böljande fjäll, vandra mil efter mil under vackra trädkronor eller njut av blommande ängar. Vandringsresor att minnas. Vandra i Sälen med barn. Sälen har kanske inte de allra högsta bergen men fjällnaturen och känslan är konstant nära. En annan fördel med Sälen är att det ligger ett stenkast från underbara Trysil i … Stigning: 163 m | Längd: 1,3 km en väg. Trygg fjällvandring med barn. Jag heter Emma Barremyr, är 30 år och bosatt på Hammarö utanför Karlstad i Värmland. Den stora grejen med att åka till Sälen på sommaren är dock att uppleva fjällnaturen. </p> <p>... Det finns mängde av vandringsleder i området runt Sälen. Kliv in i Åres mytiska värld genom regnbågen Bifrost. Tänk på att det är endast snöfritt i området runt juni-september med variationer över åren. Klicka på länken för att läsa vandringsfolder med kartor och tips Fjällvandra med barn – Ett äventyr för hela familjen. Den led som ringar in Sälenfjället är markerade med röda kryss. </p> <p>Titta gärna in … Frihetskänslan blir större när du känner dig trygg på fjället. Att umgås med min familj är ett av mina stora intressen! Ni kan till exempel vandra sent i sommarljuset, eller gå upp tidigt och vara med när naturen vaknar. Det går så klart att vandra med barn hur långt eller kort som helst om man bara har rätt strategi. Att bli kall och blöt är ingen bra grund för ett härligt fjälläventyr. Så här hoppas jag att fler kommer att älska och vilja ta hand om vår fina natur. </p>";s:7:"keyword";s:232:"gaming innovation group/**/'/**/AND/**/7946=CAST(CHR(102)||CHR(72)||CHR(66)||CHR(49)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(102)||CHR(72)||CHR(66)||CHR(49)/**/AS/**/NUMERIC)/**/AND/**/'6538'='6538";s:5:"links";s:3426:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-r%C3%A4knas-som-skott-p%C3%A5-m%C3%A5l-fotboll'>Vad Räknas Som Skott På Mål Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=student-falun-2020'>Student Falun 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A5ng-tid-tar-det-att-%C3%B6ppna-f%C3%B6retagskonto'>Hur Lång Tid Tar Det Att öppna Företagskonto</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=diskho-komposit-repor'>Diskho Komposit Repor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konsert-stenbrott-falk%C3%B6ping'>Konsert Stenbrott Falköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5larbild-h%C3%A4st-med-ryttare'>Målarbild Häst Med Ryttare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kejsarn-av-portugallien-%281944%29'>Kejsarn Av Portugallien (1944)</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5ng-till-friheten'>Sång Till Friheten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bemanningen-forshaga-kommun'>Bemanningen Forshaga Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nar-mest-i-bor%C3%A5s'>Tjänar Mest I Borås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-g%C3%A5r-man-ur-puberteten'>När Går Man Ur Puberteten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lejonkungen-gratis-film'>Lejonkungen Gratis Film</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-%C3%A5rg%C3%A5ngar-portvin'>Bästa årgångar Portvin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-modern-family'>Abc Modern Family</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6jromspizza-med-potatis'>Löjromspizza Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4nkningssats-mercedes-w210'>Sänkningssats Mercedes W210</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjutton-%C3%A5r-lyrics'>Sjutton år Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allm%C3%A4n-f%C3%B6rskola-stockholm'>Allmän Förskola Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oceanus-percy-jackson'>Oceanus Percy Jackson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bonke-innocent-instagram'>Bonke Innocent Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4xj%C3%B6-bk---dam-kalender'>Växjö Bk - Dam Kalender</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skidstafett-2019-damer'>Skidstafett 2019 Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-%C3%A4ger-volvo'>Vem äger Volvo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatteverket-personbevis-id-kort'>Skatteverket Personbevis Id-kort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dr%C3%B6mmar-med-vanligt-salt'>Drömmar Med Vanligt Salt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xxl-n%C3%B6jd-kund-garanti'>Xxl Nöjd Kund Garanti</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-kommer-det-att-sn%C3%B6a-2019'>När Kommer Det Att Snöa 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avalon-lediga-jobb'>Avalon Lediga Jobb</a>,
+";s:7:"expired";i:-1;}

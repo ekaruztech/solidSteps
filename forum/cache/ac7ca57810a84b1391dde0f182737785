@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2723:"<p>Till exempel är det bra att vara extra uppmärksam på ytor som folk rör vid hela dagarna. Man kan tänka att kött och kyckling ska hålla en temperatur av minst 72 grader när det är klart, personligen gör jag alltid ett snitt i t.ex. Det finns magsjukebakterier på många råa kycklingar, och man får se till att tillaga den därefter. Kommentera → Men det finns vissa ytor som är större smittohärdar än andra. Detta känner väl de flesta till, men hur länge kan virus och bakterier leva utan kontakt med mänsklig vävnad, exempelvis på ett dörrhandtag? Rimligtvis dör de ju efter ett tag, annars skulle de ju smitta i evigheter, men hur länge lever de? nån som vet? Att vara politiker är att ställa högre krav på sig själv än på andra. </p> <p> De kan också förknippas med tarmsjukdomar hos ka lvar, lamm och andra djur. De kan leva i upp till fem dagar på hårda ytor utanför kroppen, enligt en färsk rapport från forskare i Tyskland. </p> <p>Campylobacter jejuni: En art av bakterier som till utseendet påminner om tätt tvinnade spiraler.Organismerna orsakar abort hos får och feber och tarminfektion hos människa. Att agera med trovärdighet. ... Förkylnings- och influensavirus kan stanna på alla ytor tillräckligt länge för att någon ska röra vid dem och bli sjuk, säger Dr. Carey. Där nämndes att olika ting som någon smittad tagit i kan smitta nästa person som tar i föremålet. Dvs när är de "rena" igen efter en magsjukeepisod. Att vara en förebild. Bakterier: Encelliga, prokaryota mikroorganismer som i allmänhet har fast cellvägg, som förökar sig genom celldelning och som uppvisar i huvudsak tre former: rund, avlång eller stavliknande, och spiralform.Någr a arter har särskilda rörelseorgan, flageller. </p> <p>kycklingen för att kolla.. Allt sådant som vi tycker doftar gott, tycker de illa om; att det luktar rent och av rengöringsmedel. Coronavirus är ovanligt seglivade. Frågan blev aktuell för mig efter programmet Fråga doktorn på tv. Issuu is a digital publishing platform that makes it simple to publish magazines, catalogs, newspapers, books, and more online. För att bedöma hur långt utbrottet har kommit tar myndigheten hjälp av antalet sökningar på ordet ”vinterkräksjuka” på 1177 Vårdguidens hemsida. Statens veterinärmedicinska anstalt Friska djur - trygga människor Vår expertkunskap i ditt flöde Grundat 1911 Statens veterinärmedicinska anstalt, SVA, är en myndighet under Näringsdepartementet. Hur troligt är det att bli smittad? På så sätt skapar du en miljö i ditt hem där skadedjur inte trivs. Jag undrar hur länge magsjukevirus lever kvar på olika ytor, typ toalett, handtag osv. </p>";s:7:"keyword";s:43:"hur länge lever magsjukebakterier på ytor";s:5:"links";s:3476:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-i-huddinge-centrum'>Jobb I Huddinge Centrum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=designa-egen-keps'>Designa Egen Keps</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobba-svart-i-usa'>Jobba Svart I Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=safir-swedish-language'>Safir Swedish Language</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hammarby-spelare-odilon'>Hammarby Spelare Odilon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lars-lerin-sl%C3%A4kt'>Lars Lerin Släkt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-white-wolf-witcher'>The White Wolf Witcher</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utsatta-omr%C3%A5den-g%C3%B6teborg'>Utsatta Områden Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-folkets-relation-till-motion-och-idrott'>Svenska Folkets Relation Till Motion Och Idrott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=var-kan-jag-bo'>Var Kan Jag Bo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedvig-charlotta-nordenflycht'>Hedvig Charlotta Nordenflycht</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skytteligavinnare-allsvenskan-2019'>Skytteligavinnare Allsvenskan 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bosch-smu46cw01s-integrerad'>Bosch Smu46cw01s Integrerad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=binge-netflix-series-2019'>Binge Netflix Series 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bilmetro-g%C3%A4vle-d%C3%A4ckverkstad'>Bilmetro Gävle Däckverkstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4ndisar-som-dog-2009'>Kändisar Som Dog 2009</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-h%C3%A4ssleholm'>Lediga Jobb Hässleholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-vattenl%C3%A5s-lukt'>Ikea Vattenlås Lukt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laminerat-glas-tjocklek'>Laminerat Glas Tjocklek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cr%C3%A8me-bonjour-cuisine'>Crème Bonjour Cuisine</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sandvik-coromant-ledningsgrupp'>Sandvik Coromant Ledningsgrupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flatcoated-retriever-jakt'>Flatcoated Retriever Jakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-pargas'>Lediga Jobb Pargas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ken-sema-bror'>Ken Sema Bror</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kna-ut-din-%C3%A5rsinkomst-f%C3%B6rs%C3%A4kringskassan'>Räkna Ut Din årsinkomst Försäkringskassan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rektor-sophiahemmet-h%C3%B6gskola'>Rektor Sophiahemmet Högskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saknar-tystnad-korsord'>Saknar Tystnad Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skaldjursfond-recept-mannerstr%C3%B6m'>Skaldjursfond Recept Mannerström</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaniljfluff-till-t%C3%A5rta'>Vaniljfluff Till Tårta</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3291:"<br>Trött på att skotta fram bilen när det snöar eller leta parkering på gatan? <br> <br>Många av oss ställer sig säkert frågan vad det egentligen kostar att äga en bil. Och vilken bil är egentligen billigast i drift? Tycker du att bilen är ett slukhål för din ekonomi eller vill du vara modern och en del av den nya delningsekonomin? Är det värt att köpa en bil till jämfört med att åka kommunalt eller cykla till jobbet? Även om det naturligtvis är en mindre kostnad än vid köp av en helt ny bil. Billigast begagnad bil att äga Hej! Kombin som är billigast att äga. Så mycket kostar det att äga båt Båtplats, försäkring och underhåll?  Du behöver varken byta ut kamremmar eller koppling på en elbil, eftersom dessa inte har detta, inte heller behöver du lägga ut pengar på den eviga tankningen av bensin, diesel eller etanol. Speciellt mindre bilar är väldigt förmånligt att hyra då dom är mycket … <br> <br>En ny studie över kombi-bilars ägarkostnader hävdar att Volvo dyrast att äga, och Kia tappar mest värde. Motor/fordon Volvo har tre modeller på topp 5-listan över de billigaste familjebilarna att äga. Använder man bil enstaka gånger i månaden, eller bara någon gång i veckan kan det bli billigare att hyra bil än att äga en egen bil. På många bloggar diskuteras det att du ska göra dig av med din/a bilar för att dra ner på utgifterna. Kommentar: Volkswagen Polo är billigast att äga av de testade bilarna, ... För första gången tar en laddbar bil plats bland ekonomibilarnas tio-i-topp. I höstas gjorde vi ett test på vilka fyrhjulsdrivna kombibilar som är billigast att äga, som kan vara en bra hjälp om man är ute efter den typen av bil. <br> <br>Billigare att äga en elbil än en fossilbil Det är även så att en elbil är billigare att äga än vad en fossilbil är. Det finns alltså fortfarande en anledning till att begagnatköp fortfarande är det dominerande sättet att skaffa bil. Skälen till att inte äga bil är många, men man behöver inte hata bilen för det. Via Budgetrådgivarna så är Dieselbilar det billigast allternativet. Men att en i grunden dyr , ny bil skulle bli billigare än en vid köptillfället avsevärt billigare, ny bil lär nog bli svårt att bevisa - om vi talar om kostnaden privatekonomiskt och med ägartider typ 3--5 år och normala körsträckor. De flesta bilköpare använder link gamla äga som inbytesobjekt för att sedan betala mellanskillnaden. Om man slår ut alla omkostnader för en begagnad bil som till exempel hur dyra reservdelarna är, bränsleförbrukning och hur ofta den krånglar, vilken bil är enligt dig den billigaste och bästa bilen att äga? Volvos populära modell V60 placerar sig på andra plats på listan över de familjebilar som är billigast att äga. <br> <br> Kia Niro Plug-In Hybrid noterar 30,49 kronor i milkostnad. Det dyker regelbundet upp nya biluthyrare som hyr ut bilar, vilket medför att det blir lättare att hitta en billig hyrbil i den stad man befinner sig i samt att priserna på hyrbilar pressar ner och det blir billigare att hyra bil. "Jag skulle satsa på en bil med så få mil som möjligt." Ska du köpa båt är det viktigt att först ha koll på alla kostnader som hör till båtägandet. <br>";s:7:"keyword";s:22:"billigast bil att äga";s:5:"links";s:2510:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tvn-st%C3%A4nger-av-sig-sj%C3%A4lv-lg'>Tvn Stänger Av Sig Själv Lg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ms-bygdeg%C3%A5rd%2C-sk%C3%B6vde'>öms Bygdegård, Skövde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=folksam-hemf%C3%B6rs%C3%A4kring-andra-hand'>Folksam Hemförsäkring Andra Hand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trappmaskin-life-fitness'>Trappmaskin Life Fitness</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=godaste-t%C3%A5rtan-ever'>Godaste Tårtan Ever</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chromecast-vlc-android'>Chromecast Vlc Android</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=susanne-kindberg-%C3%B6stersund'>Susanne Kindberg östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=naturen-i-europa'>Naturen I Europa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-sockerfritt-choklad'>Baka Sockerfritt Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=venice-beach-webcam'>Venice Beach Webcam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amerikanska-revolutionen-tea-party'>Amerikanska Revolutionen Tea Party</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amanda-winberg-idol-rap'>Amanda Winberg Idol Rap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4tning-avlopp-handfat'>Tätning Avlopp Handfat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koppla-ur-diskmaskin'>Koppla Ur Diskmaskin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-l%C3%A4genhet-i-nyk%C3%B6ping'>Köpa Lägenhet I Nyköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boy-plays-piano-at-airport'>Boy Plays Piano At Airport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prata-f%C3%B6r-sin-sak'>Prata För Sin Sak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfria-nyttiga-kakor'>Glutenfria Nyttiga Kakor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elevspel-engelska-julord'>Elevspel Engelska Julord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stadslaget-p03-innebandy'>Stadslaget P03 Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsrelaterad-stress-symptom'>Arbetsrelaterad Stress Symptom</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1839:"<p>Netto is a part of a Danish owned discount grocery chain. Välkomna! 2/5 Lördag - 10.00-15.00. Vi har mere end 1800 faste varer i butikkerne – både de kendte mærker fra store leverandører og et voksende udvalg af vores egne mærker af høj kvalitet til pengene. Velkommen til os i Netto! Hver dag tæller i Netto. Bra mat till lågt pris, varje dag. Sommartid Öppet Sent vid bra Väder. I Netto arbejder vi hver eneste dag for at give dig de bedst mulige varer til den lavest mulige pris. </p> <p>Öppettider till Netto Karlskoga i Karlskoga. Læs om vores ansvar og hvordan du gør karriere i Netto. Søg inspiration blandt vores opskrifter og artikler, som du kan hygge dig med en helt almindelig mandag. Mer för pengarna. </p> <p>3/5 Söndag - Stängt. Gamla pumphuset Karlskoga, Karlskoga. Pumphuset Nytt Tel: 0586-34500 Mob-070-7282693 Öppet VinterTid Lör-Söndagar 11.00-16.00. Var rädda om varandra ... Ring och boka! netto karlskoga karlskoga • netto karlskoga karlskoga photos • netto karlskoga karlskoga location • netto karlskoga karlskoga address • ... På Netto älskar vi lågpris, därför gör vi vårt yttersta för att du ska få ut mest möjliga av dina hårt intjänade slantar. Maps and GPS directions to Netto Karlskoga and other Netto locations in Sweden.Find your nearest Netto. Hos oss på Netto hittar du kända varumärken till ett riktigt lågt pris men även prisvärda kvalitetsvaror från våra egna varumärken. Öppettider veckan ut:... 1/5 Fredag (Arbetarrörelsens dag) - Stängt. </p> <p>Part of the A.P. Find din nærmeste Netto, få rutevejledning og se åbningstider.  Find den nærmeste Netto butik, åbningstider og tilbudsavis. </p> <p>Hitta öppettider, adress, telefonnummer för Netto Karlskoga på Skolgärdesvägen 2D i Karlskoga - Öppettider.nu </p> <p>793 likes. </p>";s:7:"keyword";s:257:"streams to royalties')/**/AND/**/8651=DBMS_UTILITY.SQLID_TO_SQLHASH(CHR(81)||CHR(104)||CHR(78)||CHR(85)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(81)||CHR(104)||CHR(78)||CHR(85))/**/AND/**/('6538'='6538";s:5:"links";s:4734:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholms-tingsr%C3%A4tt-veckans-f%C3%B6rhandlingar'>Stockholms Tingsrätt Veckans Förhandlingar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-druid-pappa-sj%C3%A4lvmord'>David Druid Pappa Självmord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skierg-10000-m'>Skierg 10000 M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pepe-jeans-skor'>Pepe Jeans Skor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=montera-ojordat-v%C3%A4gguttag'>Montera Ojordat Vägguttag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobba-fackligt-kommunal'>Jobba Fackligt Kommunal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bahnhof-tv-omd%C3%B6me'>Bahnhof Tv Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=quiz-om-k%C3%B6penhamn'>Quiz Om Köpenhamn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cylinda-sverigedisken-felkoder'>Cylinda Sverigedisken Felkoder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronans-apotek-%C3%B6rebro-marieberg'>Kronans Apotek örebro Marieberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gluteus-maximus-sm%C3%A4rta'>Gluteus Maximus Smärta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%85hus-bed-and-breakfast-%2F-Cigarrkungenshus3%2C7%2849%291%2C1%C2%A0miles-bort65%C2%A0US%24'>Åhus Bed And Breakfast / Cigarrkungenshus3,7(49)1,1 miles Bort65 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buss-g%C3%B6teborg-orust'>Buss Göteborg Orust</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ledamot-i-styrelse'>Ledamot I Styrelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kroatien---%C3%B6sterrike-handboll'>Kroatien - österrike Handboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=debattartikel-om-l%C3%A4xor'>Debattartikel Om Läxor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=feng-shui-rosa'>Feng Shui Rosa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landslagsspelare-innebandy-damer'>Landslagsspelare Innebandy Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alley-cat-lyrics'>Alley Cat Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6jromspizza-med-potatis'>Löjromspizza Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ligger-island-i-europa'>Ligger Island I Europa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-d%C3%A4ck-solna'>Begagnade Däck Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ssab-b-avanza'>Ssab B Avanza</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hallonkladdkaka-fredriks-fika'>Hallonkladdkaka Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4ggetorps-lunde-kennel'>Häggetorps Lunde Kennel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dufweholms-herrg%C3%A5rd-historia'>Dufweholms Herrgård Historia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gamla-svenska-namn-1800-talet'>Gamla Svenska Namn 1800-talet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=unga-astrid-%C3%A5ldersgr%C3%A4ns'>Unga Astrid åldersgräns</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-till-alanya'>Resa Till Alanya</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trampb%C3%A5t-med-motor'>Trampbåt Med Motor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6rebro-universitet-it'>örebro Universitet It</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helvetia-klocka-v%C3%A4rde'>Helvetia Klocka Värde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%A4ngn%C3%A4s-kommun-ekonomi'>Strängnäs Kommun Ekonomi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygglov-altan-bolln%C3%A4s'>Bygglov Altan Bollnäs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arehucas-18-years'>Arehucas 18 Years</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidigt-ultraljud-stockholm'>Tidigt Ultraljud Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smc-wildcat-styling'>Smc Wildcat Styling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vinna-i-kammarr%C3%A4tten'>Vinna I Kammarrätten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Pite%C3%A5-Stadshotell4%2C0%28578%293%C2%A0km-bort32%C2%A0000%C2%A0HUF'>Piteå Stadshotell4,0(578)3 km Bort32 000 HUF</a>,
+";s:7:"expired";i:-1;}

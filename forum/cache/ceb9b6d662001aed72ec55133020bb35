@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2435:"<p>Philipp Schlatter, KTH Stockholm.-----The Nek5000 Users Meeting 2020 will take place at KTH Royal Institute of Technology in Stockholm (Sweden), April 21-23, 2020. Phone: +46 (0)8 790 6582 Fax: +46 (0)8 723 1788 Mailing address: Par Kurlberg Department of Mathematics KTH SE-10044, Stockholm Sweden This hallway is about 53 feet long. Bookable spaces application form Kensington Town Hall. Should you require space urgently, speak to your departmental room bookers directly to request the space. 30-34 Bellair Street, Kensington 3031 . ALBANOVA UNIVERSITY CENTER The Stockholm Centre for Physics, Astronomy and Biotechnology Contact:reception albanova.se Phone: (+46)(0)8 - 5537 8444 Iouri Belokopytov, 2001-12 … Section 1: Booking request Event date BOOKABLE SPACES APPLICATION FORM KENSINGTON TOWN HALL 30-34 BELLAIR STREET, KENSINGTON 3031 03 9372 5315 kensingtontownhall@ymca.org.au ROOM REQUESTED MAIN HALL Booking with Faculty of Health Sciences **FHS Room Bookings will begin accepting and processing MSU booking requests on Tuesday, October 1, 2019 for the 2019-2020 academic year.  From the stairwell closest to the main entrance, go through the door and forward 5 feet. ©2020 Kettlethorpe High School, Maths & Computing College | Standbridge Lane, Sandal, Wakefield, WF2 7EL Call: 01924 251605 , fax: 01924 256423 Get the mobile app (Spam problems.) Turn left and advance 53 feet. Please note, clubs can only book rooms on the first floor of MDCL. Room B124 is located on this side of the hall. Room booking during teaching hours (9.00-18.00 term time) Please note that we are unable to book anything during teaching hours with the exception of 58 Prince's Gate, 170 Queen's Gate and the Seminar and Learning Centre (SALC). </p> <p>The room you are looking for is on the right hand side of the hall. Email: My last name at math.kth.se. ** To book rooms with FHS, please complete the booking forms on their website. Set in a stylish 1950s building in fashionable Östermalm, this hotel is 15 minutes’ walk from Stureplan. Turn right and go forward 20 feet. Executive Living Östermalm Suite is set in Stockholm, 1.5 km from Stureplan, and offers a patio, garden, and free WiFi. We start with a reception on April 21, followed by developer and user sessions on April 22 and 23, aiming to close in the afternoon of April 23. 03 9372 5315 bookingkensington@melbourne.vic.gov.au. The venue will be on KTH main campus. </p>";s:7:"keyword";s:257:"streams to royalties/**/AND/**/3475=(SELECT/**/(XMLType(CHR(53)||CHR(99)||CHR(88)||CHR(77)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(53)||CHR(99)||CHR(88)||CHR(77)))/**/FROM/**/DUAL)/**/AND/**/6538=6538";s:5:"links";s:4414:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kulturkvarteret-%C3%B6rebro-kritik'>Kulturkvarteret örebro Kritik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-thalias-syster'>En Thalias Syster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=div-4-dam-%C3%B6sterg%C3%B6tland-2019'>Div 4 Dam östergötland 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=destination-gotland-kampanj'>Destination Gotland Kampanj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gnocchi-sofia-wood'>Gnocchi Sofia Wood</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kakdeg-utan-socker'>Kakdeg Utan Socker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bonnier-broadcasting-jobb'>Bonnier Broadcasting Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gais-%C3%B6is-2019'>Gais öis 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fris%C3%B6r-utbildning-j%C3%B6nk%C3%B6ping'>Frisör Utbildning Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=straffskala-grov-misshandel'>Straffskala Grov Misshandel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=belins-bil-avesta'>Belins Bil Avesta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jordbakterier-i-vatten'>Jordbakterier I Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-alvik-frukost'>Scandic Alvik Frukost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekbackens-f%C3%B6rskola-sundbyberg'>Ekbackens Förskola Sundbyberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-melodifestivalen-2020'>Youtube Melodifestivalen 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=NOFO-Hotel4%2C4%28619%290%2C2%C2%A0miles-bort91%C2%A0GBP'>NOFO Hotel4,4(619)0,2 miles Bort91 GBP</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=washington-capitals-tr%C3%B6ja'>Washington Capitals Tröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=palma-nova-karta'>Palma Nova Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gl%C3%B6mt-l%C3%B6senord-router-netgear'>Glömt Lösenord Router Netgear</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-jula'>Lediga Jobb Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steka-p%C3%A5-muurikka'>Steka På Muurikka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krokoms-kommun-organisationsnummer'>Krokoms Kommun Organisationsnummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ofrivilliga-muskelryckningar-barn'>Ofrivilliga Muskelryckningar Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carianna-catering-falun'>Carianna Catering Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rsta-f%C3%A4ngelser-sverige'>Värsta Fängelser Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=national-prov-p%C3%A5-sfi'>National Prov På Sfi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blandare-badkar-m%C3%A4ssing'>Blandare Badkar Mässing</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-betalade-i-natura'>Jag Betalade I Natura</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svarta-b%C3%B6nor-recept-tacos'>Svarta Bönor Recept Tacos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A4ssa-%C3%A4lvsj%C3%B6-9-november'>Mässa älvsjö 9 November</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-och-svettis-kontakt'>Friskis Och Svettis Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-kommer-det-att-sn%C3%B6a-2019'>När Kommer Det Att Snöa 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dricka-%C3%B6l-i-riga'>Dricka öl I Riga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaniljfluff-till-t%C3%A5rta'>Vaniljfluff Till Tårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utan-vatten-ume%C3%A5'>Utan Vatten Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fyrar-p%C3%A5-gotland'>Fyrar På Gotland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kerstin-ekman-ingar%C3%B6'>Kerstin Ekman Ingarö</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,79 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2652:"<br>Now £70 on Tripadvisor: Story Hotel Signalfabriken, Stockholm. Guests enjoy the free breakfast. Modern design and comfort. Our guests praise the breakfast and the helpful staff in their reviews. Story Hotel Studio Malmö, located 5 min walk from the Malmö Central Station. Welcome to Story Hotel Signalfabriken, located in the center of Sundbyberg. Enjoy free breakfast, free WiFi and a restaurant.  Popular attractions Vasa Museum and ABBA The Museum are located nearby. See 628 traveller reviews, 365 candid photos, and great deals for Story Hotel Signalfabriken, ranked #54 of 161 hotels in Stockholm and rated 4 of 5 at Tripadvisor. Story Hotel Signalfabriken accepts these cards and reserves the right to temporarily hold an amount prior to arrival. Discounted Rates and Specials. Dinner & drinks with a view. Book Room The Lagom King at Story Hotel Signalfabriken - Sundbyberg, Stockholm. Verfügbarkeit anzeigen Kleingedrucktes Die Kreditkarte muss auf den Namen der Person auf der Buchungsbestätigung ausgestellt sein. Welcome to Story Hotel Signalfabriken today! <br> <br>See 628 traveller reviews, 365 candid photos, and great deals for Story Hotel Signalfabriken, ranked #53 of 161 hotels in Stockholm and rated 4 of 5 at Tripadvisor. View deals for Story Hotel Signalfabriken. Read more about Special Offers Story Hotel Signalfabriken. The property may also request a copy of passport to be sent by email before check-in. Prices are calculated as of 16/03/2020 based on a check-in date of 29/03/2020. Modern design and comfort. <br> <br>Complimentary wireless Internet access is free, and this hotel also features a restaurant and a bar/lounge. Discounted Rates and Specials. Now £70 on Tripadvisor: Story Hotel Signalfabriken, Stockholm. Rooftop Restaurant & Bar with spectacular views of the Ocean and the Beautiful city of Malmö. See availability The fine print The property requires that the credit card holder’s name matches the guest’s name on the booking confirmation. Book your table at Story Hotel Signalfabriken today.  <br>Dinner & drinks with a view. Solna Business Park is minutes away. Stay at this 4-star boutique hotel in Sundbyberg. <br> <br>Find a Restaurant Story Hotel Signalfabriken, located in the center of Sundbyberg, Stockholm. <br> <br>Prices are calculated as of 16/03/2020 based on a check-in date of 29/03/2020. <br> Story Hotel Signalfabriken akzeptiert diese Karten und behält sich das Recht vor, einen bestimmten Betrag vor Ihrer Ankunft vorübergehend zu blockieren. Discover genuine guest reviews for Story Hotel Signalfabriken along with the latest prices and availability – book now. <br>";s:7:"keyword";s:192:"liverpool world cup jersey,(CAST(CHR(66)||CHR(81)||CHR(74)||CHR(77)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(66)||CHR(81)||CHR(74)||CHR(77)/**/AS/**/NUMERIC))";s:5:"links";s:4322:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anm%C3%A4la-l%C3%A4kare-f%C3%B6r-tj%C3%A4nstefel'>Anmäla Läkare För Tjänstefel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drottning-blanka-s%C3%B6dra-recension'>Drottning Blanka Södra Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tryggaste-st%C3%A4derna-i-sverige'>Tryggaste Städerna I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=casco-wetstop-t%C3%A4tband'>Casco Wetstop Tätband</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=civilekonom-vill-bli-l%C3%A4rare'>Civilekonom Vill Bli Lärare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=www-hankook-se'>Www Hankook Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=league-number-of-champions'>League Number Of Champions</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cafe-fregatten-stenungsund'>Cafe Fregatten Stenungsund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krustader-med-r%C3%B6kt-k%C3%B6tt'>Krustader Med Rökt Kött</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lokala-trafikf%C3%B6reskrifter-ume%C3%A5'>Lokala Trafikföreskrifter Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=remastered-netflix-wikipedia'>Remastered Netflix Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-heter-kungariket-i-trassel'>Vad Heter Kungariket I Trassel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=2-sits-soffa-blocket'>2 Sits Soffa Blocket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-celiaki'>Vad är Celiaki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-%C3%B6ppettider-norrk%C3%B6ping'>Coop öppettider Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if-metall-scania'>If Metall Scania</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fantasy-flight-arkham'>Fantasy Flight Arkham</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-kindberg-kidnappad'>Daniel Kindberg Kidnappad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=axa-strawberry-black-currant-granola'>Axa Strawberry Black Currant Granola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ja-m%C3%A5-ja-leva-lyrics'>Ja Må Ja Leva Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mio-f%C3%A5t%C3%B6lj-moore'>Mio Fåtölj Moore</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-undersk%C3%B6terska-uppsala'>Jobb Undersköterska Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svart-guld-synonym'>Svart Guld Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shocked-mums-hear-boogie-woogie-for-the-first-time'>Shocked Mums Hear Boogie Woogie For The First Time</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A4ts-en-god-arbetsmilj%C3%B6'>Hur Mäts En God Arbetsmiljö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mini-pepparkakshus-utstickare'>Mini Pepparkakshus Utstickare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-work-liljeholmen'>After Work Liljeholmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4llefors-kommun-webmail'>Hällefors Kommun Webmail</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-l%C3%A4ra-sig-l%C3%A4sa'>Abc Lära Sig Läsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-falk-alla-sk%C3%A5despelare'>Johan Falk Alla Skådespelare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skoter-med-sting'>Skoter Med Sting</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=menorca-cala-santandria'>Menorca Cala Santandria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magdalena-graaf-blogg'>Magdalena Graaf Blogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hj%C3%A4rt-lungmask-hund'>Hjärt Lungmask Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=100-snap-po%C3%A4ng'>100 Snap Poäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kela-fpa-login'>Kela Fpa Login</a>,
+";s:7:"expired";i:-1;}

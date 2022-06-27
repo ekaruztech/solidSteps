@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2018:"<p>Adress: Domkyrkoplan 2, Postnummer: 753 10. </p> <p>I Skattkammaren ser vi unika textilier och föremål av guld och silver som använts i … </p> <p>Uppsala domkyrkas skattkammare är ett museum i Uppsala domkyrka. I Uppsala domkyrkas norra torn ligger museet Skattkammaren. Svenska kyrkan Uppsala Besöksadress: Domkyrkoplan 2 A, 75310 Uppsala Postadress: BOX 897, 75108 UPPSALA Telefon:+46(18)4303500 E-post till Svenska kyrkan Uppsala Kalender Se fler kommande händelser </p> <p>Samlingen av medeltida textilier är en av de finaste i Europa. Uppsala domkyrka, Sveriges rikshelgedom, började uppföras på 1270-talet och invigdes 1435. Vår guide berättar om kyrkan och svarar på frågor. Skattkammaren innehåller dessutom ett … Unik samling med medeltida biskopsdräkter, drottning Margaretas gyllene kjortel, världens enda kompletta herrdräkter från renässansen, kungliga begravningsregalier och andra föremål av guld och silver. Telefon: 018-430 36 .. </p> <p>Under sju århundraden har miljontals människor sökt sig hit. Förutom de unika textilerna och föremål av guld och silver som använts i domkyrkans gudstjänster finns det ett antal märkvärdiga föremål. In the north tower of Uppsala Cathedral (Uppsala domkyrka) you will find the Treasury (Skattkammaren). Samlingen av medeltida kyrkotextil hör till de finaste i Europa. Hitta information om Uppsala Domkyrka - Skattkammaren.  Domkyrkans museum Skattkammaren ligger i norra tornet. Skattkammaren är belägen i domkyrkans norra torn och nås via hiss från informationsdisken vid kyrkans huvudentré. This cathedral museum is home to one of Europe’s finest collections of … Skattkammaren Uppsala domkyrka. Uppsala domkyrka är … Utöver biskopskåpor och mässhakar visas äldre föremål av guld och silver som också de har använts i domkyrkans gudstjänster. I museet förvaras bland annat konungarna Gustav Vasa och Johan III och deras drottningars begravningsregalier. Uppsala domkyrkas museum Skattkammaren. </p>";s:7:"keyword";s:247:"liverpool world cup jersey/**//**/AND/**/7946=CAST(CHR(116)||CHR(89)||CHR(111)||CHR(67)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(116)||CHR(89)||CHR(111)||CHR(67)/**/AS/**/NUMERIC)/**/AND/**/"T0wn"/**/LIKE/**/"T0wn";s:5:"links";s:5256:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6r%C3%A4ldraledighet-utan-att-ta-ut-dagar'>Föräldraledighet Utan Att Ta Ut Dagar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slipa-skridskor-stockholm'>Slipa Skridskor Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vinterd%C3%A4ck-sl%C3%A4pvagn-jula'>Vinterdäck Släpvagn Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dill-och-citrons%C3%A5s-kall'>Dill Och Citronsås Kall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=staffordshire-bullterrier-att-t%C3%A4nka-p%C3%A5'>Staffordshire Bullterrier Att Tänka På</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-medicinsk-r%C3%A5dgivare'>Försäkringskassan Medicinsk Rådgivare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kompass-som-pekar-mot-mekka'>Kompass Som Pekar Mot Mekka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bernt-westerlund-hammarby'>Bernt Westerlund Hammarby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hammarby-innebandy-dam'>Hammarby Innebandy Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-kvantum-boden-chark'>Ica Kvantum Boden Chark</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glad-p%C3%A5sk-h%C3%A4lsning-animation'>Glad Påsk Hälsning Animation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ulf-lundell-skisser'>Ulf Lundell Skisser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kolonn-vid-mur'>Kolonn Vid Mur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landa-labradoodle-pris'>Landa Labradoodle Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-tranquil-dawn-ncs'>Nordsjö Tranquil Dawn Ncs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rutig-skol-kjol'>Rutig Skol Kjol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blackmagic-video-controller'>Blackmagic Video Controller</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-alkohol-fr%C3%A5n-amazon'>Köpa Alkohol Från Amazon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmd%C3%B6-gymnasium-dexter'>Värmdö Gymnasium Dexter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bredband-och-tv-abonnemang'>Bredband Och Tv-abonnemang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-antalya-yr'>Väder Antalya Yr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=debattartikel-om-l%C3%A4xor'>Debattartikel Om Läxor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inreda-ny-l%C3%A4genhet'>Inreda Ny Lägenhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-kindberg-mutbrott'>Daniel Kindberg Mutbrott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grytbitar-%C3%A4lg-i-lergryta'>Grytbitar älg I Lergryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fox-news-broadcast'>Fox News Broadcast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-company-ab-g%C3%B6teborg'>Telia Company Ab Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samh%C3%A4llsf%C3%B6rlusten-av-sjukskrivningar'>Samhällsförlusten Av Sjukskrivningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rvaringsl%C3%A5da-med-lock'>Förvaringslåda Med Lock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=what-pkk-means'>What Pkk Means</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landa-labradoodle-pris'>Landa Labradoodle Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tekniskt-bas%C3%A5r-antagningspo%C3%A4ng'>Tekniskt Basår Antagningspoäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=naturkunskap-1b-sammanfattning'>Naturkunskap 1b Sammanfattning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-och-torsk-i-ugn-med-s%C3%A5s'>Lax Och Torsk I Ugn Med Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=goda-tillbeh%C3%B6r-till-ryggbiff'>Goda Tillbehör Till Ryggbiff</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=locka-h%C3%A5ret-tutorial'>Locka Håret Tutorial</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mtb-leder-uppland'>Mtb Leder Uppland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ristoria-after-work'>Ristoria After Work</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-innebandy'>Vad är Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snabba-cash-2'>Snabba Cash 2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gerani-kreta-v%C3%A4der'>Gerani Kreta Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=10000-steg-cykel'>10000 Steg Cykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schladming-world-cup-2020'>Schladming World Cup 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5ngkok-boeuf-bourguignon'>Långkok Boeuf Bourguignon</a>,
+";s:7:"expired";i:-1;}

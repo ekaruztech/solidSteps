@@ -1,0 +1,125 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2888:"<br>BankID is the leading electronic identification in Sweden. Nej, Handelsbanken tar inte ut någon avgift. BankID is an electronic identity document comparable to passports, drivers licenses and other physical identity documents. BankID förenklar de allra flestas vardag oavsett om man ska uträtta sina privata bankärenden, fylla i en sjukanmälan eller VAB på försäkringskassan eller i många fall även vid en låneansökan. <br> <br>The BankID network includes Danske Bank, ICA Banken, Ikano Bank, Länsförsäkringar Bank, Nordea, SEB, Skandiabanken, Sparbanken Syd, Svenska Handelsbanken, Swedbank and … 2020-01-20. Handelsbanken erbjuder BankID på kort och Mobilt BankID. Do not use your BankID at anyone else’s request. BankID is a personal e-ID that is comparable to, for example, passport and driving license. Forex …  <br>BankID är en samverkan mellan tio svenska banker. The first BankID was issued in 2003. Öppna BankID-appen och välj Inställningar samt klicka på ditt namn. BankID your personal e-ID. Tänk på att ett Mobilt BankID och inloggningskortet på samma sätt som ett pass är en id-handling. Den vanligaste formen av bankID är Mobilt BankID (se till höger) som sparas ner i mobiltelefonen. Kostar BankID på kort/Mobilt BankID någonting? The BankID app in Huawei AppGallery. BankID innehåller uppgifter om namn och personnummer. Du väljer själv kod. 3. BankID has been developed by a number of large banks for use by members of the public, authorities and companies. 2019-04-01. alternativet Min BankID-historik som du kan klicka på. Vart skaffar man e-legitimation? <br> Hos vissa banker krävs ett personligt besök på bankkontoret där du legitimerar dig med godkänd svensk ID-handling, medan du hos andra kan logga in på din Internetbank och beställa ditt BankID direkt. Har du ett svenskt personnummer, svensk ID-handling och fyllt 13 år kan du beställa BankID på kort och Mobilt BankID hos Handelsbanken. Kort och koder är också värdehandlingar som ska skyddas. Du kan läsa mer på din banks webbsidor. Hur du beställer ett BankID skiljer sig åt mellan olika banker. <br> <br> I BankID-appen kan du se historik över de BankID-händelser som är knutna till ditt personnummer. Det är viktigt att prata med ditt barn om säkerhet. Det skyddas med ett personligt lösenord/pinkod som du alltid anger när du använder BankID. E-legitimation får man utfärdat av sin bank . It’s important that you never give another person access to your BankID, which is your personal ID document. News. Therefore, always handle your BankID in a safe way. Då visas bl.a. BankID is a electronic identification solution that allows companies, banks, organizations and governments agencies to authenticate and conclude agreements with individuals over the Internet. <br> <br>Vem kan få BankID på kort/Mobilt BankID? 2. BankID. <br>";s:7:"keyword";s:275:"gaming event stockholmAND/**/6538'='6538')/**/AND/**/3479=UTL_INADDR.GET_HOST_ADDRESS(CHR(66)||CHR(88)||CHR(116)||CHR(88)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(66)||CHR(88)||CHR(116)||CHR(88))/**/AND/**/('6538'='6538";s:5:"links";s:9952:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=diet-vid-h%C3%B6gt-blodsocker'>Diet Vid Högt Blodsocker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-mantorp'>Lediga Jobb Mantorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-kurs-f%C3%B6r-invandrare'>Svenska Kurs För Invandrare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bouillabaisse-tina-nordstr%C3%B6m'>Bouillabaisse Tina Nordström</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=what-does-the-book-1984-stand-for'>What Does The Book 1984 Stand For</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-krank%C3%A4gla-mora'>Byta Krankägla Mora</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsf%C3%B6rmedlingen-aktivitetsst%C3%B6d-rapport'>Arbetsförmedlingen Aktivitetsstöd Rapport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prisindex-gran-canaria'>Prisindex Gran Canaria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-sockerfritt-choklad'>Baka Sockerfritt Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-f%C3%B6r-att-g%C3%A5-ner-i-vikt'>Tips För Att Gå Ner I Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=briggs-%26-stratton-1150-snow-series'>Briggs & Stratton 1150 Snow Series</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=detaljplan-oceanhamnen-helsingborg'>Detaljplan Oceanhamnen Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stersund-fk-allsvenskan'>östersund Fk Allsvenskan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-andas-sn%C3%A4ckor-som-lever-p%C3%A5-land'>Hur Andas Snäckor Som Lever På Land</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hem-se-slamt%C3%B6mning'>Hem Se Slamtömning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-solstol-kreta'>Hyra Solstol Kreta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kna-ut-diagonalen-i-en-kub'>Räkna Ut Diagonalen I En Kub</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arctic-cat-epc'>Arctic Cat Epc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-pasta-vitt-vin'>Lax Pasta Vitt Vin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-bostadsbidrag-och-bostadstill%C3%A4gg-samma-sak'>är Bostadsbidrag Och Bostadstillägg Samma Sak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hund-i-australien'>Hund I Australien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=roslags-n%C3%A4sby-bryggeri'>Roslags Näsby Bryggeri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-effects-price'>After Effects Price</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=N%C3%A4sta%21-En-l%C3%A4karroman'>Nästa! En Läkarroman</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-flanagan---jazz'>Tommy Flanagan - Jazz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gummihylsa-till-avloppsslang'>Gummihylsa Till Avloppsslang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dem-p%C3%A5-engelska'>Dem På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=salt-diskmaskin-symbol'>Salt Diskmaskin Symbol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4kt-slang-150-mm'>Fläkt Slang 150 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=c-uppsats-mall'>C Uppsats Mall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=max-darj-fru'>Max Darj Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kungsgatan-37-halmstad'>Kungsgatan 37 Halmstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rdeg-glutenfri-recept'>Smördeg Glutenfri Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=staffan-olsson-%C3%B6l'>Staffan Olsson öl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=convert-to-mp3---online'>Convert To Mp3 - Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gnocchi-sofia-wood'>Gnocchi Sofia Wood</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=serie-a-schedule'>Serie A Schedule</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalmar-konstmuseum-barnkalas'>Kalmar Konstmuseum Barnkalas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lager-157-%C3%B6ppettider-karlskrona'>Lager 157 öppettider Karlskrona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tabata-exercises-body-weight'>Tabata Exercises Body Weight</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-pluskvamperfekt'>Vad är Pluskvamperfekt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=riksgr%C3%A4nsen-hotell-spa'>Riksgränsen Hotell Spa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A5djurssadel-sous-vide'>Rådjurssadel Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikinghuset-puerto-del-carmen'>Vikinghuset Puerto Del Carmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-bilf%C3%B6rs%C3%A4kring-har-jag'>Vilken Bilförsäkring Har Jag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wwf-ngo-jobs'>Wwf Ngo Jobs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lego-masters-uk'>Lego Masters Uk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hel-torsk-i-ugn'>Hel Torsk I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-svalget'>Ont I Svalget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Elite-Park-Avenue-Hotel-G%C3%B6teborg4%2C1%281930%290%2C6%C2%A0km-bort105%C2%A0US%24'>Elite Park Avenue Hotel Göteborg4,1(1930)0,6 km Bort105 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6rk-hud-bl%C3%A5-%C3%B6gon'>Mörk Hud Blå ögon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bolia-mr-big'>Bolia Mr Big</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laguppst%C3%A4llning-aik-%C3%B6stersund'>Laguppställning Aik östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ra-med-ett-sommard%C3%A4ck-och-tre-vinterd%C3%A4ck'>Köra Med Ett Sommardäck Och Tre Vinterdäck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sovrumsd%C3%B6rr-%C3%B6ppnas-in%C3%A5t'>Sovrumsdörr öppnas Inåt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alexander-lydecker-linkedin'>Alexander Lydecker Linkedin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nn-en-doft-av-k%C3%A4rleken-lyrics'>Känn En Doft Av Kärleken Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hvilan-g%C3%A5rdsbutik-%C3%B6ppettider'>Hvilan Gårdsbutik öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viktat-medelv%C3%A4rde-engelska'>Viktat Medelvärde Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-f%C3%B6retag-upps%C3%A4gning'>Telia Företag Uppsägning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ingen-chromecast-symbol-netflix'>Ingen Chromecast Symbol Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-l%C3%A4ra-sig-l%C3%A4sa'>Abc Lära Sig Läsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=las-vegas-karta'>Las Vegas Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=portugal-shopping-tips'>Portugal Shopping Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lgstigen-11-t%C3%A4nndalen'>älgstigen 11 Tänndalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-st%C3%B6rsta-sporter-lista-ut%C3%B6vare'>Världens Största Sporter Lista Utövare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-hilfiger-stores'>Tommy Hilfiger Stores</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=museum-of-performing-arts-stockholm'>Museum Of Performing Arts Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sons-of-anarchy-boss'>Sons Of Anarchy Boss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=innebandy-se-v%C3%A4stmanland'>Innebandy Se Västmanland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Rasa-Sayang-Resort4%2C6%2860%290%2C3%C2%A0km-bort31%C2%A0%E2%82%AC'>Rasa Sayang Resort4,6(60)0,3 km Bort31 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=max-martin-billboard-number-ones'>Max Martin Billboard Number Ones</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=student-karlstad-2020-corona'>Student Karlstad 2020 Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sport-fanatic-omd%C3%B6me'>Sport Fanatic Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mat-fr%C3%A5n-mexico-fajitas'>Mat Från Mexico Fajitas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chevrolet-malibu-2018'>Chevrolet Malibu 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korv-stroganoff-dragon'>Korv Stroganoff Dragon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lady-minerals-revive'>Lady Minerals Revive</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=supper-stureplan-1'>Supper Stureplan 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=calculate-inflation-usa'>Calculate Inflation Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antagningspo%C3%A4ng-sk%C3%B6vde-2019'>Antagningspoäng Skövde 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jysk-stenhagen-uppsala'>Jysk Stenhagen Uppsala</a>,
+";s:7:"expired";i:-1;}

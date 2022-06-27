@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3708:"<br>Arken Hotel och Art Garden Spa ligger precis vid havet, med vidderna öppna ut mot Göteborgs skärgård. Stillheten den fria havshorisonten och det unika läget gör ett besök på Nynäs Havsbad till en alldeles speciell upplevelse . Vi erbjuder spa- och konferensgäster en behaglig och miljövänlig vistelse där hälsa, omtanke och personligt bemötande står i centrum. Under din vila här på Mareld spa har du utsikt över både strandkanten, bryggorna och skärgårdsbebyggelsen.  <br>Tillsammans med fantastiska medarbetare förfinar och förnyar vi ständigt de två olika hotellmiljöerna, slottet med sin Orangerirestaurang och vackra salonger, vårt spa med åtta pooler, våra trädgårdar och … <br> <br>Skepparholmen Nacka är ett spahotell som ligger endas 20 minuter från Stockholm city. <br> <br>BOKA BORD Information från Livsmedelsverket kring Covid-19 hittar du HÄR Boka din vistelse här med prisgaranti! Elements Spa är ett modernt spa mitt på Södermalm i Stockholm med brett utbud av behandlingar för ansikte och kropp. Spa och konferens vid havet nära Göteborg på lyxiga Säröhus. <br> <br>14.00 Varmt välkommen! Marholmens Spa Mareld är din tillflyktsort varje dag, hela året. Vackra från Österlen och våra lokaler samt aktiviteter. Men det behöver du inte tänka på. Till vårt SPA är ni välkomna som boende gäst men även som dagspa-gäst. Vi får dig att längta tillbaka. Vi sätter alltid våra gäster i fokus och vill att ett besök på Elisefarm skall ge dig välbehövlig egentid, ökat välmående och en liten guldkant på tillvaron. KONFERENS VID HAVET. I vårt After Work-erbjudande ingår en valfri rätt från vår lobbymeny, två enheter dryck (öl, vin eller alkoholfritt), samt tillgång till vårt spa- och fitnessområde med pooler, bastu, gym och instruktörsledda pass. Mitt i Stockholm City ligger Selma City Spa - en Pool Club med en touch av spa. Inled besöket med ett gympass och/eller ett yogapass. Vi hoppas att den kan komma åter i slutet på augusti. Gränsö slott är en familjeägd anläggning direkt vid havet i charmiga skärgårdsstaden Västervik. I din spaentré ingår tillgång till relaxpool (in- & utomhusdel) med en slående utsikt samt ång- och torrbastu. Vi har öppet och erbjuder våra gäster vår Bistromeny, Se här. Till alla våra gäster, Under dessa tider har vi förändrade öppettider enligt nedan: Söndag 10 maj till onsdag 13 maj har vi öppet fram till 16.00, sista insläpp till Skärgårdsspa kl. Nynäs Havsbad erbjuder härligt boende, kulinariska upplevelser och en inbjudande spa- och relaxavdelning på klipporna vid havet.  Karlaby Kro Karlabyvägen 50 272 93 Tommarp Tel: 0414-203 00 E-post: receptionen@karlabykro.se Lilla mötet eller stora eventet, vi har alla möjligheterna och tar hand om er från början till slut. I vår ångbastu lyser stjärnhimlen och i poolen har naturen lagt sig till rätta med gotländsk natursten. <br> Det ska bara kännas. För konferens kan vi erbjuda tekniskt välutrustade konferenslokaler, de flesta vid havet med havsutsikt och utgång till trädgård eller balkong. Vid intresse kontakta restaurang 0565-166 70 eller restaurang@selmaspa.se Djurönäset konferens, hotell och spa mitt i Stockholms skärgård. Med anledning av pågående pandemi och regeringens beslut att endast tillåta tallriksservering tar vår söndagsbrunch paus från 29 mars. Här badar du i rooftop poolen, badar bastu, tränar på gymmet eller unnar dig en spabehandling som massage, ansiktsbehandling eller en kroppsbehandling. Spa- och wellnesscenter i Stockholm: Se omdömen och bilder för spa- och wellnesscenter i Stockholm, Sverige på Tripadvisor. <br>";s:7:"keyword";s:246:"streams to royalties/**/'))/**/AND/**/7946=CAST(CHR(107)||CHR(70)||CHR(101)||CHR(79)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(107)||CHR(70)||CHR(101)||CHR(79)/**/AS/**/NUMERIC)/**/AND/**/(('3kXO'/**/LIKE/**/'3kXO";s:5:"links";s:3092:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polis-akademisk-utbildning'>Polis Akademisk Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tyngre-proteinpulver-test'>Tyngre Proteinpulver Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffransbullar-fredriks-fika'>Saffransbullar Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekologiskt-smink-rea'>Ekologiskt Smink Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gaming-innovation-group'>Gaming Innovation Group</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runt-badkar-med-tassar'>Runt Badkar Med Tassar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-logga-in'>Ikea Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=agnes-carlsson-nothing-can-compare'>Agnes Carlsson Nothing Can Compare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skicka-tobak-inom-eu'>Skicka Tobak Inom Eu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-router-login-tele2'>Huawei Router Login Tele2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blackmagic-design-ltd'>Blackmagic Design Ltd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-om-oss'>Ikea Om Oss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fox-roger-ailes'>Fox Roger Ailes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=golden-buzzer-2017'>Golden Buzzer 2017</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%A4nder-i-dalarna'>Bränder I Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sch%C3%A4fer-border-collie-blandras'>Schäfer Border Collie Blandras</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huvudstad-uppv%C3%A4xt-vid-textilmanufaktur'>Huvudstad Uppväxt Vid Textilmanufaktur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lergryta-i-ugn-%C3%B6ver-natten'>Lergryta I Ugn över Natten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=banankaka-med-kesella'>Banankaka Med Kesella</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=recept-vinkokta-p%C3%A4ron'>Recept Vinkokta Päron</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-elitfotboll-stadgar'>Svensk Elitfotboll Stadgar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv-lift-cabinet'>Tv Lift Cabinet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidigt-ultraljud-stockholm'>Tidigt Ultraljud Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4sby-slottspark-nyproduktion'>Näsby Slottspark Nyproduktion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=quiz-svenska-djur'>Quiz Svenska Djur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-%C3%A5hus'>Lediga Jobb åhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pex-r%C3%B6r-i-bj%C3%A4lklag'>Pex-rör I Bjälklag</a>,
+";s:7:"expired";i:-1;}

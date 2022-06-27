@@ -1,0 +1,69 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2786:"<p>The KLRHL is a competitive recreational hockey league in Nelson, British Columbia. Welcome to the new Kootenay Lake Rec Hockey League website. We bring over 30 Seasons of Recreational Hockey experience for kids from Lethbridge & Surrounding Area to enjoy. Rec Leagues Great Park Ice & FivePoint Arena youth ice recreational leagues are open for players of all ages and ability levels. Our philosophy is to develop great people through hockey and build an environment that reflects fun, pride, team work, sportsmanship and integrity. 4/15/2020 Update.  Use our auto-generated tax receipt form at tax time. We hope this communication finds you all well! Official site providing news, a list of registered recreational teams, a rink directory, fixtures and contact and registration information. Cost: $150.00 Town of Vulcan. The rink is closed at least until May 4, … Rec hockey programs require no travel outside of Greensboro & Winston-Salem. 9:00pm - 10:30pm. Men's Rec Hockey. Home; Schedule; Teams; Stats; Standings; Roster; Account Login; Rules/By-Laws; SUB List; ERHL Board Members; Newsletters; Suspensions; ERHL NEWS. Globe Arena, Stockholm Mit einer Innenhöhe von bis zu 85 Metern ist die Globe Arena in Stockholm das größte kugelförmige Gebäude der Welt und eines der Wahrzeichen von Stockholm beziehungsweise Schwedens. </p> <p>Referred to in town as the "rec league", we have the only beer league hockey in town with no minimum age restriction, and with referees, league standings, and a championship trophy going back to 1982. It has been determined at this point to attempt to finish the 2020 ERHL season whenever that may be. </p> <p></p> <p>Remember referees are there to help us play the 'game' and have 'fun' Tax Time Receipt - Ponoka Rec Hockey - Ponoka. OF EAGLES REC HOCKEY LEAGUE. As the name implies, we are the Lethbridge Rec Hockey Club, with emphasis on the "Recreation". I'm a paragraph. Perfect for the beginner player or one with multiple sport/activity commitments. It's easy. Visit the forms page. Quick Links. Referees - Ponoka Rec Hockey - Ponoka. We offer 6 D ivisions of unique recreational hockey program for boys and girls ages 4 - 17. Teams will practice and play games in both locations. Mayor Tom Grant. We invite you to explore Vulcan’s frontier, a community that offers you an experience from out of this world! </p> <p>Click here to add your own text and edit me. </p> <p>Mit mehr als einer Million Besucher pro Jahr bei ungefähr 130 Veranstaltungen ist die Globe Arena auch eine der bestbesuchtesten Hallen Europas und dient dabei … Lower overall time commitment and no tryouts! We boast great health services, accommodations, recreation, attractions, schools, professional and personal services just to name a few. Monday . </p>";s:7:"keyword";s:20:"rec hockey stockholm";s:5:"links";s:3168:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-kommunalt-eller-kollektivt'>åka Kommunalt Eller Kollektivt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-l%C3%A4nkarm-v70-kostnad'>Byta Länkarm V70 Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-blir-embryot-ett-foster'>När Blir Embryot Ett Foster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jens-hult%C3%A9n-serie'>Jens Hultén Serie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-smutsigaste-flod'>Världens Smutsigaste Flod</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filmj%C3%B6lksbr%C3%B6d-med-banan'>Filmjölksbröd Med Banan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swedish-posture-trainer'>Swedish Posture Trainer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=organisationer-f%C3%B6r-barn'>Organisationer För Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apan-herman-barnprogram'>Apan Herman Barnprogram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rr%C3%A4tt-med-r%C3%A4kor-och-sparris'>Förrätt Med Räkor Och Sparris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reload-foodbar-solna'>Reload Foodbar Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A5tt-m%C3%A5let-synonym'>Nått Målet Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-ska-skolpengen-t%C3%A4cka'>Vad Ska Skolpengen Täcka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glamour-rollista-2020'>Glamour Rollista 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bokf%C3%B6ra-f%C3%B6rskott-l%C3%B6n'>Bokföra Förskott Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-norrstrand-%C3%B6ppettider'>Ica Norrstrand öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brand-stockholm-1794'>Brand Stockholm 1794</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skillnad-markavlopp-inomhusavlopp'>Skillnad Markavlopp Inomhusavlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-lindstr%C3%B6m-caf%C3%A9'>Daniel Lindström Café</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-s%C3%A4kraste-f%C3%A4ngelse'>Sveriges Säkraste Fängelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%A5gor-om-%C3%A4ldreboende'>Frågor Om äldreboende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=busstider-n%C3%A4l-uddevalla'>Busstider Näl Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=i-tunn-gardin-korsord'>I Tunn Gardin Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-regnb%C3%A5gen-k%C3%A4rrtorp'>Förskolan Regnbågen Kärrtorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laleh---en-stund-p%C3%A5-jorden'>Laleh - En Stund På Jorden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=information-om-sverige'>Information Om Sverige</a>,
+";s:7:"expired";i:-1;}

@@ -1,5 +1,5 @@
 <?php
-/*  for PRO users! - 
+/*
 Plugin Name: Love It Pro
 Plugin URI: http://pippinsplugins.com/love-it-pro
 Description: Adds a "Love It" link to posts, pages, and custom post types
@@ -9,7 +9,7 @@ Contributors: mordauk
 Author URI: http://pippinsplugins.com
 */
 
-/*  for PRO users! - **************************
+/***************************
 * constants
 ***************************/
 
@@ -27,7 +27,7 @@ if( !defined( 'LIP_PLUGIN_VERSION' ) ) define( 'LIP_PLUGIN_VERSION', '1.1.4' );
 
 $lip_options = get_option('lip_settings');
 
-/*  for PRO users! - **************************
+/***************************
 * includes
 ***************************/
 include(LI_BASE_DIR . '/includes/display-functions.php');

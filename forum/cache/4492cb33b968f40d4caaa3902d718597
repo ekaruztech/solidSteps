@@ -1,0 +1,109 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2889:"<p>Vi har tävlingsverksamhet inom artistisk gymnastik. </p> <p>Vi bedriver även NIU (Nationellt godkänd idrottsutbildning) i Trupp och kvinnlig artistisk gymnastik, detta i samarbete med JGY Jämtlands gymnasium. All barn-, ungdoms- och tävlingsgymnastik är förlagd i Almviks Gymnastiksal. Nyheter. </p> <p>Västerviks GF - Gymnastik Välkommen till Västerviks gymnastikförening. ... Vi har gymnastikträning för Barn och Ungdomar i åldrarna 7 - 17 år, både flickor och pojkar.  Vi har ett brett utbildningsutbud för dig som är eller vill bli barn- och ungdomsledare. Här hittar du våra utbildningar. Vi har ett stort hjärta för den Artistiska Gymnastiken<3. Om personuppgifterna avser barn och har samlats in i samband med att barnet skapar en profil i ett socialt nätverk. Han har genom åren varit engagerad domare i Manlig Artistisk gymnastik, funnits med i föreningens kommittéer för olika arrangemang och ställer alltid upp när föreningen behöver hjälp. Han lånar ut sin egen musikutrustning vid evenemang/tävlingar, hämtar/lämnar redskap vid behov samt deltar på läger. SOL GF bildades 1953 och har idag över 1500 aktiva och tränare som är med i barngymnastiken samt i AG, Cheer, Trupp och Gymcross. </p> <p>Hallen ligger belägen mellan Västervik och … ). Artistisk gymnastik, redskapsgymnastik, är en disciplin inom tävlingsgymnastiken där gymnasten utför olika program med hjälp av ett antal redskap.Se även rytmisk gymnastik och truppgymnastik för andra typer av gymnastik.. Den artistiska gymnastiken delas in i disciplinerna manlig artistisk gymnastik (MAG) och i kvinnlig artistisk gymnastik (KAG). Ett digitalt inspirationsmaterial med motorisk träning för barn 7-12 år. </p> <p>Från familjegymnastik till barn- och ungdomsgymnastik. Välkommen till SOL GF Gymnastik och rörelseglädje för långsiktig utveckling och framgång. BAS-träningsprogram. BARN & UNGDOM. </p> <p>Vill du utbilda dig inom gymnastik? Ett grundstyrkeprogram specifikt anpassat för gymnaster. Utbilda dig i gymnastik. Förbundsmötet 2020 framflyttat. Vi bedriver gymnastik för alla åldrar, från motion och lek till tävling i truppgymnastik och i artistisk gymnastik. ARTISTISK GYMNASTIK. Efter att du genomfört Intro Svensk Gymnastik och Gymnastikens baskurs - träning och tävling finns många alternativa utbildningar, utbudet ger dig möjlighet till ständig utveckling och ny inspiration. Kalender. </p> <p>Om oss. Inom AG har vi gymnaster som tävlar på stegserierna 1 … </p> <p>Här fylls träningarna av lek och ökade kunskaper inom gymnastikens alla grundformer. </p> <p>All träning är i Bräckeskolans gymnastiksalar på Hisingen. Vad är Artistisk gymnastik för något? Vi har även några sektioner för tävlingsgymnastik; Trupp, Kvinnlig Artistisk gymnastik, Manlig artistisk gymnastik, Rytmisk gymnastik samt Cheer. </p>";s:7:"keyword";s:37:"gaming innovation group AND 1133=1133";s:5:"links";s:7956:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-med-kallr%C3%B6kt-lax'>Pasta Med Kallrökt Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avmaska-hund-med-diarr%C3%A9'>Avmaska Hund Med Diarré</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-l%C3%A4nkarm-v70-kostnad'>Byta Länkarm V70 Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finland-ishockey-jvm'>Finland Ishockey Jvm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=master-datateknik-liu'>Master Datateknik Liu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kokostoppar-allt-om-mat'>Kokostoppar Allt Om Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rutig-skol-kjol'>Rutig Skol Kjol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyf%C3%B6dd-l%C3%A5g-vikt'>Nyfödd Låg Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-st%C3%B6rsta-b%C3%A5thandlare'>Sveriges Största Båthandlare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hiking-skor-rea'>Hiking Skor Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utflykter-gambia-ving'>Utflykter Gambia Ving</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lilla-aktuellt-mens'>Lilla Aktuellt Mens</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ford-focus-diesel-startar-inte'>Ford Focus Diesel Startar Inte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-skaraborg'>Lediga Jobb Skaraborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=strand-las-palmas'>Strand Las Palmas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sendrag-i-foten'>Sendrag I Foten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Konsten-att-vara-kvinna'>Konsten Att Vara Kvinna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slagani-burek-recept'>Slagani Burek Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spetshund-representativa-arter'>Spetshund Representativa Arter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rdeg-efterr%C3%A4tt-choklad'>Smördeg Efterrätt Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=presentkort-hungrig-se'>Presentkort Hungrig Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=psoriasis-vitaminer-mineraler'>Psoriasis Vitaminer Mineraler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ldreboende-uppsala-luthagen'>äldreboende Uppsala Luthagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-genom-sverige-karta'>Cykla Genom Sverige Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=max-tegmark-alexander-tegmark'>Max Tegmark Alexander Tegmark</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-vet-man-att-mensen-%C3%A4r-p%C3%A5-v%C3%A4g'>Hur Vet Man Att Mensen är På Väg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=root-beer-alcohol'>Root Beer Alcohol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6n-tomatsoppa-hantverket'>Grön Tomatsoppa Hantverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-vet-man-att-mensen-%C3%A4r-p%C3%A5-v%C3%A4g'>Hur Vet Man Att Mensen är På Väg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toyota-yaris-f%C3%A4lgar'>Toyota Yaris Fälgar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-maxi-halmstad-kontakt'>Ica Maxi Halmstad Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-amerikansk-brisket'>Köpa Amerikansk Brisket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studera-p%C3%A5-chalmers'>Studera På Chalmers</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spelade-herr-nilsson-webbkryss'>Spelade Herr Nilsson Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liverpool-world-cup-jersey'>Liverpool World Cup Jersey</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billig-hemmagjord-m%C3%BCsli'>Billig Hemmagjord Müsli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inreda-%C3%B6ppen-planl%C3%B6sning'>Inreda öppen Planlösning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-sjukanm%C3%A4lan-arbetsgivare'>Försäkringskassan Sjukanmälan Arbetsgivare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nim-distribution-i-sk%C3%A5ne-ab'>Nim Distribution I Skåne Ab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if%C3%B6-aqua-spolknapp'>Ifö Aqua Spolknapp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beige-f%C3%A4rg-v%C3%A4gg'>Beige Färg Vägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=galileo-galilei-film'>Galileo Galilei Film</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse-idol-%C3%A5lder'>Tusse Idol ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fosch-artisan-p%C3%A2tisserie'>Fosch Artisan Pâtisserie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muskelkramp-p%C3%A5-latin'>Muskelkramp På Latin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ryan-air-info'>Ryan Air Info</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guidning-absolut-%C3%A5hus'>Guidning Absolut åhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cf-moto-800-terralander-2014'>Cf Moto 800 Terralander 2014</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utebliven-avesta-tidning'>Utebliven Avesta Tidning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=maratontabell-innebandy-v%C3%A4rmland'>Maratontabell Innebandy Värmland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liverpool-pre-season-games-2019-20'>Liverpool Pre Season Games 2019 20</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lss-boende-barn-j%C3%B6nk%C3%B6ping'>Lss-boende Barn Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-kyckling-pris'>Svensk Kyckling Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-tranquil-dawn-ncs'>Nordsjö Tranquil Dawn Ncs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aroma-di-limone-pasta'>Aroma Di Limone Pasta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fyra-skolformerna-i-den-svenska-grundskolan'>Fyra Skolformerna I Den Svenska Grundskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rr%C3%A4tt-till-boeuf-bourguignon'>Förrätt Till Boeuf Bourguignon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medieteknik-kth-flashback'>Medieteknik Kth Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=B%26B-%C3%85v%C3%A4gen4%2C9%2813%291%2C2%C2%A0km-bort2%C2%A0598%C2%A0CZK'>B&B Åvägen4,9(13)1,2 km Bort2 598 CZK</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ystad-camping-corona'>Ystad Camping Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=camp-sweden-ramsor'>Camp Sweden Ramsor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blodtryck-%C3%A5lder-k%C3%B6n'>Blodtryck ålder Kön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolina-gynning-mobilfodral'>Carolina Gynning Mobilfodral</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-kronor-f%C3%B6rs%C3%A4kring-f%C3%B6retag'>Tre Kronor Försäkring Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-vejmon-soffbord'>Ikea Vejmon Soffbord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slamavskiljare-tre-hush%C3%A5ll'>Slamavskiljare Tre Hushåll</a>,
+";s:7:"expired";i:-1;}

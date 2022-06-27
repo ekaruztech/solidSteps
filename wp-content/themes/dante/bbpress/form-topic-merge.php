@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Merge Topic
  *
  * @package bbPress

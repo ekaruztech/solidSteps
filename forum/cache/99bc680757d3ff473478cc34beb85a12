@@ -1,0 +1,67 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1648:"<br>Koulukodissa kasvanut ja nyrkkeilyä harrastanut Per Andersson lähti seikkailunhalusta merille 1960-luvun alussa. <br> <br>Per Andersson ist bei Facebook. Sein Buch ist ein grundsympathischer Reiseverführer, der Mut macht aufzubrechen, um in der Ferne zu sich selbst … Patrick Bolton. Er wandert durch Berge, schlendert durch Basare und Slums, fährt mit dem Bus durch Indien und trampt durch Europa - immer auf der Suche nach spannenden Begegnungen, neuen Eindrücken und dem, was unserem Leben Sinn verleiht.  72, no. Columbia Business School - Department of Economics; Centre for Economic Policy Research (CEPR); National Bureau of Economic Research (NBER); European … <br> <br>und mehr bei ☎ Das Telefonbuch Ihre Nr. <br> <br>Per Oskar Andersen (12 January 1930 – 17 February 2020) was a Norwegian brain researcher at the University of Oslo. <br> Tritt Facebook bei, um dich mit Per Andersson und anderen Nutzern, die du kennst, zu vernetzen. <br> <br>Financial Analysts Journal, vol. <br> <br>Per Edvin ”Sahara” Andersson (1941 Helsinki – 17. huhtikuuta 2011 Koh Chang, Thaimaa) oli suomalainen palkkasoturi. Per J. Andersson reist abseits der ausgetretenen Pfade. <br> <br>AP4. 1 für Adressen und Telefonnummern Per Andersson mit Adresse ☎ Tel. <br> <br>Research by his lab, specifically by Terje Lømo (and Timothy Bliss , who helped characterize the phenomenon years later), led to the discovery of long-term potentiation in 1966. <br> <br>Hedging Climate Risk. See all articles by Mats Andersson Mats Andersson. <br> <br>3 (May/June 2016 Forthcoming) 50 Pages Posted: 24 Sep 2014 Last revised: 12 Apr 2016. <br> <br>";s:7:"keyword";s:25:"per andersson kaffemaskin";s:5:"links";s:2900:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lss-boende-barn-j%C3%B6nk%C3%B6ping'>Lss-boende Barn Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malin-lundgren-f%C3%B6rfattare'>Malin Lundgren Författare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=problem-med-vakuumkran-moped'>Problem Med Vakuumkran Moped</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sp%C3%A4nd-nacke-och-hals'>Spänd Nacke Och Hals</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=misshandel-straff-under-18-%C3%A5r'>Misshandel Straff Under 18 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kroppens-organ-lever'>Kroppens Organ Lever</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaniljvisp-daim-digestive'>Vaniljvisp Daim Digestive</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chips-utan-socker'>Chips Utan Socker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hannover-messe-agritechnica-2019'>Hannover Messe Agritechnica 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ticketmaster-v%C3%A4ster%C3%A5s-domkyrka'>Ticketmaster Västerås Domkyrka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-sundin-fru'>David Sundin Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ist-home-skola-g%C3%B6teborg'>Ist Home Skola Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djurg%C3%A5rdsbrunn-julbord-recension'>Djurgårdsbrunn Julbord Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kung-oidipus-fulltext'>Kung Oidipus Fulltext</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-kommer-det-att-sn%C3%B6a-2019'>När Kommer Det Att Snöa 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zeta-pasta-halloumi'>Zeta Pasta Halloumi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjutton-%C3%A5r-lyrics'>Sjutton år Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prata-f%C3%B6r-sin-sak'>Prata För Sin Sak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=japanska-ambassaden-e-post'>Japanska Ambassaden E Post</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=den-stora-%C3%A4lgvandringen-sammandrag'>Den Stora älgvandringen Sammandrag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedemora-kommun-blanketter'>Hedemora Kommun Blanketter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=musik-i-kyrkan-v%C3%A4ster%C3%A5s'>Musik I Kyrkan Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schweppes-russchian-pris'>Schweppes Russchian Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A4rlplattor-m%C3%B6nster-bok'>Pärlplattor Mönster Bok</a>,
+";s:7:"expired";i:-1;}

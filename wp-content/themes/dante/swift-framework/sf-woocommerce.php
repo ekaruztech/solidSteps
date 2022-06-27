@@ -1,35 +1,43 @@
 <?php
-	/*  for PRO users! - 
+	/*
 	*
 	*	WooCommerce Functions & Hooks
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 	
-	/*  for PRO users! -  BASIC FILTER HOOKS
+	/* BASIC FILTER HOOKS
 	================================================== */ 
 	remove_action( 'woocommerce_before_main_content', 'woocommerce_output_content_wrapper', 10);
 	remove_action( 'woocommerce_after_main_content', 'woocommerce_output_content_wrapper_end', 10);
 	remove_action( 'woocommerce_before_main_content', 'woocommerce_breadcrumb', 20, 0);
 	
-	/*  for PRO users! -  Add Shipping Calculator to after cart action */
+	/* Add Shipping Calculator to after cart action */
 	add_action( 'woocommerce_after_cart_table', 'woocommerce_shipping_calculator', 10 );
 	
-	/*  for PRO users! -  Remove totals from cart collaterals */
+	/* Remove totals from cart collaterals */
 	remove_action( 'woocommerce_cart_collaterals', 'woocommerce_cart_totals', 10 );
 	
-	/*  for PRO users! -  WOOCOMMERCE CONTENT FUNCTIONS
+	/* Remove default product item link */
+	remove_action( 'woocommerce_before_shop_loop_item', 'woocommerce_template_loop_product_link_open', 10 );
+	remove_action( 'woocommerce_after_shop_loop_item', 'woocommerce_template_loop_product_link_close', 5 );
+	
+	/* WOOCOMMERCE CONTENT FUNCTIONS
 	================================================== */
 	function sf_product_thumb_image_html($html) {
-		$html = '<li>'.$html.'</li>';
-		return $html;
+		if ( version_compare( WC_VERSION, '2.7', '>=' ) ) {
+			return $html;
+		} else {
+			$html = '<li>'.$html.'</li>';
+			return $html;
+		}
 	}
 	add_filter('woocommerce_single_product_image_thumbnail_html', 'sf_product_thumb_image_html');
 	
 	
-	/*  for PRO users! -  WOOCOMMERCE CONTENT FUNCTIONS
+	/* WOOCOMMERCE CONTENT FUNCTIONS
 	================================================== */ 
 	function sf_get_product_stars() {
 		
@@ -60,7 +68,7 @@
 		
 		    $stars_output .= '<div class="starwrapper" itemprop="aggregateRating" itemscope itemtype="http://schema.org/AggregateRating">';
 		
-		    $stars_output .= '<span class="star-rating" title="'.sprintf(__('Rated %s out of 5', 'woocommerce'), $average).'"><span style="width:'.($average*16).'px"><span itemprop="ratingValue" class="rating">'.$average.'</span> </span></span>';
+		    $stars_output .= '<span class="star-rating" title="'.sprintf(__('Rated %s out of 5', 'swiftframework'), $average).'"><span style="width:'.($average*16).'px"><span itemprop="ratingValue" class="rating">'.$average.'</span> </span></span>';
 		
 		    $stars_output .= '</div>';
 		}
@@ -97,7 +105,7 @@
 	}
 	
 	
-	/*  for PRO users! -  REMOVE WOOCOMMERCE PRETTYPHOTO STYLES/SCRIPTS
+	/* REMOVE WOOCOMMERCE PRETTYPHOTO STYLES/SCRIPTS
     ================================================== */
     function sf_remove_woo_lightbox_js() {
     	if ( ! class_exists( 'WC_Quick_View' ) ) {
@@ -115,7 +123,7 @@
     add_action( 'wp_enqueue_styles', 'sf_remove_woo_lightbox_css', 99 );
     
 	
-	/*  for PRO users! -  ADD TO CART HEADER RELOAD
+	/* ADD TO CART HEADER RELOAD
 	================================================== */ 
 	if (!function_exists('sf_woo_header_add_to_cart_fragment')) {
 		function sf_woo_header_add_to_cart_fragment( $fragments ) {
@@ -123,8 +131,11 @@
 			
 			ob_start();
 			
+			$cart_total = WC()->cart->get_cart_total();
 			$cart_count = $woocommerce->cart->cart_contents_count;
 			$cart_count_text = sf_product_items_text($cart_count);
+			$price_display_suffix  = get_option( 'woocommerce_price_display_suffix' );
+			
 			$options = get_option('sf_dante_options');				
 			$show_cart_count = false;
 			if (isset($options['show_cart_count'])) {
@@ -148,29 +159,34 @@
 								
 								<div class="bag-contents">
 									
-									<?php foreach ($woocommerce->cart->cart_contents as $cart_item_key => $cart_item) { ?>
+									<?php foreach ( WC()->cart->get_cart() as $cart_item_key => $cart_item ) { ?>
 								    	
 								    	<?php
-									        $bag_product = $cart_item['data']; 
-									        $product_title = $bag_product->get_title();
+									        $_product     		 = apply_filters( 'woocommerce_cart_item_product', $cart_item['data'], $cart_item, $cart_item_key );
+									        $price 				 = apply_filters( 'woocommerce_cart_item_price', WC()->cart->get_product_price( $_product ), $cart_item, $cart_item_key );
+									        $product_title       = $_product->get_title();
+									        $product_short_title = ( strlen( $product_title ) > 25 ) ? substr( $product_title, 0, 22 ) . '...' : $product_title;
 								        ?>
 								                                          
-								        <?php if ($bag_product->exists() && $cart_item['quantity']>0) { ?>                                            
+								        <?php if ( $_product && $_product->exists() && $cart_item['quantity'] > 0 && apply_filters( 'woocommerce_cart_item_visible', true, $cart_item, $cart_item_key ) ) { ?>                                            
 								        
 								        	<div class="bag-product clearfix">   	
 							            	
-								            	<figure><a class="bag-product-img" href="<?php echo get_permalink($cart_item['product_id']); ?>"><?php echo $bag_product->get_image(); ?></a></figure>                   
+								            	<figure><a class="bag-product-img" href="<?php echo get_permalink($cart_item['product_id']); ?>"><?php echo $_product->get_image(); ?></a></figure>                   
 									            
 									            <div class="bag-product-details">
 									           		<div class="bag-product-title">
 									           			<a href="<?php echo get_permalink($cart_item['product_id']); ?>">
-									           				<?php echo apply_filters('woocommerce_cart_widget_product_title', $product_title, $bag_product); ?></a>
+									           				<?php echo apply_filters('woocommerce_cart_widget_product_title', $product_title, $_product); ?></a>
 									           		</div>
-									            	<div class="bag-product-price"><?php _e("Unit Price:", "swiftframework"); ?> <?php echo woocommerce_price($bag_product->get_price()); ?></div>
+									            	<div class="bag-product-price"><?php _e("Unit Price:", "swiftframework"); ?> <?php echo $price; ?></div>
 									            	<div class="bag-product-quantity"><?php _e('Quantity:', 'swiftframework'); ?> <?php echo $cart_item['quantity']; ?></div>
+									            	<?php if ( $price_display_suffix ) { ?>
+									            		<small class="woocommerce-price-suffix"><?php echo $price_display_suffix; ?></small>
+									            	<?php } ?>
 									            </div>
 									            	
-									            <?php echo apply_filters( 'woocommerce_cart_item_remove_link', sprintf('<a href="%s" class="remove" title="%s">&times;</a>', esc_url( $woocommerce->cart->get_remove_url( $cart_item_key ) ), __('Remove this item', 'woocommerce') ), $cart_item_key ); ?>
+									            <?php echo apply_filters( 'woocommerce_cart_item_remove_link', sprintf('<a href="%s" class="remove" title="%s">&times;</a>', esc_url( $woocommerce->cart->get_remove_url( $cart_item_key ) ), __('Remove this item', 'swiftframework') ), $cart_item_key ); ?>
 									            
 									    	</div>
 								    	
@@ -223,20 +239,20 @@
 			return $fragments;
 			
 		}
-		add_filter('add_to_cart_fragments', 'sf_woo_header_add_to_cart_fragment'); 
+		add_filter('woocommerce_add_to_cart_fragments', 'sf_woo_header_add_to_cart_fragment'); 
 	}
 	
-	/*  for PRO users! -  WISHLIST BUTTON
+	/* WISHLIST BUTTON
 	================================================== */
 	if (!function_exists('sf_wishlist_button')) {
 		function sf_wishlist_button() {
 
 			global $product, $yith_wcwl;
-
+			$product_id = method_exists( $product, 'get_id' ) ? $product->get_id() : $product->id;
+			$product_type = method_exists( $product, 'get_type' ) ? $product->get_type() : $product->product_type;
+			
 			if ( class_exists( 'YITH_WCWL_UI' ) )  {
-				
-				$product_type = $product->product_type;			
-				
+								
 				//Check Wishlist version 
 				if ( version_compare( get_option('yith_wcwl_version'), "2.0" ) >= 0 ) {   
 					$url = YITH_WCWL()->get_wishlist_url();				
@@ -249,11 +265,11 @@
 		        		$default_wishlist = false;
 	        		}
 			
-					$exists = YITH_WCWL()->is_product_in_wishlist( $product->id , $default_wishlist);			 
+					$exists = YITH_WCWL()->is_product_in_wishlist( $product_id , $default_wishlist);			 
 				}
 				else {
 					$url = $yith_wcwl->get_wishlist_url();
-					$exists = $yith_wcwl->is_product_in_wishlist( $product->id );					
+					$exists = $yith_wcwl->is_product_in_wishlist( $product_id );					
 				}
 				
 				$classes = get_option( 'yith_wcwl_use_button' ) == 'yes' ? 'class="add_to_wishlist single_add_to_wishlist button alt"' : 'class="add_to_wishlist"';
@@ -262,8 +278,8 @@
 				    $html .= '<div class="yith-wcwl-add-button';  // the class attribute is closed in the next row
 
 				    $html .= $exists ? ' hide" style="display:none;"' : ' show"';
-
-				    $html .= '><a href="' . htmlspecialchars($yith_wcwl->get_addtowishlist_url()) . '" data-product-id="' . $product->id . '" data-product-type="' . $product_type . '" ' . $classes . ' ><i class="fa-star"></i></a>';
+					$add_url = method_exists( $yith_wcwl, 'get_addtowishlist_url' ) ? htmlspecialchars( $yith_wcwl->get_addtowishlist_url() ) : esc_url( add_query_arg( 'add_to_wishlist', $product_id ) );
+				    $html .= '><a href="' . $add_url . '" data-product-id="' . $product_id . '" data-product-type="' . $product_type . '" ' . $classes . ' ><i class="fa-star"></i></a>';
 				    $html .= '</div>';
 
 				$html .= '<div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;"><span class="feedback">' . __( 'Product added to wishlist.', 'swiftframework' ) . '</span> <a href="' . $url . '"><i class="fa-check"></i></a></div>';
@@ -280,59 +296,31 @@
 	}
 
 
-
-	/*  for PRO users! -  WISHLIST BUTTON
-	================================================== */ 
-	/*  for PRO users! - 
-	if (!function_exists('sf_wishlist_button')) {
-		function sf_wishlist_button() {
-		
-			global $product, $yith_wcwl; 
-			
-			if ( class_exists( 'YITH_WCWL_UI' ) )  {
-				$url = $yith_wcwl->get_wishlist_url();
-				$product_type = $product->product_type;
-				$exists = $yith_wcwl->is_product_in_wishlist( $product->id );
-				
-				$classes = get_option( 'yith_wcwl_use_button' ) == 'yes' ? 'class="add_to_wishlist single_add_to_wishlist button alt"' : 'class="add_to_wishlist"';
-				
-				$html = '<div class="yith-wcwl-add-to-wishlist">'; 
-				    $html .= '<div class="yith-wcwl-add-button';  // the class attribute is closed in the next row
-				    
-				    $html .= $exists ? ' hide" style="display:none;"' : ' show"';
-				    
-				    $html .= '><a href="' . htmlspecialchars($yith_wcwl->get_addtowishlist_url()) . '" data-product-id="' . $product->id . '" data-product-type="' . $product_type . '" ' . $classes . ' ><i class="ss-star"></i></a>';
-				    $html .= '</div>';
-				
-				$html .= '<div class="yith-wcwl-wishlistaddedbrowse hide" style="display:none;"><span class="feedback">' . __( 'Product added to wishlist.', 'swiftframework' ) . '</span> <a href="' . $url . '"><i class="fa-check"></i></a></div>';
-				$html .= '<div class="yith-wcwl-wishlistexistsbrowse ' . ( $exists ? 'show' : 'hide' ) . '" style="display:' . ( $exists ? 'block' : 'none' ) . '"><a href="' . $url . '"><i class="fa-check"></i></a></div>';
-				$html .= '<div style="clear:both"></div><div class="yith-wcwl-wishlistaddresponse"></div>';
-				
-				$html .= '</div>';
-				
-				return $html;
-			}
-		}
-	}
-	
-	*/
-	/*  for PRO users! -  SHOW PRODUCTS COUNT URL PARAMETER
+	/* SHOW PRODUCTS COUNT URL PARAMETER
 	================================================== */ 
 	if (isset($_GET['layout'])) {
 		$page_layout = $_GET['layout'];
 	}
-	if( isset( $_GET['show_products'] ) ){ 
-		if ($_GET['show_products'] == "all") {
-	    	add_filter( 'loop_shop_per_page', create_function( '$cols', 'return -1;' ) );
-	    } else {
-	    	add_filter( 'loop_shop_per_page', create_function( '$cols', 'return '.$_GET['show_products'].';' ) );
-	    }
-	} else {
-	    add_filter( 'loop_shop_per_page', create_function( '$cols', 'return 24;' ) );
+	if ( !function_exists('sf_product_shop_count') ) {
+		function sf_product_shop_count() {
+			$default_count = 24;
+
+			$count = isset($_GET['show_products']) ? $_GET['show_products'] : $default_count;
+
+			if ($count === 'all') {
+				$count = -1;
+			}
+			else if ( ! is_numeric($count)) {
+				$count = $default_count;
+			}
+
+			return $count;
+		}	
 	}
+	add_filter( 'loop_shop_per_page', 'sf_product_shop_count');
+
 	
-	
-	/*  for PRO users! -  SINGLE PRODUCT
+	/* SINGLE PRODUCT
 	================================================== */
 	remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_title', 5);
 	remove_action( 'woocommerce_single_product_summary', 'woocommerce_template_single_price', 10);
@@ -357,7 +345,7 @@
 	add_action( 'woocommerce_single_product_summary', 'sf_product_share', 45);
 	
 	
-	/*  for PRO users! -  PRODUCT ACCORDION
+	/* PRODUCT ACCORDION
 	================================================== */ 
 	if (!function_exists('sf_product_accordion')) {
 		function sf_product_accordion() {
@@ -401,7 +389,7 @@
 					</div>
 					<div id="additional-information" class="accordion-body collapse">
 				  		<div class="accordion-inner">
-				   			<?php $product->list_attributes(); ?>
+				   			<?php wc_display_product_attributes($product); ?>
 				  		</div>
 					</div>
 				</div>
@@ -425,7 +413,7 @@
 	}
 	
 	
-	/*  for PRO users! -  WOO PRODUCT SHARE
+	/* WOO PRODUCT SHARE
 	================================================== */ 
 	if (!function_exists('sf_product_share')) {
 		function sf_product_share() {
@@ -450,7 +438,7 @@
 	}
 	
 	
-	/*  for PRO users! -  WOO HELP BAR
+	/* WOO HELP BAR
 	================================================== */ 
 	if (!function_exists('sf_woo_help_bar')) {
 		function sf_woo_help_bar() {
@@ -531,7 +519,8 @@
 		<?php }
 	}	
 	
-	/*  for PRO users! -  WOO SHIPPING CALC BEFORE
+	
+	/* WOO SHIPPING CALC BEFORE
 	================================================== */
 	if ( ! function_exists('sf_cart_shipping_calc_before')){
 		function sf_cart_shipping_calc_before() {
@@ -541,7 +530,8 @@
 		add_action( 'woocommerce_before_shipping_calculator', 'sf_cart_shipping_calc_before' );
 	}
 	
-	/*  for PRO users! -  WOO SHIPPING CALC AFTER
+	
+	/* WOO SHIPPING CALC AFTER
 	================================================== */
 	if ( ! function_exists('sf_cart_shipping_calc_after')){
 		function sf_cart_shipping_calc_after() {
@@ -549,4 +539,30 @@
 		}
 		add_action( 'woocommerce_after_shipping_calculator', 'sf_cart_shipping_calc_after' );
 	}
+	
+	
+	/* WOO VARIATION ADD TO CART BUTTON
+	================================================== */
+	remove_action( 'woocommerce_single_variation', 'woocommerce_single_variation_add_to_cart_button', 20 );
+	function sf_single_variation_add_to_cart_button() {
+		global $product;
+		$loading_text = __( 'Adding...', 'swiftframework' );
+		$added_text = __( 'Item added', 'swiftframework' );
+		$product_id = method_exists( $product, 'get_id' ) ? $product->get_id() : $product->id;
+		$product_type = method_exists( $product, 'get_type' ) ? $product->get_type() : $product->product_type;
+		?>
+		<div class="variations_button">
+			<?php woocommerce_quantity_input( array( 'input_value' => isset( $_POST['quantity'] ) ? wc_stock_amount( $_POST['quantity'] ) : 1 ) ); ?>
+			<?php 
+				$button_text = '<i class="ss-cart"></i>' . apply_filters('single_add_to_cart_text', __("Add to shopping bag", "swiftframework"), $product_type);
+			?>	
+			<button type="submit" data-product_id="<?php echo esc_attr($product_id); ?>" data-quantity="1" data-default_text="<?php echo esc_attr($product->single_add_to_cart_text()); ?>" data-default_icon="sf-icon-add-to-cart" data-loading_text="<?php echo esc_attr($loading_text); ?>" data-added_text="<?php echo esc_attr($added_text); ?>" class="single_add_to_cart_button button alt"><span><?php echo $button_text; ?></span></button>
+			<input type="hidden" name="add-to-cart" value="<?php echo absint( $product_id ); ?>" />
+			<input type="hidden" name="product_id" value="<?php echo absint( $product_id ); ?>" />
+			<input type="hidden" name="variation_id" class="variation_id" value="" />
+			<?php echo sf_wishlist_button(); ?>
+		</div>
+		<?php
+	}
+	add_action( 'woocommerce_single_variation', 'sf_single_variation_add_to_cart_button', 20 );
 ?>

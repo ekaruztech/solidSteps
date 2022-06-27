@@ -1,0 +1,91 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4788:"<p>Hej, timlönen för sommarjobb skiljer sig åt. Du som går på gymnasiet får enligt avtal 70 kr i timman inklusive semesterersättning. "Att lönerna för sommarjobb varierar är vanligt, men en del av kommunerna och landstingen betalar alldeles för lite. Det är viktigt att ungdomar som för första gången ska ut i arbetslivet får skälig lön och bra arbetsvillkor, oavsett var man bor", säger Maria Hansson, ombudsman Kommunal i ett pressmeddelande. </p> <p>"Att lönerna för sommarjobb varierar är vanligt, men en del av kommunerna och landstingen betalar alldeles för lite. Ibland går det fort i svängarna, och kanske dyker ett sommarjobb upp från en dag till en annan. </p> <p>Du som får erbjudande ska tacka ja eller nej via en länk på den här sidan. Arbetsdagen är 6-8 timmar och varje dag har du minst en halvtimmes rast. </p> <p>Länken öppnas i nytt fönster. </p> <p>Feriearbete för ungdomar födda 2002-2003 och feriepraktik för ungdomar födda 2004 kommer inte att kunna sökas i år 2020. </p> <p>... (knappval 1). </p> <p>Har företaget kollektivavtal är du i regel försäkrad på jobbet och då kan du prata med facket på företaget i förväg … Lågpresterande flickor får dock en fördel. Publicerad den 6 maj 2020 . Satsningarna på subventionerade sommarjobb tycks främst gynna en grupp. </p> <p>80 kronor och uppåt rekommenderar jag dig att satsa på. Egen lokalyta är ca 550 000 m2. Kommunala sommarjobb kan betala allt från 50-100 kronor i timmen för en 16-åring. Bostadsteamet förvaltar av kommunens fastighetsbestånd, i första hand bostäder för kommunala verksamheters behov. Det är något du kommer överens med arbetsgivaren innan du skriver på. När du fyllt 16 år får du ta många olika jobb, men du får inte arbeta med farliga kemikalier, på hög höjd, bergarbete, vissa byggnadsarbeten, maskiner där du kan skada dig, strakt styrt arbete där du inte kan påverka arbetstakten, transport av pengar, bevakning, slakt eller med farliga, svårt sjuka eller smittbärande människor. Det är dramatiska skillnader i lönekuvertet när det gäller sommarjobb. Det visar SvD Näringslivs kartläggning. Sommarjobb Tyvärr måste vi meddela att det inte kommer erbjudas några kommunala feriearbeten eller feriepraktik sommaren 2020. Publicerad den 6 maj 2020 . Kommunal arbetar på många olika sätt för att du ska få så mycket och så hög lön som möjligt. Kommunala sommarjobb för ungdomar Som tidigare år riktar sig sommarjobben till ungdomar som vårterminen 2020 går i år 9 i grundskolan, första eller andra året på gymnasiet och som är bosatta i Höganäs kommun. </p> <p>Du som är 16-20 år (född 2000-2004) och folkbokförd i Helsingborg kan söka sommarpraktik. Det motsvarar minimilöner inom flera branscher. Alla elever som går i årskurs 9 är garanterade ett sommarjobb om ansökan görs under ansökningsperioden. Vi skapar Tillväxt. Där står vad ni har kommit överens om för arbetsuppgifter, arbetstider och lön. </p> <p>Lyssna. Ansökningstiden för de kommunala sommarjobben för ungdomar har gått ut. Publicerad den 6 maj 2020 . Ansökningstiden för sommarjobben har gått ut och vi skickar besked till alla sökande via e-post senast den 17 april . Få bättre koll på din lön och semester! Ansökningstiden för de kommunala sommarjobben för ungdomar har gått ut. Har du frågor som rör lön eller anställning välj lön (knappval 2) Sommarjobb - Intresseanmälan. Det var för ungdomar som går ut första året på gymnasiet, dvs de som är födda 2003. Du som läser språkintroduktionsprogrammet (sprint) eller går i årskurs 9 kan söka sommarjobb via Uppsala kommun. Sommarjobb - Intresseanmälan. Lön är pengarna vi ska leva på, och därför en av våra allra viktigaste frågor. Att ha allt nerskrivet är skönt för båda parter. Jobb utan risker. Välkommen till sidan om sommarpraktik, det som tidigare kallades kommunala sommarjobb. Och behöver du personligt stöd, så finns vi här för dig. </p> <p>Det är bara Åre kommun som betalar rekommenderad lön till ungdomar som får kommunala sommarjobb, så kallad feriepraktik. På den här sidan annonserar vi om kommunala och privata feriejobb i kommunen.  Blir det platser lediga matchar vi dem med … Det visar SvD Näringslivs kartläggning. – Kommunala sommarjobb som generellt erbjudande ger inte mycket för pengarna, berättar han. We are using Google Translate when translating content on this website. Publicerad den 6 maj 2020 . </p> <p>Kommunala sommarjobb för ungdomar Som tidigare år riktar sig sommarjobben till ungdomar som vårterminen 2020 går i år 9 i grundskolan, första eller andra året på gymnasiet och som är bosatta i Höganäs kommun. </p> <p>Lyssna. </p>";s:7:"keyword";s:25:"kommunala sommarjobb lön";s:5:"links";s:5744:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=essentiella-aminosyror-hund'>Essentiella Aminosyror Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bandhagen-kommun-kontakt'>Bandhagen Kommun Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ralph-lauren-romance-50ml'>Ralph Lauren Romance 50ml</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llvandra-med-hund'>Fjällvandra Med Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=em-m%C3%B6bler-v%C3%A4ster%C3%A5s'>Em Möbler Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-engelska-skolan'>Ansökan Engelska Skolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resultat-innebandy-falun'>Resultat Innebandy Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=30-years%27-war-casualties'>30 Years' War Casualties</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hockey-fys-schema'>Hockey Fys Schema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ort-i-falkenberg'>Ort I Falkenberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ra-med-ett-sommard%C3%A4ck-och-tre-vinterd%C3%A4ck'>Köra Med Ett Sommardäck Och Tre Vinterdäck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=o-ring-gasolregulator'>O Ring Gasolregulator</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-husmanskost-s%C3%B6dermalm'>Svensk Husmanskost Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schoolsoft-%C3%A5s-skola'>Schoolsoft ås Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-hockeym%C3%A5lvakt-%C3%A5slin'>Svensk Hockeymålvakt åslin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fallskydd-s%C3%A4ng-jysk'>Fallskydd Säng Jysk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=postnummer-borl%C3%A4nge-skr%C3%A4ddarbacken'>Postnummer Borlänge Skräddarbacken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=installera-septitank-kostnad'>Installera Septitank Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%A4ckbyte-uppsala-librob%C3%A4ck'>Däckbyte Uppsala Librobäck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vw-sharan-tillbeh%C3%B6r'>Vw Sharan Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torsk-med-tomat'>Torsk Med Tomat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-tranquil-dawn-ncs'>Nordsjö Tranquil Dawn Ncs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marinad-till-entrec%C3%B4te'>Marinad Till Entrecôte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mer-mottaglig-efter-antibiotika'>Mer Mottaglig Efter Antibiotika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billiga-d%C3%A4ck-g%C3%B6teborg'>Billiga Däck Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=electra-kalmar-vd'>Electra Kalmar Vd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallander-f%C3%B6rsvunnen-imdb'>Wallander Försvunnen Imdb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ving-thassos-stad'>Ving Thassos Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muffins-roy-fares'>Muffins Roy Fares</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Zinkensdamm4%2C0%28964%290%2C2%C2%A0miles-bort51%C2%A0GBP'>Hotell Zinkensdamm4,0(964)0,2 miles Bort51 GBP</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=green-screen-tyg'>Green Screen Tyg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hummerskagen-allt-om-mat'>Hummerskagen Allt Om Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-g%C3%B6teborg-avenyn'>Lunch Göteborg Avenyn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dem-p%C3%A5-engelska'>Dem På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ingelsta-kalkon-%C3%B6ppettider'>Ingelsta Kalkon öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marcus-berg-krasnodar'>Marcus Berg Krasnodar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=putsa-silver-med-s%C3%A5pa'>Putsa Silver Med Såpa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%B6ken-flano-siffror'>Fröken Flano Siffror</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snabba-cash-jw'>Snabba Cash Jw</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inkoppling-tv%C3%A4ttmaskin-vatten'>Inkoppling Tvättmaskin Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=babben-larsson-melodifestivalen-2020'>Babben Larsson Melodifestivalen 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hereditary-netflix-release'>Hereditary Netflix Release</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-komiker-johan'>Svenska Komiker Johan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rkr%C3%A4m-under-sockerpasta'>Smörkräm Under Sockerpasta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=extra-energi-hund'>Extra Energi Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-1-mil-om-dagen'>Cykla 1 Mil Om Dagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=america%27s-got-talent-best-auditions-ever'>America's Got Talent Best Auditions Ever</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muskler-arbetar-synergiskt'>Muskler Arbetar Synergiskt</a>,
+";s:7:"expired";i:-1;}

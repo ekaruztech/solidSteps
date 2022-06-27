@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3017:"<p>Arkitekt är Erséus Arkitekter och ELU står för både konstruktion och geoteknik. Pristagare är Riksbyggens bostadsrättsförening Viva i Guldheden med Malmström Edström som arkitekter. Priset kommer från Per och Alma Olssons fond och delas ut av kommunfullmäktiges ordförande. En av dem ligger i Guldheden – och den andra i Torslanda… I dag delades det i arkitekturvärlden (i Göteborg) prestigefyllda priset “Årets bästa byggnad i Göteborg” </p> <p>I sin motivering skriver juryn bland annat följande om byggnaderna ”som en naturlig fortsättning på folkhemmets bostadsbyggande tar de plats bredvid Guldhedens klassiker” Riksbyggen har i många år arbetat för ett grönare Göteborg och därför är det extra roligt att utmärkelsen går till Brf Viva som har byggts med stort fokus på hållbarhet. Årets bästa byggnad – ett krematorium. Nu står det klart vilken Göteborgsbyggnad som kammade hem priset Årets bästa byggnad i Göteborg. Göteborgs Stad har utsett Riksbyggens Brf Viva till ”Årets bästa byggnad” i Göteborg. cedertrÄ frÅn kÄrnsund till gÖteborgs bÄsta byggnad 2019 Bostadsrättsföreningen Viva är årets bästa byggnad i Göteborg. Nu är projektet nominerat till Årets Bygge 2019. Göteborgs krematorium på Kvibergs kyrkogård fick utmärkelsen Göteborgs bästa byggnad 2018. </p> <p>11 december 2019. </p> <p>Idag delades priset Årets bästa byggnad i Göteborg ut från Per och Alma Olssons fond. De är Göteborgs två mest hyllade byggnader 2019. Nu är det dags att utse årets bästa byggnad i Göteborg. Dela. Priset delas ut av kommunfullmäktiges ordförande och prispengarna på 5 000 kronor kommer från Per och Almas fond. </p> <p>Den har tagit över tätplatsen som Växjös högsta byggnad. Krematoriet i Kviberg fick priset förra året. Göteborgs krematorium – Årets byggnad 2018 2019-01-11. Reaktionerna mot priset för ”Göteborgs bästa byggnad” är starka. Stockholms högsta bostadshus är en slank byggnad som reser sig 120 meter ovan jord. Det är en jury i Göteborg som utsett Kvibergs Krematorium till årets estetiskt bästa byggnad, färdigställd i staden 2018. – Utmärkelsen ”Årets bästa byggnad” är det finaste priset en byggherre kan få i Göteborg och vi är väldigt glada och hedrade. Tolv byggnader är nominerade och den 10 december meddelar juryn vinnaren. Kista torn. När priset för Årets bästa byggnad i Göteborg delas ut från Per och Alma Olssons fond, är det Riksbyggens bostadsrättsförening Viva i Guldheden med Malmström Edström som arkitekter som står som vinnare. </p> <p>Kista torn lyfter boende till en ny nivå. Arkitekurtupproret har fått stor spridning på sin sågning av byggnaden som beskrivs som ”en övergiven industribyggnad i Tjernobyl”. Den har inte bara ett spektakulärt yttre och inre.  Icon Växjö, som stod klar i höstas, är en byggnad som sätter Smålandsstaden på kartan och är en ny ikon i dubbel bemärkelse. </p> <p>Annons. </p>";s:7:"keyword";s:29:"årets byggnad göteborg 2019";s:5:"links";s:5556:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nibe-f750-hetgaslarm-55'>Nibe F750 Hetgaslarm 55</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dinli-450%2C-bra-eller-d%C3%A5lig'>Dinli 450, Bra Eller Dålig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smulpaj-med-vaniljs%C3%A5s'>Smulpaj Med Vaniljsås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madame-duang-b%C3%A5stad'>Madame Duang Båstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6rbyskolan----g%C3%A4vle'>Sörbyskolan -- Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-mamas-reaction'>The Mamas Reaction</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-dyraste-h%C3%A4stg%C3%A5rd'>Världens Dyraste Hästgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sofa-store-soffbord'>Sofa Store Soffbord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alpina-v%C3%A4rldscupen-eurosport'>Alpina Världscupen Eurosport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-morotskaka-potatismj%C3%B6l'>Glutenfri Morotskaka Potatismjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-teneriffa-december'>Väder Teneriffa December</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemmagjord-pasta-recept'>Hemmagjord Pasta Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakluckeloppis-hudiksvall-2019'>Bakluckeloppis Hudiksvall 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordisk-gudinna-nanna'>Nordisk Gudinna Nanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=namn-som-betyder-stj%C3%A4rna'>Namn Som Betyder Stjärna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=unicef-lediga-jobb'>Unicef Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygget-%C3%A5re-lista'>Bygget åre Lista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurant-strandv%C3%A4gen-1'>Restaurant Strandvägen 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-granen-t%C3%A4rnaby'>Förskolan Granen Tärnaby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rusta-lounge-grupp'>Rusta Lounge Grupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=packning-kran-biltema'>Packning Kran Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-dif-2006'>Aik Dif 2006</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-gs-800-test'>Bmw Gs 800 Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socialstyrelsen---legitimation-v%C3%A4ntetid'>Socialstyrelsen - Legitimation Väntetid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=audi-a1-f%C3%A4lgar'>Audi A1 Fälgar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-e36-et'>Bmw E36 Et</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=morden-i-midsomer---box-33'>Morden I Midsomer - Box 33</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%2Fs-baltic-queen'>M/s Baltic Queen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-ska-bygglovsans%C3%B6kan-inneh%C3%A5lla'>Vad Ska Bygglovsansökan Innehålla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-kiruna-flygplats'>Hotell Kiruna Flygplats</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abilar-i-arvika'>Abilar I Arvika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lopp-p%C3%A5-cykel-synonym'>Lopp På Cykel Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-mest-s%C3%A5lda-motorcykel'>Världens Mest Sålda Motorcykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dragracing-sverige-2020'>Dragracing Sverige 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skaldjurssoppa-med-potatis'>Skaldjurssoppa Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-phuket-november'>Väder Phuket November</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mossle-fritids-v%C3%A4rnamo'>Mossle Fritids Värnamo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pide-zeinas-kitchen'>Pide Zeinas Kitchen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallander-mastermind-imdb'>Wallander Mastermind Imdb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=styrkor-och-svagheter-med-en-kontracyklisk-finanspolitik'>Styrkor Och Svagheter Med En Kontracyklisk Finanspolitik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilka-djur-finns-i-slottsskogen'>Vilka Djur Finns I Slottsskogen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-e87-et'>Bmw E87 Et</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukers%C3%A4ttning-och-aktivitetsst%C3%B6d'>Sjukersättning Och Aktivitetsstöd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6pande-text-synonym'>Löpande Text Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gravid-vecka-8-svullen-mage'>Gravid Vecka 8 Svullen Mage</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-och-svettis-kontakt'>Friskis Och Svettis Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=musslor-p%C3%A5-belgiskt-vis'>Musslor På Belgiskt Vis</a>,
+";s:7:"expired";i:-1;}

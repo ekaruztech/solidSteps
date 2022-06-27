@@ -1,5 +1,5 @@
 <?php
-/*  for PRO users! - 
+/*
 WPUpdates Theme Updater Class
 http://wp-updates.com
 v2.0

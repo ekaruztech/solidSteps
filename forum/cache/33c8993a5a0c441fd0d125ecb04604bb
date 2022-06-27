@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3175:"<p>30 apr, 2020. ‎Varje litet moment som förenklar livspusslet räknas, och vi tror på en enklare vardag för föräldrar genom digitala lösningar. För många av landets mindre skolor innebär de krav Skolverket ställer för att en skola ska kunna genomföra ett digitalt nationellt prov år 2023, att Läs mer Personuppgiftshantering i skolan – dags för uppföljning av erfarenhetsutbytet i Västerås IST Home Skola underlättar närvarohanteringen och innebär mindre pappersarbete för föräldrar och personal. See you there! Alla utvecklade för en allt mer digitaliserad skola och värld. Top Nail/ REQ Göteborg Butik - Skola - Salong </p> <p>Email ask a Question service. Med hjälp av appen IST Home Skola kan du sköta ditt barns närvaro genom din telefon. </p> <p>IST Home Skola visar dagens väder. Expert advice, help and more than 2,500 pages with free info for collector's of Antique Chinese and Japanese Porcelain. Learn Swedish with a 4-week intensive course. Start this Monday on February 10th! För att använda appen behöver du en Iphone eller en Android-telefon. • Ta med gummistövlar? Neuroforum är ett neuro-pedagogiskt nätverk mellan forskare, lärare, ingenjörer, pedagoger, beteendevetare, studenter och andra som vill ta del av och tillämpa de stora framsteg som gjorts inom modern hjärnforskning de senaste årtiondena. 2,851 were here. </p> <p>Click on the picture to read more. Här kan du: registrera vistelsetider; sjukanmäla ditt barn, anmäla ledighet. </p> <p>Appen finns att ladda hem från App Store eller Google Play. </p> <p> Perfekt när du ska byta skola, välja skola eller när du vill ha information om … IST Home Skola är en del i en serie appar/tjänster som förenklar nutidens föräldraskap. Använd appen IST Home Skola. </p> <p>IST Home Skola underlättar närvarohanteringen och innebär mindre pappersarbete för föräldrar och personal. Det i sin tur innebär mer tid för barnen. </p> <p>Varje produkt är uppbyggd av applikationer, tjänster och integrationer som kan kombineras för att passa olika verksamheter och roller. </p> <p>folkuniversitetet.se Swedish courses in Göteborg, intensive daytime courses … </p> <p>“Busenkel” app pilottestas i Göteborg. </p> <p>Swedish Language Courses in Göteborg February 2020 . </p> <p>Mer härvaro helt enkelt. Dokument, ritningar, data, bilder och annat som krävs för att byggprojektet ska hålla ihop, lagras … Vistelsetider och närvaro • Ange vistelsescheman med några få klick. Det i sin tur innebär mer tid för barnen. IST Home Skola: Android app (2.0 ★, 10,000+ downloads) → IST Home Skola underlättar närvarohanteringen och innebär mindre pappersarbete för föräldrar och personal. </p> <p>Nytta och funktioner med IST Home Skola • Snabb översikt över tider. På Skolkollen hittar du uppdaterad information och statistik om alla skolor i Sverige. IST Everyday består av produkterna IST Administration, IST Lärande, IST Schema och IST Everyday Services. </p> <p>Aktuellt Mindre skolor ansluter till Skolfederation. Mer härvaro helt enkelt… Projektportalen som håller ihop byggprocessens alla dokument. </p>";s:7:"keyword";s:24:"ist home skola göteborg";s:5:"links";s:6036:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ncs-s-1502-y50r'>Ncs S 1502-y50r</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=statistik-allsvenskan-2019'>Statistik Allsvenskan 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madrass-80x200-ikea'>Madrass 80x200 Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chihuahua-ensam-hemma'>Chihuahua Ensam Hemma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nn-ingen-sorg'>Känn Ingen Sorg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=katt-resa-bort'>Katt Resa Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ivo-anm%C3%A4lda-l%C3%A4kare'>Ivo Anmälda Läkare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hundras-svart-brun'>Hundras Svart Brun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gli-p%C3%A5-italienska'>Gli På Italienska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj-min-resa'>Sj Min Resa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-kristall'>Absolut Vodka Kristall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=2018-esc-results'>2018 Esc Results</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=henning-mankell-eldens-hemlighet-analys'>Henning Mankell Eldens Hemlighet Analys</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kinnevik-il-b-skatteverket'>Kinnevik Il B Skatteverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slp-slutburk-arctic-cat'>Slp Slutburk Arctic Cat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6tbr%C3%B6d-fredriks-fika'>Grötbröd Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nner-sig-s%C3%A4ker'>Känner Sig Säker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ulf-lundell-skisser'>Ulf Lundell Skisser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4rningen-%C3%A4r-kastad-julius-caesar'>Tärningen är Kastad Julius Caesar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thai-ridgeback-uppf%C3%B6dare'>Thai Ridgeback Uppfödare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bovetegr%C3%B6t-eller-havregrynsgr%C3%B6t'>Bovetegröt Eller Havregrynsgröt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verf%C3%B6ra-pengar-till-utlandet-l%C3%A4nsf%C3%B6rs%C3%A4kringar'>överföra Pengar Till Utlandet Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4ddf%C3%A5t%C3%B6lj-ikea-lycksele'>Bäddfåtölj Ikea Lycksele</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-hilfiger-jeans-barn'>Tommy Hilfiger Jeans Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fotografiska-museet-entrepris'>Fotografiska Museet Entrepris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=central-biljard-malm%C3%B6'>Central Biljard Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filurens-f%C3%B6rskola-sj%C3%B6bo'>Filurens Förskola Sjöbo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=galvade-r%C3%B6r-biltema'>Galvade Rör Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bandhagen-kommun-kontakt'>Bandhagen Kommun Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A5rd--och-omsorg-gymnasium-g%C3%B6teborg'>Vård- Och Omsorg Gymnasium Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-p%C3%A5-%C3%A5land'>Bo På åland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lego-masters-uk'>Lego Masters Uk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-beh%C3%B6vs-personbevis'>När Behövs Personbevis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tibetansk-spaniel-pris'>Tibetansk Spaniel Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wokpanna-clas-ohlson'>Wokpanna Clas Ohlson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nilla-fischer-klubb'>Nilla Fischer Klubb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-smart-tv-media-player-app'>Samsung Smart Tv Media Player App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kort-effektivt-l%C3%B6ppass'>Kort Effektivt Löppass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-coru%C3%B1a-karta'>La Coruña Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=move-to-japan-from-sweden'>Move To Japan From Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=certificate-of-good-standing-l%C3%A4kare-socialstyrelsen'>Certificate Of Good Standing Läkare Socialstyrelsen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rita-situationsplan-sj%C3%A4lv'>Rita Situationsplan Själv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xxl-sverige-tr%C3%B6ja'>Xxl Sverige Tröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ncs-s-1502-y50r'>Ncs S 1502-y50r</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ebba-och-didrik-avsnitt-5'>Ebba Och Didrik Avsnitt 5</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=organics-by-sara-deo'>Organics By Sara Deo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=raska-promenader-g%C3%A5-ner-i-vikt'>Raska Promenader Gå Ner I Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobba-p%C3%A5-dagis-uppsala'>Jobba På Dagis Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekonomisk-h%C3%A5llbarhet-wikipedia'>Ekonomisk Hållbarhet Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonyms-to-convenient'>Synonyms To Convenient</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Victim-Number-8'>Victim Number 8</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2341:"<p>The hotel is situated in a beautiful 19th century building, close to Scandinavium, Ullevi Stadium and Liseberg. </p> <p>Hotell Onyxen er vurdert som &quot;Veldig bra&quot; av våre gjester. </p> <p>Se poi ti iscrivi alla nostra newsletter, potrai ricevere promozioni e offerte esclusive. Hotel; The Event District; Hotel Onyxen is a small hotel in the city center with about 30 rooms. </p> <p>Hotell Onyxen Göteborg, Göteborg, Sweden. Hotell Onyxen - Collocato a pochi minuti di cammino da Gothenburg City Museum, Hotell Onyxen offre 34 camere non fumatori. … 50 av 61 hotell i Göteborg og vurdert til 3,5 av 5 på Tripadvisor. </p> <p>You will … Ta en titt på bilder, les anmeldelser fra tidligere gjester og bestill hotell med vår prismatch. </p> <p>Vi vil også fortelle deg om hemmelige tilbud og salg når du registrerer deg for å motta våre e-poster. 256 likes. Hotell Onyxen fick betyget &quot;Mycket bra&quot; av våra gäster. </p> <p>Dai un’occhiata alla galleria fotografica, leggi le recensioni di viaggiatori come te e prenota ora con la Garanzia del prezzo. The family Hotell Onyxen is a great place to stay in Centrum district of Gothenburg in a reasonable distance from Horticultural Gardens (Tradgardsforeningen). See 143 traveler reviews, 100 candid photos, and great deals for Hotell Onyxen, ranked #50 of 61 hotels in Gothenburg and rated 3.5 of 5 at Tripadvisor. Con accenti di architettura in stile messicano, questo hotel è stato costruito nel 1880 e rinnovato nel 2008. Hotell Onyxen: gradevole - Guarda 143 recensioni imparziali, 100 foto di viaggiatori, e fantastiche offerte per Hotell Onyxen su Tripadvisor. Hotell Onyxen è stato giudicato &quot;Ottimo&quot; dai nostri utenti. Hotell Onyxen Gothenburg - 3 star hotel.  Now $79 (Was $̶8̶9̶) on Tripadvisor: Hotell Onyxen, Gothenburg. Titta igenom vårt fotobibliotek, läs recensioner från verifierade gäster och boka nu med vår prisgaranti. Vi meddelar dig till och med om hemliga erbjudanden och utförsäljningar när du registrerar dig för vårt nyhetsbrev. Hotel Onyxen Charming hotel right in the city centre. Hotell Onyxen är det lilla charmiga hotellet med ett av stans absolut bästa läge i Göteborg centrum . Hotell Onyxen, Göteborg: Se 143 reiseanmeldelser, 100 bilder og gode tilbud for Hotell Onyxen, vurdert som nr. </p>";s:7:"keyword";s:23:"hotell onyxen göteborg";s:5:"links";s:5412:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fixa-rummet-spel'>Fixa Rummet Spel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lg-g8x-prisjakt'>Lg G8x Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tuppkaka-med-saffran'>Tuppkaka Med Saffran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=du-%C3%A4r-den-ende-originalspr%C3%A5k'>Du är Den Ende Originalspråk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allehanda-sport-fotboll'>Allehanda Sport Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-%C3%A4r-det-viktigt-att-dricka-vatten'>Varför är Det Viktigt Att Dricka Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-link%C3%B6ping-ingenj%C3%B6r'>Sommarjobb Linköping Ingenjör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=makarska-rivieran-tips'>Makarska Rivieran Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=romantiska-filmer-2016'>Romantiska Filmer 2016</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanelbullar-1-liter-mj%C3%B6lk'>Kanelbullar 1 Liter Mjölk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-utsida-l%C3%A5r-l%C3%B6pning'>Ont Utsida Lår Löpning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rasers-livsl%C3%A4ngd-hund'>Rasers Livslängd Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-zakynthos-2020'>Tui Zakynthos 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6ten-h%C3%B6jd-%C3%B6ver-havet'>Stöten Höjd över Havet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedemora-kommun-blanketter'>Hedemora Kommun Blanketter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bodens-gk-banguide'>Bodens Gk Banguide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosa-huset-tyg'>Rosa Huset Tyg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brolunda-f%C3%B6rskola-s%C3%B6dert%C3%A4lje'>Brolunda Förskola Södertälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=servisventil-rinkaby-r%C3%B6r'>Servisventil Rinkaby Rör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ryggs%C3%A4ck-barn-intersport'>Ryggsäck Barn Intersport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mjuk-mandelkaka-%C3%A4gg'>Mjuk Mandelkaka ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spel-om-huden'>Spel Om Huden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magnus-uggla-cd'>Magnus Uggla Cd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eklk-4g1-5'>Eklk 4g1 5</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-l%C3%A5ngstrump-p%C3%A5-thail%C3%A4ndska'>Pippi Långstrump På Thailändska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=modus-120-s'>Modus 120 S</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broccoli-recept-pasta'>Broccoli Recept Pasta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffransmuffins-med-dadlar'>Saffransmuffins Med Dadlar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-blanca%2C-lanzarote-shopping'>Playa Blanca, Lanzarote Shopping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-%C3%96stersund3%2C8%28505%290%2C3%C2%A0km-bort97%C2%A0%E2%82%AC'>Hotell Östersund3,8(505)0,3 km Bort97 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=foreca-%C3%A5lands-hav'>Foreca ålands Hav</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=germany-fifa-20'>Germany Fifa 20</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lg-g8x-prisjakt'>Lg G8x Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leksand-if-trupp-2016'>Leksand If Trupp 2016</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kavat-barnskor-rea'>Kavat Barnskor Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykel-utan-trampor-barn'>Cykel Utan Trampor Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-sundbyberg-jobb'>Coop Sundbyberg Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vietnam-war-netflix'>Vietnam War Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=systembolaget-karlstad-sortiment'>Systembolaget Karlstad Sortiment</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adidas-yeezy-boost'>Adidas Yeezy Boost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volpino-italiano-livsl%C3%A4ngd'>Volpino Italiano Livslängd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-salami-basilika'>Pasta Salami Basilika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5-upp-i-vikt-tr%C3%A4ning'>Gå Upp I Vikt Träning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spett-jem-och-fix'>Spett Jem Och Fix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xkcd-cia-hack'>Xkcd Cia Hack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-f%C3%B6ddes-1991'>Jag Föddes 1991</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=politiskt-styre-eksj%C3%B6'>Politiskt Styre Eksjö</a>,
+";s:7:"expired";i:-1;}

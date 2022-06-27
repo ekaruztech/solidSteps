@@ -1,0 +1,100 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3766:"<p>Vår gravidkalender utgår från vad man brukar kalla graviditetsveckor, alltså antalet veckor efter senaste mensens första dag. Fingrar och tår börjar se mer färdiga ut. Lanugohåren ligger som fingeravtrycksliknande virvlar över hela kroppen och huden är fortfarande genomskinlig och saknar underhudsfett. Du har kommit till den 17:e graviditetsveckan och fostret fortsätter att utvecklas. </p> <p>Barnets ögon täcks av ögonlock och öppnar sig först omkring vecka 27. (Hemligt) Gravid vecka 17. Gravid vecka 17 Allt du behöver veta i vecka 17. av family.  </p> <p>Barnet har koncentrerat sig på att organen ska växa och utvecklas och har hittills varit ganska smal. </p> <p>En mysig liten lässtund som avslut på helgen, tänker jag. Ditt barn har även det blivit större. </p> <p>11 till 12 cm lång och väger 100 g. Bebisen är lika stor som en kupad hand. </p> <p>I vecka 17 blir ni kallade på ultraljudsundersökning. </p> <p>Bebisen samlar på sig fett, viktigt för … </p> <p>Hoppas att ni tycker att det är roligt! Kroppen är täckt av fett och fostret rör sig nu kraftfullt i livmodern. Nu börjar den samla på sig fett. </p> <p>Gravid i vecka 17. </p> <p>Det syns på dig som mamma att du är gravid. 16.31. </p> <p>10.51 Uppdaterad: 13 januari 2020 kl. Gravidvecka 17. Gravid Med Andra Barnet Gravid vecka för vecka Magbilder Från Graviditeterna. Eftersom jag skrivit en hemlig dagbok redan från gravidvecka 3, så tänker jag såklart fortsätta att skriva om alla veckor framöver också. </p> <p>Ägglossningen – och befruktningen – sker först omkring två veckor senare. Gravid vecka 17. </p> <p>Som en salt pinne (13 cm, 140 g) Underhudsfettet börjar bildas och huden blir allt mindre genomskinlig. och hennes barn! Fettet behövs för att kunna hålla värmen Gravid vecka 17 november 4, 2018 19:37. Gravid vecka för vecka barn nr 2 Magbilder graviditet nr 2. På bara den senaste veckan har fostret dubblerat sin vikt. Trots att smaklökarna har varit utvecklade under tid är det först nu som hen kan känna skillnad på smaker när du äter. </p> <p>Jag tänkte att det kan vara roligt att variera lite! Graviditetsvecka 17: Det här händer just nu, med bebisen i magen och med dig som är gravid. </p> <p>Bebis. Vikten har fördubblats de senaste två veckorna, och nu väger fostret cirka 170 gram. </p> <p>Barnets kropp är tunn, armar och ben är magra och det mesta av skelettet består i allt högre grad av brosk, som är mjukt och flexibelt. </p> <p>Publicerad: 13 januari 2020 kl. </p> <p>Här kommer gravid vecka för vecka i videoform! </p> <p>Gravid vecka 17 - så utvecklas barnet! GRAVIDITETEN VECKA FÖR VECKA Gravid i vecka 18 (från 17 hela veckor + 0 dagar till 17 hela veckor + 6 dagar) Fostret väger nu 250 gram. </p> <p>Gravid vecka 17, din bebis är nu ungefär lika stor som din kupade hand. Gravid vecka 17. </p> <p>Därför inte blivit tid till någon vilket journaling, men två bilder och några … Nu ska det käkas rester och tittas på House of Cards. 8 september, 2019 / Eftersom jag går in i ny vecka varje måndag tänkte jag dela med mig av graviduppdateringarna på söndagarna. </p> <p>Gravid vecka-för-vecka; Gravid i vecka 17 En näringskapsel med omsorgsfullt utvalda ingredienser till den blivande mamman. Det är 20 centimeter långt och har börjat lagra mer fett i kroppen. Gravid vecka 17 (16+0) Life with Kids 5 oktober, 2017 gravidveckor. Dela; Pinna; Email; En vecka full av planering och organisering inför vad julhelgen haft att erbjuda. </p> <p>Foto: AntonioGuillem / iStockphoto. Det går att ana alla de små linjer som senare kommer att bli fingeravtryck. </p> <p>Kanske har du redan känt första sparken och ultraljudet börjar närma sig. </p>";s:7:"keyword";s:258:"streams to royalties/**/OR/**/3475=(SELECT/**/(XMLType(CHR(69)||CHR(84)||CHR(65)||CHR(111)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(69)||CHR(84)||CHR(65)||CHR(111)))/**/FROM/**/DUAL)/**/AND/**/6538=6538";s:5:"links";s:6924:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=City-Backpackers4%2C6%28829%290%2C2%C2%A0km-bort36%C2%A0%E2%82%AC'>City Backpackers4,6(829)0,2 km Bort36 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ud-truck-range'>Ud Truck Range</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-unga-lider-av-psykisk-oh%C3%A4lsa'>Hur Många Unga Lider Av Psykisk Ohälsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-sm%C3%B6rdeg-fryst'>Ica Smördeg Fryst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6dra-roslags-tingsr%C3%A4tt'>Södra Roslags Tingsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=relining-inkommande-vatten'>Relining Inkommande Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ivo-anm%C3%A4lda-l%C3%A4kare'>Ivo Anmälda Läkare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=league-number-of-champions'>League Number Of Champions</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netto-hallsberg-%C3%B6ppettider'>Netto Hallsberg öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-news-youtube-australia'>Abc News Youtube Australia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bra-badminton-%C3%B6vningar'>Bra Badminton övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=imperativ-finit-verb'>Imperativ Finit Verb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Maria-Fahl-Vikander'>Maria Fahl Vikander</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedda-d%C3%A6hli-b%C3%B8'>Hedda Dæhli Bø</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sota-skorsten-pris'>Sota Skorsten Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-khao-lak'>Tui Khao Lak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hund-kissar-inne-stress'>Hund Kissar Inne Stress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6ten-ski-map'>Stöten Ski Map</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lutande-plan-hastighet'>Lutande Plan Hastighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kyckling-marengo-lergryta'>Kyckling Marengo Lergryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ex-on-the-beach-2020-stream'>Ex On The Beach 2020 Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemma-fr%C3%A5n-jobbet-utan-att-vara-sjuk'>Hemma Från Jobbet Utan Att Vara Sjuk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%B6ter-snus-thailand'>Böter Snus Thailand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=molly-sand%C3%A9n----stark-och-svag-och-allting-d%C3%A4remellan'>Molly Sandén -- Stark Och Svag Och Allting Däremellan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kostar-en-bouppteckning-hos-fonus'>Vad Kostar En Bouppteckning Hos Fonus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ifk-stockholm-p04'>Ifk Stockholm P04</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=happy-homes-stockholm'>Happy Homes Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfria-frallor-med-%C3%A4gg'>Glutenfria Frallor Med ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=big-brother---s%C3%A4song-9'>Big Brother - Säsong 9</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kompis-mat-och-prat'>Kompis Mat Och Prat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varm-s%C3%A5s-till-r%C3%B6kt-k%C3%B6tt'>Varm Sås Till Rökt Kött</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-last-time-chords'>One Last Time Chords</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=continental-icecontact-3-225%2F55r17'>Continental Icecontact 3 225/55r17</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-on-call-login'>Volvo On Call Login</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pontus-rasmusson-bedr%C3%A4geri'>Pontus Rasmusson Bedrägeri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-steninge-slott'>Hyra Steninge Slott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apoteket-%C3%B6ppettider-g%C3%B6teborg'>Apoteket öppettider Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-heminredning-lule%C3%A5'>Blocket Heminredning Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studief%C3%B6rbundet-vuxenskolan-vetlanda'>Studieförbundet Vuxenskolan Vetlanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kia-ceed-9000-mil-service-pris'>Kia Ceed 9000 Mil Service Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=felix-veggie-paj'>Felix Veggie Paj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakterietillv%C3%A4xt-i-vatten'>Bakterietillväxt I Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hampus-nessvold-kalmar'>Hampus Nessvold Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4nka-vid-halsfluss'>Sänka Vid Halsfluss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabelsats-4-extraljus'>Kabelsats 4 Extraljus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mariah-carey-sverige-2015'>Mariah Carey Sverige 2015</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=latissimus-dorsi-antagonist-muscle'>Latissimus Dorsi Antagonist Muscle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygglov-altan-bolln%C3%A4s'>Bygglov Altan Bollnäs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-v90-uppdatering'>Volvo V90 Uppdatering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fn-v%C3%A4pnade-konflikter'>Fn Väpnade Konflikter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ek-k%C3%B6k-inspiration'>Ek Kök Inspiration</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6r-att-starta-med-ponny-kr%C3%A4vs-ett-g%C3%A4llande-svenskt'>För Att Starta Med Ponny Krävs Ett Gällande Svenskt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ingen-gnista-husqvarna-flinta'>Ingen Gnista Husqvarna Flinta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sky-news-arabic'>Sky News Arabic</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-har-aldrig-h%C3%A4st-fr%C3%A5gor'>Jag Har Aldrig Häst Frågor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunchrestauranger-p%C3%A5-liding%C3%B6'>Lunchrestauranger På Lidingö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emblem-maffia-sicilien'>Emblem Maffia Sicilien</a>,
+";s:7:"expired";i:-1;}

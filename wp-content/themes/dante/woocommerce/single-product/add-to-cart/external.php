@@ -1,5 +1,5 @@
 <?php
-/*  for PRO users! - *
+/**
  * External product add to cart
  *
  * @author 		WooThemes

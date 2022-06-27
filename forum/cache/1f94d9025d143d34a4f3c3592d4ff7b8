@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:844:"<p>Öppettider vardagar 07.30-14.00 Frukost 07.30-09.30 | Lunch 11.00-13,30. Köttbullar med gräddsås och hemlagat potatismos, lingonsylt. </p> <p>Grönsaksgryta med ajvar relish , kesogremolata och potatis . Telefon: 026-155217 esset@nordrest.se. Visa menyn för denna vecka.  </p> <p>Morgondagens meny . Dagens meny . </p> <p>Restaurang Esset Gävle Sjukhus, Gävle, Sweden. Restauran ; Endast kortbetalning på restaurang Aptit. Stekt limemarinerad kyckling med grönsaksris. För hotellgäster med helpension ingår alla måltider samt kaffe, frukt och dryck mellan måltiderna. 803 24 Gävle. Gävle sjukhus Information om mottagningar och avdelningar, inför ditt besök på sjukhuset och övrig service på sjukhuset. Vid behov av specialkost, tala med personalen Välkommen till restaurang Kustsidan på Piteå sjukhus! 10 likes. </p>";s:7:"keyword";s:27:"restaurang sjukhuset gävle";s:5:"links";s:4970:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sons-of-anarchy-boss'>Sons Of Anarchy Boss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rml%C3%A4ndsk-voodoo-ume%C3%A5'>Värmländsk Voodoo Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hjalmars-bil-v%C3%A4xj%C3%B6-omd%C3%B6me'>Hjalmars Bil Växjö Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-biobiljetter-f%C3%B6retag'>Köpa Biobiljetter Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adlibris-retur-kostnad'>Adlibris Retur Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sin%2C-sitt%2C-sina-%C3%B6vningar'>Sin, Sitt, Sina övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=doppresent-kille-smycke'>Doppresent Kille Smycke</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rhodesian-ridgeback-valpar-2020'>Rhodesian Ridgeback Valpar 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skanstulls-vandrarhem-ab'>Skanstulls Vandrarhem Ab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=darin-konsert-2020'>Darin Konsert 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-om-oss'>Ikea Om Oss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosens-namn-netflix'>Rosens Namn Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lady-minerals-revive'>Lady Minerals Revive</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-ton-synonym'>Byta Ton Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carl-milles-folkungabrunnen'>Carl Milles Folkungabrunnen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-stort-%C3%A4r-ett-protein'>Hur Stort är Ett Protein</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mitt-k%C3%B6k-veganska-lussebullar'>Mitt Kök Veganska Lussebullar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=igensatt-avluftning-avlopp'>Igensatt Avluftning Avlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=las-dunas-fuerteventura'>Las Dunas Fuerteventura</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olika-typer-av-varmvattenberedare'>Olika Typer Av Varmvattenberedare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirius-bandy-p03'>Sirius Bandy P03</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rkr%C3%A4m-med-mascarpone'>Smörkräm Med Mascarpone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grytbitar-%C3%A4lg-i-lergryta'>Grytbitar älg I Lergryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5s-utan-gr%C3%A4dde-och-mj%C3%B6lk'>Sås Utan Grädde Och Mjölk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaksala-sk-innebandy'>Vaksala Sk Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%A4ck-uppsala-librob%C3%A4ck'>Däck Uppsala Librobäck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=red-cross-wikipedia'>Red Cross Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%B6tytterfil%C3%A9-i-ugn-innertemperatur'>Nötytterfilé I Ugn Innertemperatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-s%C3%A4ng-av-rosor-newkid'>En Säng Av Rosor Newkid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-skeppet%2C-nyhamnsl%C3%A4ge'>Ica Skeppet, Nyhamnsläge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bli-av-med-virus-i-kroppen'>Bli Av Med Virus I Kroppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llvandra-med-hund'>Fjällvandra Med Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A5djurssadel-sous-vide'>Rådjurssadel Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vara-med-i-fixarm%C3%A4starna'>Vara Med I Fixarmästarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=santa-barbara-city-college-kurser'>Santa Barbara City College Kurser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kjell-bergqvist-tv4'>Kjell Bergqvist Tv4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pontus-rasmusson-sjunger'>Pontus Rasmusson Sjunger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=procivitas-student-2020'>Procivitas Student 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-kalmar-stream'>Aik Kalmar Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skriva-kvitto-i-efterhand'>Skriva Kvitto I Efterhand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=3-v%C3%A4gs-kulventil-hydraulik'>3-vägs Kulventil Hydraulik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elvis-heartbreak-hotel'>Elvis Heartbreak Hotel</a>,
+";s:7:"expired";i:-1;}

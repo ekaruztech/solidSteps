@@ -1,0 +1,108 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3222:"<p>This is an aspect ratio of 9:16. Instagram story dimensions are 1080 pixels (width) by 1920 pixels (height), this also means an aspect ratio of 9:16. Horizontal Videos: Landscape Ascpect ratio between 1.91:1 amd 16:9 Using this ratio, smaller Instagram Story dimensions will also work. The correct size to use will be determined by where you publish it: Square Videos Aspect ratio of 1:1 1080px by 1080 Duration between 2 and 60 seconds . The ultimate Instagram photo size guidelines & templates Kacie Hughes — May 2, 2019 If you’re a social media manager, then I’m sure you think about your company’s or client’s Instagram aesthetic at least once or twice a day. INSTAGRAM STORY DIMENSIONS: LENGTH, SIZE AND ASPECT RATIO. The size I … Don’t worry; this will not change the shape of the video. Again, the ideal Instagram story resolution is 1080 x 1920 pixels. You can scale down by retaining this ratio to sizes like 900 x 1600 pixels or 720 x 1280 pixels. Instagram image size: Video Posts. Looking for Facebook ad specs? Latest stories. So the trend here is that no matter what size image you upload, Instagram is resizing it to a maximum width of 1080px and displaying a version with a maximum width of 600px. Read about Facebook ad dimensions in 2020. Don’t do this to your photos. The Instagram Highlights feature lets you group and save important, educational, or entertaining content from your stories.Unlike regular Instagram stories, which disappear after 24 hours, highlights are saved to custom categories on your Instagram … For Instagram landscape images, the smallest I have tested on was at 1920×1080 which Instagram then displayed at 600×337.As it turns out, though, Instagram ended up storing a version that is 1080×607.. Your Instagram story size aspect ratio is 9:16 after all. In 2020, the displayed size of a Facebook profile picture size is 170 x 170 pixels on desktop devices and 128 x 128 pixels on smartphones. Pinterest profile picture size: 165px x 165px; LinkedIn profile picture size: 400px x 400px, 300px x 300px (company logo), 60px x 60px (square logo) Aspect ratio basically means the proportions in terms of width and height. When advertising on Instagram, you’ll have an option to use more than one ad type. </p> <p>Instagram Live videos have the same specs as Story videos, meaning: Videos should be vertical (not landscape) with an aspect ratio of 9:16. On Instagram, you can upload a video to your timeline or share it to Instagram stories. Instagram profile picture size: 110px x 110px (min.) Instagram stories are displayed in portrait orientation with the best size for display being 1080 pixels wide by 1920 pixels tall.  </p> <p>If your photo size is over 30MB (which is highly unlikely), you can reduce image size with an online tool like Reduce Images or Compress Image.. You can use online tools like You Compress or Video Compressor by Wondershare to reduce video file size to match Instagram Stories size guidelines.. 3. Aspect Ratio 1:1 (Square) Recommended Size (per Instagram): 160 pixels x 160 pixels. 13 Min Read. However, there is more to know about Instagram ad specs and size. The size of an Instagram Feed post is 1080 x 1080 pixels. </p>";s:7:"keyword";s:105:"debattartikel om läxor') AND (SELECT CHAR(110)||CHAR(106)||CHAR(97)||CHAR(121))='cbah' AND ('OWRB'='OWRB";s:5:"links";s:7942:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=munkedals-herrg%C3%A5rd-restaurang'>Munkedals Herrgård Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-motala-sn%C3%A4ckan'>Lunch Motala Snäckan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skara-sommarland-erbjudande'>Skara Sommarland Erbjudande</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ng-till-8-%C3%A5ring'>Säng Till 8 åring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gastrolux-biotan-28-cm'>Gastrolux Biotan 28 Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telenor-bredbandsbolaget-tv'>Telenor Bredbandsbolaget Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=molly-sand%C3%A9n----stark-och-svag-och-allting-d%C3%A4remellan'>Molly Sandén -- Stark Och Svag Och Allting Däremellan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5ngsamt-lagat-fl%C3%A4skk%C3%B6tt-coop'>Långsamt Lagat Fläskkött Coop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=to-mean-synonym'>To Mean Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=argumenterande-fraser-engelska'>Argumenterande Fraser Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halmstad-museum-%C3%B6ppettider'>Halmstad Museum öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steam-hotel-erbjudande'>Steam Hotel Erbjudande</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=red-cross-wikipedia'>Red Cross Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-var-anna-lindh'>Vem Var Anna Lindh</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=romantisk-serie-netflix'>Romantisk Serie Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-punch-man-wiki-zombieman'>One Punch Man Wiki Zombieman</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cocktail-bar-vasastan'>Cocktail Bar Vasastan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ystad-kommun-inv%C3%A5nare'>Ystad Kommun Invånare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ume%C3%A5-kommun-vatten-och-avlopp'>Umeå Kommun Vatten Och Avlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bokstavshissen-%3A-j'>Bokstavshissen : J</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anm%C3%A4la-djurpl%C3%A5geri-dalarna'>Anmäla Djurplågeri Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=greekazo-dree-low-lyrics'>Greekazo Dree Low Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-f%C3%A5t%C3%B6lj-ikea'>Stockholm Fåtölj Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5-kompassros-webbkryss'>På Kompassros Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=distansundervisning-grundskola-skolverket'>Distansundervisning Grundskola Skolverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hiking-skor-rea'>Hiking Skor Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=domino%27s-order-online'>Domino's Order Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ellos-mina-best%C3%A4llningar'>Ellos Mina Beställningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utv%C3%A4xt-p%C3%A5-haka-synonym'>Utväxt På Haka Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spirans-f%C3%B6rskola-huddinge'>Spirans Förskola Huddinge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=es-calibur-meaning'>Es Calibur Meaning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verklagan-lvm-kammarr%C3%A4tten'>överklagan Lvm Kammarrätten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flatcoated-retriever-jakt'>Flatcoated Retriever Jakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kenda-d%C3%A4ck-cykel'>Kenda Däck Cykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ultraljud-vecka-18-missbildning'>Ultraljud Vecka 18 Missbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ford-explorer-2019-sverige'>Ford Explorer 2019 Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=transdev-lediga-jobb'>Transdev Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rens-sken-webbkryss'>Rens Sken Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smartstore-compact-clear'>Smartstore Compact Clear</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cheesecake-bottom-layer'>Cheesecake Bottom Layer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6t-ihop-p%C3%A5-jobbet'>Bröt Ihop På Jobbet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=extraljus-rel%C3%A4-mekonomen'>Extraljus Relä Mekonomen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gotlands-allehanda-kundservice'>Gotlands Allehanda Kundservice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ns-zelmerl%C3%B6w-l%C3%A4ngd'>Måns Zelmerlöw Längd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valborgsfirande-vimmerby-kommun'>Valborgsfirande Vimmerby Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mikael-tornving-melodifestivalen'>Mikael Tornving Melodifestivalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-har-f%C3%B6rskoll%C3%A4rarens-uppdrag-%C3%A4ndrats-%C3%B6ver-tid'>Hur Har Förskollärarens Uppdrag ändrats över Tid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koh-samui-karta'>Koh Samui Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-a35-amg'>Mercedes A35 Amg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seb-aktie-utdelning'>Seb Aktie Utdelning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thera-%C3%B6-webbkryss'>Thera ö Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buske-med-gula-blommor-p%C3%A5-bar-kvist'>Buske Med Gula Blommor På Bar Kvist</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helvetesgr%C3%A4nd-gamla-stan'>Helvetesgränd Gamla Stan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kylv%C3%A4tska-motorcraft-super-plus'>Kylvätska Motorcraft Super Plus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4ckande-tak-f%C3%B6rs%C3%A4kring'>Läckande Tak Försäkring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=khao-lak-hotell-tui'>Khao Lak Hotell Tui</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Mayfair-Hotel-Tunneln4%2C4%28852%290%2C2%C2%A0miles-bort75%C2%A0US%24'>Mayfair Hotel Tunneln4,4(852)0,2 miles Bort75 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pelarg%C3%A5ngen-1-arlanda'>Pelargången 1 Arlanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kokostoppar-allt-om-mat'>Kokostoppar Allt Om Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-st%C3%B6rsta-%C3%B6grupp'>Världens Största ögrupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=willys-%C3%B6ppettider-k%C3%A5llered'>Willys öppettider Kållered</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-l%C3%A4ndryggen'>Ont I Ländryggen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boston-bruins-kl%C3%A4der'>Boston Bruins Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=annica-englund-%C3%B6stersund'>Annica Englund östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-m%C3%A4ssa-helsingfors-2020'>Mc-mässa Helsingfors 2020</a>,
+";s:7:"expired";i:-1;}

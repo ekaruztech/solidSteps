@@ -1,6 +1,6 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Shortcode Mapper Class
 	*	------------------------------------------------
@@ -191,26 +191,36 @@
 			$output .= '<ul class="nav pull-left pre-built-pages-nav">
 	                                <li class="dropdown">
 	                                    <a class="dropdown-toggle spb_prebuilt_pages" data-slideout="spb-prebuilt-pages" href="#">'.__('Pre-Built Pages', "swiftframework").' <b class="caret"></b></a>
-	                                    <ul class="dropdown-menu spb_templates_ul">
-	                            			<li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home">Home</a></li>
-	                            			<li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-2">Home (Example Two)</a></li>
-	                            			<li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-3">Home (Example Three)</a></li>
-	                            			<li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-4">Home (Example Four)</a></li>
-	                            			<li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-5">Home (Example Five)</a></li>
-	                            			<li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-6">Home (Example Six)</a></li>
-	                            			<li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-7">Home (Example Seven)</a></li>
-	                            			<li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-8">Home (Example Eight)</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-about-us">About Us</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-about-us-alt">About Us (Alt)</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-contact">Contact</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-contact-alt">Contact (Alt)</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-help-faq">Help Center / F.A.Q</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-our-offices">Our Offices</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-services">Services & Capabilities</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-meet-the-team">Meet the team</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-pricing">Pricing</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-portfolio">Portfolio</a></li>
-	                                        <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-blog">Blog</a></li>
+	                                    <ul class="dropdown-menu spb_templates_ul">                                        
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home">Home</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-2">Home (Example Two)</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-3">Home (Agency)</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-4">Home (Corporate)</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-5">Home (One Page Wonder)</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-6">Home (Classic)</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-7">Home (Shop)</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-about">About</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-about-2">About 2</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-careers">Careers</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-contact">Contact</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-contact-2">Contact 2</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-delivery">Delivery & Returns</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-help-faq">Help Center / F.A.Q</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-meet-team">Meet The Team</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-our-offices">Our Offices</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-pricing">Pricing</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-payment">Payment</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-privacy">Privacy</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-services">Services & Capabilities</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-services-2">Services & Capabilities Alt</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-stores">Stores</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-portfolio">Portfolio</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-portfolio-example">Portfolio Item Example</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-blog">Blog</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-blog-example">Blog Post Example</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-parallax-demo">Parallax Demo</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-coming-soon">Coming Soon</a></li>
+                    	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-maintenance-mode">Maintenance</a></li>
 	                                    </ul>
 	                                </li>
 	                            </ul>
@@ -240,25 +250,35 @@
 	            	    '.$this->getContentLayouts().'
 	            	</ul>
 	            	<ul class="spb-prebuilt-pages spb-item-slideout clearfix">
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home">Home</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home">Home</a></li>
 	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-2">Home (Example Two)</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-3">Home (Example Three)</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-4">Home (Example Four)</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-5">Home (Example Five)</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-6">Home (Example Six)</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-7">Home (Example Seven)</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-8">Home (Example Eight)</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-about-us">About Us</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-about-us-alt">About Us (Alt)</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-3">Home (Agency)</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-4">Home (Corporate)</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-5">Home (One Page Wonder)</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-6">Home (Classic)</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-home-7">Home (Shop)</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-about">About</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-about-2">About 2</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-careers">Careers</a></li>
 	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-contact">Contact</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-contact-alt">Contact (Alt)</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-contact-2">Contact 2</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-delivery">Delivery & Returns</a></li>
 	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-help-faq">Help Center / F.A.Q</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-meet-team">Meet The Team</a></li>
 	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-our-offices">Our Offices</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-services">Services & Capabilities</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-meet-the-team">Meet the team</a></li>
 	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-pricing">Pricing</a></li>
-	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-portfolio">Portfolio</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-payment">Payment</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-privacy">Privacy</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-services">Services & Capabilities</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-services-2">Services & Capabilities Alt</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-stores">Stores</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-portfolio">Portfolio</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-portfolio-example">Portfolio Item Example</a></li>
 	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-blog">Blog</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-blog-example">Blog Post Example</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-parallax-demo">Parallax Demo</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-coming-soon">Coming Soon</a></li>
+	            	    <li class="sf_prebuilt_template"><a href="#" data-template_id="sf-maintenance-mode">Maintenance</a></li>
 	            	</ul>
 	            </div>
 	            <style type="text/css">#swift_page_builder {display: none;}</style>';

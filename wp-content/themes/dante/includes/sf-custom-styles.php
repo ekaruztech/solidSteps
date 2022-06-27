@@ -1,10 +1,10 @@
 <?php
-	/*  for PRO users! - 
+	/*
 	*
 	*	Theme Styling Functions
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_custom_styles()
 	*	sf_custom_script()
@@ -12,7 +12,7 @@
 	*/
 
 
- 	/*  for PRO users! -  CUSTOM CSS OUTPUT
+ 	/* CUSTOM CSS OUTPUT
  	================================================== */
  	if (!function_exists('sf_custom_styles')) {
 		function sf_custom_styles() {
@@ -278,7 +278,14 @@
 			$alt_ten_bg_image = $options['alt_ten_bg_image'];
 			}
 			$alt_ten_bg_image_size = $options['alt_ten_bg_image_size'];
-
+	
+		
+			// MOBILE ANIMS
+			$disable_mobile_animations = true;
+			if ( isset( $options['disable_mobile_animations'] ) ) {
+			$disable_mobile_animations = $options['disable_mobile_animations'];
+			}
+			
 			// PAGE BACKGROUND IMAGE //
 			$bg_image_url = $inner_bg_image_url = "";
 			$page_background_image = rwmb_meta('sf_background_image', 'type=image&size=full');
@@ -372,7 +379,7 @@
 					width: 340px;
 				}
 
-				/*  for PRO users! -  PRODUCTS */
+				/* PRODUCTS */
 				body .has-no-sidebar ul.products li.product {
 					width: 212px;
 					float: left;
@@ -380,10 +387,7 @@
 				body .has-one-sidebar ul.products li.product {
 					width: 140px;
 				}
-				body.woocommerce .has-one-sidebar .upsells.products ul.products li.product, body.woocommerce .has-one-sidebar .related.products ul.products li.product  {
-					width: 139px;
-				}
-				body.woocommerce .has-no-sidebar ul.products li.product, body.woocommerce .has-no-sidebar .upsells.products ul.products li.product, body.woocommerce .has-no-sidebar .related.products ul.products li.product, body.woocommerce .has-one-sidebar ul.products li.product {
+				body.woocommerce .has-no-sidebar ul.products li.product, body.woocommerce .has-one-sidebar ul.products li.product {
 					width: 212px
 				}
 				body .has-one-sidebar .products-standard.span8 ul.products li.product {
@@ -425,13 +429,13 @@
 				  min-height: 1px;
 				  margin-left: 30px;
 				  box-sizing:content-box!important;
-				  -moz-box-sizing:content-box!important; /*  for PRO users! -  Firefox */
-				  -webkit-box-sizing:content-box!important; /*  for PRO users! -  Safari */
+				  -moz-box-sizing:content-box!important; /* Firefox */
+				  -webkit-box-sizing:content-box!important; /* Safari */
 				}
 				.sidebar {
 				  box-sizing:border-box!important;
-				  -moz-box-sizing:border-box!important; /*  for PRO users! -  Firefox */
-				  -webkit-box-sizing:border-box!important; /*  for PRO users! -  Safari */
+				  -moz-box-sizing:border-box!important; /* Firefox */
+				  -webkit-box-sizing:border-box!important; /* Safari */
 				}
 				.container,
 				.navbar-static-top .container,
@@ -661,7 +665,7 @@
 				.visible-xs, .visible-sm, .visible-xs.visible-sm {
 					display:none!important;
 				}
-				/*  for PRO users! -  PRODUCTS */
+				/* PRODUCTS */
 				.woocommerce ul.products li.product {
 					margin-left: 30px;
 				}
@@ -690,17 +694,17 @@
 				body .has-both-sidebars .products-mini ul.products li.product {
 					width: 170px;
 				}
-				body.woocommerce .has-no-sidebar ul.products li.product, body.woocommerce .has-no-sidebar .upsells.products ul.products li.product {
+				body.woocommerce .has-no-sidebar ul.products li.product {
 					width: 262px;
 				}
-				body.woocommerce .has-one-sidebar ul.products li.product, body.woocommerce .has-one-sidebar .upsells.products ul.products li.product {
+				body.woocommerce .has-one-sidebar ul.products li.product {
 					width: 270px;
 				}
 				body.woocommerce .has-both-sidebars ul.products li.product, body.woocommerce .has-both-sidebars ul.products li.product {
 					width: 252px;
 				}
 
-				/*  for PRO users! -  WIDGETS */
+				/* WIDGETS */
 				.caroufredsel_wrapper {
 					margin-left: -30px!important;
 				}
@@ -723,7 +727,7 @@
 			// CUSTOM COLOUR STYLES
 			echo '::selection, ::-moz-selection {background-color: '.$accent_color.'; color: #fff;}';
 			echo '.recent-post figure, span.highlighted, span.dropcap4, .loved-item:hover .loved-count, .flickr-widget li, .portfolio-grid li, input[type="submit"], .wpcf7 input.wpcf7-submit[type="submit"], .gform_wrapper input[type="submit"], .mymail-form input[type="submit"], .woocommerce-page nav.woocommerce-pagination ul li span.current, .woocommerce nav.woocommerce-pagination ul li span.current, figcaption .product-added, .woocommerce .wc-new-badge, .yith-wcwl-wishlistexistsbrowse a, .yith-wcwl-wishlistaddedbrowse a, .woocommerce .widget_layered_nav ul li.chosen > *, .woocommerce .widget_layered_nav_filters ul li a, .sticky-post-icon, .fw-video-close:hover {background-color: '.$accent_color.'!important; color: '.$accent_alt_color.';}';
-			echo 'a:hover, #sidebar a:hover, .pagination-wrap a:hover, .carousel-nav a:hover, .portfolio-pagination div:hover > i, #footer a:hover, #copyright a, .beam-me-up a:hover span, .portfolio-item .portfolio-item-permalink, .read-more-link, .blog-item .read-more, .blog-item-details a:hover, .author-link, #reply-title small a, #respond .form-submit input:hover, span.dropcap2, .spb_divider.go_to_top a, love-it-wrapper:hover .love-it, .love-it-wrapper:hover span.love-count, .love-it-wrapper .loved, .comments-likes .loved span.love-count, .comments-likes a:hover i, .comments-likes .love-it-wrapper:hover a i, .comments-likes a:hover span, .love-it-wrapper:hover a i, .item-link:hover, #header-translation p a, #swift-slider .flex-caption-large h1 a:hover, .wooslider .slide-title a:hover, .caption-details-inner .details span > a, .caption-details-inner .chart span, .caption-details-inner .chart i, #swift-slider .flex-caption-large .chart i, #breadcrumbs a:hover, .ui-widget-content a:hover, .yith-wcwl-add-button a:hover, #product-img-slider li a.zoom:hover, .woocommerce .star-rating span, .article-body-wrap .share-links a:hover, ul.member-contact li a:hover, .price ins, .bag-product a.remove:hover, .bag-product-title a:hover, #back-to-top:hover,  ul.member-contact li a:hover, .fw-video-link-image:hover i, .ajax-search-results .all-results:hover, .search-result h5 a:hover .ui-state-default a:hover {color: '.$link_hover_color.';}';
+			echo 'a:hover, a:focus, #sidebar a:hover, .pagination-wrap a:hover, .carousel-nav a:hover, .portfolio-pagination div:hover > i, #footer a:hover, #copyright a, .beam-me-up a:hover span, .portfolio-item .portfolio-item-permalink, .read-more-link, .blog-item .read-more, .blog-item-details a:hover, .author-link, #reply-title small a, #respond .form-submit input:hover, span.dropcap2, .spb_divider.go_to_top a, love-it-wrapper:hover .love-it, .love-it-wrapper:hover span.love-count, .love-it-wrapper .loved, .comments-likes .loved span.love-count, .comments-likes a:hover i, .comments-likes .love-it-wrapper:hover a i, .comments-likes a:hover span, .love-it-wrapper:hover a i, .item-link:hover, #header-translation p a, #swift-slider .flex-caption-large h1 a:hover, .wooslider .slide-title a:hover, .caption-details-inner .details span > a, .caption-details-inner .chart span, .caption-details-inner .chart i, #swift-slider .flex-caption-large .chart i, #breadcrumbs a:hover, .ui-widget-content a:hover, .yith-wcwl-add-button a:hover, #product-img-slider li a.zoom:hover, .woocommerce .star-rating span, .article-body-wrap .share-links a:hover, ul.member-contact li a:hover, .price ins, .bag-product a.remove:hover, .bag-product-title a:hover, #back-to-top:hover,  ul.member-contact li a:hover, .fw-video-link-image:hover i, .ajax-search-results .all-results:hover, .search-result h5 a:hover .ui-state-default a:hover {color: '.$link_hover_color.';}';
 			echo '.carousel-wrap > a:hover, #mobile-menu ul li:hover > a {color: '.$accent_color.'!important;}';
 			echo '.comments-likes a:hover span, .comments-likes a:hover i {color: '.$accent_color.'!important;}';
 			echo '.read-more i:before, .read-more em:before {color: '.$accent_color.';}';
@@ -836,7 +840,7 @@
 			echo 'nav .menu ul.sub-menu li {border-bottom-color: '.$nav_divider_color.';border-bottom-style: '.$nav_divider.';}';
 			echo 'nav.mega-menu li .mega .sub .sub-menu, nav.mega-menu li .mega .sub .sub-menu li, nav.mega-menu li .sub-container.non-mega li, nav.mega-menu li .sub li.mega-hdr {border-top-color: '.$nav_divider_color.';border-top-style: '.$nav_divider.';}';
 			echo 'nav.mega-menu li .sub li.mega-hdr {border-right-color: '.$nav_divider_color.';border-right-style: '.$nav_divider.';}';
-			echo 'nav .menu > li.menu-item > a, #menubar-controls a, nav.search-nav .menu>li>a, .naked-header .is-sticky nav .menu > li a {color: '.$nav_text_color.';}';
+			echo 'nav .menu > li.menu-item > a, nav .menu > li.menu-item.indicator-disabled > a, #menubar-controls a, nav.search-nav .menu>li>a, .naked-header .is-sticky nav .menu > li a {color: '.$nav_text_color.';}';
 			echo 'nav .menu > li.menu-item:hover > a {color: '.$nav_text_hover_color.';}';
 			echo 'nav .menu ul.sub-menu li.menu-item > a, nav .menu ul.sub-menu li > span, #top-bar nav .menu ul li > a {color: '.$nav_sm_text_color.';}';
 			echo 'nav .menu ul.sub-menu li.menu-item:hover > a {color: '.$nav_sm_text_hover_color.'!important; background: '.$nav_sm_bg_hover_color.';}';
@@ -932,7 +936,7 @@
 			echo '.slideout-filter ul li a:hover {color: '.$accent_color.';}';
 			echo '.slideout-filter ul li.selected a {color: '.$accent_alt_color.';background: '.$accent_color.';}';
 			echo 'ul.portfolio-filter-tabs li.selected a {background: '.$alt_bg_color.';}';
-			echo '.filter-slide-wrap {background-color: #222;}';
+			echo '.spb_blog_widget .filter-wrap {background-color: #222;}';
 			echo '.portfolio-item {border-bottom-color: '.$section_divide_color.';}';
 			echo '.masonry-items .portfolio-item-details {background: '.$alt_bg_color.';}';
 			echo '.spb_portfolio_carousel_widget .portfolio-item {background: '.$inner_page_bg_color.';}';
@@ -1093,9 +1097,12 @@
 			echo 'ul.products li.product .product-details .posted_in a {color: '.$body_alt_text_color.';}';
 			echo '.woocommerce ul.products li.product figure figcaption .shop-actions > a:hover, ul.products li.product .product-details .posted_in a:hover {color: '.$accent_color.';}';
 			echo '.woocommerce form.cart button.single_add_to_cart_button, .woocommerce p.cart a.single_add_to_cart_button, .woocommerce input[name="save_account_details"] { background: '.$alt_bg_color.'!important; color: '.$body_text_color.' ;}'. "\n";
+			echo '.woocommerce form.cart button.single_add_to_cart_button:disabled, .woocommerce form.cart button.single_add_to_cart_button:disabled[disabled] { background: '.$alt_bg_color.'!important; color: '.$body_text_color.' ;}'. "\n";
 			echo '.woocommerce form.cart button.single_add_to_cart_button:hover, .woocommerce .button.checkout-button, .woocommerce .wc-proceed-to-checkout > a.checkout-button { background: '.$accent_color.'!important; color: '.$accent_alt_color.' ;}'. "\n";
 			echo '.woocommerce p.cart a.single_add_to_cart_button:hover, .woocommerce .button.checkout-button:hover, .woocommerce .wc-proceed-to-checkout > a.checkout-button:hover {background: '.$secondary_accent_color.'!important; color: '.$accent_color.'!important;}';
 			echo '.woocommerce table.shop_table tr td.product-remove .remove:hover, .woocommerce .coupon input.apply-coupon:hover, .woocommerce .shipping-calculator-form .update-totals-button button:hover, .woocommerce .quantity .plus:hover, .woocommerce .quantity .minus:hover, .add_review a:hover, .woocommerce #review_form #respond .form-submit input:hover, .lost_reset_password p.form-row input[type="submit"]:hover, .track_order p.form-row input[type="submit"]:hover, .change_password_form p input[type="submit"]:hover, .woocommerce table.my_account_orders .order-actions .button:hover, .woocommerce .widget_price_filter .price_slider_amount .button:hover, .woocommerce.widget .buttons a:hover, .woocommerce .wishlist_table tr td.product-add-to-cart a:hover, .woocommerce input.button[name="save_address"]:hover, .woocommerce input[name="apply_coupon"]:hover, .woocommerce .cart input[name="update_cart"]:hover, .woocommerce form.register input[type="submit"]:hover, .woocommerce form.cart button.single_add_to_cart_button:hover, .woocommerce form.cart .yith-wcwl-add-to-wishlist a:hover, .load-more-btn:hover, .woocommerce-account input[name="change_password"]:hover {background: '.$accent_color.'; color: '.$accent_alt_color.';}';
+			echo '.woocommerce-MyAccount-navigation li {border-color: '.$section_divide_color.';}';
+			echo '.woocommerce-MyAccount-navigation li.is-active a, .woocommerce-MyAccount-navigation li a:hover {color: '.$body_text_color.';}';
 			echo '.woocommerce #account_details .login, .woocommerce #account_details .login h4.lined-heading span, .my-account-login-wrap .login-wrap, .my-account-login-wrap .login-wrap h4.lined-heading span, .woocommerce div.product form.cart table div.quantity {background: '.$alt_bg_color.';}';
 			echo '.woocommerce .help-bar ul li a:hover, .woocommerce .continue-shopping:hover, .woocommerce .address .edit-address:hover, .my_account_orders td.order-number a:hover, .product_meta a.inline:hover { border-bottom-color: '.$accent_color.';}';
 			echo '.woocommerce .order-info, .woocommerce .order-info mark {background: '.$accent_color.'; color: '.$accent_alt_color.';}';
@@ -1307,6 +1314,23 @@
 			$fd_menu_output = str_replace("div {", $replace_with, $fontdeck_menu_font);
 			echo $fd_menu_output;
 			}
+			
+			// MOBILE ANIMATIONS
+			if ( $disable_mobile_animations ) {
+				echo '.mobile-browser .sf-animation, .apple-mobile-browser .sf-animation {
+					opacity: 1!important;
+					left: auto!important;
+					right: auto!important;
+					bottom: auto!important;
+					-webkit-transform: scale(1)!important;
+					-o-transform: scale(1)!important;
+					-moz-transform: scale(1)!important;
+					transform: scale(1)!important;
+				}
+				.mobile-browser .sf-animation.image-banner-content, .apple-mobile-browser .sf-animation.image-banner-content {
+					bottom: 50%!important;
+				}';
+			}
 
 			// RESPONSIVE STYLES
 			if ($enable_responsive) {
@@ -1318,7 +1342,7 @@
 
 			// USER STYLES
 			if ($custom_css) {
-			echo "\n".'/*  for PRO users! - ========== User Custom CSS Styles ==========*/'."\n";
+			echo "\n".'/*========== User Custom CSS Styles ==========*/'."\n";
 			echo $custom_css;
 			}
 
@@ -1329,7 +1353,7 @@
 		add_action('wp_head', 'sf_custom_styles');
 	}
 
-	/*  for PRO users! -  CUSTOM JS OUTPUT
+	/* CUSTOM JS OUTPUT
 	================================================== */
 	function sf_custom_script() {
 		$options = get_option('sf_dante_options');

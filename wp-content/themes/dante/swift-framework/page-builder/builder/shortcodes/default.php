@@ -1,15 +1,15 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Default Shortcodes Config
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 	
-	/*  for PRO users! -  TEXT BLOCK ASSET
+	/* TEXT BLOCK ASSET
 	================================================== */
 	class SwiftPageBuilderShortcode_spb_text_block extends SwiftPageBuilderShortcode {
 	
@@ -120,7 +120,7 @@
 	) );
 	
 	
-	/*  for PRO users! -  BOXED CONTENT ASSET
+	/* BOXED CONTENT ASSET
 	================================================== */ 
 	class SwiftPageBuilderShortcode_boxed_content extends SwiftPageBuilderShortcode {
 	
@@ -240,7 +240,7 @@
 	) );
 	
 	
-	/*  for PRO users! -  DIVIDER ASSET
+	/* DIVIDER ASSET
 	================================================== */ 
 	class SwiftPageBuilderShortcode_divider extends SwiftPageBuilderShortcode {
 	
@@ -324,7 +324,7 @@
 	) );
 	
 	
-	/*  for PRO users! -  BLANK SPACER ASSET
+	/* BLANK SPACER ASSET
 	================================================== */ 
 	class SwiftPageBuilderShortcode_blank_spacer extends SwiftPageBuilderShortcode {
 	
@@ -392,7 +392,7 @@
 	) );
 	
 	
-	/*  for PRO users! -  MESSAGE BOX ASSET
+	/* MESSAGE BOX ASSET
 	================================================== */
 	class SwiftPageBuilderShortcode_spb_message extends SwiftPageBuilderShortcode {
 	
@@ -450,7 +450,7 @@
 	) );
 	
 	
-	/*  for PRO users! -  TOGGLE ASSET
+	/* TOGGLE ASSET
 	================================================== */ 
 	class SwiftPageBuilderShortcode_spb_toggle extends SwiftPageBuilderShortcode {
 	
@@ -469,9 +469,9 @@
 	
 	        $el_class = $this->getExtraClass($el_class);
 	        $open = ( $open == 'true' ) ? ' spb_toggle_title_active' : '';
-	        $el_class .= ( $open == ' spb_toggle_title_active' ) ? ' spb_toggle_open' : '';
-			$output .= '<div class="toggle-wrap '.$width.'">';
-	        $output .= '<div class="spb_toggle'.$open.'">'.$title.'</div><div class="spb_toggle_content'.$el_class.'">'.spb_format_content($content).'</div>'.$this->endBlockComment('toggle')."\n";
+	        $toggle_class = ( $open == ' spb_toggle_title_active' ) ? ' spb_toggle_open' : '';
+			$output .= '<div class="toggle-wrap '.$width.' '.$el_class.'">';
+	        $output .= '<div class="spb_toggle'.$open.'">'.$title.'</div><div class="spb_toggle_content'.$toggle_class.'">'.spb_format_content($content).'</div>'.$this->endBlockComment('toggle')."\n";
 	        $output .= '</div>';
 			$output = $this->startRow($el_position) . $output . $this->endRow($el_position);
 	        return $output;

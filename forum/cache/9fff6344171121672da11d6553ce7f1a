@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2814:"<p>Dietguiden har öppnats för dig som behöver hjälp med att nå en sund och hälsosam viktnedgång. Klarar man inte själv av att gå ner i vikt ska man veta att det finns mycket bra hjälp att få genom vården. Dela med dig. </p> <p>Vid fetma ökar risken för sjukdomar som till exempel högt blodtryck, diabetes typ 2 och belastningsskador i lederna. Många drömmer om att gå ner i vikt, men få klarar av det på egen hand. </p> <p>För att gå ner i vikt snabbt är det ett tips som kan ge dig otroligt bra resultat då de verkar tillsammans på helt olika sätt men mot samma mål. Och enligt forskare är en lugn promenad eller cykeltur allt som behövs Vill du veta exakt vad du ska träna för att gå ner i vikt? Att gå ner i vikt är inte så enkelt som många tror. Det kan ändå klokt att prova läkemedel om du har så pass stor övervikt att det finns medicinska skäl att gå ner i vikt. Beställ innan 12.00 så levererar vi nästa dag! I dag finns en djungel av bra och dåliga dieter där många av. </p> <p></p> <p>Få hjälp att gå ner i vikt - och låt chefen betala Viktklubb . </p> <p>Det många dock inte tänker på som inser detta är att bantningsprodukter faktiskt hjälper och gör det. För att lyckas måste man inse att övervikten är ett verkligt hälsoproblem som kan leda till försämrad livskvalitet och sjukdom. Ibland behövs bara små förändringar för att minska i vikt. En studie visar att motion gör hjärnan upp till nio år yngre. </p> <p>Vi har samlat många år av kunskap och publicerar nu detta för alla att ta del av. </p> <p>Om man lider av kraftig övervikt och har stora problem med detta så kan man få hjälp via sin vårdcentral. Svar på allt är ett community-baserat forum där medlemmar kan ställa frågor om vad som helst. Om du vill hjälpa dina barn gå ner i vikt, se till att de får tillräckligt med The Content is not intended to be a substitute for professional medical. Problemet är snarare att de läkemedel som finns har begränsad effekt. Att göra en kickstart kan hjälpa dig att snabbt gå ner i vikt. Omdömen Produktens betyg Betyg: 5 av 5 stjärnor. Du kan få hjälp om du behöver det. Ofta får du hjälp vid en specialiserad överviktsmottagning dit du kan få remiss från läkare på vårdcentralen.  Baserat på 24 betyg. Övervikt är när du väger så mycket att det är ohälsosamt. Kan man få hjälp av vårdcentralen att gå ner i vikt? Klicka på en stjärna för att sätta ditt betyg. En kickstart kan se ut på olika sätt, men generellt innebär det en kortare period då du äter mindre eller mer begränsat än vanligt. Baserat på 24 betyg. Svar. Metoden kan passa oavsett om du bara vill bli av med några kilon eller om du har en rejäl övervikt. </p> <p>Kraftig övervikt kallas fetma. </p>";s:7:"keyword";s:34:"ciao bella pizzeria2121121121212.1";s:5:"links";s:4978:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kappahl-%C3%B6ppettider-h%C3%A4rn%C3%B6sand'>Kappahl öppettider Härnösand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amanda-jenssen---hallelujah'>Amanda Jenssen - Hallelujah</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sanna-nielsen-%C3%A5lder'>Sanna Nielsen ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halloween-%C3%B6rebro-slott'>Halloween örebro Slott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=furulundsv%C3%A4gen-5-trollh%C3%A4ttan'>Furulundsvägen 5 Trollhättan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ottoman-empire-sweden'>Ottoman Empire Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konst-i-p%C3%A5sk'>Konst I Påsk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smakl%C3%B6kar-i-pungen'>Smaklökar I Pungen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=underh%C3%A5lla-4-m%C3%A5naders-bebis'>Underhålla 4 Månaders Bebis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bebis-%C3%B6kar-mycket-i-vikt'>Bebis ökar Mycket I Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gastric-sleeve-f%C3%B6re-och-efter'>Gastric Sleeve Före Och Efter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bed-and-breakfast-tj%C3%B6rn'>Bed And Breakfast Tjörn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-service-stockholm'>Honda Service Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vgr-it-jobb'>Vgr It Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parasoll-till-brassestol'>Parasoll Till Brassestol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slaget-vid-stamford-bridge'>Slaget Vid Stamford Bridge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badhotellet-s%C3%A4song-5-handling'>Badhotellet Säsong 5 Handling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antiinflammatorisk-kost-mejeriprodukter'>Antiinflammatorisk Kost Mejeriprodukter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4ste-till-tv'>Fäste Till Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-b%C3%A4ckag%C3%A5rden%2C-ystad'>Hotell Bäckagården, Ystad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-engelska-skolan'>Ansökan Engelska Skolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-kiruna-bostad'>Blocket Kiruna Bostad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5lands-nyheter-ax'>ålands Nyheter Ax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=borsta-t%C3%A4nderna-hund'>Borsta Tänderna Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonym-to-relate'>Synonym To Relate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ran-fristorp-svalor-som-h%C3%A4ckar'>Göran Fristorp Svalor Som Häckar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lilla-istanbul-meny'>Lilla Istanbul Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runda-mattor-mio'>Runda Mattor Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=statliga-myndigheter-sk%C3%A5ne'>Statliga Myndigheter Skåne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flygtekniker-l%C3%B6n-2018'>Flygtekniker Lön 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=berts-v%C3%A4rld-2019'>Berts Värld 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dumplings-st-eriksplan'>Dumplings St Eriksplan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=veber%C3%B6ds-d%C3%A4ck-hassan'>Veberöds Däck Hassan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=superbook-kanal-10'>Superbook Kanal 10</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-st%C3%B6rsta-sporter-lista-ut%C3%B6vare'>Världens Största Sporter Lista Utövare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=katt-resa-bort'>Katt Resa Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=donald-glover-star-wars'>Donald Glover Star Wars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-reagerar-vi-p%C3%A5-k%C3%A4nsel'>Hur Reagerar Vi På Känsel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broccolipaj-utan-%C3%A4gg'>Broccolipaj Utan ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kl%C3%A4-om-skinnsoffa'>Klä Om Skinnsoffa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fysik-2-labbrapport'>Fysik 2 Labbrapport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fem-myror-%C3%A4r-fler-%C3%A4n-fyra-elefanter-r'>Fem Myror är Fler än Fyra Elefanter R</a>,
+";s:7:"expired";i:-1;}

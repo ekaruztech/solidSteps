@@ -1,17 +1,17 @@
 <?php
-/*  for PRO users! - *
+/**
  * Empty cart page
  *
  * @author 		WooThemes
  * @package 	WooCommerce/Templates
- * @version     2.0.0
+ * @version 3.1.0
  */
 
-if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
-
-if (version_compare( WOOCOMMERCE_VERSION, "2.1.0" ) >= 0) {
-wc_print_notices();
+if ( ! defined( 'ABSPATH' ) ) {
+	exit; // Exit if accessed directly
 }
+
+wc_print_notices();
 
 ?>
 

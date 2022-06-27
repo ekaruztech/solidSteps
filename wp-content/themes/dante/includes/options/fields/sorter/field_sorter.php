@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Options Sorter Field for Redux Options
  * @author  Yannis - Pastis Glaros <mrpc@pramnoshosting.gr>
  * @url     http://www.pramhost.com
@@ -20,7 +20,7 @@
  */
 class Redux_Options_sorter extends Redux_Options {
 
-    /*  for PRO users! - *
+    /**
      * Field Constructor.
      * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function
      * @since Redux_Options 1.0.0
@@ -34,7 +34,7 @@ class Redux_Options_sorter extends Redux_Options {
         }
     }
 
-    /*  for PRO users! - *
+    /**
      * Field Render Function.
      * Takes the vars and outputs the HTML for the field in the settings
      * @since Redux_Options 1.0.0

@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2611:"<p>Subtitle varies. Les Illes Balears tenen una història que les ha unit i a la vegada les ha diferenciat. [Palma de Mallorca] 1963-(OCoLC)592431988 Online version: Pons i Pastor, Antoni. La Catedral es el monumento más emblemático de Mallorca porque sintetiza perfectamente los últimos ocho siglos de su historia.La imagen de una gran nave sobre el mar domina la bahía de Palma, de forma atractiva y espectacular, sorprende a primera vista y suscita la curiosidad del visitante, y se transforma en icono del patrimonio histórico y espiritual de la isla. The local language, as on the rest of the Balearic Islands, is Catalan, which is co-official with Spanish.. Mallorca és una illa de la Mediterrània, que forma part de les Illes Balears, amb les quals ha compartit la seva història. El darrer volum (2005) és l’Atles d'història de la Gran Enciclopèdia de Mallorca, coordinat per Antoni Marimon Riutort. Find more information about: OCLC Number: 3006845: Notes: Vols. Historia de Mallorca. Mallorca és una illa de la Mediterrània, que forma part de les Illes Balears, amb les quals ha compartit la seva història.Les Illes Balears tenen una història que les ha unit i a la vegada les ha diferenciat. Retrouvez HISTORIA DE MALLORCA et des millions de livres en stock sur Amazon.fr. Historia de Mallorca. 5- have title: Historia del reino de Mallorca. Molt característiques de Palma són les cases i mansions senyorials, situades també en el nucli antic de la ciutat i que constitueixen un reflex de les noves orientacions artístiques del renaixement italià, arribades A Mallorca a través de les constants relacions comercials mantingudes amb els estats italians. </p> <p> </p> <p>Achetez neuf ou d'occasion </p> <p>Mallorca (Catalan: [məˈʎɔɾkə], Spanish: [maˈʎoɾka]) or Majorca (English: / m ə ˈ j ɔːr k ə,-ˈ dʒ ɔːr-/ mə-YOR-kə, -⁠ JOR-) is the largest island in the Balearic Islands, which are part of Spain and located in the Mediterranean. Noté /5: Achetez Resumen de historia de Mallorca de Xamena Fiol, Pere: ISBN: 9788427304611 sur amazon.fr, des millions de livres livrés chez vous en 1 jour Foren directors generals de l’obra Miquel Dolç i, posteriorment, Pere Serra i Bauçà, i directors Ferran Aguiló (1987-91), Lourdes Mazaira (1991-92), Pere Fullana (1992-99) i Margalida Tur (1999-2005). D'altra banda, dins la mateixa Mallorca, molt sovint s'han marcat les diferències entre la ciutat i les viles . [Palma de Mallorca] 1963-(OCoLC)609482481 : Document Type: Book: All Authors / Contributors: Antoni Pons i Pastor. </p> <p>Noté /5. </p> <p></p>";s:7:"keyword";s:20:"historia de mallorca";s:5:"links";s:5310:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=essentiella-aminosyror-hund'>Essentiella Aminosyror Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4lsa-i-indien'>Hälsa I Indien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skistar-st%C3%A4nger-hemsedal'>Skistar Stänger Hemsedal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%B6lunda-sjukhus-sjukgymnastik'>Frölunda Sjukhus Sjukgymnastik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-livsmedelsverket'>Vad är Livsmedelsverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5hus-beach-l%C3%A4ger'>åhus Beach Läger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pite%C3%A5-golfklubb-lunch'>Piteå Golfklubb Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-naxos-greece'>Tui Naxos Greece</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lucia-2019-datum'>Lucia 2019 Datum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gerani-kreta-v%C3%A4der'>Gerani Kreta Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studio-11-habo'>Studio 11 Habo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=firar-man-jul-i-kina'>Firar Man Jul I Kina</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-r%C3%A4knar-man-ut-kateterna-om-man-vet-hypotenusan'>Hur Räknar Man Ut Kateterna Om Man Vet Hypotenusan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-till-turkiet'>Flyg Till Turkiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidl%C3%B6s-prinsessa-wikipedia'>Tidlös Prinsessa Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-gr%C3%A4dde-v%C3%A4sterbottenost'>Lax I Ugn Grädde Västerbottenost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=piprensare-pyssel-spindel'>Piprensare Pyssel Spindel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hanna-falk-twar'>Hanna Falk Twar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=senior-surfarna-svt'>Senior Surfarna Svt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=in-the-arms-of-the-angels-song'>In The Arms Of The Angels Song</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sota-sj%C3%A4lv-kurs-kalmar'>Sota Själv Kurs Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=atv-vagn-med-vinsch'>Atv Vagn Med Vinsch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verklagan-lvm-kammarr%C3%A4tten'>överklagan Lvm Kammarrätten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skoterhuset-lofsdalen-restaurang'>Skoterhuset Lofsdalen Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bottenventil-badkar-if%C3%B6'>Bottenventil Badkar Ifö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dammsugare-electrolux-ultraone-euoc92db'>Dammsugare Electrolux Ultraone Euoc92db</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allehanda-sollefte%C3%A5-d%C3%B6dsannonser'>Allehanda Sollefteå Dödsannonser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-slutpriser-sundsvall'>Hemnet Slutpriser Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=argument-mot-keynes'>Argument Mot Keynes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Solemar-Hotel3%2C7%2890%290%2C1%C2%A0km-bort101%C2%A0%E2%82%AC'>Solemar Hotel3,7(90)0,1 km Bort101 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=types-of-biome'>Types Of Biome</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kom-bar-facebook'>Kom Bar Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=13a-s%C3%A4kring-jula'>13a Säkring Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utskuren-biff-sous-vide'>Utskuren Biff Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=celine-dion-l%C3%A5tar'>Celine Dion Låtar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4len-winter-games-2020'>Sälen Winter Games 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fas-i-sjukdom'>Fas I Sjukdom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abc-tv-shows'>Abc Tv Shows</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h-d-international-rally-2020'>H-d International Rally 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nockkrok-till-stege'>Nockkrok Till Stege</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vattenfelsbrytare-kopplat-till-larm'>Vattenfelsbrytare Kopplat Till Larm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-f%C3%B6da-ett-barn'>Att Föda Ett Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=juan-manuel-santos'>Juan Manuel Santos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jm-hyllie-s%C3%B6derl%C3%A4ge'>Jm Hyllie Söderläge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studief%C3%B6rbundet-vuxenskolan-vetlanda'>Studieförbundet Vuxenskolan Vetlanda</a>,
+";s:7:"expired";i:-1;}

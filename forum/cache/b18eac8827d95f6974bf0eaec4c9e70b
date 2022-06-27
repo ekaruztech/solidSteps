@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2526:"<p>När du för första gången beställer ett BankID samt om du spärrat eller glömt att förnya ditt BankID behöver du en startkod för att kunna beställa. Startkoden är en tillfällig kod och när du aktiverar ditt BankID väljer … BankID är en elektronisk ID-handling som är jämförbar med pass, körkort och andra fysiska legitimationshandlingar. Välkommen till den kompletta guiden till mobilt BankID, appen som revolutionerade hur vi sköter internetbanken, onlinebetalningar, nätshopping, skattedeklarationen och mycket mer. Med Mobilt BankID kan du snabbt och säkert legitimera dig digitalt, exempelvis när du ska swisha, deklarera, vabba och logga in i vår app. Kort sagt är BankID en säkerhetsapp som används för att bekräfta din identitet vid, till exempel, finansiella transaktioner och myndighetsaffärer.Därför kallas det även e-legitimation.  Behöver kunden spärra eller förnya sin BankID e-legitimation kan det göras dygnet runt hos banken. Din startkod kan du få via ett sms eller i ett kodkuvert. Den 5 februari inför vi QR-kod vid inloggning med mobilt BankID. förnya bankid på fil swedbank How the Foundation shares your personal data motörhead overkill wikipedia The international nature of the Foundation’s work may involve sharing your personal data with entrusted and authorised third-party service providers and partners, both within and outside the EU/EEA, as necessary for the purposes outlined above. The above. De banker som utfärdar BankID är Danske Bank, FOREX Bank, Handelsbanken, ICA Banken, Länsförsäkringar Bank, Nordea, SEB, Skandiabanken, Sparbanken Syd, Swedbank och Ålandsbanken. Om ditt barn har mobilt BankID och även vill ha det i fortsättningen, behöver båda föräldrar och barn besöka ett bankkontor för att förnya det. Ett BankID har samma värde och används på samma sätt, oavsett vilken bank som utfärdat det. Skaffa Mobilt BankID! BankID. Iraklionin kansainvälinen lentoasema. </p> <p>Inloggning med QR-kod är en ny säkerhetsfunktion i mobilt BankID. </p> <p>Mobilt BankID behövs för att logga in på till exempel Försäkringskassan och Skatteverket. Genom att du läser av QR-koden på din datorskärm vet vi att din dator och mobiltelefon är på samma plats när du legitimerar dig eller skriver under i andra enheter än den där du har ditt mobila BankID. Find the best deal on a hotel room close to Brahen kentta and stay near the local area. SEB ID för unga fungerar bara för SEB:s app för unga och Swish. </p>";s:7:"keyword";s:23:"förnya bankid swedbank";s:5:"links";s:2500:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netflix-support-email'>Netflix Support Email</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggmax-upplands-v%C3%A4sby'>Byggmax Upplands Väsby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marie-antoinette-axel-von-fersen-barn'>Marie-antoinette Axel Von Fersen Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%A5ligt-resultat-nipt'>Dåligt Resultat Nipt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pirates-of-the-caribbean-piano-medley'>Pirates Of The Caribbean Piano Medley</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%B6ter-snus-thailand'>Böter Snus Thailand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4ssj%C3%B6-l%C3%A4rcenter-sfi'>Nässjö Lärcenter Sfi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lady-minerals-revive'>Lady Minerals Revive</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%A4nnande-sm%C3%A4rta-i-benen'>Brännande Smärta I Benen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalkon-till-jul'>Kalkon Till Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barns%C3%A5nger-p%C3%A5-engelska'>Barnsånger På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hallonmousse-stelnar-inte'>Hallonmousse Stelnar Inte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=christopher-o%27regan-flashback'>Christopher O'regan Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=armando-rikard-jarl'>Armando Rikard Jarl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lloydsapotek-kalmar-giraffen'>Lloydsapotek Kalmar Giraffen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dalbyv%C3%A4gen-51-arl%C3%B6v'>Dalbyvägen 51 Arlöv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avst%C3%A5nd-korfu-albanien'>Avstånd Korfu Albanien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5nga-intervaller-lofsan'>Långa Intervaller Lofsan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pingstkyrkan-st%C3%B6pen-kalender'>Pingstkyrkan Stöpen Kalender</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyga-med-kanin'>Flyga Med Kanin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sheet-music-boss-youtube'>Sheet Music Boss Youtube</a>,
+";s:7:"expired";i:-1;}

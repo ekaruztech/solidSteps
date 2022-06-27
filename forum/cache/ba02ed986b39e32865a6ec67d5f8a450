@@ -1,0 +1,71 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2743:"<p>Utbildning i Sverige är obligatorisk och kostnadsfri för alla barn i åldrarna 6–16 år. Utlandsjobb.nu hjälper svenskar att hitta jobb utomlands. Det tyska gymnasiet börjar, olikt det svenska, redan i klass 5 och skiljer sig avsevärt från den svenska kommunala skolan när det gäller kunskapsmål och inlärningstakt. Vi är mycket stolta över att kunna meddela att Ofsted, brittiska skolinspektionen, för tredje inspektionen i rad har gett Svenska skolan i London högsta möjliga betyg. Klicka på en utbildning i listan för att läsa mer om den och få möjlighet att kontakta skolan genom att skicka in en intresseanmälan. For at komme ind ved tyske universiteter skal man have en afsluttende eksamen fra et gymnasium (Gymnasium). Kostar det att läsa på svenska skolan utomlands? Föreningen för svenskundervisning i New York The Dag Hammarskjold Foundation. Gymnasium i Tyskland Här hittar du gymnasieutbildningar som matchar sökningen " Tyskland ". (Ht, Vt). Otroligt mycket eftersom jag trodde att svenska skolan var gratis eller nästan gratis även utomlands (de får ju skolpeng). Här hittar du relevant information om utbildningssystemet i Tyskland, ansökan till studier i Tyskland, levnadskostnader i Tyskland och mycket mer. Exempel på länder där du kan hitta jobbannonser är Thailand, Spanien, USA, Frankrike, Norge, Tyskland mm. Vår grundskola räknar nästan 250 elever. Utbildningarna i Tyskland håller hög kvalitet och är populära bland internationella studenter. </p> <p>Läsåret i Sverige löper normalt från slutet av augusti till början/mitten av juni. Den här gången fick vi ”outstanding” på samtliga områden, ett steg bättre än sist. Här kan du läsa om jobb i utlandet för svenskar samt leta bland tusentals jobbannonser. 3 Dag Hammaskjold Plaza, 305 East 47 Street, 10th floor NEW YORK, NY 10017 Denne eksamen kaldes Abitur. Hej, Jag har nyligen fått reda på att svenska skolan i Wien kostar €14500 per läsår. Från årskurs 5 undervisas eleverna med svenska och tyska som modersmål gemensamt i blandade klasser. Jullovet från mitten av december till början av januari delar upp det svenska läsåret i två terminer; "höstterminen" och "vårterminen". Tyska Skolan Stockholm är belägen på Karlavägen mittemot Humlegården. </p> <p> Att studera en utbildning eller åka på språkresa utomlands är en ovärderlig erfarenhet. Läs Ofsted’s rapport här! Här går det ca 600 elever fördelade på 26 klasser. </p> <p>Nu verkar ni inte har någonting om grundskolan. Gymnasium. Grundskolan med klasserna 0 till 3 ligger på Bragevägen, klass 4 på Karlavägen. Det findes mere end 5000 hovedskoler i Tyskland, med over en millioner elever om året. </p>";s:7:"keyword";s:33:"svenska skolan gymnasium tyskland";s:5:"links";s:3560:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-kladdkaka-potatismj%C3%B6l'>Glutenfri Kladdkaka Potatismjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=distansundervisning-grundskola-skolverket'>Distansundervisning Grundskola Skolverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=legenden-om-santa-lucia'>Legenden Om Santa Lucia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pings-tidning-d%C3%B6dsannonser'>Köpings Tidning Dödsannonser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=110-s%C3%A4ng-ikea'>110 Säng Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tradera-sello-privatperson'>Tradera Sello Privatperson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skidor-falun-17-mars-2019'>Skidor Falun 17 Mars 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=design-f%C3%A5t%C3%B6lj-jetson'>Design Fåtölj Jetson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billig-%C3%B6l-v%C3%A4xj%C3%B6'>Billig öl Växjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=verner-von-heidenstam-mest-k%C3%A4nda-dikter'>Verner Von Heidenstam Mest Kända Dikter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=britain%27s-got-talent-2019-final'>Britain's Got Talent 2019 Final</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seattle-seahawks-kl%C3%A4der'>Seattle Seahawks Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-night-ultimate-board-game-geek'>One Night Ultimate Board Game Geek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=noblesse-m%C3%B6rk-choklad'>Noblesse Mörk Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lilla-kretsloppet-ne'>Lilla Kretsloppet Ne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rjestad---fr%C3%B6lunda'>Färjestad - Frölunda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-st%C3%B6rsta-sporter-lista-ut%C3%B6vare'>Världens Största Sporter Lista Utövare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bj%C3%B6rn-eriksson-helsingborg'>Björn Eriksson Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fransk-pastagrat%C3%A4ng-med-kyckling'>Fransk Pastagratäng Med Kyckling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hem-och-bastu-omd%C3%B6me'>Hem Och Bastu Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ny-k%C3%B6ttrestaurang-g%C3%B6teborg'>Ny Köttrestaurang Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thule-glide-2-blocket'>Thule Glide 2 Blocket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6l-julkalender-systembolaget'>öl Julkalender Systembolaget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-deltar-i-vasaloppet-2020'>Hur Många Deltar I Vasaloppet 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=deltidsbrandman-lilla-edet'>Deltidsbrandman Lilla Edet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svagt-ljus-p%C3%A5-moped'>Svagt Ljus På Moped</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A5r-man-ta-nattvarden-utan-att-vara-konfirmerad'>Får Man Ta Nattvarden Utan Att Vara Konfirmerad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A5dar-under-tungan'>Trådar Under Tungan</a>,
+";s:7:"expired";i:-1;}

@@ -1,11 +1,11 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Framework Formatting Functions
 	*	------------------------------------------------
 	*	Swift Framework v2.0
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_content_filter()
 	*	sf_get_the_content_with_formatting()
@@ -23,12 +23,12 @@
 	*/
 	
 	
-	/*  for PRO users! -  ADD SHORTCODE FUNCTIONALITY TO WIDGETS
+	/* ADD SHORTCODE FUNCTIONALITY TO WIDGETS
 	================================================== */
 	add_filter('widget_text', 'do_shortcode');
 	
 	
-	/*  for PRO users! -  CONTENT RETURN FUNCTIONS
+	/* CONTENT RETURN FUNCTIONS
 	================================================== */	
 	function sf_get_the_content_with_formatting() {
 	    $content = get_the_content();
@@ -43,7 +43,7 @@
 	}
 	
 		
-	/*  for PRO users! -  EXCERPT
+	/* EXCERPT
 	================================================== */
 	if (!function_exists('sf_new_excerpt_length')) {
 		function sf_new_excerpt_length($length) {
@@ -93,7 +93,7 @@
 	}
 
 	
-	/*  for PRO users! -  WORDPRESS TAG CLOUD WIDGET MODS
+	/* WORDPRESS TAG CLOUD WIDGET MODS
 	================================================== */
 	function sf_tag_cloud_args( $args ) {
 		$args['largest'] = 12;
@@ -105,7 +105,7 @@
 	add_filter( 'widget_tag_cloud_args', 'sf_tag_cloud_args' );
 	
 	
-	/*  for PRO users! -  WORDPRESS CATEGORY WIDGET MODS
+	/* WORDPRESS CATEGORY WIDGET MODS
 	================================================== */	
 	function sf_category_widget_mod($output) {
 		$output = str_replace('</a> (',' <span>(',$output);
@@ -115,7 +115,7 @@
 	add_filter('wp_list_categories', 'sf_category_widget_mod');
 
 	
-	/*  for PRO users! -  WORDPRESS ARCHIVES WIDGET MODS
+	/* WORDPRESS ARCHIVES WIDGET MODS
 	================================================== */
 	function sf_archives_widget_mod($output) {
 		$output = str_replace('</a> (',' <span>(',$output);
@@ -125,7 +125,7 @@
 	add_filter('wp_get_archives', 'sf_archives_widget_mod');
 
 	
-	/*  for PRO users! -  FEED CONTENT WHEN PB ACTIVE
+	/* FEED CONTENT WHEN PB ACTIVE
 	================================================== */
 	if ( ! function_exists( 'sf_custom_feed_content' ) ) {
 	    function sf_custom_feed_content( $content ) {
@@ -144,15 +144,15 @@
 	}
 	
 	
-	/*  for PRO users! -  CHAT POST FORMAT FORMATTING
+	/* CHAT POST FORMAT FORMATTING
 	================================================== */
 	add_filter( 'the_content', 'sf_format_chat_content' );
 	add_filter( 'the_excerpt', 'sf_format_chat_content' );
 	
-	/*  for PRO users! -  Auto-add paragraphs to the chat text. */
+	/* Auto-add paragraphs to the chat text. */
 	add_filter( 'sf_post_format_chat_text', 'wpautop' );
 	
-	/*  for PRO users! - *
+	/**
 	 * This function filters the post content when viewing a post with the "chat" post format.  It formats the 
 	 * content with structured HTML markup to make it easy for theme developers to style chat posts.  The 
 	 * advantage of this solution is that it allows for more than two speakers (like most solutions).  You can 
@@ -173,84 +173,84 @@
 	function sf_format_chat_content( $content ) {
 		global $sf_post_format_chat_ids;
 	
-		/*  for PRO users! -  If this is not a 'chat' post, return the content. */
+		/* If this is not a 'chat' post, return the content. */
 		if ( !has_post_format( 'chat' ) )
 			return $content;
 	
-		/*  for PRO users! -  Set the global variable of speaker IDs to a new, empty array for this chat. */
+		/* Set the global variable of speaker IDs to a new, empty array for this chat. */
 		$sf_post_format_chat_ids = array();
 	
-		/*  for PRO users! -  Allow the separator (separator for speaker/text) to be filtered. */
+		/* Allow the separator (separator for speaker/text) to be filtered. */
 		$separator = apply_filters( 'my_post_format_chat_separator', ':' );
 	
-		/*  for PRO users! -  Open the chat transcript div and give it a unique ID based on the post ID. */
+		/* Open the chat transcript div and give it a unique ID based on the post ID. */
 		$chat_output = "\n\t\t\t" . '<div id="chat-transcript-' . esc_attr( get_the_ID() ) . '" class="chat-transcript">';
 	
-		/*  for PRO users! -  Split the content to get individual chat rows. */
+		/* Split the content to get individual chat rows. */
 		$chat_rows = preg_split( "/(\r?\n)+|(<br\s*\/?>\s*)+/", $content );
 	
-		/*  for PRO users! -  Loop through each row and format the output. */
+		/* Loop through each row and format the output. */
 		foreach ( $chat_rows as $chat_row ) {
 	
-			/*  for PRO users! -  If a speaker is found, create a new chat row with speaker and text. */
+			/* If a speaker is found, create a new chat row with speaker and text. */
 			if ( strpos( $chat_row, $separator ) ) {
 	
-				/*  for PRO users! -  Split the chat row into author/text. */
+				/* Split the chat row into author/text. */
 				$chat_row_split = explode( $separator, trim( $chat_row ), 2 );
 	
-				/*  for PRO users! -  Get the chat author and strip tags. */
+				/* Get the chat author and strip tags. */
 				$chat_author = strip_tags( trim( $chat_row_split[0] ) );
 	
-				/*  for PRO users! -  Get the chat text. */
+				/* Get the chat text. */
 				$chat_text = trim( $chat_row_split[1] );
 	
-				/*  for PRO users! -  Get the chat row ID (based on chat author) to give a specific class to each row for styling. */
+				/* Get the chat row ID (based on chat author) to give a specific class to each row for styling. */
 				$speaker_id = sf_format_chat_row_id( $chat_author );
 	
-				/*  for PRO users! -  Open the chat row. */
+				/* Open the chat row. */
 				$chat_output .= "\n\t\t\t\t" . '<div class="chat-row ' . sanitize_html_class( "chat-speaker-{$speaker_id}" ) . '">';
 	
-				/*  for PRO users! -  Add the chat row author. */
+				/* Add the chat row author. */
 				$chat_output .= "\n\t\t\t\t\t" . '<div class="chat-author ' . sanitize_html_class( strtolower( "chat-author-{$chat_author}" ) ) . ' vcard"><cite class="fn">' . apply_filters( 'my_post_format_chat_author', $chat_author, $speaker_id ) . '</cite>' . $separator . '</div>';
 	
-				/*  for PRO users! -  Add the chat row text. */
+				/* Add the chat row text. */
 				$chat_output .= "\n\t\t\t\t\t" . '<div class="chat-text">' . str_replace( array( "\r", "\n", "\t" ), '', apply_filters( 'sf_post_format_chat_text', $chat_text, $chat_author, $speaker_id ) ) . '</div>';
 	
-				/*  for PRO users! -  Close the chat row. */
+				/* Close the chat row. */
 				$chat_output .= "\n\t\t\t\t" . '</div><!-- .chat-row -->';
 			}
 	
-			/*  for PRO users! - *
+			/**
 			 * If no author is found, assume this is a separate paragraph of text that belongs to the
 			 * previous speaker and label it as such, but let's still create a new row.
 			 */
 			else {
 	
-				/*  for PRO users! -  Make sure we have text. */
+				/* Make sure we have text. */
 				if ( !empty( $chat_row ) ) {
 	
-					/*  for PRO users! -  Open the chat row. */
+					/* Open the chat row. */
 					$chat_output .= "\n\t\t\t\t" . '<div class="chat-row ' . sanitize_html_class( "chat-speaker-{$speaker_id}" ) . '">';
 	
-					/*  for PRO users! -  Don't add a chat row author.  The label for the previous row should suffice. */
+					/* Don't add a chat row author.  The label for the previous row should suffice. */
 	
-					/*  for PRO users! -  Add the chat row text. */
+					/* Add the chat row text. */
 					$chat_output .= "\n\t\t\t\t\t" . '<div class="chat-text">' . str_replace( array( "\r", "\n", "\t" ), '', apply_filters( 'sf_post_format_chat_text', $chat_row, $chat_author, $speaker_id ) ) . '</div>';
 	
-					/*  for PRO users! -  Close the chat row. */
+					/* Close the chat row. */
 					$chat_output .= "\n\t\t\t</div><!-- .chat-row -->";
 				}
 			}
 		}
 	
-		/*  for PRO users! -  Close the chat transcript div. */
+		/* Close the chat transcript div. */
 		$chat_output .= "\n\t\t\t</div><!-- .chat-transcript -->\n";
 	
-		/*  for PRO users! -  Return the chat content and apply filters for developers. */
+		/* Return the chat content and apply filters for developers. */
 		return apply_filters( 'my_post_format_chat_content', $chat_output );
 	}
 	
-	/*  for PRO users! - *
+	/**
 	 * This function returns an ID based on the provided chat author name.  It keeps these IDs in a global 
 	 * array and makes sure we have a unique set of IDs.  The purpose of this function is to provide an "ID"
 	 * that will be used in an HTML class for individual chat rows so they can be styled.  So, speaker "John" 
@@ -272,16 +272,16 @@
 	function sf_format_chat_row_id( $chat_author ) {
 		global $sf_post_format_chat_ids;
 	
-		/*  for PRO users! -  Let's sanitize the chat author to avoid craziness and differences like "John" and "john". */
+		/* Let's sanitize the chat author to avoid craziness and differences like "John" and "john". */
 		$chat_author = strtolower( strip_tags( $chat_author ) );
 	
-		/*  for PRO users! -  Add the chat author to the array. */
+		/* Add the chat author to the array. */
 		$sf_post_format_chat_ids[] = $chat_author;
 	
-		/*  for PRO users! -  Make sure the array only holds unique values. */
+		/* Make sure the array only holds unique values. */
 		$sf_post_format_chat_ids = array_unique( $sf_post_format_chat_ids );
 	
-		/*  for PRO users! -  Return the array key for the chat author and add "1" to avoid an ID of "0". */
+		/* Return the array key for the chat author and add "1" to avoid an ID of "0". */
 		return absint( array_search( $chat_author, $sf_post_format_chat_ids ) ) + 1;
 	}
 

@@ -1,11 +1,11 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Framework Theme Functions
 	*	------------------------------------------------
 	*	Swift Framework v2.0
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_theme_activation()
 	*	sf_bwm_filter()
@@ -32,7 +32,7 @@
 	*
 	*/
 	
-	/*  for PRO users! -  THEME ACTIVATION
+	/* THEME ACTIVATION
 	================================================== */	
 	if (!function_exists('sf_theme_activation')) {
 		function sf_theme_activation() {
@@ -52,7 +52,7 @@
 	}
 	
 	
-	/*  for PRO users! -  BETTER WORDPRESS MINIFY FILTER
+	/* BETTER WORDPRESS MINIFY FILTER
 	================================================== */	
 	function sf_bwm_filter($excluded) {
 		global $is_IE;
@@ -87,7 +87,7 @@
 	add_filter('bwp_minify_script_ignore', 'sf_bwm_filter_script');
 	
 	
-	/*  for PRO users! -  BETTER SEO PAGE TITLE
+	/* BETTER SEO PAGE TITLE
 	================================================== */
 	if (!function_exists('sf_filter_wp_title')) {
 		function sf_filter_wp_title( $title ) {
@@ -108,7 +108,7 @@
 	}
 	
 	
-	/*  for PRO users! -  MAINTENANCE MODE
+	/* MAINTENANCE MODE
 	================================================== */
 	if (!function_exists('sf_maintenance_mode')) {
 		function sf_maintenance_mode() {
@@ -152,7 +152,7 @@
 	}
 	
 	
-	/*  for PRO users! -  CUSTOM LOGIN LOGO
+	/* CUSTOM LOGIN LOGO
 	================================================== */
 	if (!function_exists('sf_custom_login_logo')) {
 		function sf_custom_login_logo() {
@@ -163,7 +163,7 @@
 			}
 			if ($custom_logo) {		
 			echo '<style type="text/css">
-			    .login h1 a { background-image:url('. $custom_logo .') !important; height: 95px!important; width: 100%!important; background-size: auto!important; }
+			    .login h1 a { background-image:url('. $custom_logo .') !important; height: 95px!important; width: 100%!important; background-size: auto !important; }
 			</style>';
 			} else {
 			echo '<style type="text/css">
@@ -175,8 +175,8 @@
 	}
 	
 	
-	/*  for PRO users! -  BREADCRUMBS
-	================================================== */ 
+	/* BREADCRUMBS
+	================================================== */ 
 	if (!function_exists('sf_breadcrumbs')) {
 		function sf_breadcrumbs() {
 			$breadcrumb_output = "";
@@ -196,7 +196,7 @@
 	}
 	
 	
-	/*  for PRO users! -  LANGUAGE FLAGS
+	/* LANGUAGE FLAGS
 	================================================== */
 	if (!function_exists('sf_language_flags')){	
 	    function sf_language_flags() {
@@ -240,7 +240,7 @@
 	}
 	
 	
-	/*  for PRO users! -  HEX TO RGB COLOR
+	/* HEX TO RGB COLOR
 	================================================== */
 	function sf_hex2rgb( $colour ) {
         if ( $colour[0] == '#' ) {
@@ -260,7 +260,7 @@
 	}
 
 
-	/*  for PRO users! -  GET COMMENTS COUNT TEXT
+	/* GET COMMENTS COUNT TEXT
 	================================================== */
 	function sf_get_comments_number($post_id) {
 		$num_comments = get_comments_number($post_id); // get_comments_number returns only a numeric value
@@ -277,7 +277,7 @@
 		return $comments_text;
 	}
 	
-	/*  for PRO users! -  GET USER MENU LIST
+	/* GET USER MENU LIST
 	================================================== */
 	function sf_get_menu_list() {
 		$menu_list = array( '' => '' );
@@ -290,7 +290,7 @@
 	    return $menu_list;
 	}
 	
-	/*  for PRO users! -  GET CUSTOM POST TYPE TAXONOMY LIST
+	/* GET CUSTOM POST TYPE TAXONOMY LIST
 	================================================== */
 	function sf_get_category_list( $category_name, $filter=0, $category_child = "" ){
 		
@@ -385,7 +385,7 @@
 	}
 	
 	
-	/*  for PRO users! -  CATEGORY REL FIX
+	/* CATEGORY REL FIX
 	================================================== */
 	function sf_add_nofollow_cat( $text) {
 	    $text = str_replace('rel="category tag"', "", $text);
@@ -394,7 +394,7 @@
 	add_filter( 'the_category', 'sf_add_nofollow_cat' );
 	
 	
-	/*  for PRO users! -  REMOVE CERTAIN HEAD TAGS
+	/* REMOVE CERTAIN HEAD TAGS
 	================================================== */
 	if (!function_exists('sf_remove_head_links')) {
 		function sf_remove_head_links() {
@@ -406,7 +406,7 @@
 	}
 	
 	
-	/*  for PRO users! -  GET CURRENT PAGE URL
+	/* GET CURRENT PAGE URL
 	================================================== */
 	function sf_current_page_url() {
 		$pageURL = 'http';
@@ -423,7 +423,7 @@
 	}
 	
 	
-	/*  for PRO users! -  CHECK WOOCOMMERCE IS ACTIVE
+	/* CHECK WOOCOMMERCE IS ACTIVE
 	================================================== */ 
 	if ( ! function_exists( 'sf_woocommerce_activated' ) ) {
 		function sf_woocommerce_activated() {
@@ -435,7 +435,7 @@
 		}
 	}
 	
-	/*  for PRO users! -  CHECK WPML IS ACTIVE
+	/* CHECK WPML IS ACTIVE
 	================================================== */ 
 	if ( ! function_exists( 'sf_wpml_activated' ) ) {
 		function sf_wpml_activated() {
@@ -448,7 +448,7 @@
 	}
 	
 	
-	/*  for PRO users! -  DYNAMIC GLOBAL INCLUDE CLASSES
+	/* DYNAMIC GLOBAL INCLUDE CLASSES
 	================================================== */ 
 	function sf_global_include_classes() {
 	
@@ -542,7 +542,7 @@
 	}
 	
 	
-	/*  for PRO users! -  PLUGIN OPTION PARAMS
+	/* PLUGIN OPTION PARAMS
 	================================================== */
 	if (!function_exists('sf_option_parameters')) {
 		function sf_option_parameters() {
@@ -557,6 +557,10 @@
 			$slider_autoplay = "0";
 			
 			
+			$lightbox_enabled 		  = true;
+			if ( isset($options['lightbox_enabled']) ) {
+			$lightbox_enabled     	  = $options['lightbox_enabled'];
+			}
 			if (isset($options['lightbox_nav'])) {
 			$lightbox_nav             = $options['lightbox_nav'];
 			}
@@ -580,6 +584,7 @@
 			}
 		?>
 			<div id="sf-option-params"
+				data-lightbox-enabled="<?php echo $lightbox_enabled; ?>"
 				data-lightbox-nav="<?php echo $lightbox_nav; ?>"
 				data-lightbox-thumbs="<?php echo $lightbox_thumbs; ?>"
 				data-lightbox-skin="<?php echo $lightbox_skin; ?>"
@@ -594,7 +599,7 @@
 	}
 	
 	
-	/*  for PRO users! -  COUNTDOWN SHORTCODE LOCALE
+	/* COUNTDOWN SHORTCODE LOCALE
 	================================================== */
 	if (!function_exists('sf_countdown_shortcode_locale')) {
 		function sf_countdown_shortcode_locale() {
@@ -607,7 +612,7 @@
 	}
 	
 	
-	/*  for PRO users! -  CUSTOM ADMIN MENU ITEMS
+	/* CUSTOM ADMIN MENU ITEMS
 	================================================== */
 	if(!function_exists('sf_admin_bar_menu')) {		
 		function sf_admin_bar_menu() {
@@ -641,7 +646,7 @@
 	}	
 	
 	
-	/*  for PRO users! -  ICON LIST
+	/* ICON LIST
     ================================================== */
     if ( ! function_exists( 'sf_get_icons_list' ) ) {
         function sf_get_icons_list( $type = "" ) {
@@ -667,7 +672,7 @@
     }
 	
 	
-	/*  for PRO users! -  ADMIN CUSTOM POST TYPE ICONS
+	/* ADMIN CUSTOM POST TYPE ICONS
 	================================================== */
 	if (!function_exists('sf_admin_css')) {
 		function sf_admin_css() {
@@ -693,11 +698,6 @@
 			
 		    ?>	    
 		    <style type="text/css" media="screen">
-		    	
-		    	/*  for PRO users! -  REVSLIDER HIDE ACTIVATION */
-		    	a[name="activateplugin"] + div, a[name="activateplugin"] + div + div, a[name="activateplugin"] + div + div + div, a[name="activateplugin"] + div + div + div + div {
-		    		display: none;
-		    	}
 		    	
 		        #toplevel_page_sf_theme_options .wp-menu-image img {
 		        	width: 11px;
@@ -750,7 +750,38 @@
 		        	-moz-osx-font-smoothing: grayscale;
 		        }
 		        
-		        /*  for PRO users! -  META BOX TABS */
+		        /* RWMB */
+		        .rwmb-field {
+		        	margin: 10px 0;
+		        }
+		        .rwmb-field > h3 {
+		        	margin: 10px 0;
+		        	border-bottom: 1px solid #e4e4e4;
+		        	padding-bottom: 10px !important;
+		        }
+		        .rwmb-label label {
+		        	padding-right: 10px;
+		        	vertical-align: top;
+		        }
+		        .rwmb-checkbox-wrapper .description {
+		        	display: block;
+		        	margin: 6px 0 8px;
+		        }
+		        .rwmb-input .rwmb-slider {
+		            background: #f7f7f7;
+		            border: 1px solid #e3e3e3;
+		        }
+		        .meta-box-sortables select, .rwmb-input > input, .rwmb-media-view .rwmb-add-media {
+		        	margin-bottom: 5px;
+		        }
+		        .meta-altbg-preview {
+		        	max-width: 200px;
+	        	    padding: 10px;
+	        	    text-align: center;
+	        	    margin-left: 25%;
+		        }
+		        
+		        /* META BOX TABS */
 		        #sf_meta_box > .inside {
                 	margin: 0;
                 	padding: 0;
@@ -794,7 +825,7 @@
                 	display: none!important;
                 }
     
-                /*  for PRO users! - #sf-tabbed-meta-boxes > div.hide-if-js {
+                /*#sf-tabbed-meta-boxes > div.hide-if-js {
                        display: none!important;
                 }*/
                 #sf-meta-box-tabs {
@@ -842,6 +873,11 @@
     
                 .closed #sf-meta-box-tabs, .closed #sf-tabbed-meta-boxes {
                     display: none;
+                }
+                
+                
+                #sf-tabbed-meta-boxes .inside .rwmb-meta-box .rwmb-field:first-of-type > h3 {
+                		margin-top: -10px;
                 }
 		       	
 		       	<?php 

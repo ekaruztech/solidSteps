@@ -1,0 +1,77 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4194:"<p>Menyn är kort och koncis, personalen fransk och bestämd. </p> <p>Trip.com. lunch: 11.30 - 15.30 (Även take away) om pastis. </p> <p>Redan i dörren får man en släng av kulinarisk frankofilism. Pastis är en fransk liten kvarterskrog som leker kurragömma i allra mörkaste Gamla Stan. Pastis, Stockholm: See 289 unbiased reviews of Pastis, rated 4 of 5 on Tripadvisor and ranked #114 of 3,172 restaurants in Stockholm. Voilà! Det kunde ha blivit så bra. Baggensgatan 12,Gamla stan,111 31 Stockholm,Sweden. In the heart of Gamla Stan you can find one of the best, and coziest, French bistros in Stockholm. aktuellt Vinbanken är oberoende. Hos Bistro Pastis i Gamla stan i Stockholm spisar man franskt. </p> <p>On Trip.com, you can find out the best food and drinks of Pastis in Stockholm countyStockholm. Bistro Pastis. Gäster som bor på Scandic Gamla Stan kan besöka Stortorget (0,2 km) och Storkyrkan (0,3 km), några av Stockholms främsta sevärdheter. Baggensgatan 12,Gamla stan,111 31 Stockholm,Sweden. Pastis, Stockholm: See 289 unbiased reviews of Pastis, rated 4 of 5 on Tripadvisor and ranked #110 of 3,181 restaurants in Stockholm. bilder. Hit kommer stammisar från närområdet, frankofiler, foodies och en och annan turist som slinker in från gatan. </p> <p>Mat, dryck och umgänge . Tjugo steg från Gamla stans turiststråk, invid det pittoreska Köpmantorget ligger Bistro Pastis – ett superläge för en restaurang med franska ambitioner. Vi tipsar, recenserar och bevakar världens viner, öl och andra ädla drycker. Within the United States +1-833-896-0077 English: 24/7. Within the United States +1-833-896-0077 English: 24/7. Krogguidens recension och omdöme: I ett lugnt hörn i Gamla stan med S:t Göran och draken i blickfånget gömmer sig denna äkta franska bistro. </p> <p>Brasserie Le Rouge, Stockholm: Se 335 objektiva omdömen av Brasserie Le Rouge, som fått betyg 4 av 5 på Tripadvisor och rankas som nummer430 av 3 181 restauranger i Stockholm. Vår mat & dryck . Pastis: Bistro Pastis in Gamla Stan - See 289 traveller reviews, 68 candid photos, and great deals for Stockholm, Sweden, at Tripadvisor. Betyg: 3.8. </p> <p>Spökvandring i Gamla Stan, Stockholm: Läs recensioner av resenärer som du och se professionella bilder på Spökvandring i Gamla Stan i Stockholm, Sverige på Tripadvisor. Pastis ligger i en liten gränd i Gamla stan och är väldigt liten, så för att försäkra en plats så måste man boka bord innan. Download the App for Free. Vinskribenter & sommelierer på nätet. I vår bistro så bjuder vi på både rätter och atmosfär från Paris, och på Grill Ruby frestar vi med Internationella rätter från vår kolgrill. </p> <p>Bistro Pastis är som vilken tioåring som helst som enligt 1177:s beskrivning är den ålder då man vanligtvis går all-in för ett intresse. meny. Menyn är inte enorm men där finns de franska klassikerna raddade. Det visade sig emellertid att den lilla bistron är charmigheten själv. On Trip.com, you can find out the best food and drinks of Pastis in Stockholm countyStockholm. Välkommen till Cultur . Bistro Pastis Genuine and cosy French bistro Jan 2nd, 2016. As soon as the locals and tourists will find their way back to Gamla Stan we will reopen. Help. Pastis har inte gjort mycket väsen av sig och ska sanningen fram upptäckte vi dem inte förrän alldeles nyligen, genom ett tips från en bekant. App. HITTA HIT Bistro PASTIS ligger på Köpmantorget vid hörnet av Baggensgatan/Köpmangatan i Gamla Stan. Öppettider . DN:s appar e-DN DN.VR DN i PDF-format Korsord. Scandic Gamla Stan är ett utmärkt val för resenärer som besöker Stockholm, och erbjuder en charmig miljö samt många användbara bekvämligheter som är framtagna för att ge dig en bättre vistelse. App. Trip.com. mÅn - lÖr: 17.00 - sÖndag: stÄngt. Pastis i gamla stan lever upp till förväntningarna. Help.  hitta hit. Test Pastis i gamla stan. </p> <p>Stimmigt, rörigt och såsigt – precis som det ska vara på en fransk kvarterskrog. Det finns tyvärr inte några recensioner eller betyg för Café gamla stan ännu, du kanske kan skriva en recension eller lämna ett betyg? </p>";s:7:"keyword";s:209:"streams to royalties(CONVERT(INT,(SELECT/**/CHAR(81)+CHAR(109)+CHAR(82)+CHAR(72)+(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END))+CHAR(81)+CHAR(109)+CHAR(82)+CHAR(72))))";s:5:"links";s:4038:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trias%2C-jura%2C-krita'>Trias, Jura, Krita</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=big-brother-2013-sverige-deltagare'>Big Brother 2013 Sverige Deltagare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-fulaste-stad'>Sveriges Fulaste Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukl%C3%B6n-vid-provisionsl%C3%B6n'>Sjuklön Vid Provisionslön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=when-did-roman-abramovich-buy-chelsea'>When Did Roman Abramovich Buy Chelsea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bordstabletter-svenskt-tenn'>Bordstabletter Svenskt Tenn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aerob-and-anaerob'>Aerob And Anaerob</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=journalist-jobb-stockholm'>Journalist Jobb Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rostade-sesamfr%C3%B6n-ica'>Rostade Sesamfrön Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hundar-till-salu-p%C3%A5-%C3%A5land'>Hundar Till Salu På åland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gymnasium-eget-f%C3%B6retag'>Gymnasium Eget Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalix-folkh%C3%B6gskola-distans'>Kalix Folkhögskola Distans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ck-i-huvudet'>Väck I Huvudet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=romantisk-serie-netflix'>Romantisk Serie Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kreditkort-utan-valutap%C3%A5slag'>Kreditkort Utan Valutapåslag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A5ra-halloween-fr%C3%A5gor'>Svåra Halloween Frågor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-st%C3%A5r-sisu-f%C3%B6r'>Vad Står Sisu För</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broccolisoppa-med-potatis'>Broccolisoppa Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hbo-serier-2018'>Hbo Serier 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=isabelle-gr%C3%B6nqvist-mariette'>Isabelle Grönqvist Mariette</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h-d-international-rally-2020'>H-d International Rally 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bron-s%C3%A4song-2-cast'>Bron Säsong 2 Cast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=christer-pettersson-alibi'>Christer Pettersson Alibi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h-ackord-gitarr'>H Ackord Gitarr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gl%C3%B6mt-l%C3%B6senord-router-netgear'>Glömt Lösenord Router Netgear</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6nk%C3%A5lshj%C3%A4rtan-med-%C3%A4delost'>Grönkålshjärtan Med ädelost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-falk-full-movie'>Johan Falk Full Movie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eric-gadd-bandmedlemmar'>Eric Gadd Bandmedlemmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-q60r-55'>Samsung Q60r 55</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nannaskolan-antal-elever'>Nannaskolan Antal Elever</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bilmetro-borl%C3%A4nge-blocket'>Bilmetro Borlänge Blocket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-franska-%C3%B6rter'>Lax I Ugn Franska örter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=installation-diskmaskin-mediamarkt'>Installation Diskmaskin Mediamarkt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gudinnor-p%C3%A5-m'>Gudinnor På M</a>,
+";s:7:"expired";i:-1;}

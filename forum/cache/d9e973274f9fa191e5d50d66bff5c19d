@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3268:"<br>Den ska dels täcka undervisningen men också skolmat, elevhälsa m.m. Men hur ska framtiden se ut? <br> <br>Alla elever i Sverige har en skolpeng. <br> <br>Skolpengen utgörs av ett grundbelopp för varje elev och ett tilläggsbelopp för elever med ett omfattande behov av särskilt stöd. <br> <br>In the Public sector profit can not be used as a measure of performance. Publishing platform for digital magazines, interactive publications and online catalogs. Alla elever i Sverige har en skolpeng. <br> <br>Många önskar nog att det fanns det. Regler om underhållsskyldighet finns i 7 kap. Kommuner! Den kunde täcka hela TV-väggen, som alla människor hade, men också anpassas till en mindre storlek. <br> <br>Allt inom det offentliga omfattas av offentlighetsprincipen. <br> <br>Skolpengen kommer från din hemkommun, som bestämmer hur stor den ska vara. Hej, och tack för att du vänder dig till oss på Lawline med din fråga. Alternativet att ta ett sabbatsår, se världen och lära sig av livet finns inte längre. ( En studie av produktivitet och effektivitet i kommunala verksamheter. Kandidatuppsats 10 poäng, vt-99 . <br> <br>Det betyder att skolpengen kan variera från kommun till kommun. Var är vi 2024? <br> Jag tror att många tar sig råd för att barnen ska få följa med på utflykten som kostar pengar, vare sig man egentligen har råd eller inte. Vad gör skolpengen för dig? SVAR. Skolpengen kommer från din hemkommun, som bestämmer hur stor den ska vara. Det är skolpengen som finansierar hela … ... TV-ns storlek kunde styras via kontrollen. Även om det kan innebära att man inte har mat på bordet i slutet av månaden, säger Susanne. Vad gör skolpengen för dig? föräldrabalken.I 1 § står det att föräldrarna ska ansvara för underhåll åt barnet efter vad som är skäligt med hänsyn till barnets behov och … Mycket! <br> <br>Fredrik Reinfeldt Det Sovande Folket 1. Stockholms Universitet. Skolpengens storlek i olika kommuner. Handledare: Adolphson, Johan. Det betyder att skolpengen kan variera från kommun till kommun. Man vad är det med alla aktiviteter, handboll, fotboll, dress till handbolllen, nu ska det samlas 1000 per år till klasskassan, under 4 år. 3. Alla elever i Sverige har en skolpeng. Vi vurmar för transparens och öppenhet. Det jag undrAR vad ska 1273kr räcka till. Tutvu lähemalt igapäevaste pangatoimingute, finantseerimise, kindlustuse, investeerimise ja säästmise võimalustega. <br> <br> <br>Det leder till ökade lokalkostnader. Skolpengen ska inte bara täcka undervisningen, utan även utgifter som elevhälsa och måltider. Skolpengen kommer från din hemkommun, som bestämmer hur stor den ska vara. Det är för mig något samtidigt fantasieggande och betungande över den antroposofiska byggnadskonsten och färgsättningen. <br> <br>Skolpengen ska inte bara täcka undervisningen, utan även utgifter som elevhälsa och måltider. Mat, kläder, boende. Varifrån kommer skolpengen? <br> <br>Mycket!  <br> <br>Varifrån kommer skolpengen? <br> <br>Den ska dels täcka undervisningen men också skolmat, elevhälsa m.m. <br> <br>Hela väggen användes främst 18 24. till ”när man gick på bio” och alltså ville ha en mer heltäckande bild upplevelse. <br>";s:7:"keyword";s:25:"vad ska skolpengen täcka";s:5:"links";s:5154:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=i-m-the-dancing-queen'>I M The Dancing Queen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fraktur-manke-h%C3%A4st'>Fraktur Manke Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=atv-barn-honda'>Atv Barn Honda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-onyxen-g%C3%B6teborg'>Hotell Onyxen Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-f%C3%A4rg-gr%C3%A5'>Nordsjö Färg Grå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=feng-shui-interior'>Feng Shui Interior</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kramfors-kommun-utbildning'>Kramfors Kommun Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omv%C3%A5rdnadens-grunder-referens'>Omvårdnadens Grunder Referens</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-kindberg-mutbrott'>Daniel Kindberg Mutbrott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-skridskor-j%C3%B6nk%C3%B6ping'>Köpa Skridskor Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ldreboende-svartb%C3%A4cken-uppsala'>äldreboende Svartbäcken Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-%C3%B6rnsk%C3%B6ldsvik-maj'>Väder örnsköldsvik Maj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=teknikmagasinet-ume%C3%A5-mvg-%C3%B6ppettider'>Teknikmagasinet Umeå Mvg öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=satsa-pengar-synonym'>Satsa Pengar Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=castrol-edge-5w-30-longlife'>Castrol Edge 5w-30 Longlife</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jonatan-unge-kissa'>Jonatan Unge Kissa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laxpaj-med-sparris'>Laxpaj Med Sparris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-r1200gs-adventure-specs'>Bmw R1200gs Adventure Specs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6d-till-skaldjurssoppa'>Bröd Till Skaldjurssoppa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-bodensia-historia'>Hotell Bodensia Historia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torrsprickor-d%C3%A4ck-husvagn'>Torrsprickor Däck Husvagn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=god-sallad-till-r%C3%A4kor'>God Sallad Till Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vattenpump-smutsigt-vatten'>Vattenpump Smutsigt Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nsel-hos-djur'>Känsel Hos Djur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daglig-verksamhet-v%C3%A4ster%C3%A5s-lediga-jobb'>Daglig Verksamhet Västerås Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frysa-in-strimlad-vitk%C3%A5l'>Frysa In Strimlad Vitkål</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tele2-kontantkort-fastpris'>Tele2 Kontantkort Fastpris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apply-for-visa-usa'>Apply For Visa Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spotify-royalty-calculation'>Spotify Royalty Calculation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6nsakspaj---recept'>Grönsakspaj - Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=L%C3%BD-S%C6%A1n-District'>Lý Sơn District</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4cka-t%C3%A5rta-med-vit-choklad'>Täcka Tårta Med Vit Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=terrassv%C3%A4rmare-silverline-1200'>Terrassvärmare Silverline 1200</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A5djurssadel-med-r%C3%B6dvinss%C3%A5s'>Rådjurssadel Med Rödvinssås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fisk-i-folie-koka'>Fisk I Folie Koka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=exempel-p%C3%A5-tj%C3%A4nsteyrken'>Exempel På Tjänsteyrken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-galaxy-watch-s%C3%B6mn'>Samsung Galaxy Watch Sömn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koka-broccoli-n%C3%A4ring'>Koka Broccoli Näring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-k%C3%B6penhamn-b%C3%A5t'>Malmö Köpenhamn Båt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv10-play-speedway'>Tv10 Play Speedway</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ljusshow-link%C3%B6ping-2019-ny%C3%A5r'>Ljusshow Linköping 2019 Nyår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ton-tv%C3%A5-korsord'>Ton Två Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=febertermometer-media-markt'>Febertermometer Media Markt</a>,
+";s:7:"expired";i:-1;}

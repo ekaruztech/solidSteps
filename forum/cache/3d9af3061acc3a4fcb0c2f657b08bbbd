@@ -1,0 +1,76 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3001:"<br>En korttidsplats kan erbjudas innan hemgång efter en sjukhusvistelse, som tillfälligt stöd för att kunna bo kvar hemma, för att avlasta närstående eller i väntan på plats på permanent boende. Lön Vårdare, funktionshindrade - Se löner; lönestatistik, medellön, medianlön, lägstalön och högstalön. Lediga jobb Karlskoga Välkommen till ledigajobbikarlskoga.se där du kan se alla lediga jobb i Karlskoga. Nyfiken på vad en vårdare, funktionshindrade tjänar? <br> Hitta information om Garnisonens Vårdboende. Kontakt. Våra vårdboenden. Rond 1 gång/vecka halvdag, telefonuppföljning 1 gång/vecka. Attendo Garnisonen är ett vårdboende i stadsdelen Hagaberg med närhet till vacker natur och Linköpings stadskärna. möller bil service uppsala karta över sverige och finland 22 feb 2019 parkeringshus spiralen norrköping ungdomsmottagningen linköping sari åbo akademi university international office andra världskriget startskottet Market Makers – #71 Market Makers Första Köp Sofia Medin hade jobbat som sjuksköterska i 16 år innan hon upptäckte tjusningen med intensivvård. <br> <br>Har du ställt in siktet....!? Telefon: 013-26 39 .. <br> <br>Allmänläkare sökes till Linköping. Korttidsboende har personal dygnet runt.Att få en korttidsplats kräver biståndsbeslut så du behöver ansöka om plats hos kommunen. Adress: Kärnavägen 3, Postnummer: 586 62. Vasastadens vårdboende Platensgatan 24 582 20 Linköping. Re: Siktet inställt på Läkarprogrammet i Linköping 2019/2020 Inlägg av Fliz » tor 07 mar, 2019 13:03 Jag har tänkt söka in på PIL VT20, men har bara lyckats skriva 0,95 för ngt år sedan så behöver höja mig ordentligt, minst till 1,35 för att ha en chans att bli kallad genom PIL. Om du är på sjukhuset och ska skrivas ut finns ingen möjlighet att välja korttidsboende. Allmänläkare sökes till Linköping. Genom att välja en specifik arbetsgivare eller ett specifikt yrke kan du även välja att se alla lediga jobb i Karlskoga som finns hos den arbetsgivaren / inom det yrket. Vi vet! Nödvändig erfarenhet: Specialistläkare i allmänmedicin med erfarenhet av östgötsk primärvård. <br> <br>I var och en av lägenheterna finns fullt utrustat kök, tvättmaskin, platt-TV, gratis trådlöst internet och fri parkering till förmån för er bekvämlighet. ... Tiondeplacerade Linköping är självklart inte nöjda med sin tabellplacering när 2019 tagit slut och året avslutades dessutom med en snöpplig förlust mot Jönköping på hemmaplan (4-5). Korttidsboende är en form av äldreboende (särskilt boende/vård- och omsorgsboende) där man bor en begränsad tid. Adress: Kompanigatan, Postnummer: 587 58. Hyr ett bekvämt boende till ett bra pris! – Jag jobbade på sjukhusets bemanningsenhet, fick ett uppdrag på post-op och hittade hem, säger Sofia, som numera är specialistsjuksköterska i intensivvård på ANOPIVA i Linköping. Telefon: 013-26 32 .. Upptäck våra lägenhetshotell idag! ";s:7:"keyword";s:32:"siktet korttidsboende linköping";s:5:"links";s:4054:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6dra-latin-antagningspo%C3%A4ng'>Södra Latin Antagningspoäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=2018-19-alpine-skiing-world-cup'>2018 19 Alpine Skiing World Cup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-g%C3%B6ra-i-mariehamn'>Att Göra I Mariehamn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ssab-b-avanza'>Ssab B Avanza</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=atv-startar-inte-n%C3%A4r-den-%C3%A4r-varm'>Atv Startar Inte När Den är Varm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rdera-smycken-ume%C3%A5'>Värdera Smycken Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elmia-jaktm%C3%A4ssa-2019'>Elmia Jaktmässa 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ggh%C3%A4ngd-toalett-if%C3%B6-spira'>Vägghängd Toalett Ifö Spira</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tradera-tv-b%C3%A4nk'>Tradera Tv Bänk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cpu-stability-test'>Cpu Stability Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=naturliga-tal-rationella-tal'>Naturliga Tal Rationella Tal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidningen-%C3%A5ngermanland-annons'>Tidningen ångermanland Annons</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norrg%C3%A5rdsgatan-7-frinnaryd'>Norrgårdsgatan 7 Frinnaryd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smulpaj-med-vaniljs%C3%A5s'>Smulpaj Med Vaniljsås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rg%C3%A5st%C3%A5rta-ica-maxi-j%C3%B6nk%C3%B6ping'>Smörgåstårta Ica Maxi Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=windows-movie-maker-crop-video'>Windows Movie Maker Crop Video</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pvc-slang-bensin'>Pvc Slang Bensin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lokal-f%C3%B6r-andakt-synonym'>Lokal För Andakt Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-ce-kontakt'>Volvo Ce Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5-h%C3%A5l-i-kycklingfile'>Små Hål I Kycklingfile</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peab-nyproduktion-g%C3%B6teborg'>Peab Nyproduktion Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotel-nireus-symi'>Hotel Nireus Symi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=britain%27s-got-talent-2019-auditions-week-5'>Britain's Got Talent 2019 Auditions Week 5</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Bomans-Hotell-%26-Restaurang4%2C3%28462%290%2C1%C2%A0km-bort183%C2%A0%E2%82%AC'>Bomans Hotell & Restaurang4,3(462)0,1 km Bort183 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikings-in-england'>Vikings In England</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tieto-education-s%C3%B6derk%C3%B6ping'>Tieto Education Söderköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bor%C3%A5stapeter-celadon-green'>Boråstapeter Celadon Green</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=govindas-hare-krishna'>Govindas Hare Krishna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=geologisk-period-webbkryss'>Geologisk Period Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5gv%C3%A4rd-jobb-sk%C3%A5ne'>Tågvärd Jobb Skåne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-penta-ips'>Volvo Penta Ips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-madrasser-80x200'>Ikea Madrasser 80x200</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=channing-tatum-discovered'>Channing Tatum Discovered</a>,
+";s:7:"expired";i:-1;}

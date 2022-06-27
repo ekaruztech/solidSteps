@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2895:"<p>Hyr en lägenhet i Malmö. Men även för att du väljer något mer. HSB Malmö har 2 200 hyreslägenheter i Malmö, Trelleborg och Svedala. Så tiden för att få ett hyreskontrakt varierar. Antalet bosparpoäng som behövs beror på vilka bosparare som är intresserade av just den lägenheten som du söker. </p> <p>Att bo i Hyllie innebär en annorlunda närhet till allt. Hitta hem i Hyllie I Hyllie centrum bor du för att du väljer Malmö. I Malmö har man ett stort utbud av hyreslägenheter för privatpersoner. På Östra Varvsgatan finns också 2 lokaler. Bostäder kan sökas direkt på Ikanos hemsida. Börja bospara . Mot norr ligger Hyllie … Lägenheterna återfinns i Hyllie, Elinegård, Kirseberg och Slussen.  </p> <p>Det senaste beläget vid Hyllie allé och ytterligare ett på gång i Dungen, även detta i Hyllie. Här möts stad och landskap, storskaligt och småskaligt, gröna områden och färgstark arkitektur. Här bor man attraktivt klimatsmart nära parker och grönområden och har goda möjligheter till rekreation och träning. Vi har ca 400 hyreslägenheter och lokaler på bra lägen i Malmö. Sadelmakarbyn, Malmö Hyreslägenheter i Bunkeflostrand Strax söder om Malmö, nära Hyllie och Malmö Arena, ligger Bunkeflostrand med fina hyreslägenheter i storlekar från 1 … </p> <p>Under 2007 blev 22 hyreslägenheter på Flaggskeppsgatan klara och i början av 2012 färdigställde vi 34 hyreslägenheter på Östra Varvsgatan och Fregattgatan. Roth Fastigheter har byggt och förvaltat fastigheter i Malmö sedan 1930-talet. Alla får söka, men bosparande medlemmar får välja först. Efterfrågan på hyreslägenheter är stor, och på Bonava gör vi vårt bästa för att hela tiden öka utbudet. I Hyllie i Malmö har vi 71 moderna och attraktiva hyreslägenheter i kvarteret Frigg 1. Hyllie stationstorg ligger strax över gatan från byggnaden och därifrån tar du dig snabbt vidare både inom Sverige och ut i Europa. </p> <p>Sök lediga hyreslägenheter I samarbete med Malmö Stad och andra byggherrar arbetar vi med att utveckla nya bostadsområden i Västra Hamnen och Hyllie. Med tåget är du på bara 3 minuter framme på Triangelns station, 8 minuter på Malmö C, 13 minuter i Kastrup och på mindre än en halvtimme är du i centrala Köpenhamn. Från HSB Sportsbyns 128 yteffektiva lägenheterna når du kontinenten på 12 minuter och centrala Malmö på 3 minuter. När vi bygger nyproducerade hyreslägenheter i Malmö satsar vi på ett stabilt och hållbart boende som lätt går att anpassa efter individens önskningar. Heimstaden Den privata fastighetsägaren Heimstaden är en av de större aktörerna på marknaden i Malmö. Hyllie har Sveriges kanske mest strategiska läge. Sök lediga hyreslägenheter Att bo i Hyllie är att bo bekymmersfritt och bekvämt gällande service, kommunikation, nöjen och mycket mer. </p>";s:7:"keyword";s:254:"gaming event stockholm/**/OR/**/3479=UTL_INADDR.GET_HOST_ADDRESS(CHR(77)||CHR(113)||CHR(110)||CHR(114)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(77)||CHR(113)||CHR(110)||CHR(114))/**/AND/**/6538=6538";s:5:"links";s:5208:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=audio-video-b%C3%A5stad'>Audio Video Båstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vux-v%C3%A4rnamo-itslearning'>Vux Värnamo Itslearning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-utdragbar-s%C3%A4ng'>Bygga Utdragbar Säng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kung-oidipus-fulltext'>Kung Oidipus Fulltext</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bl%C3%A5-frosting-t%C3%A5rta'>Blå Frosting Tårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finalister-idol-2019'>Finalister Idol 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-med-kallr%C3%B6kt-lax'>Pasta Med Kallrökt Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kompressor-tryckluft-biltema'>Kompressor Tryckluft Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-inscription-paket'>Volvo Inscription Paket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=suzuki-atv-750-2020'>Suzuki Atv 750 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=2021-world-men%27s-handball-championship'>2021 World Men's Handball Championship</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boston-bruins-kl%C3%A4der'>Boston Bruins Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6renar-tj%C3%A4nstem%C3%A4n-ptk'>Förenar Tjänstemän Ptk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uf-m%C3%A4ssa-emporia-2020'>Uf Mässa Emporia 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5-hundar-till-salu-v%C3%A4rmland'>Små Hundar Till Salu Värmland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vandra-p%C3%A5-madeira'>Vandra På Madeira</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=1177-j%C3%B6nk%C3%B6ping-journal'>1177 Jönköping Journal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rita-situationsplan-sj%C3%A4lv'>Rita Situationsplan Själv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=e-faktura-handelsbanken-f%C3%B6retag'>E-faktura Handelsbanken Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=annica-englund-%C3%B6stersund'>Annica Englund östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-kiruna-bostad'>Blocket Kiruna Bostad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hamstring-strain-svenska'>Hamstring Strain Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-eggers-meny'>Restaurang Eggers Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wildlife-garden-r%C3%B6dhake'>Wildlife Garden Rödhake</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsrelaterad-stress-symptom'>Arbetsrelaterad Stress Symptom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fina-kakor-synonym'>Fina Kakor Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-med-swish-ica'>Betala Med Swish Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-gran-canaria-januari'>Väder Gran Canaria Januari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=minipajer-med-broccoli'>Minipajer Med Broccoli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flytta-eluttag-gipsv%C3%A4gg'>Flytta Eluttag Gipsvägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tomter-link%C3%B6ping-harvestad'>Tomter Linköping Harvestad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4lkn%C3%B6l-saltlag-%C3%B6ver-natten'>Tjälknöl Saltlag över Natten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-skog'>Lediga Jobb Skog</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5s-till-potatis-i-ugn'>Sås Till Potatis I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-br%C3%B6d-k%C3%B6pa'>Lchf Bröd Köpa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbel-p%C3%A4ls-hund'>Dubbel Päls Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madeira-priser-%C3%B6l'>Madeira Priser öl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=niina-%C3%A4iki%C3%A4-ratsit'>Niina äikiä Ratsit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=godk%C3%A4nda-betyg-grundskolan'>Godkända Betyg Grundskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemtex-bor%C3%A5s-city-%C3%B6ppettider'>Hemtex Borås City öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=light-electromagnetic-waves'>Light Electromagnetic Waves</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-barnsk%C3%B6tare'>Personligt Brev Barnskötare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runda-mattor-jysk'>Runda Mattor Jysk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=caf%C3%A9-italia-eriksberg'>Café Italia Eriksberg</a>,
+";s:7:"expired";i:-1;}

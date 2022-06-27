@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:5002:"För att skapa så bra dricksvatten som möjligt behöver vi se till att råvattnet har så goda förutsättningar som möjligt. Jordbakterier kan rena vatten. Förekomsten av denna bakterie i vattnet tyder på påverkan från avlopp, gödsel eller direkt påverkan av att smådjur fallit ner i brunnen. Lite vind gör att lacken torkar snabbare,. Koliforma bakterier förekommer naturligt i jord och vatten men också i tarmkanalen hos djur och människor, och indikerar oftast risk för att ytvatten trängt in i brunnen. Sporbildande bakterier kan också finnas i strömedel (Magnusson et al., 2007). Jordbakterier i vattnet De som väljer att trotsa varningarna på Smittskyddsinstitutets hemsida riskerar först och främst att drabbas av magsjuka. LÄS OCKSÅ: Forskare: Ät mer frukt och grönt - lev längre. Koka upp vattnet i en kastrull eller vattenkokare tills det bubblar kraftigt. Därför måste vattenlåset rengöras och desinficeras regelbundet. Dela Publicerat fredag 28 september 2012 kl 16.05 Sprayas med förorenat vatten för att se fräscha ut Marie-Louise Danielsson-Tham, professor i livsmedelshygien vid Örebro universitet och även känd från TV-progammet "Rent hus", berättar varför: – Vi har haft en del problem med matförgiftning från importerad ruccola, groddar, babyspenat och kryddväxter. Häll upp det kokta dricksvattnet i väl rengjord kanna, flaska eller annan behållare och låt det svalna. Artnamnet betyder kopparrost eftersom bakterien ger ett grön-blåaktigt var vid infektioner. Förekomsten av denna bakterie i vattnet tyder på påverkan från avlopp, gödsel eller direkt påverkan av att smådjur fallit ner i brunnen. Pseudomonas aeruginosa är en allmänt utbredd jordbakterie av släktet Pseudomonas.Den spelar en viktig roll som nedbrytare av bland annat organiskt materiel och även toxiska substanser. Den används för att förhindra svampinfektioner på växter. Vi behöver också se till att själva täkten och arbetet med reningen sker så … E.coli bakterier finns i tarmkanalen hos djur och människor.  Jordbakterier i vattnet De som väljer att trotsa varningarna på Smittskyddsinstitutets hemsida riskerar först och främst att drabbas av magsjuka. Mastitrelaterade bakterier Relativ fuktighet, eller RH, är ett mått för mängden vatten i gasform i luften jämfört med den maximala mängden vatten den kan innehålla vid en viss temperatur Relativ fuktighet, Mest fördelaktigt är att lacka eller fernissa I torra och väl ventilerade förhållanden. Sprayas med förorenat vatten för att se fräscha ut Marie-Louise Danielsson-Tham, professor i livsmedelshygien vid Örebro universitet och även känd från TV-progammet "Rent hus", berättar varför: – Vi har haft en del problem med matförgiftning från importerad ruccola, … jordbakterier som kommer in vid skörd av ensilage, äts av kon, går via digestionskanalen och kommer in i mjölken via spenkanalen från material på liggplatsen om liggytan inte hålls ren (Christiansson 2011). Vissa bakterier används i livsmedel för att de är nyttiga eller för att … Koliforma bakterier förekommer naturligt i jord och vatten men också i tarmkanalen hos djur och människor, och indikerar oftast risk för att ytvatten trängt in i brunnen. Jordbakterier kan rena vatten Långvariga exponeringar av förorenat dricksvatten kan leda till dödliga sjukdomar som cancer, diabetes och hjärt- kärlsjukdomar. Koka allt vatten som ska drickas eller användas i matlagning. – Det beror på att det har regnat så mycket i sommar. – Det beror på att det har regnat så mycket i sommar. Kan spridas via direktkontakt och via mat och vatten. Men ett vattenlås fullt av smuts och bakterier kan göra att vattnet börjar lukta avlopp eftersom bakterierna startar en nedbrytningsprocess av smutsen, precis som i avloppet. Enterococcus faecium; Tillhör bakteriefamiljen enterokocker som återfinns i den normala tarmfloran, men kan orsaka sjukdomar som hjärnhinneinflammation och infektion i hjärtklaffarna. Kommunen som har flest bad-platser med otjänligt vatten är Lidköping. Värmepumpar kan påverka vattenskyddet och Svenskt vatten rekommenderar därför förbud mot värmepumpar i primär skyddszon för grundvattentäkt och krav på tillstånd i sekundär skyddszon för grundvattentäkt och primär skyddszon för ytvattentäkt. Ett vattenlås är helt enkelt en krök på avloppsröret fyllt av vatten, och lukt från avloppet kan nämligen inte tränga igenom vatten. ... Jordbakterier i dricksvattnet. Bakterier finns överallt omkring oss och därför är det naturligt att de även finns i den mat vi äter. Men nu har svensk forskning hittat ett sätt att sanera giftiga tungmetaller från vatten med hjälp av vanliga jordbakterier. Långvariga exponeringar av förorenat dricksvatten kan leda till dödliga sjukdomar som cancer, diabetes och hjärt- kärlsjukdomar. Kommunen som har flest bad-platser med otjänligt vatten är Lidköping. ";s:7:"keyword";s:22:"jordbakterier i vatten";s:5:"links";s:3642:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kvadreringsregeln-upph%C3%B6jt-till-3'>Kvadreringsregeln Upphöjt Till 3</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-handbollslandslaget-herrar'>Svenska Handbollslandslaget Herrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=programmera-nyckel-hyundai'>Programmera Nyckel Hyundai</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antalya-turkiet-v%C3%A4der'>Antalya Turkiet Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=recept-biff-rydberg-sveriges-m%C3%A4sterkock'>Recept Biff Rydberg Sveriges Mästerkock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catan-b%C3%A4sta-expansion'>Catan Bästa Expansion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4lkn%C3%B6l-saltlag-%C3%B6ver-natten'>Tjälknöl Saltlag över Natten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5lands-nyheter-ax'>ålands Nyheter Ax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=katharina-cohen-familj'>Katharina Cohen Familj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oxfil%C3%A9-med-peppars%C3%A5s'>Oxfilé Med Pepparsås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thule-dynamic-900'>Thule Dynamic 900</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmlands-l%C3%A4n-evenemang'>Värmlands Län Evenemang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sweden-russia-war'>Sweden Russia War</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rm%C3%A5ner-stockholms-universitet'>Förmåner Stockholms Universitet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=minipajer-f%C3%B6rr%C3%A4tt-r%C3%A4kor'>Minipajer Förrätt Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=capio-%C3%B6gon-stockholm'>Capio ögon Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-brasilien-billigt'>Resa Brasilien Billigt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=keynesianism-new-deal'>Keynesianism New Deal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amanda-jenssen---hallelujah'>Amanda Jenssen - Hallelujah</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Radisson-Collection%2C-Strand-Hotel%2C-Stockholm4%2C2%28685%290%2C2%C2%A0km-bort142%C2%A0US%24'>Radisson Collection, Strand Hotel, Stockholm4,2(685)0,2 km Bort142 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=compress-an-mp4-file'>Compress An Mp4 File</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sr-j%C3%B6nk%C3%B6ping-live'>Sr Jönköping Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catering-br%C3%B6llop-enk%C3%B6ping'>Catering Bröllop Enköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-bost%C3%A4der-i-upplands-v%C3%A4sby'>Lediga Bostäder I Upplands Väsby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mikroorganismer-i-jord'>Mikroorganismer I Jord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sundsvall-fbc-p07'>Sundsvall Fbc P07</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5keshov-simhall-simskola'>åkeshov Simhall Simskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-tv-series'>Samsung Tv Series</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparbanken-sk%C3%A5ne-sj%C3%B6bo-%C3%B6ppettider'>Sparbanken Skåne Sjöbo öppettider</a>,
+";s:7:"expired";i:-1;}

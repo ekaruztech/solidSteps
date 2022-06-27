@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2248:"Minecraft: Java Edition supports cross-platform play between macOS, Linux and Windows. Domainnamen, Web Hosting, Email & mehr - alles in einem Paket. One-JAR provides custom classloader that knows how to load classes and resources from a jars inside an archive, instead of from jars in the filesystem. Your application can be run using java -jar my-app.jar Support for One-JAR An open-source community and professional support are available Key Features. MACOS. Java Product Team Blog; The Java EE Aquarium Blog; Java Training This edition supports user-created skins. A resource for Java technology consumers, with a focus on Games. If you're having problems installing or using Java, look for answers in the Java Help Center. Important Oracle Java License Update The Oracle Java License has changed for releases starting April 16, 2019. Note For PCs running Windows 8.1, Java will only work in Internet Explorer for the desktop. Français Hébergement web Infos Fonctionnalités Services nouvelles. Stay up to date with news, certifications, free learning resources, Java Magazine, events and much more. Minecraft: Java Edition supports cross-platform play between macOS, Linux and Windows. Deutsch Webhosting Info Features News Hilfe. The Duke's Choice Award is dedicated to all members of the Java ecosystem! In keeping with its 17-year history, the 2019 Duke's Choice Award winners will be announced at Code One, the world's biggest Java technology conference and gathering of Java community members. Nederlands Web hosting Info Kenmerken Nieuws Ondersteuning Inklusive SSL, Homepage Baukasten & 24/7 Kundenservice. Learn how Java continues to advance the application world as one of the most pervasively used technologies of our lifetime. DOWNLOAD . The new Oracle Technology Network License Agreement for Oracle Java SE is substantially different from prior Oracle Java licenses. Watch this on-demand webcast.  Die perfekte Lösung für Ihr Online Business. ... Minecraft on Xbox One supports split-screen play for you to build with friends at home. The classic! Through progressive modernization, Java offers a unique ability to create next-generation applications. The Java programming language is one of the most popular languages today. ";s:7:"keyword";s:12:"one com java";s:5:"links";s:5118:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=balearernas-st%C3%B6rsta-%C3%B6'>Balearernas Största ö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanal-10-norge'>Kanal 10 Norge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bor%C3%A5stapeter-celadon-green'>Boråstapeter Celadon Green</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrid-lindgren-figurer'>Astrid Lindgren Figurer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%B6msunds-kommun-utbildning'>Strömsunds Kommun Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4xhj%C3%A4lp-b%C3%A4st-i-test'>Läxhjälp Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hr-enheten-svedala'>Hr Enheten Svedala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunchrestauranger-p%C3%A5-liding%C3%B6'>Lunchrestauranger På Lidingö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hair-musical-l%C3%A5tar'>Hair Musical Låtar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=move-to-japan-from-sweden'>Move To Japan From Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-krog'>Vad Betyder Krog</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svt-play-tv6'>Svt Play Tv6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ns-zelmerl%C3%B6w-youtube'>Måns Zelmerlöw Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5sklov-2020-karlstad'>Påsklov 2020 Karlstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-2020-f1'>Mercedes 2020 F1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rabattkod-rosa-huset'>Rabattkod Rosa Huset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsf%C3%B6rmedlingen-efter-gymnasiet'>Arbetsförmedlingen Efter Gymnasiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runt-badkar-med-tassar'>Runt Badkar Med Tassar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ultima-thule-s%C3%A5ngare'>Ultima Thule Sångare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-stad-f%C3%B6rskola'>Stockholm Stad Förskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=css-add-icon-before'>Css Add Icon Before</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj%C3%B6magasinet-michelin-2019'>Sjömagasinet Michelin 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-%C3%A4ldsta-fotografi'>Sveriges äldsta Fotografi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidtabell-rosa-express'>Tidtabell Rosa Express</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-och-torsk-i-ugn-med-s%C3%A5s'>Lax Och Torsk I Ugn Med Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nexen-n%27fera-su4'>Nexen N'fera Su4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5va-gymnasium-%C3%B6ppet-hus-2019'>åva Gymnasium öppet Hus 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kondenserad-mj%C3%B6lk-arla'>Kondenserad Mjölk Arla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-original-l%C3%A4nkarm'>Volvo Original Länkarm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=div-4-sm%C3%A5land-2019'>Div 4 Småland 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bli-skr%C3%A4md-korsord'>Bli Skrämd Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spotify-royalty-calculation'>Spotify Royalty Calculation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=christopher-o%27regan-flashback'>Christopher O'regan Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matias-varela-flickv%C3%A4n'>Matias Varela Flickvän</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kan-man-d%C3%B6-av-bl%C3%A5sljud-i-hj%C3%A4rtat'>Kan Man Dö Av Blåsljud I Hjärtat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-mycket-vatten-ska-man-dricka-per-dag-gravid'>Hur Mycket Vatten Ska Man Dricka Per Dag Gravid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adidas-skor-zalando'>Adidas Skor Zalando</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fakta-om-sverige-p%C3%A5-spanska'>Fakta Om Sverige På Spanska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-b%C3%B6ckerna-2018'>Bästa Böckerna 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skagenr%C3%B6ra-p%C3%A5-r%C3%A5gbr%C3%B6d'>Skagenröra På Rågbröd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moroten-och-piskan-teori'>Moroten Och Piskan Teori</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sonos-beam-google-assistant'>Sonos Beam Google Assistant</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kpasta-med-fetaost'>Räkpasta Med Fetaost</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4685:"<p>Genom att surfa vidare godkänner du att vi använder kakor. Österledskolan 7-9, Karlskoga. Österledskolan är en 7-9-skola belägen i de östra delarna av Karlskoga. Skolan har nära till vacker natur med Furulundsbadet, idrottsplats, motionsspår, isbana och skidbacke inom gångavstång. Personal på Österledskolan i Karlskoga Här hittar du information om och kontaktuppgifter till personalen på Österledskolan. österledskolan Karlskoga Gallery Review österledskolan Karlskoga articles - you may also be interested in the österledskolan Karlskoga Rektor and österledskolan Karlskoga Personal from 2020 Grundsärskolan årskurs 7-9, Österledskolan. </p> <p>Image ÖSTERLEDSKOLAN, 8d, Karlskoga. Servicecenter - din väg in i kommunen 0586-610 00 0586-622 00 - automatisk växel, säg namnet på den du söker så kopplas du automatiskt. </p> <p>Österledskolan är en 7-9-skola belägen i de östra delarna av Karlskoga. </p> <p>20200501. österledskolan pictures. The complete österledskolan Karlskoga Articles. På Karlskoga Folkhögskolas sida berättar vi om vad som händer, delar minnen, lägger upp bilder och filmklipp mm. image . Österledskolan 7-9, Karlskoga. Visa alla pedagogchefsjobb i Karlskoga, Lekeberg, Degerfors, Nacka Visa alla jobb hos Karlskoga kommun, 12 Barn- och utbildningsförvaltningen i Karlskoga Karlskoga är en grön stad med natursköna … </p> <p>Image Österledskolan By Lollo Berge On Prezi. </p> <p>Grundsärskolan årskurs 1-6, Sandviksskolan. Gymnasiesärskolan är en frivillig fortsättning på … 364 gillar. Karlskoga, 69152 .  Karlskoga kommun ett finskt förvaltningsområde vilket innebär att den finsktalande befolkningen ska få den stöttning de behöver av kommunen. Rektor på Karlbergsskolan i Karlskoga med ansvar för drygt 400 elever i år F-6 och ca 50 medarbetare. Österledskolan, Grundskola, Karlskoga i Karlskoga - Personer - Personsök Sverige - hitta skolkamrater och vänner | StayFriends. År 2020 är vi även kända för att vara en pedagogiskt och kunskapsmässigt banbrytande utbildningsort från förskola till högskola. Image Konflikter På Österledskolan Orsakar Oro Hos Elever | SVT ... image. Tomas Leandersson Coaching Karlskoga . </p> <p>Våra öppettider (ordinarie): Måndag - fredag 07.30 - 17.00. </p> <p>Ledord: aktivt elevhälsoarbete för inkludering, integrering och inflytande på elevens villkor, systematiskt kvalitetsarbete med fokus på analys och förbättring i kärnverksamheten, delat pedagogiskt ledarskap och sist men inte minst - glädje i vardagen! image. 364 gillar. info@karlskoga.se Fler kontaktuppgifter Lämna synpunkt Lämna synpunkt; Anmäl fel; Karta; Administration och elevhälsa. </p> <p>Som biträdande rektor arbetar du med att stödja och samverka med skolans rektor utifrån den delegation som du får </p> <p>Öppna Förskolan Österledskyrkan Österleden 3 Karlskoga, 69152 . Rektor på Karlbergsskolan i Karlskoga med ansvar för drygt 400 elever i år F-6 och ca 50 medarbetare. – Teknikåttan. More info. Österledskolan är en 7-9-skola belägen i de östra delarna av Karlskoga. Fler kontaktuppgifter. Biträdande rektor till Österledsskolan Karlskoga kommun, 12 Barn- och utbildningsförvaltningen / Pedagogchefsjobb / Karlskoga Observera att sista ansökningsdag har passerat. </p> <p>Till och med 31 maj: 07.30-16.00 . Jag hjälper dig att ta din bowling till nya nivåer. STORT GRATTIS! Välkommen du som tidigare studerat här, du som går på skolan eller är nyfiken på oss! Österledskolan är en 7-9 skola som ligger mitt i Oskarströms samhälle knappt två mil norr om Halmstad längs Nissastigen. C Karlskoga Folkhögskola Rektor Lindholms Väg 23 Karlskoga, 691 44 . Personal på Österledskolan i Karlskoga Här hittar du information om och kontaktuppgifter till personalen på Österledskolan. Rektor till Österledsskolan Annonsen är ej tillgänglig. Grundsärskolan i Karlskoga har drygt 40 elever och finns på tre skolor: Grundsärskolan, inriktning träningsskolan årskurs 1-9, Aggerudsskolan. Last Update. Vi inbjuder till dialog! </p> <p>info@karlskoga.se. Vänta några minuter och försök igen. </p> <p>Servicecenter - din väg in i kommunen 0586-610 00 0586-622 00 - automatisk växel, säg namnet på den du söker så kopplas du automatiskt. Detta kan bero på flera saker: Ansökningstiden har tagit slut; Annonsören har dragit tillbaka annonsen; Annonsen väntar på att bli publicerad. Have a look at österledskolan pictures and österledskolan halmstad along with österledskolan karlskoga. På StayFriends.se använder vi kakor (cookies) för att webbplatsen ska fungera på ett bra sätt för dig. </p>";s:7:"keyword";s:260:"gaming innovation group',(CAST(CHR(108)||CHR(106)||CHR(73)||CHR(114)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(108)||CHR(106)||CHR(73)||CHR(114)/**/AS/**/NUMERIC))";s:5:"links";s:2514:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=I-Don%E2%80%99t-Give-A'>I Don’t Give A</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bashan-badboy-200cc-trim'>Bashan Badboy 200cc Trim</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=horoskop-vecka-4-2020'>Horoskop Vecka 4 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nedre-rygg-%C3%B6vningar'>Nedre Rygg övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6jromspizza-med-potatis'>Löjromspizza Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=innebandy-handskar-unihoc'>Innebandy Handskar Unihoc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kurator-utbildning-gu'>Kurator Utbildning Gu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-slutar-f%C3%B6tterna-v%C3%A4xa'>När Slutar Fötterna Växa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6ssp%C3%A5tagning-2020-%C3%B6stersund'>Mösspåtagning 2020 östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4gga-p%C3%A5-sn%C3%B6kedjor-lastbil'>Lägga På Snökedjor Lastbil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekholmen-centrum-%C3%A4gare'>Ekholmen Centrum ägare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-st%C3%B6rsta-land'>Världens Största Land</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baga-avlopp-omd%C3%B6me'>Baga Avlopp Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=argument-f%C3%B6r-det-fria-skolvalet'>Argument För Det Fria Skolvalet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekonomiskt-bist%C3%A5nd-h%C3%A4sselby'>Ekonomiskt Bistånd Hässelby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hitta-filter-p%C3%A5-instagram'>Hitta Filter På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bubbelbadkar-170-cm'>Bubbelbadkar 170 Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=katolska-kyrkan-sakrament'>Katolska Kyrkan Sakrament</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jg-fastigheter-%C3%B6rebro'>Jg Fastigheter örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A5a-r%C3%A4kor-recept'>Råa Räkor Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabelsats-4-extraljus'>Kabelsats 4 Extraljus</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3275:"Obtain state space representation in observable canonical form. Canonical state-space form of the dynamic model, returned as an ss model object. EE635 - Control System Theory Jitkomut Songsiri ... • coordinate transformation • controllable canonical form • observable canonical form • controller canonical form • observer canonical form 3-1. Converting a digital filter to state-space form is easy because there are various ``canonical forms'' for state-space models which can be written by inspection given the strictly proper transfer-function coefficients.. A major purpose of the canonical representation for statistical analysis is the development of parameterizations of the sets of all state space systems of a given system order with specified unit root frequencies and integration orders. Observable Canonical form, by inspection, a 1 = 3;a 2 = 2 and b 0 = 0;b 1 = 3 Q.2. • Each of these canonical form has specific advantages which makes it convenient for use in particular design technique. development of other important state space canonical forms, can be found in Kailath (1980; see also similarity transformation in Section 3.4). type specifies whether csys is in modal or companion form. State-Space Representations of Transfer Function Systems Burak Demirel February 2, 2013 1 State-Space Representation in Canonical Forms We here consider a system de ned by y(n) + a 1y (n 1) + + a n 1y_ + a ny = b 0u (n) + b 1u (n 1) + + b n 1u_ + b nu ; (1) where u is the control input and y is the output. Note that the A matrix for observable canonical form is the transpose of the A matrix for controllable canonical form. csys = canon (sys,type) transforms the linear model sys into a canonical state-space model csys. Canonical Forms • Canonical forms are the standard forms of state space models. T — Transformation matrix matrix. Fall 2010 16.30/31 6–6 Modal Form • One particular useful canonical form is called the Modal Form • It is a diagonal representation of the state-space model. For information on controllable and observable canonical forms, see Canonical State-Space Realizations. Example 3 Consider the system given of example 1. Converting to State-Space Form by Hand.  csys is a state-space realization of sys in the canonical form specified by type. (a) Obtain the state space representations in controllable and observable canonical forms for a control system with the following transfer function: Y(s)/U(s) = (s 2 + 2s + 3) / (s 3 + 5s 2 + 8s + 4) (b) Using the state variable transformation, convert the controllable canonical form into Jordan canonical form, and find out output for step input. The technique easily generalizes to higher order. Controllable Canonical Form; Observable Canonical Form; If the order of the numerator is equal to the order of the denominator, it becomes more difficult to convert from a system transfer function to a state space model. Transformation matrix, returned as an n-by-n matrix, where n is the number of states. The state-space description of the difference equation in Eq. This document shows how to do this for a 3rd order system. Note that the MATLAB function tf2ss produces the state space form for a given transfer function, in fact, it produces the controller canonical form. ";s:7:"keyword";s:26:"state space canonical form";s:5:"links";s:6116:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kallj%C3%A4sta-frallor-torrj%C3%A4st'>Kalljästa Frallor Torrjäst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-middag-vardag'>Ica Middag Vardag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amy-deasismont-instagram'>Amy Deasismont Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=basal-omv%C3%A5rdnad-definition'>Basal Omvårdnad Definition</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catalina-islands%2C-costa-rica'>Catalina Islands, Costa Rica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=master-h%C3%A5llbar-utveckling'>Master Hållbar Utveckling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanal-10-norge'>Kanal 10 Norge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-barnmat-12-m%C3%A5nader'>Hipp Barnmat 12 Månader</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronans-apotek-lagersaldo'>Kronans Apotek Lagersaldo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skogss%C3%A4llskapet-lediga-jobb'>Skogssällskapet Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-parkering-uddevalla-sjukhus'>Betala Parkering Uddevalla Sjukhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizzabullar-recept-leila'>Pizzabullar Recept Leila</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rml%C3%A4ndsk-voodoo-v%C3%A4ster%C3%A5s'>Värmländsk Voodoo Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kokt-k%C3%B6tt-med-pepparrotss%C3%A5s'>Kokt Kött Med Pepparrotssås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if%C3%B6-aqua-spolknapp'>Ifö Aqua Spolknapp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=black-panther-handling'>Black Panther Handling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=agamemnon-offrar-sin-dotter'>Agamemnon Offrar Sin Dotter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stava-rex-kostnad'>Stava Rex Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lemon-curd-rullt%C3%A5rta'>Lemon Curd Rulltårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=canal-digital-restaurang'>Canal Digital Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=big-brother---s%C3%A4song-9'>Big Brother - Säsong 9</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valuta-franska-revolutionen'>Valuta Franska Revolutionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gott-vegetariskt-med-halloumi'>Gott Vegetariskt Med Halloumi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-fastighetsf%C3%B6rmedling-kramfors'>Svensk Fastighetsförmedling Kramfors</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ik-frej-05'>Ik Frej 05</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=selected-player-sundsvall'>Selected Player Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=comfort-hotel-uppsala'>Comfort Hotel Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5sklov-2020-h%C3%A4rn%C3%B6sand'>Påsklov 2020 Härnösand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolina-gynning-sk%C3%A4rbr%C3%A4da'>Carolina Gynning Skärbräda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-swedish-family-nya-zeeland'>The Swedish Family Nya Zeeland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sushi-and-tea'>Sushi And Tea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=romantiska-filmer-2016'>Romantiska Filmer 2016</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatt-l%C3%B6n-gr%C3%A4nser'>Skatt Lön Gränser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-e5186-repeater'>Huawei E5186 Repeater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolmat-kostnad-per-portion-2019'>Skolmat Kostnad Per Portion 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filmstaden-g%C3%B6teborg-filmer'>Filmstaden Göteborg Filmer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=museum-of-performing-arts-stockholm'>Museum Of Performing Arts Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-elitfotboll-stadgar'>Svensk Elitfotboll Stadgar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=milit%C3%A4r-i-napoleons-arme'>Militär I Napoleons Arme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lekt%C3%A4lt-barn-rusta'>Lektält Barn Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polisen-link%C3%B6ping-adress'>Polisen Linköping Adress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Victim-Number-8'>Victim Number 8</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wicked-game-lyrics'>Wicked Game Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bilen-startar-inte-bara-klickar'>Bilen Startar Inte Bara Klickar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=findus-f%C3%A4rdigr%C3%A4tter-pris'>Findus Färdigrätter Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trafikverket-lule%C3%A5-personal'>Trafikverket Luleå Personal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=manlig-eller-kvinnlig-sterilisering'>Manlig Eller Kvinnlig Sterilisering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=can-am-outlander-500-max'>Can-am Outlander 500 Max</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flashscore-league-two'>Flashscore League Two</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siffror-p%C3%A5-rum%C3%A4nska'>Siffror På Rumänska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mickes-husman-pension%C3%A4rsrabatt'>Mickes Husman Pensionärsrabatt</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,63 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4680:"<br>Diskutera den statliga värdegrunden Målet för den svenska förvaltningen är att alla myndigheter ska genomföra sina uppdrag på ett demokratiskt, effektivt och rättssäkert sätt och vara fria från korruption. Det förtjänar att särskilt betonas att dessa principer är gemensamma för samtliga statsanställda, trots deras vitt skilda verksamhetsområden. <br> Den gemensamma värdegrunden kan med utgångspunkt i rättsordningen sammanfattas i sex grundläggande principer. Vi har tagit fram olika material och utbildningar om den nationella värdegrunden för att informera och stödja implementeringen. En fördjupad studie om värdegrunden S.10 Dnr 2000: 1613. Beskrivning. ”Värdegrunden” är till synes väl förankrad i de tillfrågade arbetslagen, men är mindre tydlig hos rektorer och hos politiker. Den finns översatt till engelska och texterna går att beställa på www.reger-ingen.se samt på Värdegrundsdelegationens webbsida. Vad är grund <br> <br>Det finns stora skillnader i barnomsorgens och skolors förutsättningar för När personal tillsammans med barn och elever löpande tolkar och omsätter värdegrunden i vardagen, kan den genomsyra verksamheten och uppfylla styrdokumentens mål. Skriften Den gemensamma värdegrunden för de statsanställda är rela-tivt omfattande. Att värdegrunden är en viktig del av Lpfö 98,( reviderad 2010) och att det därför ingår i uppdraget att förmedla dessa värden, uttalades inte direkt av någon respondentkategori. En folklingvistisk studie av dialektens sociala betydelse i ett standardspråksnära område. <br> <br>Arbetet med värdegrunden gynnas när personalen tillsammans tolkar styrdokumenten för att nå en samsyn. Stockholm: Runa förlag. Boken vill bidra till att synliggöra den komplexa pedagogiska verkligheten och ger begrepp och teorier som hjälp i värdegrundsarbetet, i syfte att stödja barns och ungdomars moraliska kompetensutveckling. varandra. Ett problem är att vi som arbetar i skolan tror oss vara eniga gällande värdegrunden, utan att reflektera över att vi … (Dialect where it almost doesn’t exist. Diskussionen utgår från den ansats som valts för studien, vilken redogörs för under avsnittet Utgångspunkter. S.10 5 Läroplan för gymnasiet, Gy11, Skolverket S.6 6 Skolverket, (2000). Boken vill bidra till att synliggöra den komplexa pedagogiska verkligheten och ger begrepp och teorier som hjälp i värdegrundsarbetet, i syfte att stödja barns och ungdomars moraliska kompetensutveckling.Läs merKan det överhuvudtaget i vår postmoderna tid finnas en gemensam värdegrund i skola och samhälle? I uppfostran och socialisation, i skolan och utanför den, finns dock ett flöde av normer om hur man skall bete sig mot varandra. Därför finns en kortare introduktionstext, Introduk-tion till Den gemensamma värdegrunden för de statsanställda. 319 kr. I skriften Den statliga värdegrunden - gemensamma principer för en god förvaltning (PDF 10MB) beskriver vi de sex principerna demokrati, legalitet, objektivitet, fri … Skrifter utgivna av Institutionen för nordiska språk vid Uppsala universitet 98. Syftet med denna uppsats har varit att ta reda på vilken syn lärare har på värdegrunden samt hur de anser sig arbeta med den. Demokrati är den överordnade principen, enligt 1 kap. etiska överenskommelser som finns i ett samhälle som ligger till grund för lagstiftningen. 1 § första finns. Värdegrunden - Finns den? Risken med den sociala ingenjörskonsten är att tron på individens ansvar blir svagt och den centrala styrningen blir stark. Dialekt där den nästan inte finns. <br> <br>Studien syftar till att ge en fördjupad diskussion om värdegrunden, dess möjligheter och dess problem, på både verksamhets- och systemnivå. <br> <br>295 pp. Skickas inom 2-5 vardagar Fri frakt från 169 kr för privatpersoner. Skolans mål – och styrdokument ger läraren stor frihet att tolka och arbeta med värdegrunden på olika sätt. 4 Skolverket, (2000). Författare: Kennert Orlenius. En fördjupad studie om värdegrunden –om möten, relationer och samtal som förutsättningar för arbetet med de grundläggande värdena. (2001) Det är titeln på en bok, skriven av Kennert Orlenius som är fil.dr i pedagogik och som har varit lärare i grundskolan i drygt femton år. värdegrunden, vad den betyder och hur den ska gestaltas i skolans verksamhet. Detta kräver ett medvetet arbete. Värdegrunden – finns den? Läs mer … Värdegrunden - finns den? Vi arbetar för att äldre ska få leva ett värdigt liv och känna välbefinnande genom att stötta kommunerna att tillämpa den nationella värdegrunden. ";s:7:"keyword";s:252:"gaming event stockholm'))/**/OR/**/4296=CTXSYS.DRITHSX.SN(4296,(CHR(83)||CHR(77)||CHR(52)||CHR(71)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(83)||CHR(77)||CHR(52)||CHR(71))/**/AND/**/(('6538'='6538";s:5:"links";s:2278:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ocean-timeless-5x108'>Ocean Timeless 5x108</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hummersoppa-med-lax'>Hummersoppa Med Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-balder-ume%C3%A5'>Restaurang Balder Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pontus-rasmusson-%C3%A5lder'>Pontus Rasmusson ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=strimlad-ryggbiff-gryta'>Strimlad Ryggbiff Gryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=relax-lounge-v%C3%A4ster%C3%A5s-alla-bolag'>Relax Lounge Västerås Alla Bolag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hair-musical-l%C3%A5tar'>Hair Musical Låtar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lyckas-p%C3%A5-instagram'>Lyckas På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bandhagen-kommun-kontakt'>Bandhagen Kommun Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pub-quiz-ume%C3%A5'>Pub Quiz Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gaming-expo-2020'>Gaming Expo 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-atv-500'>Honda Atv 500</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mini-motorcykel-reservdelar'>Mini Motorcykel Reservdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wibe-stege-8-m'>Wibe Stege 8 M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filmstaden-g%C3%B6teborg-filmer'>Filmstaden Göteborg Filmer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=morakniv-butik-mora'>Morakniv Butik Mora</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanelbullar-utan-sm%C3%B6r'>Kanelbullar Utan Smör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kommunalisering-av-skolan-konsekvenser'>Kommunalisering Av Skolan Konsekvenser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6lands-st%C3%B6rsta-stad'>ölands Största Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-alkohol-norge'>Köpa Alkohol Norge</a>,
+";s:7:"expired";i:-1;}

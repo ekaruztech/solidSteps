@@ -5,8 +5,8 @@
 	$options = get_option('sf_dante_options');
 	$page_layout = $options['page_layout'];
 	$sidebar_config = $options['archive_sidebar_config'];
-	$left_sidebar = $options['archive_sidebar_left'];
-	$right_sidebar = $options['archive_sidebar_right'];
+	$left_sidebar = strtolower($options['archive_sidebar_left']);
+	$right_sidebar = strtolower($options['archive_sidebar_right']);
 	$blog_type = $options['archive_display_type'];
 	$sidebar_width = $options['sidebar_width'];
 	
@@ -43,7 +43,7 @@
 		$item_class = "col-sm-12";
 	} else if ($blog_type == "masonry") {
 		if ($sidebar_config == "both-sidebars") {
-		$item_class = "col-sm-3";
+		$item_class = "col-sm-12";
 		} else {
 		$item_class = "col-sm-4";
 		}

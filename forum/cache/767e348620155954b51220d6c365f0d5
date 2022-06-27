@@ -1,0 +1,120 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3627:"<p>The calculator uses the formula developed by the US Navy for Body Fat Percentage. Although the water displacement test is the most accurate way to determine body fat percent, however the Navy Body Fat test or YMCA formula is sufficiently accurate within 1-3% for most people. US Marine is using separate equations for men and women to calculate the percentage of body fat. Body fat calculator - estimate your body fat percentage and body fat mass. Simply enough, if you weigh 150 pounds and have 10% body fat, it means that your body consists of 15 pounds of fat and 135 pounds of lean body mass such as bone, muscle, organ tissue, blood, and water. These formulas are based on DoD Instruction Number 1308.3: "DoD Physical Fitness and Body Fat Programs Procedures” dated November 5, 2002. Formula. To calculate your body fat percentage, measure the percentage of fat your body contains.  Body Fat Percentage Calculator for Men: Measure abdomen, horizontal at the level of the navel. The Body Fat Calculator gives a measure of body fat based on body part dimensions. Uses the formula developed by the U.S. Navy and requires four measurements: height, neck, waist, and hip circumference. This is a very accurate body fat calculator. Then input your weight and age to calculate your body fat. Men % body fat = 86.010 × log10(waist − neck) − 70.041 × log10(height) + 36.76 Body Fat Calculator helps you to find out your body fat percentage, your body type and the number of calories you have to burn, to lose 1% of your body fat. Knowing the average body fat percentage can give you a good overview of your health. It uses YMCA formula: For women For men Here you can learn more about body fat percentage calculation Learn how to use a tape measure to determine your waist, hip and neck circumference. A rough calculator of body fat percentage. Use a tape measure then enter your waist, hip, and neck measurements. All information given in Body Tracker, My Workout Trainer, and on this website is meant to be an estimate. Body Fat Calculator; BMI and BMR Calculator; Distributors; List of Distributors; Disclaimer: The information given on this site is meant to help you reach your fitness goals. ACE Fit offers a number of free tools and calculators to help you determine everything from your body mass index (BMI) to your target heart rate zone, your blood pressure, body fat composition, daily caloric needs and more. It is the equivalent of figuring out how much gas an idle car consumes while parked. </p> <p></p> <p>This Body Fat Navy Calculator uses the U.S. Navy fitness formula to get an estimated measuring of body fat percent. Use a tape measure and enter your waist measurement. Related Body Fat Calculator | Calorie Calculator. This calculator uses the formula developed by the YMCA to estimate your body fat percentage without calipers. Measure neck, with the tape sloping slightly downward to the front. The basal metabolic rate (BMR) is the amount of energy needed while resting in a temperate environment when the digestive system is inactive. Some wonder if they have a normal or ideal body fat percentage. The Body Fat Percentage Calculator uses the U.S. Navy fitness formula to calculate an estimation of body fat. Calculating Body Fat Percentage. </p> <p>How to calculate your body fat percentage. On the result page is a tape measurement calculator. It is not meant to substitute for the advice of your physician. The estimated body fat is calculated using all 4 formulas. At this page (first column, fourth choice) is a "body fat test". Link: Assessment Tests. Body Fat Percentage Calculator. </p>";s:7:"keyword";s:26:"body fat calculator metric";s:5:"links";s:9512:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=online-pdf-to-word-convertor'>Online Pdf To Word Convertor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stora-s%C3%B6dergatan-8-lund'>Stora Södergatan 8 Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=agnes-carlsson-nothing-can-compare'>Agnes Carlsson Nothing Can Compare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aktiviteter-ume%C3%A5-2019'>Aktiviteter Umeå 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=annika-str%C3%B6m-%C3%B6berg'>Annika Ström öberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volpino-italiano-livsl%C3%A4ngd'>Volpino Italiano Livslängd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billiga-cdi-boxar'>Billiga Cdi Boxar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bredare-d%C3%A4ck-fram'>Bredare Däck Fram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=planeringstid-f%C3%B6r-f%C3%B6rskoll%C3%A4rare-f%C3%B6rskoleklass'>Planeringstid För Förskollärare Förskoleklass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-s%C3%A4ng-av-rosor-darin-chords'>En Säng Av Rosor Darin Chords</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=europe-news-reddit'>Europe News Reddit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4kt-slang-150-mm'>Fläkt Slang 150 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=farmaceut-utbildning-distans'>Farmaceut Utbildning Distans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-f%C3%B6r-unga-helsingborg'>Sommarjobb För Unga Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-inte-holland'>Varför Inte Holland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-fuerteventura-14-dagar'>Väder Fuerteventura 14 Dagar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kriminologi-lund-antagningspo%C3%A4ng'>Kriminologi Lund Antagningspoäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6rjournal-mall-visma'>Körjournal Mall Visma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-blandare-sj%C3%A4lv'>Byta Blandare Själv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ack-ack-ack-crossboss'>Ack Ack Ack Crossboss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stress-i-samh%C3%A4llet'>Stress I Samhället</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=A-King-and-His-Campaigners'>A King And His Campaigners</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6grevsgryta-med-dijonsenap'>Högrevsgryta Med Dijonsenap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=booking-gratis-natt'>Booking Gratis Natt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anf%C3%B6rande-vid-nobelfesten-uarda'>Anförande Vid Nobelfesten Uarda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gefle-dagblad-ins%C3%A4ndare'>Gefle Dagblad Insändare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=unga-och-sociala-medier'>Unga Och Sociala Medier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotel-Bishops-Arms4%2C0%28399%292%2C7%C2%A0km-bort7%C2%A0579%C2%A0INR'>Hotel Bishops Arms4,0(399)2,7 km Bort7 579 INR</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=floristutbildningar-i-sverige'>Floristutbildningar I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=design-f%C3%A5t%C3%B6ljer-billigt'>Design Fåtöljer Billigt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kompis-mat-och-prat'>Kompis Mat Och Prat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-temperatur-d%C3%B6r-bakterier-i-vatten'>Vilken Temperatur Dör Bakterier I Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-swag'>Vad Betyder Swag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Backpackers-G%C3%B6teborg4%2C2%2882%290%2C1%C2%A0km-bort240%C2%A0BR%24'>Backpackers Göteborg4,2(82)0,1 km Bort240 BR$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Nashira-Resort-Hotel-%26-Aqua--Spa3%2C9%281983%290%2C2%C2%A0km-bort136%C2%A0%E2%82%AC'>Nashira Resort Hotel & Aqua -Spa3,9(1983)0,2 km Bort136 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tryckluftsverktyg-clas-ohlson'>Tryckluftsverktyg Clas Ohlson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-%C3%96stersund3%2C8%28505%290%2C3%C2%A0km-bort97%C2%A0%E2%82%AC'>Hotell Östersund3,8(505)0,3 km Bort97 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gamla-kartor-nyk%C3%B6ping'>Gamla Kartor Nyköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=babblarna-halmstad-teater'>Babblarna Halmstad Teater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-calculate-iban'>How To Calculate Iban</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=banankaka-med-kesella'>Banankaka Med Kesella</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-s%C3%A4ger-bibeln-om-mardr%C3%B6mmar'>Vad Säger Bibeln Om Mardrömmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hamstring-strain-svenska'>Hamstring Strain Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lars-lerin-sl%C3%A4kt'>Lars Lerin Släkt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4ndningsl%C3%A5s-med-gl%C3%B6dning'>Tändningslås Med Glödning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bilder-p%C3%A5-rumsavdelare'>Bilder På Rumsavdelare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-st%C3%B6rsta-land'>Världens Största Land</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steka-halloumi-i-ugn'>Steka Halloumi I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-skolan-i-nairobi'>Svenska Skolan I Nairobi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=annica-englund-%C3%B6stersund'>Annica Englund östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=H%C3%A4xorna-i-Eastwick'>Häxorna I Eastwick</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pulled-beef-bbq'>Pulled Beef Bbq</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=firar-man-jul-i-kina'>Firar Man Jul I Kina</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=per-andersson-wannabe'>Per Andersson Wannabe</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-lss-boende-s%C3%B6dert%C3%A4lje'>Lediga Jobb Lss-boende Södertälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gammalt-namn-p%C3%A5-kanarie%C3%B6arna'>Gammalt Namn På Kanarieöarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=minnesota-twins-cap'>Minnesota Twins Cap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hanna-folkesson-ratsit'>Hanna Folkesson Ratsit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%A4vh%C3%A5rig-ungersk-vizsla-kennel'>Strävhårig Ungersk Vizsla Kennel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=keynesianism-new-deal'>Keynesianism New Deal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-stort-%C3%A4r-island'>Hur Stort är Island</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ppelknyten-med-%C3%A4ppelmos'>äppelknyten Med äppelmos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5sklov-2020-vaxholm'>Påsklov 2020 Vaxholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mechanum-lediga-jobb'>Mechanum Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A5llbar-utveckling-slu'>Hållbar Utveckling Slu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=melodifestivalen-2020-tips'>Melodifestivalen 2020 Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kublai-khan-successor'>Kublai Khan Successor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=milj%C3%B6balken-enskilda-avlopp'>Miljöbalken Enskilda Avlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swedish-cities-quiz'>Swedish Cities Quiz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alanya-v%C3%A4der-mars'>Alanya Väder Mars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magnus-wislander-vasaloppet'>Magnus Wislander Vasaloppet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-sundin-net-worth'>David Sundin Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ett-apelsin-saol'>Ett Apelsin Saol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finland-army-size'>Finland Army Size</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-paj-med-r%C3%B6dbetor-och-chevreost'>Glutenfri Paj Med Rödbetor Och Chevreost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ventilation-mellan-tv%C3%A5-rum'>Ventilation Mellan Två Rum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4ckande-tak-f%C3%B6rs%C3%A4kring'>Läckande Tak Försäkring</a>,
+";s:7:"expired";i:-1;}

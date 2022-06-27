@@ -37,6 +37,8 @@ class SwiftPageBuilderShortcode_fullwidth_text extends SwiftPageBuilderShortcode
         if ($alt_background != "none" && $sidebars == "no-sidebars") {
         $fullwidth = true;
         }
+        
+        $title_heading_class = 'spb-center-heading';
                         
         $output .= "\n\t".'<div class="full-width-text spb_content_element '.$width.$el_class.'">';
         $output .= "\n\t\t".'<div class="spb_wrapper clearfix">';
@@ -45,7 +47,7 @@ class SwiftPageBuilderShortcode_fullwidth_text extends SwiftPageBuilderShortcode
         $output .= "\n\t\t".'</div> ' . $this->endBlockComment('.spb_wrapper');
         $output .= "\n\t".'</div> ' . $this->endBlockComment($width);
 
-        $output = $this->startRow($el_position, $width, $fullwidth, "", $alt_background) . $output . $this->endRow($el_position, $width, $fullwidth);
+        $output = $this->startRow($el_position, $width, $fullwidth, "", $alt_background) . $output . $this->endRow($el_position, $width, $fullwidth, "fw-text");
 
         return $output;
     }
@@ -85,7 +87,7 @@ SPBMap::map( 'fullwidth_text', array(
 	        "heading" => __("Alt Background Preview", "swift-framework-admin"),
 	        "param_name" => "altbg_preview",
 	        "value" => "",
-	        "description" => __("", "swift-framework-admin")
+	        "description" => ""
 	    ),
         array(
             "type" => "textfield",

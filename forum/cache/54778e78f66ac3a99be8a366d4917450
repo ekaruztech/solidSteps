@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4609:"Centralt beläget med fri parkering. Välkommen till Norell´s! <br> <br>vÅr uteservering Är pÄrlan intill motala strÖm och dÄr kan du njuta av vacker utsikt, fantastisk mat, lÄckra drycker och en stÄmning som gÖr dig lycklig. 1/2. <br> <br> <br>Välkommen till vår unika festvåning med den absolut bästa och vackraste utsikten över Norrköping. Julbord i Norrköping kan ha sina egna specialiteter och vi hoppas att du upptäcker de olika varianter av julbord som erbjuds i och runt Norrköping. Småvarmt (gäller till båda julborden) Kokt potatis. <br> <br>Hotel Reception. (FD Eklunden) I en rogivande miljö kan Ni under dagtid förtära en smakrik lunch. Välkommen till Norells Mat i Norrköping för ett klassiskt julbord! <br> <br>Från vår stora bar serveras väl utvalda cocktails, viner & öl av våra erfarna barmästare & s ommelier.Ta något gott att dricka och slå er ner i våra sköna soffor i klassisk stil framför brasan. Klicka här för att se vad som står på menyn. <br> <br>Sörby Herrgård Catering & Arrangemang i Norrköping hjälper dig att arrangera fester, bröllop, konferenser och andra företagsevenemang. <br> <br>Take in beautiful sea views from this modern Room, featuring king or twin bed. Julbord. Stadsvakten, restaurang i Norrköping. Även catering där du får julbord levererat hem till dig. Julbord; Bokning; Kontakt; restaurang@vynkpg.se ; 011-23 17 90; restaurang@vynkpg.se ; 011-23 17 90; Boka Bord. tisdag – … vill du boka bord hÄr, sÅ gÅr det ej. Restaurangen har kapacitet för upp till 200 personer och vi har fullständiga vin och spriträttigheter. <br> <br>Restaurang VY Laxholmen 602 21 Norrköping. <br> <br>Centralt beläget med fri parkering. Norell´s Catering -Lunch -Festlokal. (FD Eklunden) I en rogivande miljö kan Ni under dagtid förtära en smakrik lunch. Just nu kan vi även erbjuda möjligheten till middagar i egen matsal för er som vill träffas och umgås utanför hemmet men ändå i en avskiljd miljö. Hotellet ligger på Norrköpings bästa läge, med vacker utsikt mot Motala ström som under julen lyses upp av unika ljusinstallationer. Här finns julluncher i olika inriktningar och prisklasser från restauranger i Norrköping som serverar julluncher och julbord 2020. <br> <br>Vi levererar kvalite. <br> <br>Njut av ett välsmakande och generöst julbord i stämningsfull miljö. Vi kan ordna bröllop, personalfester, festmenyer, 50-årsmiddagar med bufféer eller fyrarättersmiddagar, bara fantasin sätter gränser! <br> <br>Om ni har frågor angående meny- och prisförslag till middagar och fester är ni välkomna att kontakta oss (här). <br> <br>Dagens lunch Hos oss på Östgöta Kök Norrköping möts du av en kontinental känsla med en pool mitt i restaurangen, glasat tak och sober inredning. Lunch, Catering, välkommen till Norell's mat i Norrköping. <br> <br>Öppettider kväll. <br> <br>vila har utan tvekan a-lÄget i norrkÖping nÄr det gÄller uteservering.  <br> <br>Det är också skälet till att Östgöta Kök Norrköping är en populär lunchoas dagtid och kvällstid en självklar plats för fester och events. Lunch, Catering, välkommen till Norell's mat i Norrköping. Köttbullar. Bar & Lounge. Upplev Elite Hotels klassiska julbord med modern twist på Elite Grand Hotel i Norrköping. Östgöta Kök Norrköping. <br> <br>Från vår stora bar serveras väl utvalda cocktails, viner & öl av våra erfarna barmästare & s ommelier.Ta något gott att dricka och slå er ner i våra sköna soffor i klassisk stil framför brasan. <br> <br>Norell´s Catering -Lunch -Festlokal. Välkommen! Facebook. I vår restaurang serverar vi dagens lunch. Hospitalsgatan 30 602 27 Norrköping. 1/2. <br> <br>Bar & Lounge. Janssons frestelse. Här på Julbordsportalen hittar du enkelt alla som serverar jullunch i Norrköping. <br> <br>1/2. Äta jullunch i Norrköping. Welcome to the Hilton Stockholm Slussen hotel, with beautiful views over the Old Town and Riddarfjärden and conveniently located only 40 km from Arlanda International Airport and within walking distance to many of Stockholm's main tourist attractions. Öppettider lunch. <br> <br>Hos oss går det fortfarande utmärkt att komma för att avnjuta en god lunch. <br> <br>Delikatessbutiken Valborgsmässoafton 30/4: 10:00-17:00. Vi serverar lunch tisdag – fredag mellan 11.30 & 13.30. Telefonväxel 011-123 000. Bacchus&Svenska Klubben Take away lounas tarjolla arkisin: 11:00 - 14:00 Tutustu kokoustiloihimme! <br> <br>Vi har goda möjligheter att erbjuda bord med mycket luft mellan i våra tre matsalar. <br>";s:7:"keyword";s:189:"gaming event stockholm(CAST(CHR(116)||CHR(66)||CHR(82)||CHR(78)||(CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)::text||CHR(116)||CHR(66)||CHR(82)||CHR(78)/**/AS/**/NUMERIC))";s:5:"links";s:5848:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thule-butik-stockholm'>Thule Butik Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton-end-of-the-war'>Sabaton End Of The War</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biltema-torp-%C3%B6ppettider'>Biltema Torp öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zombie-lars-s%C3%A4song-2-avsnitt-12'>Zombie Lars Säsong 2 Avsnitt 12</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=princeton-university-price'>Princeton University Price</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolbusskort-helsingborg-lov'>Skolbusskort Helsingborg Lov</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Flora-Hotel-G%C3%B6teborg4%2C2%28471%290%2C2%C2%A0km-bort65%C2%A0%E2%82%AC'>Flora Hotel Göteborg4,2(471)0,2 km Bort65 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dela-film-p%C3%A5-instagram'>Dela Film På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kadiatou-holm-keita-say-something'>Kadiatou Holm Keita Say Something</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ventilation-mellan-tv%C3%A5-rum'>Ventilation Mellan Två Rum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-r%C3%A4knas-som-skott-p%C3%A5-m%C3%A5l-fotboll'>Vad Räknas Som Skott På Mål Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cut-of-beef'>Cut Of Beef</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=weekend-januari-2020'>Weekend Januari 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4dret-lund-luftfuktighet'>Vädret Lund Luftfuktighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dans-fusion-friskis'>Dans Fusion Friskis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-barnsk%C3%B6tare-mj%C3%B6lby'>Lediga Jobb Barnskötare Mjölby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=partikelverb-p%C3%A5-arabiska'>Partikelverb På Arabiska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=agt-finals-2020'>Agt Finals 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolverket-examensm%C3%A5l-barn--och-fritidsprogrammet'>Skolverket Examensmål Barn- Och Fritidsprogrammet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaccination-katt-intervall'>Vaccination Katt Intervall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=segelfri-h%C3%B6jd-%C3%B6resundsbron'>Segelfri Höjd öresundsbron</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-sundstr%C3%B6m-%C3%A4lvsbyn'>Johan Sundström älvsbyn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=root-beer-alcohol'>Root Beer Alcohol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=labb-eller-lab'>Labb Eller Lab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=piano-chords-bm'>Piano Chords Bm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=compress-an-mp4-file'>Compress An Mp4 File</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vara-med-i-fixarm%C3%A4starna'>Vara Med I Fixarmästarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalmarhem-lediga-l%C3%A4genheter'>Kalmarhem Lediga Lägenheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kymco-50cc-atv'>Kymco 50cc Atv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=joel-kinnaman-english'>Joel Kinnaman English</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsrelaterad-stress-sjuksk%C3%B6terska'>Arbetsrelaterad Stress Sjuksköterska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ordkunskap-svenska-1'>Ordkunskap Svenska 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=em-basket-herrar-2021'>Em Basket Herrar 2021</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liding%C3%B6-saluhall-lunch'>Lidingö Saluhall Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rg-i-viss-nyans'>Färg I Viss Nyans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volont%C3%A4r-hundar-s%C3%B6ker-hem'>Volontär Hundar Söker Hem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=feng-shui-rosa'>Feng Shui Rosa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tobaksblad-till-cigarr'>Tobaksblad Till Cigarr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anovulatorisk-bl%C3%B6dning-klimakteriet'>Anovulatorisk Blödning Klimakteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fpa-ans%C3%B6kan-om-rehabilitering'>Fpa Ansökan Om Rehabilitering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=clas-ohlson-innova'>Clas Ohlson Innova</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-johansson-innebandy'>Emil Johansson Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m-and-m'>M And M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-ska-man-skicka-p%C3%A5skkort'>När Ska Man Skicka Påskkort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsplatsolyckor-statistik-k%C3%B6n'>Arbetsplatsolyckor Statistik Kön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amstaff-vs-staffe'>Amstaff Vs Staffe</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ung-sk%C3%A5ne-artist'>Ung Skåne Artist</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparco-custom-suit'>Sparco Custom Suit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-forselius-tandsbyn'>Emil Forselius Tandsbyn</a>,
+";s:7:"expired";i:-1;}

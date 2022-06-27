@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Replies Loop - Single Reply
  *
  * @package bbPress

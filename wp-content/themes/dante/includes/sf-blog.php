@@ -1,18 +1,18 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Blog Items Function Class
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_blog_items()
 	*	sf_blog_aux()
 	*
 	*/
 	
-	/*  for PRO users! -  BLOG ITEMS
+	/* BLOG ITEMS
 	================================================== */ 
 	if (!function_exists('sf_blog_items')) {
 		function sf_blog_items($blog_type, $masonry_effect_type, $show_title, $show_excerpt, $show_details, $excerpt_length, $content_output, $show_read_more, $item_count, $category, $exclude_categories, $pagination, $sidebar_config, $width, $offset, $posts_order) {
@@ -25,14 +25,14 @@
 			global $sf_sidebar_config;
 			$sf_sidebar_config = $sidebar_config;
 			
-			/*  for PRO users! -  CATEGORY SLUG MODIFICATION
+			/* CATEGORY SLUG MODIFICATION
 			================================================== */ 
 			if ($category == "All") {$category = "all";}
 			if ($category == "all") {$category = '';}
 			$category_slug = str_replace('_', '-', $category);
 			
 			
-			/*  for PRO users! -  BLOG QUERY SETUP
+			/* BLOG QUERY SETUP
 			================================================== */ 
 			global $post, $wp_query;
 			
@@ -79,7 +79,7 @@
 			$blog_items = new WP_Query( $blog_args );
 			
 			
-			/*  for PRO users! -  LIST CLASS CONFIG
+			/* LIST CLASS CONFIG
 			================================================== */ 
 			$list_class = $wrap_class = '';
 			if ($blog_type == "masonry" || $blog_type == "masonry-fw") {
@@ -94,7 +94,7 @@
 			}
 			
 			
-			/*  for PRO users! -  BLOG ITEMS OUTPUT
+			/* BLOG ITEMS OUTPUT
 			================================================== */ 
 			$blog_items_output .= '<div class="blog-items-wrap blog-'.$blog_type.' '.$wrap_class.'">';
 			if ($blog_type == "standard") {
@@ -128,7 +128,7 @@
 				}
 				
 				
-				/*  for PRO users! -  BLOG ITEM OUTPUT
+				/* BLOG ITEM OUTPUT
 				================================================== */ 
 				$blog_items_output .= '<li itemscope itemtype="http://schema.org/BlogPosting" class="blog-item '.$item_class.' '.implode(' ',get_post_class()).'" id="'.get_the_ID().'">';
 				$blog_items_output .= sf_get_post_item($post->ID, $blog_type, $show_title, $show_excerpt, $show_details, $excerpt_length, $content_output, $show_read_more);
@@ -142,7 +142,7 @@
 			$blog_items_output .= '</ul>';
 			
 				
-			/*  for PRO users! -  PAGINATION OUTPUT
+			/* PAGINATION OUTPUT
 			================================================== */ 
 			if ($pagination == "infinite-scroll") {
 				
@@ -178,7 +178,7 @@
 			$blog_items_output .= '</div>';
 			
 			
-			/*  for PRO users! -  FUNCTION OUTPUT
+			/* FUNCTION OUTPUT
 			================================================== */
 			return $blog_items_output;
 			
@@ -186,7 +186,7 @@
 	}
 	
 	
-	/*  for PRO users! -  BLOG AUX
+	/* BLOG AUX
 	================================================== */ 
 	if (!function_exists('sf_blog_aux')) {
 		function sf_blog_aux($width) {
@@ -226,8 +226,8 @@
 			$blog_aux_output .= '</ul>'; // close .blog-aux-options
 			$blog_aux_output .= '</div>'; // close .blog-aux-wrap
 			
-			$blog_aux_output .= '<div class="container">';
 			$blog_aux_output .= '<div class="filter-wrap slideout-filter blog-filter-wrap row clearfix">'; // open .blog-filter-wrap
+			$blog_aux_output .= '<div class="container">';
 			$blog_aux_output .= '<div class="filter-slide-wrap col-sm-12 asset-bg '.$filter_wrap_bg.'">';
 			
 			if ($category_list != '') {  
@@ -244,7 +244,7 @@
 			$blog_aux_output .='</div></div>'; // close .blog-filter-wrap
 			
 			
-			/*  for PRO users! -  AUX BUTTONS OUTPUT
+			/* AUX BUTTONS OUTPUT
 			================================================== */
 			return $blog_aux_output;	
 		

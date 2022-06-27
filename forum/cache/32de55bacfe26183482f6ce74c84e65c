@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4684:"<br>Färdtjänst är ett komplement till den allmänna kollektivtrafiken, vilket innebär att resorna samordnas och flera personer reser tillsammans. Du får alltid ett skriftligt beslut Om du får färdtjänst får du också information om hur du kan använda färdtjänsten, hur du bokar resor och hur länge beslutet gäller. Resa med färdtjänst. Du kan beställa resan tidigast 14 dagar i förväg och senast en timme innan du ska åka. Färdtjänst gäller inte för resor till sjukvård, sjukvårdande behandling, sjukgymnastik, tandvård, rehabiliteringsinsatser eller utprovning av hjälpmedel. Färdtjänsten gäller för resor i hela länet. Färdtjänst finns för dig som har svårt att resa med den allmänna kollektivtrafiken på egen hand. Riksfärdtjänst. Beslut om färdtjänst kan kompletteras med olika tillägg, till exempel extra utrymme och bärhjälp. För resor till kommun utanför länet gäller riksfärdtjänst. Skapa konto på https://serviceresor.hallandstrafiken.se så skickar vi hem inloggningsuppgifter till dig. <br> <br>Det är inte svårt att använda webbportalen och appen. <br> <br>Tänk på att tillstånd till färdtjänst inte gäller för resor till … Lag om färdtjänst. <br> <br>Att tänka på inför resan: Gör din beställning av färdtjänst i så god tid som möjligt. <br> <br>. Sedan starten 1993 har vår inriktning varit att hjälpa människor med särskilda behov att komma ut i samhället, företrädesvis genom att arrangera deras resor. <br> <br> <br>Fasta resor. <br> <br>Brist på eller dåliga kommunikationer är inget skäl som ger rätt till färdtjänst. Ansökan om färdtjänst - blankett att skriva ut Blankett pdf (, 393 kB) 462 85 Vänersborg Besöksadress: Sundsgatan 29 Telefon växel: 0521-72 10 00 E-post: kommun@vanersborg.se Org. Färdtjänst är till för dig som har en varaktig funktionsnedsättning som innebär svårigheter att förflytta dig på egen hand eller att resa med allmänna kommunikationsmedel. Försenad bil, 0771-77 44 22.  <br> När du får ditt färdtjänstkort får du även information från Östgötatrafiken om hur färdtjänsten fungerar. nr: 212000-1538 Närtrafik. Broschyr om färdtjänst . Om du är över 75 år eller har tillstånd för färdtjänst kan du resa med flextrafik (taxi) mellan två adresser inom Falköpings tätort. <br> <br>Startsida / Omsorg & hjälp / Resor och transporter / Färdtjänst / Resa med färdtjänst . Färdtjänst är för dig som har väsentliga svårigheter att resa med tåg och buss. Ansök om och beställ färdtjänst Om hur du ansöker och mer information hittar du på 1177 - Färdtjänst i Halland ... Övriga resor som Dagverksamhet, Daglig verksamhet, arbets- och studieresor måste göras via vårt Kundcenter 0771-750 600 (Kungsbacka Samres 0771-900 500). Vid behov kan handläggaren göra ett hembesök eller boka ett möte på kommunhuset. Du ska också vara folkbokförd i kommunen för att ha rätt till färdtjänst. Du kan beställa och resa med färdtjänst hela dygnet alla dagar på året. Vid en resa med färdtjänst kan du få åka tillsammans med andra färdtjänstresenärer som har ungefär samma resväg. Startsida / Omsorg & hjälp / Resor och transporter / Färdtjänst / Resa med färdtjänst . Sjukresor Om du blir sjuk och behöver resa till sjukvården kan du göra det på olika sätt.Bussar och tåg är ofta ett bra alternativ. Om du har rätt till färdtjänst får du ett färdtjänsttillstånd. Lagen om färdtjänst ligger till grund för bedömningen. Färdtjänst & Riksfärdtjänst. <br> <br>Dessa resor är sjukresor och ska beställas som sådana. Fasta resor Fasta resor är återkommande förbokade resor till exempel skolresor. Handläggningstiden är upp till tre veckor från att alla handlingar har kommit in till kommunen. Fasta resor. Färdtjänstresenären samåker med andra, och kan även få hjälp av föraren att komma till och från bilen eller hantera förflyttningshjälpmedel. Ersättning för sjukresor prövas av sjukvårdshuvudmannen. Vänd dig då istället till din vårdgivare eller till Landstinget Södermanland, sjukreseenheten telefon 0155-24 73 57. För resor till och från sjukvård, tandvård eller remitterad behandling gäller inte färdtjänst. Ansökan om färdtjänst - för utskrift. <br> <br>Det händer att du inte alltid får åka närmaste vägen Synpunkter på serviceresor. Synpunkter på serviceresor. <br> <br>... Övriga resor som Dagverksamhet, Daglig verksamhet, arbets- och studieresor måste göras via vårt Kundcenter 0771-750 600 (Kungsbacka Samres 0771-900 500). För bokning av sjukresor kontaktar du Resam telefon 0771-91 00 90. <br>";s:7:"keyword";s:24:"fasta resor färdtjänst";s:5:"links";s:6104:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=student-karlstad-2020-corona'>Student Karlstad 2020 Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sara-biderman-makeup'>Sara Biderman Makeup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=andel-utomeuropeiska-invandrare'>Andel Utomeuropeiska Invandrare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ska-jag-sticka-kniven-i-dig-madicken'>Ska Jag Sticka Kniven I Dig Madicken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skaldjurssoppa-med-potatis'>Skaldjurssoppa Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=him-wicked-game'>Him Wicked Game</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6grev-i-ugn'>Högrev I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallander-arvet-dreamfilm'>Wallander Arvet Dreamfilm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=joel-kinnaman-syskon'>Joel Kinnaman Syskon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utst%C3%A4llning-norrk%C3%B6ping-2020'>Utställning Norrköping 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-hockey-juniorer'>Aik Hockey Juniorer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pernod-ricard-avanza'>Pernod Ricard Avanza</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kortspel-med-marker'>Kortspel Med Marker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=babben-larsson-hoppar-h%C3%B6jdhopp'>Babben Larsson Hoppar Höjdhopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guld-tapet-rusta'>Guld Tapet Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ideell-f%C3%B6rening-moms'>Ideell Förening Moms</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startmotor-drar-ur-batteriet'>Startmotor Drar Ur Batteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sofia-wood-polenta'>Sofia Wood Polenta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-firar-man-lucia-i-sverige'>Varför Firar Man Lucia I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-madonna-2019'>Youtube Madonna 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A5ng-tid-tar-det-att-%C3%B6verf%C3%B6ra-pengar-till-swedbank'>Hur Lång Tid Tar Det Att överföra Pengar Till Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-9500-bus-specification'>Volvo 9500 Bus Specification</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broschyr-mall-indesign'>Broschyr Mall Indesign</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biologi-och-kemi-i-badrummet'>Biologi Och Kemi I Badrummet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gallerian-v%C3%A4ster%C3%A5s-st%C3%A4nger'>Gallerian Västerås Stänger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fil%C3%A9buff%C3%A9-bellman-v%C3%A4ster%C3%A5s'>Filébuffé Bellman Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sole-e20-crosstrainer'>Sole E20 Crosstrainer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sons-of-anarchy-logo'>Sons Of Anarchy Logo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bad-blood-teresa'>Bad Blood Teresa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-sk%C3%A5nel%C3%A4nga-i-sten'>Bygga Skånelänga I Sten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-sparris-serrano'>Vit Sparris Serrano</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laga-iphone-g%C3%B6teborg'>Laga Iphone Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finax-m%C3%BCsli-sunt-och-gott'>Finax Müsli Sunt Och Gott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton-release-date'>Sabaton Release Date</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidig-foglossning-sjukskrivning'>Tidig Foglossning Sjukskrivning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-grammatik-satsdelar'>Svenska Grammatik Satsdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adidas-yeezy-boost'>Adidas Yeezy Boost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=master-datateknik-liu'>Master Datateknik Liu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-sockerfritt-%C3%A4ppelkaka'>Baka Sockerfritt äppelkaka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-n%C3%A4ra-malm%C3%B6'>Ica Nära Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-har-f%C3%B6rskoll%C3%A4rarens-uppdrag-%C3%A4ndrats-%C3%B6ver-tid'>Hur Har Förskollärarens Uppdrag ändrats över Tid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrid-lindgren-figurer'>Astrid Lindgren Figurer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dyraste-sporten-2019'>Dyraste Sporten 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-finals-handboll'>Stockholm Finals Handboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kycklingkorv-b%C3%A4st-i-test'>Kycklingkorv Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rr%C3%A4tter-med-gravad-lax-och-r%C3%A4kor'>Förrätter Med Gravad Lax Och Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5re-i-december'>åre I December</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eminem-dr-dre-songs'>Eminem Dr Dre Songs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marie-antoinette-axel-von-fersen-barn'>Marie-antoinette Axel Von Fersen Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-med-korv'>Pasta Med Korv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=timr%C3%A5-ik-elite'>Timrå Ik Elite</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,64 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3795:"<p>Att vittna i en rättegång kan ibland kännas obehagligt. Anvisningar för ett vittne i ett brottmål I ett brottmål förekommer ofta oklarheter eller olika uppfattningar om det som har skett. Jag förstår att det kan kännas olustigt att möta personen men försök att komma ihåg att våld och hot mot vittnen är väldigt ovanligt i Sverige. Om man kallas att vittna i en rättegång är det i många fall nåt som staten ålägger oss, nåt som man MÅSTE, mer eller mindre... Vet nån hu det fungerar med ledighet från arbetet då? Har man rätt till ersättning om man ska vittna i en rättegång? och förordningen (1975:298) om ersättning av allmänna medel … Från denna allmänna skyldighet att vittna finns dock vissa undantag. Om domarna kommer fram till att den tilltalade är skyldig till brottet bestämmer de också vilket straff som hon eller han ska få. </p> <p>Alla medborgare är skyldiga att vittna i domstol, vilket framgår av rättegångsbalken. Löneavdrag görs såsom för vanlig tjänstledighet. Du har rätt att få ersättning för resan dit och för ev inkomstbortfall. 24 § Rättegångsbalken. Givetvis kan man ta semester t ex, men det känns lite knasigt att man ska behöva ta av sina semesterdagar för att göra nåt som staten "tvingar" oss till. Som vittne har man också rätt att få ersättning för resa och uppehälle i förskott, vilket normalt framgår av vittneskallelsen. Det innebär att arbetsgivaren måste bevilja ledigheten. Till exempel en nära släkting till svaranden behöver inte vittna mot sin vilja. […] </p> <p>Undantag från plikten att vittna • Den som själv är misstänkt behöver inte alls uttala sig och hans tystnad får inte tolkas emot honom. Vittnesstöd.  Finns ju även andra anledningar till att dra sig för att vittna. Då täcker det ju det mesta av den uteblivna inkomsten efter skatt iaf. Denna förordning träder i kraft d. 1 nov. 1982, då förordningen (1979:594) om ersättning till vittnen, m.m. Denna fråga är högaktuell, inte minst med hänsyn till pågående rättegång i Stockholm med Rakhmat Akilov där extremt många personer ska höras. Personbevisning är muntlig och sker framför domstol genom att berätta om sakerna. </p> <p>Mueller står anklagad för sexuellt ofredande. Vi har en plikt att vittna, med få undantag. Generellt sett är det alltså väldigt tryggt och ofarligt att vittna här! I en rättegång utreds det som har skett och vittnen spelar en mycket viktig roll. Ersättning utgår på yrkande av vittnet, och inte med högre belopp än denne begärt. Är det 700 kr du får i ersättning? En rättegång är ett sammanträde i en domstol där man kommer fram till om den som är misstänkt för ett brott ska dömas för brottet eller inte. Det kallas för att domstolen prövar åtalet. 1. Man kan inte hänvisa till tidigare polisförhör […] </p> <p>Hej och tack för din fråga, Vittnen vid en rättegång har rätt till ersättning för exempelvis nödvändig resa och uppehälle, 36 kap. Rätten avgör om rättegång ska hållas utan den åtalade, normal innebär det att de får en eller två chanser till, sen hålls rättegången utan den åtalade. K har sedan rätt att som vittne få ersättning från allmänna medel för förlorad lön. Vittnen vid rättegång Var och en är vanligtvis skyldig att berätta för rätten vad han vet om brottet. Popstjärnan Taylor Swift väntas vittna mot radioprofilen David Mueller i en rättegång, som inleds i Denver på måndag. Påtryckningar eller rena hot från de inblandade m.m. (i alla fall om det är mindre brott och den åtalade har en historia) Men jag håller med om att rättegång bör hållas om den åtalade uteblir. </p> <p>Men jag tycker att man borde vara mer rädd om vittnen. </p>";s:7:"keyword";s:32:"vittna i rättegång ersättning";s:5:"links";s:2494:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eldningsf%C3%B6rbud-orust-2019'>Eldningsförbud Orust 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netflix-support-email'>Netflix Support Email</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karakt%C3%A4rer-greta-gris'>Karaktärer Greta Gris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4xj%C3%B6-tingsr%C3%A4tt-domar'>Växjö Tingsrätt Domar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laddningsregulator-volvo-940'>Laddningsregulator Volvo 940</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-vanilj-drinkar'>Absolut Vodka Vanilj Drinkar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-inte-holland'>Varför Inte Holland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6rjan-ramberg-2020'>örjan Ramberg 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-korv-%C3%A4r-b%C3%A4st'>Vilken Korv är Bäst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6pande-text-synonym'>Löpande Text Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-esl%C3%B6v-g%C3%A5rd'>Hemnet Eslöv Gård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=film-om-konsumtion'>Film Om Konsumtion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mordet-p%C3%A5-anna-lindh-dokument%C3%A4r-tv3'>Mordet På Anna Lindh Dokumentär Tv3</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=andreas-wilson-instagram'>Andreas Wilson Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=handbolls-em-2021'>Handbolls Em 2021</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-p%C3%A5verkar-koldioxid-milj%C3%B6n'>Hur Påverkar Koldioxid Miljön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-pesto-spenat'>Lax Pesto Spenat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barn%2C-unga-och-sociala-medier'>Barn, Unga Och Sociala Medier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=forskning-idrott-och-h%C3%A4lsa'>Forskning Idrott Och Hälsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A5t%C3%B6lj-fickor-synonym'>Fåtölj Fickor Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iron-mountain-utdelning'>Iron Mountain Utdelning</a>,
+";s:7:"expired";i:-1;}

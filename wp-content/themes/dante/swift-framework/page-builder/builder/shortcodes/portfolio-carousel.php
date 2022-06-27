@@ -67,7 +67,8 @@ class SwiftPageBuilderShortcode_portfolio_carousel extends SwiftPageBuilderShort
     		$columns = 4;
     		}
     		    		
-			$items .= '<div class="carousel-overflow"><ul id="carousel-'.$sf_carouselID.'" class="portfolio-items carousel-items clearfix" data-columns="'.$columns.'" data-auto="false">';
+			$items .= '<div class="carousel-wrap">';    		
+			$items .= '<div id="carousel-'.$sf_carouselID.'" class="portfolio-items carousel-items clearfix" data-columns="'.$columns.'">';
 	
 			while ( $portfolio_items->have_posts() ) : $portfolio_items->the_post();
 								
@@ -130,7 +131,7 @@ class SwiftPageBuilderShortcode_portfolio_carousel extends SwiftPageBuilderShort
 					$item_icon = "ss-navigateright";
 				}
 				    					   	
-				$items .= '<li itemscope data-id="id-'. $count .'" class="clearfix carousel-item portfolio-item '.$item_class.'">';
+				$items .= '<div itemscope data-id="id-'. $count .'" class="clearfix carousel-item portfolio-item '.$item_class.'">';
 				
 				$items .= '<figure class="animated-overlay">';
 						
@@ -181,16 +182,16 @@ class SwiftPageBuilderShortcode_portfolio_carousel extends SwiftPageBuilderShort
 					$items .= '<div class="portfolio-item-excerpt" itemprop="description">'. $post_excerpt .'</div>'. "\n";
 				}
 
-				$items .= '</li>';
+				$items .= '</div>';
 				$count++;
 			
 			endwhile;
 			
 			wp_reset_query();
 			
-			$items .= '</ul>';
+			$items .= '</div>';
     		
-    		$items .= '<a href="#" class="prev"><i class="ss-navigateleft"></i></a><a href="#" class="next"><i class="ss-navigateright"></i></a>';
+    		$items .= '<a href="#" class="carousel-prev"><i class="ss-navigateleft"></i></a><a href="#" class="carousel-next"><i class="ss-navigateright"></i></a>';
         	
         	$options = get_option('sf_dante_options');
         	if ($options['enable_swipe_indicators']) {
@@ -288,7 +289,7 @@ SPBMap::map( 'portfolio_carousel', array(
             "heading" => __("Alt Background Preview", "swift-framework-admin"),
             "param_name" => "altbg_preview",
             "value" => "",
-            "description" => __("", "swift-framework-admin")
+            "description" => ""
         ),
         array(
             "type" => "textfield",

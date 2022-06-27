@@ -1,11 +1,11 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Framework Permalinks Class
 	*	------------------------------------------------
 	*	Swift Framework v2.0
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 	
@@ -15,7 +15,7 @@
 	
 	class sf_post_type_permalinks {
 	
-		/*  for PRO users! - *
+		/**
 		 * Hook in tabs.
 		 */
 		public function __construct() {
@@ -23,7 +23,7 @@
 			add_action( 'admin_init', array( $this, 'settings_save' ) );
 		}
 	
-		/*  for PRO users! - *
+		/**
 		 * Init our settings
 		 */
 		public function settings_init() {
@@ -40,7 +40,7 @@
 			);
 		}
 	
-		/*  for PRO users! - *
+		/**
 		 * Show a slug input box.
 		 */
 		public function portfolio_category_slug_input() {
@@ -50,7 +50,7 @@
 			<?php
 		}
 	
-		/*  for PRO users! - *
+		/**
 		 * Show the settings
 		 */
 		public function settings() {
@@ -115,7 +115,7 @@
 			<?php
 		}
 	
-		/*  for PRO users! - *
+		/**
 		 * Save the settings
 		 */
 		public function settings_save() {

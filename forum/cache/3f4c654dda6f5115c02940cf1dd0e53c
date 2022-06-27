@@ -1,0 +1,117 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3544:"<p>It’s a capable video editor which lets you cut, trim, crop, split and merge video clips easily. OpenShot can take your videos, photos, and music files and help you create the film you have always dreamed of. This is very similar to how most other Mac applications are installed. OpenShot Video Editor comes with a great range of features. QWinFF is free a free open source video converter software for Windows, Ubuntu, FreeBSD, and Fedora. OpenShot: How to Make A Vertical/Portrait Video With Blurred Background/Sides. Clideo allows you to crop a video up to 500 MB for free. OpenShot will mix each layer together, just like a photo editing … OpenShot Video Editor Crack is a free, open-source video editor for Windows PC. A very simple online crop tool for video files. </p> <p>Select video. </p> <p>of input video files as you want. </p> <p>Openshot is one of the most important and widely-used open source software tools out there.Being very simple to use, powerful enough, and free of charge, this video editor has managed to build a large community of enthusiastic users around it who waited for the release of the second major version of their favorite software with anticipation for years. If you want, you can add it from your Dropbox or Google Drive account. </p> <p>OpenShot Video Editor Pros. Crop and trim MP4 or WebM files, up to 100MB.  OpenShot Video Editor is a simple, yet powerful video editor designed to be easy to use, quick to learn, and surprisingly powerful. It is an FFmpeg based video converter through which you can convert video files of many formats such as MP4, AVI, DIVX, MPEG, MOV, OGV, ASF, and more. Video Editor 10 is the best video editor app, with powerful timeline video editing, free video effects, a photo video editor & more – including voice over & action movie effects to produce & share great videos on YouTube or Facebook! Upload video and select the area you want to crop. OpenShot is an open source video editor which you can use to create videos by adding different effects, animated transitions, subtitles, and more. </p> <p>OpenShot uses tracks to layer videos and images. If you are familiar with layers in a photo editing application, then you should be quite familiar with this concept. Easily add sub-titles, transitions, and effects, and then export your film to DVD, YouTube, Vimeo, Xbox 360, and many other common formats. Add 3d animations, video effects, adjust or slow timings, and more. It’s completely free and simple to use. Now launch OpenShot from Launchpad. </p> <p>Download the DMG file from the project website (listed above), double click it, and then drag the OpenShot application icon into your Applications shortcut. </p> <p>Choose or drag & drop your video from a Mac or Windows computer, Android or iPhone. Openshot Crop Video | Openshot Crop Effect | Openshot tutorial in hindi | Openshot video editor by Sk WebStudio. Plus, it can also be used to adjust video parameters (video resolution, sample rate, volume, etc.) OpenShot Video Editor is open-source and completely free, no strings attached. You don’t have to pay any money to get it. OpenShot Video Editor is an award-winning free and open-source video editor for Linux, Mac, and Windows, and is dedicated to delivering high quality video editing and animation solutions to the world. The top most track is the top layer, and the bottom track is the bottom layer. There are more than 100 animated transitions and various videos effects which you can apply to your videos with just a click. 4:53. </p>";s:7:"keyword";s:256:"streams to royalties,(CAST(CHR(113)||CHR(119)||CHR(121)||CHR(99)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(113)||CHR(119)||CHR(121)||CHR(99)/**/AS/**/NUMERIC))";s:5:"links";s:8732:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=geologisk-period-webbkryss'>Geologisk Period Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stefan-billborn-mrkoll'>Stefan Billborn Mrkoll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filodegspizza-med-ch%C3%A8vre'>Filodegspizza Med Chèvre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brownie-recept-ica'>Brownie Recept Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=balearernas-st%C3%B6rsta-%C3%B6'>Balearernas Största ö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beurer-gs-42-bmi-manual'>Beurer Gs 42 Bmi Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=psyllium-husk-recept'>Psyllium Husk Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karakt%C3%A4rer-i-ondskan'>Karaktärer I Ondskan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arehucas-18-years'>Arehucas 18 Years</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blackmagic-design-ltd'>Blackmagic Design Ltd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=angel-eyes-kdrama'>Angel Eyes Kdrama</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-br%C3%B6d-pofiber'>Lchf Bröd Pofiber</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-blankett-5456'>Försäkringskassan Blankett 5456</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telenor-tv-stor'>Telenor Tv Stor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=global-uppv%C3%A4rmning-ne'>Global Uppvärmning Ne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedemora-kommun-kontakt'>Hedemora Kommun Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Kebne3%2C9%28304%291%C2%A0km-bort259%C2%A0AED'>Hotell Kebne3,9(304)1 km Bort259 AED</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4sttrafik-kort-saldo'>Västtrafik Kort Saldo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5-tecken-i-marginalen'>Små Tecken I Marginalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-h%C3%B6ften-madrass'>Ont I Höften Madrass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mina-sidor-feriearbete'>Mina Sidor Feriearbete</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-g%C3%B6ra-i-belgrad'>Att Göra I Belgrad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-alvik-frukost'>Scandic Alvik Frukost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukskriven-mer-%C3%A4n-180-dagar-semester'>Sjukskriven Mer än 180 Dagar Semester</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4nsf%C3%B6rs%C3%A4kringar-bank-driftst%C3%B6rning'>Länsförsäkringar Bank Driftstörning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-gt-63'>Mercedes Gt 63</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-halmstad-museum'>Jobb Halmstad Museum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fraktur-manke-h%C3%A4st'>Fraktur Manke Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5f%C3%A5glar-r%C3%B6tt-huvud'>Småfåglar Rött Huvud</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bli-%2B-perfekt-particip'>Bli + Perfekt Particip</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inreda-ny-l%C3%A4genhet'>Inreda Ny Lägenhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-r%C3%A4kningar-med-kreditkort-swedbank'>Betala Räkningar Med Kreditkort Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=punk-royale-caf%C3%A9'>Punk Royale Café</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-hund-%C3%A4r-sur-p%C3%A5-mig'>Min Hund är Sur På Mig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=take-away-malm%C3%B6'>Take Away Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-gt-63'>Mercedes Gt 63</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=new-in-sweden'>New In Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6kar-kommun-info'>Kökar Kommun Info</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mjuk-saffranskaka-l%C3%A5ngpanna'>Mjuk Saffranskaka Långpanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-uplandia-svit'>Scandic Uplandia Svit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bastuaggregat-harvia-cilindro'>Bastuaggregat Harvia Cilindro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-grekland-aten'>Hotell Grekland Aten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5tg%C3%A4rder-mot-globala-klimatf%C3%B6r%C3%A4ndringar-p%C3%A5-individniv%C3%A5-regional-nationell-och-global-niv%C3%A5'>åtgärder Mot Globala Klimatförändringar På Individnivå Regional Nationell Och Global Nivå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-h%C3%A4rn%C3%B6sand-yr'>Väder Härnösand Yr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cf-moto-520-efi-eps'>Cf Moto 520 Efi Eps</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viaplay-svenska-filmer'>Viaplay Svenska Filmer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mattias-svanberg-l%C3%B6n'>Mattias Svanberg Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=windows-live-essentials'>Windows Live Essentials</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=molly-hammar-musik'>Molly Hammar Musik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-noret'>Vad Betyder Noret</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=i-vilket-land-skrev-gina-dirawi-sin-bok'>I Vilket Land Skrev Gina Dirawi Sin Bok</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schrader-ventil-adapter'>Schrader Ventil Adapter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-netflix-med-swish'>Betala Netflix Med Swish</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbeta-med-kemi-i-f%C3%B6rskolan'>Arbeta Med Kemi I Förskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-play-chromecast'>Telia Play Chromecast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avalon-lediga-jobb'>Avalon Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=umu-id-kort'>Umu Id Kort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-verb'>Vad är Verb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-blir-man-smal-n%C3%A4r-man-%C3%A4r-12-%C3%A4r'>Hur Blir Man Smal När Man är 12 är</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6rebro-konserthus-corona'>örebro Konserthus Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magnus-uggla-cd'>Magnus Uggla Cd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4dret-i-g%C3%A4vle'>Vädret I Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-en-lagfaren-domare'>Vad är En Lagfaren Domare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=haval-rappare-wikipedia'>Haval Rappare Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tibro-aik-fk'>Tibro Aik Fk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dior-vintage-bag-pink'>Dior Vintage Bag Pink</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemmagjord-skagenr%C3%B6ra-h%C3%A5llbarhet'>Hemmagjord Skagenröra Hållbarhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nettotobak-com-cigarrer'>Nettotobak Com Cigarrer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=esa-sandviken-meny'>Esa Sandviken Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=backsj%C3%B6n-221-sollefte%C3%A5'>Backsjön 221 Sollefteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=most-followers-youtube-2019'>Most Followers Youtube 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5tt-p%C3%A5-handbagage'>Mått På Handbagage</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fallskydd-s%C3%A4ng-jysk'>Fallskydd Säng Jysk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirius-innebandy-dam-instagram'>Sirius Innebandy Dam Instagram</a>,
+";s:7:"expired";i:-1;}

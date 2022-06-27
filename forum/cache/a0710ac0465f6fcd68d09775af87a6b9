@@ -1,0 +1,125 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2758:"Vår bygga hus-kalkyl visar att månadshyran för vårt mest sålda hus är ca 5 800 kr. Rita ditt hus med vår Villaskaparmetod. Bygga hus. Vägen till ditt nya hus - steg för steg. De som har byggt hus med oss, på totalentreprenad, beskriver just processen som väldigt smidig. Bygg ditt nya hus på totalentreprenad med hjälp av oss på Varbergshus. Ni skriver ett Entreprenadkontrakt med VårgårdaHus på både byggsats och entreprenad. Drömmer du om att bygga hus samtidigt som du vill lägga ned så lite egen tid som möjligt? Byggprojekt. Det innebär att vi som hustillverkare tar hela ansvaret vad gäller allt från byggnation, upphandlingar, kontakt med entreprenörer och hantverkare till det juridiska ansvaret. Jämför vår kostnadskalkyl med din nuvarande hyra. Totalentreprenad innebär att VårgårdaHus sköter hela byggnationen av ert hus, vilket gör att ni inte ansvarar för att färdigställa huset. Det är även något som förmodligen kommer att vara en av de händelser som kostar mest pengar. Kommande projekt. Bygga hus med totalentreprenad i Västerås. Alternativet är delad entreprenad eller generalentreprenad, där du själv får ta betydligt större ansvar. Referenspris för hus på 143m², 6 rum och kök färdigbyggt i högskoleorten Jönköping inklusive tomtkostnader* är ca 3 430 000 kr. Att bygga hus med totalentreprenad. Det enklaste sättet att bygga hus är med vår totalentreprenad. Bygga hus-kalkyl för Prio 143. TOTALENTREPRENAD. Träpanel hus/totalentreprenad. Att bygga ett nytt hus är en dröm och en av de viktigaste händelserna i en persons liv. Men viktigast som totalentreprenör är såklart att få arbetet gjort, och att vi gör det med största möjliga precision.  Då skriver du ett enda kontrakt med oss, sedan sköter vi allt. Du skriver ett kontrakt, överlåter jobbet åt oss och får en jämn kvalitet, ett tydligt pris och en pålitlig tidsplan. Från markarbetet till överlämningen av nyckeln. Det är vi stolta över, det är en stor sak att bygga ett hem och man har ju ett vardagsliv att ägna sig åt under tiden. Vi hjälper dig bygga ditt drömhus från början till slut! Att bygga hus med oss Så bygger vi i vår husfabrik Totalentreprenad: nyckelfärdigt och tryggt Standardutrustning Frågor och svar om att bygga hus Finansiering. Här förlitar vi oss på vår rutin i branschen och på det faktum att vi sällan gör något för första gången. På LB-Hus bygger vi hus på totalentreprenad. En investering värd att göra – om den sker på rätt sätt. SmålandsVillan erbjuder nu totatelentreprenad när du ska bygga hus. Några råd från våra arkitekter. Det enklaste och mest bekymmerslösa sättet att bygga hus på är att köpa ett träpanel hus. ";s:7:"keyword";s:26:"bygga hus totalentreprenad";s:5:"links";s:9932:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=installera-varmvattenberedare-sommarstuga'>Installera Varmvattenberedare Sommarstuga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djingis-khan-song'>Djingis Khan Song</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schrader-ventil-adapter'>Schrader Ventil Adapter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spotify-premium-telia'>Spotify Premium Telia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=isabelle-gr%C3%B6nqvist-mariette'>Isabelle Grönqvist Mariette</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=speculation-spel-regler'>Speculation Spel Regler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cane-corso-mognad'>Cane Corso Mognad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lg-mobile-phones'>Lg Mobile Phones</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=po%C3%A4ngliga-allsvenskan-2019'>Poängliga Allsvenskan 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=villa-godthem-recension'>Villa Godthem Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=offentliga-jobb-kumla'>Offentliga Jobb Kumla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%A5netrafiken-skolkort-p%C3%A5sklov'>Skånetrafiken Skolkort Påsklov</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=raska-promenader-g%C3%A5-ner-i-vikt'>Raska Promenader Gå Ner I Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stealth-kayaks-sverige'>Stealth Kayaks Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chili-brunflo-meny'>Chili Brunflo Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfria-havrekex-recept'>Glutenfria Havrekex Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=traktor-3-requirements'>Traktor 3 Requirements</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hem-och-bastu-omd%C3%B6me'>Hem Och Bastu Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ej-allm%C3%A4nt-k%C3%A4nd'>Ej Allmänt Känd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-falk%C3%B6pings-kommun'>Sommarjobb Falköpings Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=horoskop-vecka-4-2020'>Horoskop Vecka 4 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=perfect-chords-ukulele'>Perfect Chords Ukulele</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hagamannen-avg%C3%B6rande-tips'>Hagamannen Avgörande Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-vikariat'>Vad är Vikariat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inneh%C3%A5llande-av-l%C3%B6n'>Innehållande Av Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabelmaskin-gym-%C3%B6vningar'>Kabelmaskin Gym övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5rets-byggnad-g%C3%B6teborg-2019'>årets Byggnad Göteborg 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lollapalooza-artister-2020'>Lollapalooza Artister 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-till-rhodos-ryanair'>Flyg Till Rhodos Ryanair</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-punch-man-wolfman'>One Punch Man Wolfman</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arken-zoo-skellefte%C3%A5'>Arken Zoo Skellefteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kungs%C3%B6-batteri-vandringsled'>Kungsö Batteri Vandringsled</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-atp'>Vad är Atp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dexter-uppsala-yrkesgymnasium'>Dexter Uppsala Yrkesgymnasium</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=box-21-recension-viaplay'>Box 21 Recension Viaplay</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-till-kanarie%C3%B6arna'>åka Till Kanarieöarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=willys-kristianstad-jobb'>Willys Kristianstad Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordic-skiing-world-championships-2019'>Nordic Skiing World Championships 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6rsta-it-f%C3%B6retagen-i-sverige'>Största It Företagen I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vattenburen-golvv%C3%A4rme-tjocklek'>Vattenburen Golvvärme Tjocklek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bad-blood-teresa'>Bad Blood Teresa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A4na-till-test---sfi-kurs-c'>Träna Till Test - Sfi Kurs C</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karta-v%C3%A4stkusten-halland'>Karta Västkusten Halland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=loncin-150cc-fiddy'>Loncin 150cc Fiddy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alpina-landslaget-2018%2F2019'>Alpina Landslaget 2018/2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fn-s%C3%A4kerhetsr%C3%A5d-storbritannien'>Fn Säkerhetsråd Storbritannien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=instagram-captions-birthday'>Instagram Captions Birthday</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-kan-du-f%C3%B6rhindra-att-c-vitamin-f%C3%B6rst%C3%B6rs-vid-matlagning'>Hur Kan Du Förhindra Att C-vitamin Förstörs Vid Matlagning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4dret-lund-luftfuktighet'>Vädret Lund Luftfuktighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=online-seterra-south-america'>Online Seterra South America</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=partykungen-rabattkod-youtube'>Partykungen Rabattkod Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jasse-tuominen-youtube'>Jasse Tuominen Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-med-lax-och-r%C3%A4kor-saffran'>Pasta Med Lax Och Räkor Saffran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medell%C3%A4ngd-sverige-2019'>Medellängd Sverige 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=babblarna-halmstad-teater'>Babblarna Halmstad Teater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-alvik-frukost'>Scandic Alvik Frukost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sons-of-anarchy-logo'>Sons Of Anarchy Logo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=london-transport-card'>London Transport Card</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linn%C3%A9-i-g%C3%B6teborg'>Linné I Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordek-l%C3%A4genheter-%C3%B6rnsk%C3%B6ldsvik'>Nordek Lägenheter örnsköldsvik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=timvikarie-borl%C3%A4nge-kommun'>Timvikarie Borlänge Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=40-30-20-bag'>40 30 20 Bag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdkaka-banan-lchf'>Kladdkaka Banan Lchf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-biljetter-f%C3%A5r-sverige-till-em'>Hur Många Biljetter Får Sverige Till Em</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rutor-i-excel'>Rutor I Excel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=licor-43-pina-colada'>Licor 43 Pina Colada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-1-%C3%A5ring'>Youtube 1 åring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-betyder-slang'>Pippi Betyder Slang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=separations%C3%A5ngest-barn-10-%C3%A5r'>Separationsångest Barn 10 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-handskalade-r%C3%A4kor'>Köpa Handskalade Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ofrivilliga-muskelryckningar-barn'>Ofrivilliga Muskelryckningar Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fallskydd-s%C3%A4ng-jysk'>Fallskydd Säng Jysk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-editing-program-for-beginners'>Best Editing Program For Beginners</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kung%C3%A4lvs-posten-d%C3%B6dsannonser'>Kungälvs Posten Dödsannonser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-open-contacts-in-animal-crossing-pocket-camp'>How To Open Contacts In Animal Crossing Pocket Camp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=martin-%C3%A5slund-utbildning'>Martin åslund Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samlarm%C3%A4ssa-enk%C3%B6ping-2020'>Samlarmässa Enköping 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-tv-appar-st%C3%A4nger-av-sig-sj%C3%A4lv'>Samsung Tv Appar Stänger Av Sig Själv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=18x9-50-8-sn%C3%B6kedjor'>18x9 50 8 Snökedjor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snygga-soffor-mio'>Snygga Soffor Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=max-darj-fru'>Max Darj Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-kladdkaka-potatismj%C3%B6l'>Glutenfri Kladdkaka Potatismjöl</a>,
+";s:7:"expired";i:-1;}

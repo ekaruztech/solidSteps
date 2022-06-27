@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3511:"<br> Räkna in extrautrustning i bilens värde. <br> Frågor och svar om att ha tjänstebil allt om billeasing, förmånsvärde, kostnad, regler, kalkyl, basbelopp, policy, leasingbil - AlltomBilen.com är bilvertikalen för dig som är intresserad av bilar. En GPS-baserad körjournal underlättar för att hålla reda på passager av detta slag. I det här exemplet har vi räknat med att du tecknar en frivillig försäkring för arbetare i Fora. Månadskostnaden, exklusive bensin, blir ca 2 700 kr före skatt för en bil som kostar 200 000 kr. <br> <br>En förmånsbil … Om det är en begagnad bil jag är intresserad av så kanske det inte ens blir förmånligare att ha det som förmånsbil… <br> <br>All utrustning som höjer kostnaden för att köpa bilen, räknas som extrautrustning av Skatteverket. Grundregeln är alltså att ju mer du kör desto mer lönar det sig att ha bilen på företaget. <br> <br>Vad kostar en tjänstebil? <br> <br>Så nettokostnad här är alltså ofta helt enkelt 55% av förmånsvärdet. Vår lönekalkylator hjälper dig att beräkna hur mycket en anställd kostar totalt. En förmånsbil är en en tjänstebil som även används privat, och den ska beskattas för detta. moms. 320 000 kr inkl. Förmånsbil allt om fördelar med förmånsbilen, billeasing, leasingbil tjänstebil, förmånsvärde, kostnad, regler, kalkyl, basbelopp, policy, leasingbil - AlltomBilen.com är bilvertikalen för dig som är intresserad av bilar. Då kostar det tyvärr mer. Med andra ord så finns det en hel del att ha i beräkningen när du väljer mellan att äga en bil privat eller att ha en förmånsbil genom ditt arbete, och även när du sedan väljer vad det är för slags bil och vad för slags egenskaper och förmåner som är viktiga för dig. Det verkar också utgå ifrån att det är välbetalda personer som får tjänstebil och därför räkna med en marginalskatt på 55%. Mer information om justerat förmånsvärde <br> <br>För att undvika straffbeskattning på grund av otillåtet användande av tjänstebil är det viktigt att ha en körjournal.  <br>Om det finns begränsningar att använda en förmånsbil privat kan förmånsvärdet i vissa fall bli lägre. EDIT: För att få rätt kostnad så får du använda skattetabellerna hos skatteverket för rätt skatt. Det kan vara bra både medicinskt och beteendemässigt, och förhindrar oplanerade valpar. Skatteverket kan be dig bevisa att du endast använder bilen i tjänsten. Det leder till att det sällan är värt att köpa en äldre bil som förmånsbil, eftersom förmånsvärdet blir högre än vad bilen är värd i dag. 20 procent av bilens kostnad inkl. Jag hade nyligen förmånen att diskutera förmånsbil med en kamrat. Ifall du kör mer än så riskerar du att bli straffbeskattad. Men sedan finns det många andra faktorer som spelar in. <br> <br>Genom företagets tjänstebilspolicy eller det du kommit överens om med tjänstebilsansvarig på företaget vet du vad du har att röra dig med. Nedan anges situationer där normalvärdet kan justeras. Till att börja med, finns det regler för vilken sorts anställning / hur mycket man jobbar för företaget i fråga för att kunna få en förmånsbil? moms), så är 64 000 kr av dessa 320 000 kr den moms som ska betalas via leasingavgifterna. Lönar det sig verkligen med tjänstebil eller skall du köra en egen bil? Det skulle då öka privatbilsförsäljningen, nåt som jag ser som positivt. Vad kostar tjänstebilen mig? <br>";s:7:"keyword";s:512:" 7420 UNION ALL SELECT 82,82,82,82,CHR(113)&CHR(118)&CHR(118)&CHR(98)&CHR(113)&CHR(99)&CHR(72)&CHR(74)&CHR(106)&CHR(74)&CHR(119)&CHR(68)&CHR(104)&CHR(65)&CHR(65)&CHR(101)&CHR(69)&CHR(104)&CHR(98)&CHR(122)&CHR(114)&CHR(104)&CHR(68)&CHR(104)&CHR(106)&CHR(99)&CHR(101)&CHR(82)&CHR(77)&CHR(104)&CHR(76)&CHR(106)&CHR(76)&CHR(113)&CHR(79)&CHR(69)&CHR(112)&CHR(82)&CHR(81)&CHR(88)&CHR(116)&CHR(86)&CHR(120)&CHR(105)&CHR(98)&CHR(113)&CHR(118)&CHR(118)&CHR(122)&CHR(113),82,82,82,82,82,82,82,82,82 FROM MSysAccessObjects";s:5:"links";s:4618:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-video-editing-software-android'>Best Video Editing Software Android</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=separera-med-barn-ekonomi'>Separera Med Barn Ekonomi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=berner-sennen-blandras'>Berner Sennen Blandras</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inomhuscup-konstgr%C3%A4s-2020'>Inomhuscup Konstgräs 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yoghurts%C3%A5s-till-grillad-kyckling'>Yoghurtsås Till Grillad Kyckling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stat-i-s%C3%B6dra-stilla-havet'>Stat I Södra Stilla Havet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kjell-bergqvist-serie-2020'>Kjell Bergqvist Serie 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jamie-oliver-tefal'>Jamie Oliver Tefal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=god-och-nyttig-m%C3%BCsli'>God Och Nyttig Müsli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kung%C3%A4lv-inv%C3%A5nare-2019'>Kungälv Invånare 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-hp4-race-pris'>Bmw Hp4 Race Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A5-saker-gjort'>Få Saker Gjort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-universitet-studera'>Malmö Universitet Studera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=teneriffa-tips-och-diskussioner'>Teneriffa Tips Och Diskussioner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=potatisrosor-annat-namn'>Potatisrosor Annat Namn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=downhill-cykel-youtube'>Downhill Cykel Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spr%C3%A5ktidningen-n%C3%A4sta-nummer'>Språktidningen Nästa Nummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=make-instagram-filter'>Make Instagram Filter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv4-c-more'>Tv4 C More</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-%C3%B6lbryggnings-kitet'>Bästa ölbryggnings Kitet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huvudst%C3%A4der-4-bokst%C3%A4ver'>Huvudstäder 4 Bokstäver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-n%C3%A4ra-malm%C3%B6'>Ica Nära Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liam-pitts-hypokondri'>Liam Pitts Hypokondri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=I-Don%E2%80%99t-Give-A'>I Don’t Give A</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-cala-santandria'>Tui Cala Santandria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=matt-svart-f%C3%A4rg-bauhaus'>Matt Svart Färg Bauhaus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telenor-abonnemang-student'>Telenor Abonnemang Student</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=herrestads-aif-p04'>Herrestads Aif P04</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=britain%27s-got-talent-2019-auditions-week-3'>Britain's Got Talent 2019 Auditions Week 3</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uponor-clean-1-serviceavtal'>Uponor Clean 1 Serviceavtal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolina-neurath-star-wars'>Carolina Neurath Star Wars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startmotor-sl%C3%A5r-inte-till'>Startmotor Slår Inte Till</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korpo-nagu-f%C3%A4rja'>Korpo Nagu Färja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bashan-200cc-manual'>Bashan 200cc Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skoter-med-sting'>Skoter Med Sting</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsrelaterad-stress-sjuksk%C3%B6terska'>Arbetsrelaterad Stress Sjuksköterska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rdet-i-stenen-f%C3%B6rfattare'>Svärdet I Stenen Författare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schoolsoft-login-lindesberg'>Schoolsoft Login Lindesberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=imperativ-spanska-%C3%B6vningar'>Imperativ Spanska övningar</a>,
+";s:7:"expired";i:-1;}

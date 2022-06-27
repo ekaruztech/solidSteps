@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:5227:"<br>Hjälp till <br> <br>Restaurangen har drivits i samma regi sedan mars 2007. Dockepiren, Eriksberg 417 64 Göteborg [[Sverige///Sweden]] [[ÖPPETTIDER///OPENING TIMES]] [[Lunch///Lunch]] [[På grund av Corona och den ovissa situationen vår bransch befinner sig i har vi förändrade öppettider. 17, Göteborg.  <br>Gustoso Pasto! 6 oktober, 2014. Restaurang Faro är en italiensk restaurang med lyxigare kvarterskrogskänsla. CATERING I GÖTEBORG. Dette nettstedet bruker informasjonskapsler for å forbedre Boka bord på Eriksberg, Göteborgs bästa restauranger och få upp till 50% rabatt! Snittbetyg: 3.2 4 röster Saknas någon restaurang? Trattoria da Pasquale, Sten Stureg. <br> <br>Då kan du själv lägga till den.Det är självklart helt gratis. Buon Cibo är ett italienskt restaurangkoncept. Buon Cibo, italiensk restaurang i Göteborg som har öppet från morgon till kväll. Och vi serverar så många rätter som möjligt på stora fat vilket inbjuder till något Med underbart läge precis vid kajkanten finns Café Italia som erbjuder delikata italienska mat- och efterrätter samt glass. Italien står för mycket av det som gör livet skönt. Boka gratis på TheFork med omedelbar bekräftelse på din bokning. Restaurang Bellini är en italiensk restaurang i Göteborg som har specialiserat sig på medelhavslandets läckra mat. Varma känslor, social samvaro och kärleken till god mat och dryck. Se betyg, recensioner och bilder. Till Restaurang PIGA Hjärtat av krogen utgörs av personalen och våra gäster. Sjöporten Restaurang, Sjöporten 5, Göteborg. <br> <br>Sorellina, vår lillasyster, är det senaste tillskottet i vår italienska familj. Da Vinci | Nordenskiöldsgatan 23 413 09 Göteborg | 031-243300. Rödrutiga dukar, rött vin, flammande lågor från romantiska ljus, ångande p Nu kommer boende och andra göteborgare att kunna besöka den nya italienska restaurangen Fornello, som öppnar på Platån i Västra Eriksberg. <br> <br>Tillsammans med ett kunnigt matsalsteam som profsigt och lättsamt guidar dig genom besöket arbetar våra kockar som kompromisslöst lägger samma omtanke och kärlek i varje tallrik oavsett allergier eller preferenser. Restauranger i närheten av Quality Hotel 11 & Eriksbergshallen på Tripadvisor: Läs omdömen och se bilder från resenärer på restauranger i närheten av Quality Hotel 11 & Eriksbergshallen, Göteborg. Välkommen till Sjöporten Restaurang i ett av Göteborgs mest spännande omgivningar i hjärtat av Eriksberg. Italiensk kvalitet och tradition, svensk passion och gott umgänge med god mat. <br> Vi har lagt tyngdpunkten på att föra tillbaka pizzan till originalet, så här kan du äta din pizza som du …  <br> <br>Boka gratis på TheFork med omedelbar bekräftelse på din bokning. (Fler än 10 restauranger.) Vi experimenterar med spännande smaker som resulterar i asiatiska rätter i modern tappning. Lägg ihop alla dessa ingredienser och du hamnar hos oss på Fornello. Vi har även ett urval av italienska delikatesser som du kan köpa med dig hem. Beste italienske restauranter i Göteborg, Sverige: Se anmeldelser fra reisende og bilder av spisesteder i Göteborg, og søk etter pris, beliggenhet og mer på Tripadvisor. Välkommen till Sjöporten Restaurang i ett av Göteborgs mest spännande omgivningar i hjärtat av Eriksberg. Italiensk restaurang till Västra Eriksberg. Vi har … Öppettider. Café Italia Eriksberg, Göteborg. Donatellos är ditt cateringföretag i Göteborg. Här hittar du alla restauranger nära Eriksberg, Göteborg. La Baracca Rossa - Ceresplatsen 9, 41758 Gothenburg - Rated 4.7 based on 205 Reviews "Best place in town for food and hospitality. Italiensk restaurang Göteborg . mån-fre 11.00 – sent ... Italiensk schnitzel fylld med fontinaost och prosciutto, gräddig rödvinssås, kikärt- och matvetesallad, ungsrostad potatis Fornello erbjuder en genuin italiensk matupplevelse mitt i Göteborg. <br> <br>Hitta en bra Italienskt restaurang i Eriksberg, Göteborg och få upp till 50% rabatt! Göteborg info@sorellina.se Boka Bord. Vi har ett stort urval av italienska desserter samt högkvalitativ, italiensk glass med olika smaker. <br> <br>Vi serverar lunch mån-fre 11-14 samt italienska specialitéer fram till kl 19 nästan alla dagar. När du stiger innanför dörren på Trattoria Da Pasquale känner du kärleken till Italien och de napolitanska köket. Välj dina favoriter. Uppgifter om Italienska Restauranger i Göteborg. Letar du efter Café Italia Eriksberg Smörgåsrestaurang Italiensk restaurang Delikatessbutik Göteborg Maskinkajen 11 ? Här möts du av genuin italiensk atmosfär. Buon Cibo – Italiensk restaurang i Göteborg. Sorellina betyder just lillasyster på italienska och den nya restaurangen har plats för drygt 80 gäster, en nio meter lång bardisk gjord av marmor från Verona och en ännu längre vinhylla fylld av italienska viner. <br> <br>Se telefonnummer, adress, hemsida, öppettider mm. Vi bjuder på klassiska välsmakande luncher inriktad på svensk husman men även sallader och pizza, mån-fre mellan 11.00 – … <br> <br>“Favorit Italiensk restaurang” 19:30 20 % rabatt 20:00 20 % rabatt 20:30 20 % rabatt 16. <br>";s:7:"keyword";s:246:"liverpool world cup jersey)/**/AND/**/3479=UTL_INADDR.GET_HOST_ADDRESS(CHR(48)||CHR(120)||CHR(73)||CHR(65)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(48)||CHR(120)||CHR(73)||CHR(65))  /**/H1pV";s:5:"links";s:4534:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ofrivilliga-muskelryckningar-barn'>Ofrivilliga Muskelryckningar Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparta-leonidas-xerxes'>Sparta Leonidas Xerxes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-kurs-f%C3%B6r-invandrare'>Svenska Kurs För Invandrare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=willys-%C3%B6ppettider-knivsta'>Willys öppettider Knivsta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-netflix-med-swish'>Betala Netflix Med Swish</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gyllenstiernsgatan-4-f%C3%B6retag'>Gyllenstiernsgatan 4 Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=houses-in-la-for-sale'>Houses In La For Sale</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-betalar-lantm%C3%A4terif%C3%B6rr%C3%A4ttning'>Vem Betalar Lantmäteriförrättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-salsiccia-jamie-oliver'>Pasta Salsiccia Jamie Oliver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laserpekare-katt-batteri'>Laserpekare Katt Batteri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-komiker-johan'>Svenska Komiker Johan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skydda-sig-mot-vulkanutbrott'>Skydda Sig Mot Vulkanutbrott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nabil-al-fakir'>Nabil Al Fakir</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boendest%C3%B6d-f%C3%B6r-adhd'>Boendestöd För Adhd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=khao-lak-hotell-tui'>Khao Lak Hotell Tui</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chill-out-meaning'>Chill Out Meaning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mekonomen-varberg-tr%C3%A4sl%C3%B6vsl%C3%A4ge'>Mekonomen Varberg Träslövsläge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vardaga-karlstad-jobb'>Vardaga Karlstad Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marianne-m%C3%B6rck-t%C3%A4nder-ljuset'>Marianne Mörck Tänder Ljuset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-livsmedelsverket'>Vad är Livsmedelsverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-rum%C3%A4nien-resultat'>Sverige Rumänien Resultat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-barnsk%C3%B6tare'>Personligt Brev Barnskötare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=charlotta-jonsson-d%C3%B6d'>Charlotta Jonsson Död</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=temperatures-now-europe'>Temperatures Now Europe</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5f-infrastructure-ab'>åf Infrastructure Ab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-tr%C3%A4-f%C3%B6r-snideri'>Köpa Trä För Snideri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mysig-stad-n%C3%A4ra-stockholm'>Mysig Stad Nära Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-rygg-h%C3%B6ft-och-ljumske'>Ont I Rygg Höft Och Ljumske</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%B6mstad-tidning-kontakt'>Strömstad Tidning Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-western-g%C3%A4vle'>Best Western Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pirates-of-the-caribbean-piano-music'>Pirates Of The Caribbean Piano Music</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-mycket-betalar-ni-i-underh%C3%A5ll'>Hur Mycket Betalar Ni I Underhåll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-handbollslandslaget-herrar'>Svenska Handbollslandslaget Herrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronisk-tr%C3%B6tthetssyndrom-sjukskrivning'>Kronisk Trötthetssyndrom Sjukskrivning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%A5nes-%C3%A4ldsta-stad'>Skånes äldsta Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hund-byter-%C3%A4gare'>Hund Byter ägare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bostadsbidrag-dubbelt-boende'>Bostadsbidrag Dubbelt Boende</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,97 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2796:"<br>Här har vi samlat middagstips för så väl jäktiga vardagar och de dagar då du vill njuta lite extra av middagen. Servera med lite turkisk yoghurt. <br> <br>Ingredienser: 2 msk olivolja 1 röd lök, hackad 1 paprika, tärnad 2 vitlöksklyftor finhackade 1 <br> <br>Ingredienser Pilaffris: 1-2 gula lökar 5-6 dl ris 2 msk veg olja el margarin 10-12 dl vatten + 1 buljongtärning 1-2 tsk curry Jambalaya: 1 sats pilaffris 1 pkt (à 140 g) bacon 1 burk (à 440 g) musslor 2 paprikor 1 burk (à 400 g) krossade tomater 2 msk vegetabilisk olja Yoghurt turkisk 10% 5kg - En yoghurt med behaglig syrlighet och en härligt krämig konsistens. En bra vardagsmiddag går att laga snabbt och enkelt, samtidigt som resultatet bjuder på läckra smaker. Därtill fakta om allt man behöver veta som vegan, det veganska kökets historia finns här liksom en ordlista över produkter du behöver känna till. Tillsätt det i yoghurtblandningen. Riv vitlöken. <br> <br>Här finns hur många bra recept som helst. Vet du inte vad du ska äta till middag? RECEPT Middagsmat.  <br> <br>Idag läste jag att pilaff är en risrätt från mellanöstern där man först bryner riset och sedan kokar riset med kryddor och i buljong och insåg att … Du kan äta den vegetarisk eller med kyckling som jag gjorde ikväll. Recept och annat om och från Irak. ... Irakiska recept, Vegetariskt Pilaff på mellanösternvis med aubergine och tomat. <br> <br>Blanda det med majonnäs och äppelcidervinäger. <br> <br>Så njut läckerheter som sallad med röda linser, falafel i pitabröd, turkisk pilaff, cowboygryta med linser och lingonbröd med sesamfrön. <br> <br>Riv pepparrot fint. <br> <br>6. <br> <br>Ett persiskt saffranris som detta smakar gudomligt. <br> <br>Detta recept räcker till 4 personer. 4.#turkisk pizza lahmacun. 6 april, 2016. <br> <br>Hacka moroten fint och riv gurkan. Krydda med salt, peppar och persilja efter smak. Stek hästbiffen i en … <br> <br>4. Använd i kalla såser och röror, eller servera med frukt och bär till frukost eller mellanmål. <br> <br>Fyll på med turkisk yoghurt till 3-4 deciliter. Torkade bär, saffran och nötter ger fantastiska smaker, testa receptet själv! <br> <br>Underbart när alla smaker blandas samman. En enkel, god och smakrik Turkisk pilaff med bulgur, tomater, paprika och kikärtor. <br> <br>Islim kebab- god turkisk maträtt Saftiga biffar som viks in i auberginepaket och som sen tillagas i tomatsås. <br> <br>5. Vi har allt från den sagolika Byagårdens köttgryta till … <br> <br> 5.falafeltallrik med humus och råstekpotatis Recept Grytor Läckra grytor med bland annat kött, fisk och skaldjur väntar på att du ska upptäcka dem. Var så god, våra middagsrecept! <br> <br>turkisk gryta vita bönor med kött och RIS zatziki. <br>";s:7:"keyword";s:21:"turkisk pilaff recept";s:5:"links";s:6510:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startrel%C3%A4-yamaha-big-bear-350'>Startrelä Yamaha Big Bear 350</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fakta-om-n%C3%A4ssj%C3%B6'>Fakta Om Nässjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-kan-arter-f%C3%B6r%C3%A4ndras%2C-%C3%A4ven-om-milj%C3%B6n-%C3%A4r-of%C3%B6r%C3%A4ndrad'>Hur Kan Arter Förändras, även Om Miljön är Oförändrad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=myheritage-dna-test-kritik'>Myheritage Dna-test Kritik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smalare-midja-och-l%C3%A5r'>Smalare Midja Och Lår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=katolskt-dop-kl%C3%A4dsel'>Katolskt Dop Klädsel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A4na-p%C3%A5-gym-nyb%C3%B6rjare-tjej'>Träna På Gym Nybörjare Tjej</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-kodiak-700'>Yamaha Kodiak 700</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Apartamentos-Marola-Portosin4%2C3%28281%290%2C3%C2%A0km-bort'>Apartamentos Marola Portosin4,3(281)0,3 km Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=can-am-service-manual'>Can-am Service Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-e5186-usb'>Huawei E5186 Usb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skandia-lifeline-corona'>Skandia Lifeline Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hundras-american-akita'>Hundras American Akita</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=obstetrisk-mottagning-%C3%B6stra'>Obstetrisk Mottagning östra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4llbar-s%C3%A4ng-90x210'>Ställbar Säng 90x210</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=castrol-sverige-kontakt'>Castrol Sverige Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-j-nacka'>Restaurang J Nacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baconlindad-halloumi-ugn'>Baconlindad Halloumi Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=agneta-sj%C3%B6din-b%C3%B6cker'>Agneta Sjödin Böcker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukavdrag-dag-15'>Sjukavdrag Dag 15</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-g%C3%A4stis-borensberg'>Lunch Gästis Borensberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=domino%27s-order-online'>Domino's Order Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bora-bora-airport'>Bora Bora Airport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-turer-tyskland'>Mc Turer Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=den-gamle-och-havet-film'>Den Gamle Och Havet Film</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eriksbergs-festv%C3%A5ning-julbord'>Eriksbergs Festvåning Julbord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-krank%C3%A4gla-mora'>Byta Krankägla Mora</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=handl%C3%A4ggningstid-h%C3%B6gsta-domstolen'>Handläggningstid Högsta Domstolen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=turkiska-mattor-stockholm'>Turkiska Mattor Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=passande-f%C3%B6rr%C3%A4tt-till-torskrygg'>Passande Förrätt Till Torskrygg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eksj%C3%B6-kommun-befolkning'>Eksjö Kommun Befolkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tele2-mobilabonnemang-student'>Tele2 Mobilabonnemang Student</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolchef-danderyds-kommun'>Skolchef Danderyds Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6teborgs-kommun-resm%C3%A5l'>Göteborgs Kommun Resmål</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ventilation-jobb-%C3%B6rebro'>Ventilation Jobb örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=quiz-south-america'>Quiz South America</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barcelona-tr%C3%B6ja-griezmann'>Barcelona Tröja Griezmann</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lule%C3%A5-hockey-match'>Luleå Hockey Match</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arehucas-18-years'>Arehucas 18 Years</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varmr%C3%B6kt-lax-recept-varmr%C3%A4tt'>Varmrökt Lax Recept Varmrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-ff-europa-league-grupp'>Malmö Ff Europa League Grupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-%C3%A5kte-ur-idol-27-september-2019'>Vem åkte Ur Idol 27 September 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konsert-lustans-lakejer'>Konsert Lustans Lakejer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=review-nokia-8110'>Review Nokia 8110</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tiffany-persson-arbetstr%C3%A4nar'>Tiffany Persson Arbetstränar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-och-annika-kalender-2020'>Tommy Och Annika Kalender 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jerntorgets-brygghus-quiz'>Jerntorgets Brygghus Quiz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pingstkyrkan-st%C3%B6pen-kalender'>Pingstkyrkan Stöpen Kalender</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ladda-upp-film-p%C3%A5-instagram'>Ladda Upp Film På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=orkar-inte-med-valpen'>Orkar Inte Med Valpen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=40-30-20-bag'>40 30 20 Bag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kan-jag-laga-f%C3%B6r-mat'>Vad Kan Jag Laga För Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ultraljud-vecka-8'>Ultraljud Vecka 8</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netto-bor%C3%A5s-coop'>Netto Borås Coop</a>,
+";s:7:"expired";i:-1;}

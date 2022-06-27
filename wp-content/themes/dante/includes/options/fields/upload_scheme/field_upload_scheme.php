@@ -1,7 +1,7 @@
 <?php
 class Redux_Options_upload_scheme {
 
-    /*  for PRO users! - *
+    /**
      * Field Constructor.
      *
      * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function
@@ -15,7 +15,7 @@ class Redux_Options_upload_scheme {
 		$this->url = $parent->url;
     }
 
-    /*  for PRO users! - *
+    /**
      * Field Render Function.
      *
      * Takes the vars and outputs the HTML for the field in the settings
@@ -27,13 +27,13 @@ class Redux_Options_upload_scheme {
         echo '<input type="hidden" id="' . $this->field['id'] . '" name="' . $this->args['opt_name'] . '[' . $this->field['id'] . ']" value="' . $this->value . '" class="' . $class . '" />';
 //      echo '<img class="redux-opts-screenshot" id="redux-opts-screenshot-' . $this->field['id'] . '" src="' . $this->value . '" />';
         if($this->value == '') {$remove = ' style="display:none;"'; $upload = ''; } else {$remove = ''; $upload = ' style="display:none;"'; }
-        echo ' <a data-update="Select File" data-choose="Choose a File" href="javascript:void(0);"class="redux-opts-upload-scheme button-secondary"' . $upload . ' rel-id="' . $this->field['id'] . '">' . __('Import', Redux_TEXT_DOMAIN) . '</a>';
+        echo ' <a data-update="Select File" data-choose="Choose a File" href="javascript:void(0);"class="redux-opts-upload-scheme button-secondary"' . $upload . ' rel-id="' . $this->field['id'] . '">' . __('Import', 'swiftframework') . '</a>';
         echo ' <span class="import-schema-message" style="display:none;">Import Successful</span> ';
-//      echo ' <a href="javascript:void(0);" class="redux-opts-upload-scheme-remove"' . $remove . ' rel-id="' . $this->field['id'] . '">' . __('Remove Upload', Redux_TEXT_DOMAIN) . '</a>';
+//      echo ' <a href="javascript:void(0);" class="redux-opts-upload-scheme-remove"' . $remove . ' rel-id="' . $this->field['id'] . '">' . __('Remove Upload', 'swiftframework') . '</a>';
         echo (isset($this->field['desc']) && !empty($this->field['desc'])) ? '<br/><span class="description">' . $this->field['desc'] . '</span>' : '';
     }
 
-    /*  for PRO users! - *
+    /**
      * Enqueue Function.
      *
      * If this field requires any scripts, or css define this function and register/enqueue the scripts/css

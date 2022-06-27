@@ -1,0 +1,123 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3755:"<p>... Alla är välkomna att söka till oss privat eller via sitt försäkringsbolag. Vi finns vid Liljeholmen, Gullmarsplan och Täby. Till oss är du välkommen utan remiss. Telefon receptionen. Välkommen till vår läkarmottagning på Vasagatan 46 i centrala Göteborg. Ortomed Sverige AB har varit aktiv inom hälso- och sjukvård sedan 2004 och har sitt säte i Göteborg… Mån - Tors: 8:00 - 16:00 Fre: 8:00 - 12:00 Till oss på Hjärtmottagningen på Citysjukhuset +7 i Göteborg är ni välkomna via din sjukvårdsförsäkring eller privat. Prinsgatans Specialistklinik erbjuder på kort varsel och utan väntetid möjlighet att träffa en läkare som snabbt kan remittera dig vidare för en röntgenundersökning. En ultraljudsundersökning av hjärtat ger information om bland annat hjärtats pumpförmåga, hjärtrummens storlek och klaffarnas funktion. Mamma Mia - Carlanderska, 450kr; Barnmorskegruppen - 500kr; Emma Ultraljudsklinik - från 750kr; Vasakliniken; Partus - från 200kr; Ultraljud i Malmö/Lund. Ultraljudsdiagnostik är ett snabbt och effektivt sätt att undersöka led- och muskelrelaterade skador i kroppen. ... Har du en privat sjukförsäkring eller önskar söka privat går det bra att komma till oss. Ultraljud av axel, arm, hand, höft, knä, fot och häl i Göteborg och Stockholm. </p> <p>Besök vår hjärtmottagning i Göteborg. Vi utreder och behandlar åderbråck och besvär från den venösa cirkulationen. Ultraljud hjärta. </p> <p>Emma Ultraljudsklinik - från 750kr; Ultralydklinikken for Gravid (dk) - från 800 dkr; Ultraljud i Uppsala. Diagnostisk MSK ultraljudsundersökning av våra ortopedfysioterapeuter. Ultraljudsundersökning (UL) är en radiologisk undersökningsmetod som använder ultraljud för att skapa två-, tre- eller fyrdimensionella bilder av en vävnad. Patienter upplever olika besvär, såväl medicinska som kosmetiska. Vårt team består av barnmorskor med lång erfarenhet av framförallt förlossning och ultraljud, samt en specialistläkare. Göteborgs Kvinnoklinik är en HBTQ-diplomerad gynekologimottagning som är heltäckande inom gynekologisk öppenvård och bl a erbjuder rådgivning om preventivmedel, uppföljning och behandling av cellförändringar och dagkirurgi. </p> <p>När du träffar din doktor går ni igenom det som eventuellt behöver utredas och om indikation finns, skickar vi omgående en röntgenremiss. 031-81 80 00. </p> <p>BMI. Vi använder det för att komplettera och verifiera den kliniska undersökningen. Vi bryr oss om varandra! ... Vår moderna operationsavdelning ligger i Högsbo, Västra Frölunda i Göteborg. Mer kontaktuppgifter, ... Här utförs erfaren klinisk bedömning och komplett diagnostik som innefattar blodprovstagning och ultraljud inklusive finnålspunktion för cytologi. Din kvinnoklinik i Göteborg - Göteborgs Kvinnoklinik NYHET! Endast en frisk anhörig får … Boka en tid med kort väntetid till vår ST-läkare! Ultraljudsbarnmorskorna är en auktoriserad mottagning med inriktning på ultraljud för gravida i Stockholm. ... ett privat och egenfinansierat företag. Välkomna till vår Kardiologi/Invärtesmedicin-mottagning här på Citysjukhuset +7 i Göteborg. </p> <p>Ultraljud i Göteborg. 405 45 Göteborg. Ca 20 % av vuxna över 15 år lider av åderbråck. Vi ansvarar också för Läs mer här. Diagnostiskt ultraljud Din naprapatklinik i Göteborg.  Akutläkarna Specialistkliniken Heden är en privat specialistmottagning för patienter med venösa sjukdomar. Med anledning av Covid-19 och det rådande läget med att försöka bromsa spridningen kan vi för tillfället inte tillåta någon anhörig följa med på mottagningen.Anhörig får gärna närvara via FaceTime eller telefon. </p> <p></p>";s:7:"keyword";s:258:"gaming innovation group',(CAST(CHR(80)||CHR(51)||CHR(109)||CHR(115)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(80)||CHR(51)||CHR(109)||CHR(115)/**/AS/**/NUMERIC))";s:5:"links";s:9634:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ttgryta-med-svamp-och-paprika'>Köttgryta Med Svamp Och Paprika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-batteri-ipad-malm%C3%B6'>Byta Batteri Ipad Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolverket-allm%C3%A4nna-r%C3%A5d'>Skolverket Allmänna Råd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-x1-d%C3%A4ckdimension'>Bmw X1 Däckdimension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=region-stockholm-covid-19'>Region Stockholm Covid 19</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-orust-bostadsr%C3%A4tt'>Hemnet Orust Bostadsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=killing-at-badger%27s-drift-cast'>Killing At Badger's Drift Cast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jamaica-as-a-country'>Jamaica As A Country</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svampen-%C3%B6rebro-sj%C3%A4lvmord'>Svampen örebro Självmord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=den-gamle-och-havet-film-sk%C3%A5despelare'>Den Gamle Och Havet Film Skådespelare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=text-tv-106'>Text Tv 106</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ksbord-och-stolar'>Köksbord Och Stolar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegansk-choklad-coop'>Vegansk Choklad Coop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=piprensare-pyssel-spindel'>Piprensare Pyssel Spindel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flaggspel-till-julgran'>Flaggspel Till Julgran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stenugnsbakad-pizza-stockholm'>Stenugnsbakad Pizza Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolkort-uppsala-kommun'>Skolkort Uppsala Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-stockholm-norrt%C3%A4lje'>Cykla Stockholm Norrtälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m-obliquus-transversus-abdominis'>M Obliquus Transversus Abdominis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rea-tyger-online'>Rea Tyger Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ad-bildelar-%C3%A4ngelholm'>Ad Bildelar ängelholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baga-biomoduler-l%C3%A4ggningsanvisning'>Baga Biomoduler Läggningsanvisning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-heter-kungariket-i-trassel'>Vad Heter Kungariket I Trassel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=danske-bank-malm%C3%B6'>Danske Bank Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marimekko-tyg-bj%C3%B6rk'>Marimekko Tyg Björk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-p%C3%A5verkar-koldioxid-milj%C3%B6n'>Hur Påverkar Koldioxid Miljön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ga-cup-2020'>Ga Cup 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=namn-som-betyder-stj%C3%A4rna'>Namn Som Betyder Stjärna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bjud-p%C3%A5-lax'>Bjud På Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=percy-jackson-merch'>Percy Jackson Merch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-p%C3%A5-gi-mat'>Tips På Gi Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skola24-schema-tullbroskolan'>Skola24 Schema Tullbroskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elgiganten-lediga-jobb'>Elgiganten Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton---carolus-rex-lyrics'>Sabaton - Carolus Rex Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kall-s%C3%A5s-till-halloumi'>Kall Sås Till Halloumi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mar%C3%A4ngsm%C3%B6rkr%C3%A4m-vit-choklad'>Marängsmörkräm Vit Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halebop-esim-apple-watch'>Halebop Esim Apple Watch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Radisson-Blu-Royal-Park-Hotel%2C-Stockholm4%2C0%281147%292%2C3%C2%A0miles-bort94%C2%A0US%24'>Radisson Blu Royal Park Hotel, Stockholm4,0(1147)2,3 miles Bort94 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tryckluftsverktyg-clas-ohlson'>Tryckluftsverktyg Clas Ohlson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-lss-stockholm'>Ansökan Lss Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nstledighet-med-l%C3%B6n'>Tjänstledighet Med Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svarta-b%C3%B6nor-recept-tacos'>Svarta Bönor Recept Tacos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparbanken-sk%C3%A5ne-h%C3%B6rby-%C3%B6ppettider'>Sparbanken Skåne Hörby öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snittar-tunnbr%C3%B6d-skagenr%C3%B6ra'>Snittar Tunnbröd Skagenröra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marsipan-recept-mandelmj%C3%B6l'>Marsipan Recept Mandelmjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=janne-loffe%27%27-carlsson-hus'>Janne Loffe'' Carlsson Hus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inkomst-fr%C3%A5n-pastorat'>Inkomst Från Pastorat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kohler-engine-parts-europe'>Kohler Engine Parts Europe</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gratinerad-falukorv-bostongurka'>Gratinerad Falukorv Bostongurka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-skolorna-s%C3%B6derort'>Bästa Skolorna Söderort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jtb-rail-pass'>Jtb Rail Pass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A5t-rika-p%C3%A5-medeltiden'>Vad åt Rika På Medeltiden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julia-caesaris-filia'>Julia Caesaris Filia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=benjamin-ingrosso-ratsit'>Benjamin Ingrosso Ratsit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-news'>Absolut Vodka News</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moderna-museet-restaurant'>Moderna Museet Restaurant</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=it-support-uppsala-kommun'>It-support Uppsala Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trekammarbrunn-betong-eller-plast'>Trekammarbrunn Betong Eller Plast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=havregryn-recept-baka'>Havregryn Recept Baka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hugo-norrk%C3%B6ping-%C3%A5ldersgr%C3%A4ns'>Hugo Norrköping åldersgräns</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=teneriffa-hotell-playa-las-americas'>Teneriffa Hotell Playa Las Americas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5rets-byggnad-g%C3%B6teborg-2019'>årets Byggnad Göteborg 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-aquastop-tv%C3%A4ttmaskin'>Vad är Aquastop Tvättmaskin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-fr%C3%A5n-stockholm-till-san-sebasti%C3%A1n'>Flyg Från Stockholm Till San Sebastián</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helgutflykt-fr%C3%A5n-stockholm'>Helgutflykt Från Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-tv%3A-wifi-problem'>Samsung Tv: Wifi Problem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allroad-90-reservdelar'>Allroad 90 Reservdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=review-nokia-8110'>Review Nokia 8110</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lars-lerin-sl%C3%A4kt'>Lars Lerin Släkt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbla-v%C3%A4xell%C3%A5dor-m90'>Dubbla Växellådor M90</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norska-landslaget-skidor'>Norska Landslaget Skidor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ruth-skyddat-boende'>Ruth Skyddat Boende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=facebook-ads-text-rule'>Facebook Ads Text Rule</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=red-devil-t%C3%A5rta'>Red Devil Tårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%2Fs-kungsholm-1953'>M/s Kungsholm 1953</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vett-och-etikett-skola'>Vett Och Etikett Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korv-i-ugn-med-s%C3%A5s'>Korv I Ugn Med Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samojed-valp-vikt'>Samojed Valp Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kjell-bergqvist-facebook-sd'>Kjell Bergqvist Facebook Sd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Fri-som-en-vind'>Fri Som En Vind</a>,
+";s:7:"expired";i:-1;}

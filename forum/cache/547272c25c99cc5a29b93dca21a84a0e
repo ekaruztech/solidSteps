@@ -1,0 +1,74 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1555:"<p>Checklistor för bättre arbetsmiljö i hemtjänst, äldreomsorg, sjukvård och för personliga assistenter. Brister i den organisatoriska och sociala arbetsmiljön orsakar ohälsa hos många arbetstagare i Sverige. En god vård och omsorg ska kännetecknas av att den är personcentrerad, jämlik och säker. Här hittar du gratis webbkurser, e-föreläsningar och inspiration från andra inom vård, hälsa och omsorg. </p> <p>Arbetsmiljöverket får därför 3,5 miljoner för att vidareutveckla och sprida en film om organisatorisk och social arbetsmiljö. Gör webbaserade jämförelser av hälso- och sjukvården. En god arbetsmiljö är en del av det vi menar är en hälsosam vårdmiljö. ... Jämförelserna ger insyn och kan användas för analys, uppföljning och utveckling inom hälso- och sjukvårdens verksamheter. </p> <p> Sidan vänder sig till dig som är arbetsgivare och politiker, men även till dig som är arbetstagare eller skyddsombud. </p> <p>Inte minst inom vård och omsorg där sjukskrivningstalen är höga. Information om arbetsmiljö inom vård och omsorg. </p> <p>Hälsosam vårdmiljö = god arbetsmiljö och patientsäkerhet. Här kan du läsa om vilka arbetsmiljöregler som gäller för hälso- och sjukvården och om hur man kan bedriva ett bra arbetsmiljöarbete. </p> <p>Här värnar vi både om din egen hälsa och förutsättningarna för att ge en god och säker vård. </p> <p>För dig som vill utvecklas eller bara få inspiration, snabbt och enkelt. Mer hos oss. </p> <p>Funktionshinder; Mer hos andra. </p>";s:7:"keyword";s:30:"kangchao 250cc atv' and 'x'='x";s:5:"links";s:3672:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olika-tolkningar-av-franska-revolutionen'>Olika Tolkningar Av Franska Revolutionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kostar-ett-hundpass'>Vad Kostar Ett Hundpass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=braun-thermoscan-7'>Braun Thermoscan 7</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=internationella-skolan-uppsala'>Internationella Skolan Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-live-opera'>Malmö Live Opera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mina-arbetsprover-konstfack'>Mina Arbetsprover Konstfack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-kl%C3%A4der-fr%C3%A5n-italien'>Köpa Kläder Från Italien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gaming-expo-2020'>Gaming Expo 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=historiska-museet-altarsk%C3%A5p'>Historiska Museet Altarskåp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-nation-har-flest-bost%C3%A4der-uppsala'>Vilken Nation Har Flest Bostäder Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inv%C3%A5nare-eksj%C3%B6-t%C3%A4tort'>Invånare Eksjö Tätort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ta-kanal-2-hela-filmen'>Göta Kanal 2 Hela Filmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenskar-i-kanada'>Svenskar I Kanada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amanda-winberg-panna'>Amanda Winberg Panna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saab-9-5-framvagn'>Saab 9 5 Framvagn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=orsa-gr%C3%B6nklitt-stuga'>Orsa Grönklitt Stuga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jullov-2019-v%C3%A4ster%C3%A5s'>Jullov 2019 Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chris-kl%C3%A4fford-idol-usa'>Chris Kläfford Idol Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=1-maj-oskarshamn'>1 Maj Oskarshamn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=positivt-t%C3%A4nkande-%C3%B6vningar'>Positivt Tänkande övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kaloribalans-r%C3%A4kna-ut'>Kaloribalans Räkna Ut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=britain%27s-got-talent-2019-auditions-week-5'>Britain's Got Talent 2019 Auditions Week 5</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=park-sounds-2019'>Park Sounds 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buss-375-orust'>Buss 375 Orust</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=washington-capitals-tr%C3%B6ja'>Washington Capitals Tröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-b%C3%B6rja-s%C3%A4rskola'>Att Börja Särskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viktor-rydberg-djursholm'>Viktor Rydberg Djursholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-med-kapris'>Lax I Ugn Med Kapris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-g%C3%B6teborg-avenyn'>Lunch Göteborg Avenyn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-inom-v%C3%A5rden-uppsala'>Jobb Inom Vården Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tempolopp-cykel-hastighet'>Tempolopp Cykel Hastighet</a>,
+";s:7:"expired";i:-1;}

@@ -25,7 +25,7 @@ class SwiftPageBuilderShortcode_portfolio extends SwiftPageBuilderShortcode {
 	        ), $atts));
 	        
 	        
-	        /*  for PRO users! -  SIDEBAR CONFIG
+	        /* SIDEBAR CONFIG
 	        ================================================== */ 
 	        $sidebar_config = sf_get_post_meta(get_the_ID(), 'sf_sidebar_config', true);
 	        	        
@@ -39,7 +39,7 @@ class SwiftPageBuilderShortcode_portfolio extends SwiftPageBuilderShortcode {
 	        }
 	        
 	        
-	        /*  for PRO users! -  PORTFOLIO FILTER
+	        /* PORTFOLIO FILTER
 	        ================================================== */ 
 	        if ($portfolio_filter == "yes" && $sidebars == "no-sidebars") {
 	        	if ($display_type == "masonry-fw" || $display_type == "masonry-gallery-fw") {
@@ -50,12 +50,12 @@ class SwiftPageBuilderShortcode_portfolio extends SwiftPageBuilderShortcode {
 	        }
 	        
 	        
-	        /*  for PRO users! -  PORTFOLIO ITEMS
+	        /* PORTFOLIO ITEMS
 	        ================================================== */	        
 	        $items = sf_portfolio_items($display_type, $columns, $show_title, $show_subtitle, $show_excerpt, $hover_show_excerpt, $excerpt_length, $item_count, $category, $exclude_categories, $pagination, $sidebars);
 	        
 	        
-			/*  for PRO users! -  PAGE BUILDER OUTPUT
+			/* PAGE BUILDER OUTPUT
 			================================================== */ 
     		$width = spb_translateColumnWidthToSpan($width);
     		$el_class = $this->getExtraClass($el_class);

@@ -1,19 +1,19 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Custom Flickr Widget
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 	
 	class sf_flickr_widget extends WP_Widget {
 	
-		function sf_flickr_widget() {	
+		function __construct() {
 			$widget_ops = array( 'classname' => 'flickr-widget', 'description' => 'Show off your favorite Flickr photos' );
-			$this->WP_Widget( 'flickr-widget', 'Swift Framework Flickr Widget', $widget_ops);
+			parent::__construct( 'flickr-widget', 'Swift Framework Flickr Widget', $widget_ops);
 		}
 		
 		function form($instance) {
@@ -83,7 +83,7 @@
 						var count = parseInt(<?php echo $count; ?>,10);
 						$.getJSON("//api.flickr.com/services/feeds/photos_public.gne?ids=<?php echo $flickrid; ?>&lang=en-us&format=json&jsoncallback=?", function(data){
 					          $.each(data.items, function(index, item){
-					                $("<img class='flickr'/>").attr("src", item.media.m).appendTo('#<?php echo $widget_id; ?>')
+					                $("<img class='flickr'/>").attr("src", item.media.m).attr('alt', item.title).appendTo('#<?php echo $widget_id; ?>')
 					                  .wrap("<li><a href='" + item.link + "' class='flickr-img-link' target='_blank'></a></li>");
 					                return index+1<count;
 					          });

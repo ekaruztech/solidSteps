@@ -1,0 +1,73 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:5158:"<p>En karta är en avbildning av ett geografiskt område, ... Vissa kartor används för att orientera sig, som exempelvis vägkartor eller orienteringskartor. </p> <p>Ofta är det en fördel att vika kartan så att den blir mindre och därmed enklare att hålla i samt hålla reda på vart du är och vart du är på väg.. Tänk bara på att inte vika så att du döljer viktig information eller din tänkbara väg mot kontrollen. Så tänk på att urval görs alltid och det görs i flera omgångar. hur stor förminskning av verkligheten kartan är. </p> <p>Bra att veta är att norr alltid är uppåt på en karta. [1] Nästa steg är att passa kartan. Passa kartan. Det finns olika skattningsskalor att ta hjälp av för att bedöma vitala parametrar och för att minska risken att patienten försämras under vårdtiden. Viktigt att veta när man läser karta är vilken skala kartan är gjord i. Dvs. 1 . Passa kartan. </p> <p>Under rubriken Rättigheter och skyldigheter på sidan 8 i Lgr11 står det att ”Eleverna ska kunna orientera sig i en komplex verklighet, med ett stort informationsflöde och en snabb förändringstakt. Vanligaste kartskalorna inom orientering är 1:15.000 och 1:10 000. Du ser vad som väntar dig, kan planera raster, var du kan få vatten, eller om det finns några svårigheter längs vägen. Att beräkna lageromsättningen kan vid en första anblick verka enkelt eftersom det endast är fråga om en division av t.ex. omsättning med lagervärde. För äldre erbjuds oftast skala 1:7500 så att de lättare kan läsa kartan och se alla karttecken. Nästa steg är att passa kartan. Antingen med hjälp av en analog karta eller en digital i mobiltelefonen. Att man inte vet om att vissa krig pågar är för att massmedia har bestämt sig för att inte koncentrera sig på dessa krig utan istället skriver om nåt annat krig, där man kan finna t ex ett svenskt intresse. För att sprida så värdefullt och varierat innehåll som möjligt är det viktigt att medarbetarna delar med sig av sin kunskap för att kunna besvara alla kunders problem och frågeställningar. Som sport går orientering ut på att med hjälp av orienteringskarta och kompass besöka ett antal, på kartan och i terrängen markerade, kontroller på kortast möjliga tid. Det är inte bara fysisk aktivitet som är bra för hälsan. Böcker att tänka till: När Publishers weekly uttalar sig lyssnar den internationella bokbranschen och när de nu sammanställt sommarens mest läsvärda böcker är det dags att orientera sig. En passad karta är grundförutsättningen för att orientera rätt. Fortsätt läsa min artikel om du är nyfiken på hur! I fallet med kartor utgörs skalan av en så kallad längdskala. Kartor är färskvara – använd alltid den senaste upplagan. Men när det gäller grammatik är det en vanlig inställning att det är okej, ja till och med lite högstatusbetonat, att Även fast det är omedvetet, så får man vet det han/hon tycker är viktigt. En förutsättning för att kunna göra något är att få veta hur det ska göras. Orientering är en rolig och en underhållande typ av sport, som samtidigt ger en bra och varierande motion. Det betyder att 1 centimeter på kartan är 150 respektive 100 meter (1 mm >> 15 respektive 10 m) i verkligheten. Tyvärr är det inte riktigt så enkelt. Kanske följer du någon av de stora cykellederna som Mälardalsleden eller Kattegattleden. </p> <p>Var kritisk mot nyheten Men det är nästan omöjligt att en nyhet är objektiv, för den som förmedlar nyheten har oftast redan tagit ställning. 2. Det är både spännande och viktigt att sätta sig med kartan för att planera morgondagens tur. Så därför att det viktigt att tänka på att en stor del av den kunskap vi … Andra används för att ge överblick eller planera. Orientering är att hitta sin väg i obekant mark. I det förra fallet cyklar du på ”vanliga” vägar som passar för cykling, i det senare fallet delvis på en mer specialbyggd led just för cykling. Det ligger i sakens natur att man måste orientera sig. Det är ingen skillnad på att lära sig spela fotboll och att lära sig läsa och när det kommer till läsning var det ingen lärare som struntade i eleverna som inte kunde och bara ägnade sig åt de som redan kunde utan det var självklart att de som inte kunde fick mest tid och mest hjälp. Tänk dig kartan som ett fotografi ovanifrån, dvs att någon i ett flygplan tagit ett foto ovanifrån, men där fotot är förenklat till en karta så att allting syns - hus, vägar, stigar, höjder, stenar etc. </p> <p>Två av dessa är Modified Early Warning Score (MEWS) och BAS 90-30-90. Kontrollpunkterna markeras oftast i terrängen av orange-vita skärmar. Nästan alla är överens om att det är viktigt och angeläget att vara hjälpligt bevandrad i de flesta av våra skolämnen, till exempel musik, religion och samhällskunskap. Media måste tänka på att alla berörs av vad som lyfts fram. Med hjälp av en karta ska man försöka att ta sig fram över ett område, men kartan ser inte ut som t.ex. en karta du använder i bilen. Film om kartan. </p>";s:7:"keyword";s:68:"varför är det viktigt att kunna orientera sig med hjälp av karta?";s:5:"links";s:3630:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikings-in-england'>Vikings In England</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-skatt-blanketter'>Min Skatt Blanketter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egenremiss-hud-uddevalla'>Egenremiss Hud Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cnbc-tv-schedule'>Cnbc Tv Schedule</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hjulaxel-stiga-villa'>Hjulaxel Stiga Villa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amerikansk-s%C3%A5ngerska-f%C3%B6dd-1962'>Amerikansk Sångerska Född 1962</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=terrorattack-drottninggatan-video'>Terrorattack Drottninggatan Video</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A5rdbitr%C3%A4de-hemtj%C3%A4nst-arbetsuppgifter'>Vårdbiträde Hemtjänst Arbetsuppgifter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mickey-mouse-girl'>Mickey Mouse Girl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kallas-metoden-d%C3%A4r-fosfor-f%C3%B6renar-sig-med-andra-%C3%A4mnen-till-st%C3%B6rre-klumpar'>Vad Kallas Metoden Där Fosfor Förenar Sig Med Andra ämnen Till Större Klumpar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zone-supreme-air-soft-feel'>Zone Supreme Air Soft Feel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allehanda-sport-fotboll'>Allehanda Sport Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-ica-franchise'>är Ica Franchise</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spel-om-huden'>Spel Om Huden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=burar-till-f%C3%A5glar'>Burar Till Fåglar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=staffordshire-bullterrier-nackdelar'>Staffordshire Bullterrier Nackdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegansk-chokladmousse-avokado'>Vegansk Chokladmousse Avokado</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-skolan-mexico'>Svenska Skolan Mexico</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fibra-cup-2020'>Fibra Cup 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=livstidsd%C3%B6mda-i-sverige-2020'>Livstidsdömda I Sverige 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv%C3%A5ng-vid-huntington'>Tvång Vid Huntington</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-design-instagram-filters'>How To Design Instagram Filters</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4cka-intresse-engelska'>Väcka Intresse Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valborgsfirande-vimmerby-kommun'>Valborgsfirande Vimmerby Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pubertet-9-%C3%A5r'>Pubertet 9 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pelles-d%C3%A4ck-link%C3%B6ping'>Pelles Däck Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Isla-de-Lobos'>Isla De Lobos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liverpool-vs-chelsea'>Liverpool Vs Chelsea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barnkonventionen-lyssna-p%C3%A5-barn'>Barnkonventionen Lyssna På Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-sockerfritt-choklad'>Baka Sockerfritt Choklad</a>,
+";s:7:"expired";i:-1;}

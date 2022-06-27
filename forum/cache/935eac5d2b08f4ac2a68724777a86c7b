@@ -1,0 +1,129 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4103:"<p>The Centre for Languages and Literature offers four international Master’s programmes with different specialisations, several of which correspond to the many languages available for study at the centre. Undergradudate programmes (only offered in Swedish) Master's programmes (offered in English) Postgraduate research studies (PhD) Exchange studies; The Faculty comprises six departments situated in the cities of Lund and Malmö, where we also collaborate on clinical education and research with the two major university hospitals.  LUMID is one of the most popular and successful programmes at Lund University with more than 1200 applicants competing for 40 places every year. </p> <p>The Master's Programme in International Human Rights Law is one of the leading Master's Programmes in Human Rights in the world. ONCAMPUS Lund Sweden offers three types of preparation programmes for students who need to or want to improve their academic study skills and/or English proficiency level before starting degree studies at Lund University: The Pre-Bachelor’s Preparation Programme, the Pre-Master’s Preparation Programme and the Summer Preparatory programme. The Joint Faculties of Humanities and Theology LUX, Lund University Box 192, SE-221 00 Lund, Sweden Phone: +46 (0)46 222 00 00 (pbx) About this site Lund University (Swedish: Lunds universitet) is a prestigious university in Sweden and one of northern Europe’s oldest universities.Lund University is consistently ranked among the world's top 100 universities. Lund University Centre for Sustainability Studies (LUCSUS) is a leading interdisciplinary research centre established at Lund University in 2005. LUCSUS has a unique way of addressing complex sustainability issues from a critical and an integrated natural and social science perspective, and with a solutions-based approach. Phone 046–222 31 41 Room LUX:C431 Visiting address Helgonavägen 3, Lund Postal address Box 192, 221 00 Lund Internal post code 30 Bachelor - Lund University Lund University, Sweden was founded in 1666 is today ranked among the world’s top 100 universities. Learn to apply knowledge of human cognitive, sensory and motor systems in real-life situations. You'll find our MSc programmes … We offer 100 Master’s degree programmes and 5 Bachelor's programmes taught in English, in Development Studies, Mathematics, Physics, Physical Geography & Ecosystems Science and in Fine Arts. Your teachers will be world-leading researchers and your fellow students will be a mixture of Swedish students and international students from all over the world. The programme is a member of the Global Association for Master’s in Development Practice (MDP), a premier network of development Are you considering studying a Master's at Lund University School of Economics and Management. This film will guide you through the application process. Tampere University and Tampere University of Applied Sciences offer Master's programmes conducted entirely in English. </p> <p>Joacim Sprung, Programme Coordinator, Master's Programme in Visual Culture E-mail joacim.sprung kultur.lu se. </p> <p>We take pride in our academic interndisciplinarity and international diversity in partners and students. For more than 20 years, the Master's Programme has been a key educational path for the development of knowledge, skills and competencies for high-skilled professionals in the field of human rights and humanitarian law. On this page is a list of the Master's programmes offered by Tampere University. Lund University is a world top 100 university and the most popular choice for international students coming to study in Sweden. Application period for studies starting in August 2020 has ended. Bachelor’s programmes; Master’s programmes; Courses The Research Master's programme in Ancient, Medieval, and Renaissance Studies concerns the interdisciplinary study of Classical Antiquity, the Middle Ages, and the Renaissance. Students can choose between studying Literature-Culture-Media, Languages and Linguistics, European Studies and Film- and Media History. </p>";s:7:"keyword";s:35:"lund university master's programmes";s:5:"links";s:10484:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vita-l%C3%B6gner-rollista'>Vita Lögner Rollista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bus-to-maspalomas'>Bus To Maspalomas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hitta-filter-p%C3%A5-instagram'>Hitta Filter På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=argument-mot-d%C3%B6dsstraff'>Argument Mot Dödsstraff</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=afc-eskilstuna-p10'>Afc Eskilstuna P10</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-hemf%C3%B6rs%C3%A4kringen-2018'>Bästa Hemförsäkringen 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=christopher-o%27regan-flashback'>Christopher O'regan Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj-v%C3%A4ster%C3%A5s-%C3%B6ppettider'>Sj Västerås öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sidoplankan-med-benlyft'>Sidoplankan Med Benlyft</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anden-i-glaset-b%C3%A4ckaskog'>Anden I Glaset Bäckaskog</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=national-prov-p%C3%A5-sfi'>National Prov På Sfi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slutspelsserien-allsvenskan-2020'>Slutspelsserien Allsvenskan 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdkakemuffins-med-dumlefluff'>Kladdkakemuffins Med Dumlefluff</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=airtrack-air-roll'>Airtrack Air Roll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ldersbest%C3%A4ndig-plast-k-rauta'>åldersbeständig Plast K-rauta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apply-for-visa-usa'>Apply For Visa Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gefle-if-division-1'>Gefle If Division 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tempur-b%C3%A4ddmadrass-210x200'>Tempur Bäddmadrass 210x200</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4rningen-%C3%A4r-kastad-julius-caesar'>Tärningen är Kastad Julius Caesar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ugnsomelett-med-r%C3%A4kstuvning'>Ugnsomelett Med Räkstuvning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6n-styrelseordf%C3%B6rande-swedbank'>Lön Styrelseordförande Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6ka-om-allm%C3%A4n-f%C3%B6rskola'>Ansöka Om Allmän Förskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linn%C3%A9a-claeson%3A-%27%27feminismen-st%C3%A5r-inte-och-faller-med-mig'>Linnéa Claeson: ''feminismen Står Inte Och Faller Med Mig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-mest-s%C3%A5lda-motorcykel'>Världens Mest Sålda Motorcykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medlefors-hotell-%26-konferens-skellefte%C3%A5'>Medlefors Hotell & Konferens Skellefteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6bel-outlet-helsingborg'>Möbel Outlet Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kjell-bergqvist-facebook-sd'>Kjell Bergqvist Facebook Sd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=campus-bokhandel-karlstad'>Campus Bokhandel Karlstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6sarps-antikm%C3%A4ssa-2020'>Brösarps Antikmässa 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hj%C3%A4rt-lungmask-hund'>Hjärt Lungmask Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utan-vatten-ume%C3%A5'>Utan Vatten Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6gsta-domaren-i-sverige'>Högsta Domaren I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landslagsspelare-innebandy-damer'>Landslagsspelare Innebandy Damer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djurg%C3%A5rdens-m%C3%A5l-2019'>Djurgårdens Mål 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hallonkladdkaka-fredriks-fika'>Hallonkladdkaka Fredriks Fika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ra-med-ett-sommard%C3%A4ck-och-tre-vinterd%C3%A4ck'>Köra Med Ett Sommardäck Och Tre Vinterdäck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rektorsprogrammet-stockholm-schema'>Rektorsprogrammet Stockholm Schema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fastighetsbyr%C3%A5n-j%C3%B6nk%C3%B6ping-p%C3%A5-g%C3%A5ng'>Fastighetsbyrån Jönköping På Gång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4lla-in-spinningcykel'>Ställa In Spinningcykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=licor-43-pina-colada'>Licor 43 Pina Colada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-se-kreta'>Apollo Se Kreta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=5%3A2-diet-recept'>5:2 Diet Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boende-riksgr%C3%A4nsen-sommar'>Boende Riksgränsen Sommar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4nkningssats-mercedes-w210'>Sänkningssats Mercedes W210</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=juventus-tr%C3%B6ja-med-namn'>Juventus Tröja Med Namn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6grevsgryta-med-dijonsenap'>Högrevsgryta Med Dijonsenap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Biz-Apartment-G%C3%A4rdet4%2C2%28660%292%2C4%C2%A0km-bort69%C2%A0%E2%82%AC'>Biz Apartment Gärdet4,2(660)2,4 km Bort69 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=american-akita-kennel'>American Akita Kennel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sture-bergwall-film'>Sture Bergwall Film</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-var-gustav-vasa-som-person'>Hur Var Gustav Vasa Som Person</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=radio-vega-%C3%A5boland-frekvens'>Radio Vega åboland Frekvens</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-sanuk'>Vad Betyder Sanuk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fisk-och-kr%C3%A4ftsoppa'>Fisk Och Kräftsoppa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ir-genom-glas'>Ir Genom Glas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kortspel-f%C3%B6r-tre'>Kortspel För Tre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-handbollslandslaget-herrar'>Svenska Handbollslandslaget Herrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amazon-prime-4k'>Amazon Prime 4k</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-video-editing-software-pc'>Best Video Editing Software Pc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kromfohrl%C3%A4nder-valpar-2019'>Kromfohrländer Valpar 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xkcd-epoch-fail'>Xkcd Epoch Fail</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=installera-varmvattenberedare-sommarstuga'>Installera Varmvattenberedare Sommarstuga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5rets-medarbetare-kungsbacka'>årets Medarbetare Kungsbacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-farligaste-hund'>Världens Farligaste Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barns%C3%A5nger-p%C3%A5-engelska'>Barnsånger På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antik-tragedi-medea'>Antik Tragedi Medea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trim-golf-6'>Trim Golf 6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=direkt-demokrati-synonym'>Direkt Demokrati Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ping-tv-program'>Köping Tv Program</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5golycka-norrk%C3%B6ping-2020'>Tågolycka Norrköping 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=castrol-edge-5w-30-longlife'>Castrol Edge 5w-30 Longlife</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=translate-camera-iphone'>Translate Camera Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klara-och-tydliga'>Klara Och Tydliga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kyckling-innerfile-i-ugn-recept'>Kyckling Innerfile I Ugn Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cma-cgm-tracking'>Cma Cgm Tracking</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=farmaceut-utbildning-distans'>Farmaceut Utbildning Distans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-kronor-m%C3%B6ssa'>Tre Kronor Mössa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4ddmadrass-140-tempur'>Bäddmadrass 140 Tempur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rmorstunga-olika-sorter'>Svärmorstunga Olika Sorter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=total-makt-synonym'>Total Makt Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-blanca-lanzarote-karta'>Playa Blanca Lanzarote Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slamavskiljare-med-infiltration'>Slamavskiljare Med Infiltration</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wicked-game-lyrics'>Wicked Game Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koh-lanta-storm'>Koh Lanta Storm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=extra-l%C3%A5nga-cigaretter'>Extra Långa Cigaretter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allsvenskan-tv-innebandy'>Allsvenskan Tv Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=var-k%C3%B6pa-p%C3%A5skris'>Var Köpa Påskris</a>,
+";s:7:"expired";i:-1;}

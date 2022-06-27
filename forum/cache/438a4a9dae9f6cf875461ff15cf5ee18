@@ -1,0 +1,120 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4928:"<p>Läs mer om vacciner för barn, vuxna och resenärer. </p> <p>Vår målsättning är att både barn och vuxna ska känna sig lugna inför sin vaccination oavsett om det behövs skydd mot TBE, vattkoppor eller vaccination inför en resa. Vattkoppor i slutet av graviditeten innebär att inga antikroppar hinner bildas och föras över till barnet. Vattkoppor förebyggs genom vaccination. Många i Sverige får vattkoppor som barn. </p> <p>Vaccination mot vattkoppor. Vaccin mot vattkoppor kan ges till barn från 9 månaders ålder och vuxna. SVT Nyheter Uppsala har därför ringt runt till tre olika vaccinationsbyråer i Uppsala. Här finner du vår prislista för vår mottagning i centrala Uppsala. Vaccin mot vattkoppor erbjuds alla barn i åldern 1,5–11 år som inte har haft vattkoppor. Tid till vaccinationsläkare kan du boka via vår telefonrådgivning. Vaccin mot bältros (Lääkeinfo.fi) Gravida kvinnor och personer med immunbrist får dock inte vaccineras. Många i Sverige får vattkoppor som barn. Vaccinationer ger ett bra skydd mot smittsamma sjukdomar. Vattkoppor eller vattenkoppor (latin varicella) är en mycket smittsam sjukdom orsakad av ett virus (varicella zoster-virus). Läs om hälsa och sjukdomar och var du kan hitta vård. </p> <p>Idag heter den VaccinDirekt Uppsala City och drivs helt i VaccinDirekt’s regi. Vaccinet ingår i det nationella vaccinationsprogrammet och är gratis. Ring telefonnummer 1177 för sjukvårdsrådgivning dygnet runt. </p> <p>Vi håller reda på er vaccination. Från och med i höst kommer alla elever i årskurs 5 att erbjudas vaccination mot HPV. Aktuellt … Snart står det klart om alla barn i Sverige ska erbjudas gratis vaccin mot vattkoppor. </p> <p>Det rekommenderas 2 doser med minst 4 veckors mellanrum för att säkerställa skydd mot vattkoppor. Då rekommenderas du behandling med virushämmande läkemedel för att undvika att barnet får vattkoppor. Boka/omboka tid i UppsalaBoka/omboka tid i Enköping Det gäller från vecka 35 och fram till förlossningen. Välkommen in till Svea vaccin i Sollentuna. Vi erbjuder gratis reserådgivning samt vaccinering för vuxna och barn mot ett flertal sjukdomar, från influensa och TBE till japansk encefalit och bältros.Att vaccinera dig är viktigt av flera skäl. Det rekommenderas 2 doser med minst 4 veckors mellanrum för att säkerställa skydd mot vattkoppor. Vi har även öppnat upp en helt ny mottagning som heter Uppsala Gränbystaden, som också ligger centralt, endast 2 kilometer från Stora Torget. Anna och Caisa Logga in för att läsa din journal och göra dina vårdärenden. Två doser vaccin ger ett bra skydd mot allvarliga vattkoppor. Välkommen till oss. </p> <p>Hitta närmaste vaccinationsklinik. Det finns vaccin mot vattkoppor, men det ingår hittills inte i det allmänna vaccinationsprogrammet i Sverige. Tiden som man smittar varar från någon dag före och upp till en vecka sedan man har fått blåsor. 2 FEB 2019 NYHETER. Välkommen! Vattkoppor är en mycket smittsam virussjukdom. Vaccinet kan också ges inom 72 timmar från exponeringen, om det inte finns något hinder för vaccinering. Inkubationstiden är 2–3 veckor, vanligast 14–16 dagar. </p> <p>Vaccinationen ges vid de återkommande hälsoundersökningarna på rådgivningen och i skolan. Tycker du det är enklare att komma förbi utan en tid att passa går det självklart också bra att komma på drop-in. Om du vill kan du själv välja att vaccinera dig eller ditt barn mot vattkoppor, men barn kan vaccineras först efter nio månaders ålder. Vaccin mot vattkoppor . Alla uppger att man ser en ökning av vaccin mot vattkoppor, även om det varierar hur stor ökning man ser. Det finns vaccin mot vattkoppor som ger skydd efter två doser. Det finns vaccin mot vattkoppor som ger skydd efter två doser. Välkommen på drop-in till … På infektionsmottagningen, ingång 33 på Akademiska sjukhuset, utförs drop in-vaccination för allmänheten och bokad läkarmottagning för grundvaccinering och reseprofylax. HPV-vaccination till alla barn i årskurs 5. Nu har Folkhälsomyndigheten fattat beslut om den föreskriftsändring som krävs för att erbjuda vaccinationen också till pojkar. Vår äldsta mottagning i Uppsala har funnits sedan 1972, och när vi förvärvade den hade den namnet Uppsala Vaccinationsbyrå. Bebis fick vänta i bil utanför akuten - i två timmar Här kan du läsa om olika vaccinationer och få information om när du ska vaccinera dig eller ditt barn. [1]Man smittas genom luftburen droppsmitta eller genom kroppskontakt med en smittbärare. </p> <p>Kontrollera vilka vaccinationer som rekommenderas för ditt resmål. </p> <p>Vill du vara säker på att slippa vänta är det enkelt att boka tid via länken nedan.  </p> <p></p> <p>Detta vaccinerar vi mot i Sollentuna. </p> <p>Självklart skickar vi SMS påminnelse när det är dags för påfyllning. </p>";s:7:"keyword";s:25:"vattkoppor vaccin uppsala";s:5:"links";s:9308:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mk18-volvo-740'>Mk18 Volvo 740</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%A5-rosa-v%C3%A4ggf%C3%A4rg'>Grå Rosa Väggfärg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=afternoon-tea-g%C3%B6teborg-vardagar'>Afternoon Tea Göteborg Vardagar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guld-tapet-rusta'>Guld Tapet Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kawasaki-650-z'>Kawasaki 650 Z</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rml%C3%A4ndsk-voodoo-v%C3%A4ster%C3%A5s'>Värmländsk Voodoo Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdkaka-med-fudge'>Kladdkaka Med Fudge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=retroaktiv-l%C3%B6n-handels'>Retroaktiv Lön Handels</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swiss-meringue-buttercream'>Swiss Meringue Buttercream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=S%C3%A4lens-Bed-%26-Breakfast4%2C6%2824%297%2C8%C2%A0km-bort92%C2%A0%E2%82%AC'>Sälens Bed & Breakfast4,6(24)7,8 km Bort92 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=andelshus-gotland-sanda'>Andelshus Gotland Sanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=quiz-south-america'>Quiz South America</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-leder-metall-v%C3%A4rme'>Varför Leder Metall Värme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vardaga-%C3%A4ldreomsorg-solna'>Vardaga äldreomsorg Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rugby-utan-tacklingar'>Rugby Utan Tacklingar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stenugnsbakad-pizza-kristianstad'>Stenugnsbakad Pizza Kristianstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ving-fuerteventura-costa-calma'>Ving Fuerteventura Costa Calma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saint-lucy%27s-day'>Saint Lucy's Day</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nockkrok-till-stege'>Nockkrok Till Stege</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mjuk-saffranskaka-l%C3%A5ngpanna'>Mjuk Saffranskaka Långpanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-och-svettis-sundbyberg'>Friskis Och Svettis Sundbyberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=har-guran-p%C3%A5-magen'>Har Guran På Magen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-de-amadores-v%C3%A4der'>Playa De Amadores Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cat-animal-crossing-new-horizons'>Cat Animal Crossing New Horizons</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenskt-friluftsliv-styrelse'>Svenskt Friluftsliv Styrelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=excentrisk-t%C3%B6j-f%C3%B6r-hamstring'>Excentrisk Töj För Hamstring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aida-idol-2018'>Aida Idol 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leva-fungera-utst%C3%A4llare'>Leva Fungera Utställare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siljansn%C3%A4s-badets-camping'>Siljansnäs Badets Camping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4kt-slang-150-mm'>Fläkt Slang 150 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-%C3%A5boland'>Lediga Jobb åboland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adidas-originals-gazelle'>Adidas Originals Gazelle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mor%C3%B6tter-i-ugn-nyttigt'>Morötter I Ugn Nyttigt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fyrishov-bad-%C3%B6ppettider'>Fyrishov Bad öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=igtv-upload-from-computer'>Igtv Upload From Computer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fiskgryta-kokosmj%C3%B6lk-krossade-tomater'>Fiskgryta Kokosmjölk Krossade Tomater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guidning-absolut-%C3%A5hus'>Guidning Absolut åhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norwegian-air-shuttle-avanza'>Norwegian Air Shuttle Avanza</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-bygglov-kostnad'>Ansökan Bygglov Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gl%C3%B6mt-l%C3%B6senord-router-netgear'>Glömt Lösenord Router Netgear</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=folksam-personskador-ers%C3%A4ttning'>Folksam Personskador Ersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kritiserar-avhandling-webbkryss'>Kritiserar Avhandling Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6bel-outlet-helsingborg'>Möbel Outlet Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stdh-lediga-jobb'>Stdh Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=erik-xiv-%C3%A4rtsoppa'>Erik Xiv ärtsoppa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ses-i-en-akt-korsord'>Ses I En Akt Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-falk%C3%B6pings-kommun'>Sommarjobb Falköpings Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=titanic-piano-tutorial'>Titanic Piano Tutorial</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ran-lundblad-flashback'>Göran Lundblad Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=indragning-av-sjukpenning'>Indragning Av Sjukpenning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4nger-toppen-p%C3%A5'>Hänger Toppen På</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malleus-incus-stapes'>Malleus Incus Stapes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mj%C3%B6lksyratr%C3%B6skel-garmin-735xt'>Mjölksyratröskel Garmin 735xt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=algebra-uppgifter-%C3%A5k-9'>Algebra Uppgifter åk 9</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vedeldad-badtunna-blocket'>Vedeldad Badtunna Blocket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moderna-museet-restaurant'>Moderna Museet Restaurant</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studie%C3%A5r-i-korea'>Studieår I Korea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Scandic-Link%C3%B6ping-City4%2C1%281162%290%2C4%C2%A0miles-bort125%C2%A0US%24'>Scandic Linköping City4,1(1162)0,4 miles Bort125 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-mycket-betalar-ni-i-underh%C3%A5ll'>Hur Mycket Betalar Ni I Underhåll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julgransplundring-2020-askersund'>Julgransplundring 2020 Askersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varningssystem-tsunami-khao-lak'>Varningssystem Tsunami Khao Lak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-onyxen-g%C3%B6teborg'>Hotell Onyxen Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prao-praktik-skillnad'>Prao Praktik Skillnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talgje-b%C3%A4ddmadrass-ikea'>Talgje Bäddmadrass Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=programmera-nyckel-hyundai'>Programmera Nyckel Hyundai</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Kebne3%2C9%28304%291%C2%A0km-bort259%C2%A0AED'>Hotell Kebne3,9(304)1 km Bort259 AED</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-stol-nyhet'>Ikea Stol Nyhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kostar-ett-hundpass'>Vad Kostar Ett Hundpass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-horoskop-2019'>Personligt Horoskop 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kpaj-med-keso'>Räkpaj Med Keso</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjuan-big-brother'>Sjuan Big Brother</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-v%C3%A4ggh%C3%A4ngd-toalett'>Byta Vägghängd Toalett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julbord-v%C3%A4stan%C3%A5-slott'>Julbord Västanå Slott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alla-motorcyklar-2020-tidning'>Alla Motorcyklar 2020 Tidning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tavlor-med-rosor'>Tavlor Med Rosor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=englesson-soffbord-cube'>Englesson Soffbord Cube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sammandragningar-vid-vila'>Sammandragningar Vid Vila</a>,
+";s:7:"expired";i:-1;}

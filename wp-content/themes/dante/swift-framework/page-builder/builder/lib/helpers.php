@@ -1,6 +1,6 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Helpers Class
 	*	------------------------------------------------
@@ -9,7 +9,7 @@
 	*
 	*/
 	
-	/*  for PRO users! -  GET POST TYPES
+	/* GET POST TYPES
 	================================================== */
 	if ( ! function_exists( 'spb_get_post_types' ) ) {
 		function spb_get_post_types() {
@@ -28,7 +28,7 @@
 		}
 	}
 
-	/*  for PRO users! -  GET PRODUCTS
+	/* GET PRODUCTS
 	================================================== */
 	if ( ! function_exists( 'spb_get_products' ) ) {
 		function spb_get_products() {
@@ -59,7 +59,7 @@
 		}
 	}
 
-    /*  for PRO users! -  GET THEME NAME
+    /* GET THEME NAME
     ================================================== */
     if ( ! function_exists( 'spb_get_theme_name' ) ) {
         function spb_get_theme_name() {
@@ -67,7 +67,7 @@
         }
     }
 
-	/*  for PRO users! -  GET PRODUCT CATEGORIES
+	/* GET PRODUCT CATEGORIES
 	================================================== */
 	if ( ! function_exists( 'spb_get_product_categories' ) ) {
 		function spb_get_product_categories() {
@@ -88,7 +88,7 @@
 		}
 	}
 
-	/*  for PRO users! -  FORMAT CONTENT
+	/* FORMAT CONTENT
 	================================================== */
     function spb_format_content( $content ) {
         $content = do_shortcode( shortcode_unautop( $content ) );
@@ -98,7 +98,7 @@
     }
 
     if ( ! function_exists( 'shortcode_exists' ) ) {
-        /*  for PRO users! - *
+        /**
          * Check if a shortcode is registered in WordPress.
          * Examples: shortcode_exists( 'caption' ) - will return true.
          * shortcode_exists( 'blah' ) - will return false.
@@ -157,7 +157,7 @@
                 $p_img = spb_resize( $attach_id, null, $thumb_size[0], $thumb_size[1], true );
             }
 	
-	        /*  for PRO users! - if ( spb_debug() ) {
+	        /*if ( spb_debug() ) {
 	              var_dump($p_img);
 	          }*/
 	        if ( $p_img ) {
@@ -172,7 +172,7 @@
 	}
 	
    
-   /*  for PRO users! -  GET COLUMN CONTROLS
+   /* GET COLUMN CONTROLS
    ================================================== */
    function spb_getColumnControls( $width ) {
        switch ( $width ) {
@@ -212,7 +212,7 @@
        return $w;
    }
 
-   /*  for PRO users! -  CONVERT COLUMN TO FRACTIONAL
+   /* CONVERT COLUMN TO FRACTIONAL
    ================================================== */
    function spb_translateColumnWidthToFractional( $width ) {
        switch ( $width ) {
@@ -252,7 +252,7 @@
        return $w;
    }
 
-   /*  for PRO users! -  Convert 2 to
+   /* Convert 2 to
    ---------------------------------------------------------- */
    function spb_translateColumnsCountToSpanClass( $grid_columns_count ) {
        $teaser_width = '';
@@ -391,7 +391,7 @@
 	}
 	
 	if ( ! function_exists( 'shortcode_exists' ) ) {
-	    /*  for PRO users! - *
+	    /**
 	     * Check if a shortcode is registered in WordPress.
 	     *
 	     * Examples: shortcode_exists( 'caption' ) - will return true.
@@ -441,7 +441,7 @@
 	}
 	
 	
-	/*  for PRO users! - 
+	/*
 	* Resize images dynamically using wp built in functions
 	* Victor Teixeira
 	*

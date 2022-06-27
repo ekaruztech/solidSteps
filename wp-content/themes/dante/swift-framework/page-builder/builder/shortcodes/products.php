@@ -17,7 +17,7 @@ class SwiftPageBuilderShortcode_spb_products_mini extends SwiftPageBuilderShortc
 	        ), $atts));
 	        
 	        
-			/*  for PRO users! -  SIDEBAR CONFIG
+			/* SIDEBAR CONFIG
 			================================================== */			
 			$sidebar_config = sf_get_post_meta(get_the_ID(), 'sf_sidebar_config', true);
 				        
@@ -30,7 +30,7 @@ class SwiftPageBuilderShortcode_spb_products_mini extends SwiftPageBuilderShortc
 			$sidebars = 'no-sidebars';
 			}
     		    		
-			/*  for PRO users! -  PRODUCT ITEMS
+			/* PRODUCT ITEMS
 			================================================== */	
 			if (sf_woocommerce_activated()) {
 			$items = sf_mini_product_items($asset_type, $category, $item_count, $sidebars, $width);
@@ -120,6 +120,7 @@ class SwiftPageBuilderShortcode_spb_products extends SwiftPageBuilderShortcode {
 	        extract(shortcode_atts(array(
 		        'title' => '',
 		        'asset_type' => 'best-sellers',
+		        'products' => '',
 		        'carousel' => 'no',
 		        'product_size' => 'standard',
 	        	'item_count' => '8',
@@ -130,10 +131,10 @@ class SwiftPageBuilderShortcode_spb_products extends SwiftPageBuilderShortcode {
 	        ), $atts));
 	        
 	   	    		
-			/*  for PRO users! -  PRODUCT ITEMS
+			/* PRODUCT ITEMS
 			================================================== */	
     		if (sf_woocommerce_activated()) {
-			$items = sf_product_items($asset_type, $category, $carousel, $product_size, $item_count, $width);
+			$items = sf_product_items($asset_type, $category, $products, $carousel, $product_size, $item_count, $width);
     		} else {
     		$items = __("Please install/activate WooCommerce.", "swift-framework-admin");
     		}
@@ -198,6 +199,13 @@ SPBMap::map( 'spb_products', array(
 	        "value" => "",
 	        "description" => __("Optionally, provide the category slugs for the products you want to show (comma seperated). i.e. trainer,dress,bag.", "swift-framework-admin")
 	    ),
+	    array(
+            "type"        => "textfield",
+            "heading"     => __( "Products", 'swift-framework-admin' ),
+            "param_name"  => "products",
+            "value"       => "",
+            "description" => __( "Select specific products to show here, providing the Product ID in comma delimited format.", 'swift-framework-admin' )
+        ),
 	    array(
 	        "type" => "dropdown",
 	        "heading" => __("Carousel", "swift-framework-admin"),

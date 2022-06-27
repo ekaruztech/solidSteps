@@ -1,21 +1,21 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	SF MEGA MENU FRAMEWORK
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 
 	class sf_mega_menu {
 
-		/*  for PRO users! - --------------------------------------------*
+		/*--------------------------------------------*
 		 * Constructor
 		 *--------------------------------------------*/
 
-		/*  for PRO users! - *
+		/**
 		 * Initializes the plugin by setting localization, filters, and administration functions.
 		 */
 		function __construct() {
@@ -31,7 +31,7 @@
 
 		} // end constructor
 
-		/*  for PRO users! - *
+		/**
 		 * Add custom fields to $item nav object
 		 * in order to be used in custom Walker
 		 *
@@ -58,7 +58,7 @@
 
 		}
 
-		/*  for PRO users! - *
+		/**
 		 * Save menu custom fields
 		 *
 		 * @access      public
@@ -138,7 +138,7 @@
 
 		}
 
-		/*  for PRO users! - *
+		/**
 		 * Define new Walker edit
 		 *
 		 * @access      public

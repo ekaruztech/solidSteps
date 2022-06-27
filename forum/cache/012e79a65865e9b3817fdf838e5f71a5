@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3755:"<p>tavling - INSTÄLLD.  SBK Skånes Distrikt inbjuder till. Ni som under 2020 har varit ute och visat upp er Briard eller Picard på tävling, utställning, MH, MT eller i något annat sammanhang, skicka in en bild med en kort text på om vad ni gjort och hundens namn till bildspelet ovan! </p> <p>Ansökan från lokalklubb och rasklubb till distrikt är senast den 15 juli 2018 för utställning år 2020. Utställning På en hundutställning visar du upp din hund och kan vinna priser och andra utmärkelser. Logga in Skapa konto. OFFICIELL UTSTÄLLNING. Texten ska vara del av bilden och inte skickas separat. Välkommen; Tävlingar & Prov; Resultat; Mitt konto; Tävlingar & prov inom 7 dagar. INSTÄLLD !! På de här sidorna kan du läsa mer om championattitlar, tävlingar i freestyle och agility, bruks- och jaktprov och mycket annat. Skriv in ditt användarnamn eller e-postadress så skickar vi instruktioner för att ändra ditt lösenord. Nya grenarna/klasserna i IGP och IPO-R kan nu hanteras helt i SBK Tävling! Inga träningsgrupper över 10 pers. 2020-05-15 Tomtens BHK. Svenska Brukshundklubben Skånes Distrikt. 2020-05-15 Flens BHK. Klicka in på respektive sport/test och sedan på Tävling & regler, så finner man regler och anvisningar för den sporten/testet oftast i högerspalten. 2020-05-15 Knottebo BK. </p> <p>Så här går det till på en utställning. Du får också chansen att träffa andra hundintresserade, och du som är uppfödare kan få vägledning vid avel. INSTÄLLD PGA CORONA!!! Prov & tävling Svenska Kennelklubben arrangerar tillsammans med specialklubbar och rasklubbar en mängd roliga och utmanande prov och tävlingar för dig och din hund. SBK Tävling. OBSERVERA! Nu har vi fått klartecken både från konstruktören för SBK Tävling och SBK prov (gamla Aldurs) att de nya klasserna i IGP (IFH-V, StPr, FPr, UPr, SPr och GPr) samt IPO-R:s nya klass V kan hanteras helt och hållet i SBK Tävling. Off. Under vår stora uppdatering av webbplatsen för utbildning så kommer utseendet att vara lite annorlunda än tidigare - men du kan jobba vidare som vanligt, även om du under någon dag kan se att just utseendet varierar ibland. Svenska brukshundklubbens tävlingssystem. Ingen servering i klubbstugan. Enligt riktlinjerna från SBK kommer vi på Attila: Ställa in alla tävlingar; Måndagsträningar ställs in. Off. Dessa tävlingar/prov kommer då att hamnar i läge godkända och publicerade, men går inte att anmäla sig till, så ska de förbli tills att arrangören själv går in och öppnar dessa för anmälan . för SBKs bruksraser lördagen den 18 november 2017 i ridhuset i Åstorp. Kvällstävling Lydnad Startklass och Lydnadsklass I - Stängd för anmälan I Svenska Kennelklubbens information kan du läsa om hur det går till på en utställning, bedömningsregler, vilka klasser som finns och vilka färger de olika prisbeteckningarna har. Vi har nu bett konstruktören för nuvarande SBK Tävling att stänga de tävlingar/prov som är öppna för anmälan från februari och framåt år 2020. Mer info och blankett finns på SBK,s hemsida. STOXA Märsta i samband med STOK's Ulla & Bertils minnes utställning. Off. Svenska Brukshundklubbens verksamhet kan sammanfattas i fyra olika ben; tävling, hundägarutbildning, avel & hälsa samt tjänstehund. Svenska Brukshundklubbens Skånedistrikt. Det här är Svenska Brukshundklubbens officiella hemsida som vänder sig till den vanliga hundägaren, nyblivna medlemmar, medlemmar, funktionärer och förtroendevalda. Utställning - anmäl dig Här hittar du alla utställningar som arrangeras inom … Svenska Brukshundklubben är en ideell medlemsorganisation för aktiva … Svenska brukshundklubbens tävlingssystem. </p>";s:7:"keyword";s:32:"skatteverket personbevis id kort";s:5:"links";s:5118:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-s%C3%A4lja-bil'>Tips Sälja Bil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fyrhjuling-barn-suzuki'>Fyrhjuling Barn Suzuki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=region-v%C3%A4stmanland-sala'>Region Västmanland Sala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=electrolux-kylsk%C3%A5p-reng%C3%B6ring'>Electrolux Kylskåp Rengöring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-f%C3%B6rening-kostnad'>Swish Förening Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friterad-sushi-stockholm'>Friterad Sushi Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=domningar-i-ansiktet-%C3%A5ngest'>Domningar I Ansiktet ångest</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ist-home-skola-g%C3%B6teborg'>Ist Home Skola Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-batteri-iphone-7-sj%C3%A4lv'>Byta Batteri Iphone 7 Själv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tt-line-logga-in'>Tt-line Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-%C3%B6ar-har-%C3%A5land'>Hur Många öar Har åland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=manpower-sommarjobb-g%C3%B6teborg'>Manpower Sommarjobb Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elcykel-mittmotor-dam'>Elcykel Mittmotor Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torkarblad-bosch-mekonomen'>Torkarblad Bosch Mekonomen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunds-tingsr%C3%A4tt-lediga-tj%C3%A4nster'>Lunds Tingsrätt Lediga Tjänster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volont%C3%A4r-julafton-link%C3%B6ping'>Volontär Julafton Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saint-lucy%27s-day'>Saint Lucy's Day</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lemon-curd-h%C3%A5llbarhet'>Lemon Curd Hållbarhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=It-Can-Only-Get-Better'>It Can Only Get Better</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=body-fat-scale'>Body Fat Scale</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekholmen-centrum-%C3%A4gare'>Ekholmen Centrum ägare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskv%C3%A5rdsbidrag-botkyrka-kommun'>Friskvårdsbidrag Botkyrka Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jamie-oliver-stekpanna-2-pack'>Jamie Oliver Stekpanna 2 Pack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julia-ragnarsson-serie'>Julia Ragnarsson Serie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-s500-amg-2006'>Mercedes S500 Amg 2006</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5ng-kudde-p%C3%B6l'>Lång Kudde Pöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-choklad-florsocker'>Vit Choklad Florsocker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-medmera-saldo'>Coop Medmera Saldo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tappventil-tv%C3%A4ttmaskin-h%C3%B6jd'>Tappventil Tvättmaskin Höjd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=animal-crossing%3A-new-leaf-wiki'>Animal Crossing: New Leaf Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-1-mil-om-dagen'>Cykla 1 Mil Om Dagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-v%C3%A4rsting-till-syster-musikal-trailer'>En Värsting Till Syster Musikal Trailer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=terrassv%C3%A4rmare-silverline-1200'>Terrassvärmare Silverline 1200</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5rsta-torg-restaurang'>årsta Torg Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-nytro-mtx'>Yamaha Nytro Mtx</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6rsta-it-f%C3%B6retagen-i-sverige'>Största It Företagen I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-kongah%C3%A4lla-%C3%B6ppettider'>Coop Kongahälla öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fbk-karlstad-p06'>Fbk Karlstad P06</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norges-befolkning-graf'>Norges Befolkning Graf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seat24-avbokning-corona'>Seat24 Avbokning Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jean-paul-marat-death'>Jean Paul Marat Death</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=make-instagram-filter'>Make Instagram Filter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4s%C3%A5rstider-mora-2020'>Läsårstider Mora 2020</a>,
+";s:7:"expired";i:-1;}

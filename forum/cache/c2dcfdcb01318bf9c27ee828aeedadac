@@ -1,0 +1,123 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2611:"<p>This is a Swadesh list of words in Esperanto, compared with that of English.. </p> <p>Esperanto.com The fastest course for the basics. Vikia Vortaro Search through multiple dictionaries at one time. Esperanto kaj Libera Scio estas grupo de Esperanto-parolantaj vikimedianoj. Instead of a text-to-speech engine, the course uses voice recordings of a skilled speaker approved by the course team. It was released from the incubator as a beta course in May 2015. The Esperanto Wikipedia (Esperanto: Vikipedio en Esperanto) is the Esperanto-language edition of Wikipedia.This edition was started in December 2001, which means that it was one of the first Wikipedias. The pamphlet contained the following note about Esperanto word-building: Everything written in the international language can be translated by means of this vocabulary. The population of the unnamed fascist nation—geographically located where Italy is—in Idiot's Delight (1939), speaks Esperanto. Kurso de Esperanto This course is a free multimedia program for learning Esperanto. Presentation [] For further information, including the full final version of the list, read the Wikipedia article: Swadesh list. The use of the article is as in other languages. </p> <p>The film includes conversation, signage, and songs in Esperanto, albeit with some errors. In Night Train to Munich (1940), a sailor speaks Esperanto. </p> <p>Zamenhof: There is no indefinite article (English a, an); there is only a definite article la, alike for all genders, cases and numbers (English the). Esperanto is spoken around the world and has about 2 million speakers. Tuja Vortaro An instant dictionary. </p> <p>American linguist Morris Swadesh believed that languages changed at measurable rates and that these could be determined even for languages without written precursors. El esperanto fue desarrollado a finales de la década de 1870 y a principios de la década de 1880 por el oftalmólogo polaco Dr. Luis Lázaro Zamenhof.Después de diez años de trabajo —lapso que Zamenhof pasó traduciendo literatura al idioma, así como escribiendo prosa y versos originales—, la primera gramática del esperanto fue publicada en Varsovia en julio de 1887.  Komputeko Dictionary of tech terms. L'esperanto è una lingua artificiale, sviluppata tra il 1872 e il 1887 dall'oculista polacco di origini ebraiche Ludwik Lejzer Zamenhof. In English-language media Film. Dictionaries. There are 16 basic rules of Esperanto grammar, established by its founder, L.L. Esperanto for English is a Duolingo language course that teaches Esperanto to speakers of English. </p>";s:7:"keyword";s:22:"esperanto english wiki";s:5:"links";s:9644:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=servisventil-rinkaby-r%C3%B6r'>Servisventil Rinkaby Rör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mitt-personliga-brev'>Mitt Personliga Brev</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pulled-pork-fl%C3%A4skytterfil%C3%A9-coca-cola'>Pulled Pork Fläskytterfilé Coca Cola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magnus-och-brasse-fem-myror'>Magnus Och Brasse Fem Myror</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schweiz-president-2019'>Schweiz President 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=silver-life-upplands-v%C3%A4sby'>Silver Life Upplands Väsby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ns-zelmerl%C3%B6w-l%C3%A4ngd'>Måns Zelmerlöw Längd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seko-kvalificerad-%C3%B6vertid'>Seko Kvalificerad övertid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ta-bort-tarmen-p%C3%A5-r%C3%A4kor'>Ta Bort Tarmen På Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-maxpuls'>Vad är Maxpuls</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eklk-4g1-5'>Eklk 4g1 5</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdkaka-jennys-matblogg'>Kladdkaka Jennys Matblogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stergatan-57-%C3%A4ngelholm'>östergatan 57 ängelholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-lunch-ute'>Nyttig Lunch Ute</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosens-namn-netflix'>Rosens Namn Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biskvier-med-n%C3%B6tbotten'>Biskvier Med Nötbotten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=papua-nya-guinea-kultur'>Papua Nya Guinea Kultur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5s-p%C3%A5-kr%C3%A4ftskal'>Sås På Kräftskal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=infrar%C3%B6d-str%C3%A5lning-v%C3%A4xthuseffekten'>Infraröd Strålning Växthuseffekten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=villa-villekulla-vimmerby'>Villa Villekulla Vimmerby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-betalar-lantm%C3%A4terif%C3%B6rr%C3%A4ttning'>Vem Betalar Lantmäteriförrättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-lindstr%C3%B6m-caf%C3%A9'>Daniel Lindström Café</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skiathlon---pj%C3%A4xa'>Skiathlon - Pjäxa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-b%C3%A5de-el-och-tusan-korsord'>är Både El Och Tusan Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-vegetariska-recepten'>Bästa Vegetariska Recepten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-kladdkaka-potatismj%C3%B6l'>Glutenfri Kladdkaka Potatismjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4tta-upp-bilder-p%C3%A5-v%C3%A4ggen-utan-m%C3%A4rken'>Sätta Upp Bilder På Väggen Utan Märken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegan-caf%C3%A9-norrk%C3%B6ping'>Vegan Café Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cf-moto-500-slirar'>Cf Moto 500 Slirar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4da-med-vin%C3%A4ger'>Städa Med Vinäger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steka-l%C3%B6k-med-socker'>Steka Lök Med Socker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-g%C3%B6teborg-bostadsr%C3%A4tt'>Hemnet Göteborg Bostadsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4tta-in-mynt-seb'>Sätta In Mynt Seb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=orter-i-%C3%A4lvdalen'>Orter I älvdalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-sparris-serrano'>Vit Sparris Serrano</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5golycka-norrk%C3%B6ping-2020'>Tågolycka Norrköping 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best%C3%A5-hyllplan-56x36'>Bestå Hyllplan 56x36</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kivik-kl%C3%A4dsel-blocket'>Kivik Klädsel Blocket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nstledighet-vid-sjukskrivning'>Tjänstledighet Vid Sjukskrivning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elcykel-mittmotor-dam'>Elcykel Mittmotor Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pite%C3%A5-golfklubb-lunch'>Piteå Golfklubb Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsterapeut-antagningspo%C3%A4ng-lund'>Arbetsterapeut Antagningspoäng Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-f%C3%A4rdig-s%C3%A5s'>Lax I Ugn Färdig Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uddevalla-lediga-jobb'>Uddevalla Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=idas-sommarvisa-ackord'>Idas Sommarvisa Ackord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6gats-delar-och-funktion'>ögats Delar Och Funktion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mishna-och-talmud'>Mishna Och Talmud</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=region-uppsala-infrastruktur'>Region Uppsala Infrastruktur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bron-s%C3%A4song-2-cast'>Bron Säsong 2 Cast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=findus-f%C3%A4rdigr%C3%A4tter-pris'>Findus Färdigrätter Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rimbobullar-p%C3%A5-sm%C3%B6rdeg'>Rimbobullar På Smördeg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drifttekniker-utbildning-norrk%C3%B6ping'>Drifttekniker Utbildning Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leonberger-och-katt'>Leonberger Och Katt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=most-followers-youtube-2019'>Most Followers Youtube 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kan-man-g%C3%B6ra-med-skinkstek'>Vad Kan Man Göra Med Skinkstek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=potatissallad-med-%C3%A4gg'>Potatissallad Med ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bk-v%C3%A4gar-f%C3%A4rg'>Bk Vägar Färg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=https-www-corren'>Https Www Corren</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catering-br%C3%B6llop-halmstad'>Catering Bröllop Halmstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5ng-kudde-p%C3%B6l'>Lång Kudde Pöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=soffor-rea-online'>Soffor Rea Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-abonnemang-utomlands'>Tre Abonnemang Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svamp-skellefte%C3%A5-flashback'>Svamp Skellefteå Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barn-och-utbildningsf%C3%B6rvaltningen-s%C3%B6derk%C3%B6ping'>Barn Och Utbildningsförvaltningen Söderköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=power-stroke-myosin'>Power Stroke Myosin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-fastighetsf%C3%B6rmedling-h%C3%A4sselby'>Svensk Fastighetsförmedling Hässelby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toast-skagen-dijon'>Toast Skagen Dijon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj-min-resa'>Sj Min Resa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=findus-fish-and-crisp-tillagning'>Findus Fish And Crisp Tillagning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-betalade-i-natura'>Jag Betalade I Natura</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=realismen-k%C3%A4nda-b%C3%B6cker'>Realismen Kända Böcker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4s%C3%A5rstider-prolympia-%C3%B6stersund'>Läsårstider Prolympia östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valp-utfall-mot-barn'>Valp Utfall Mot Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hsb-hyresr%C3%A4tter-g%C3%B6teborg'>Hsb Hyresrätter Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=borgerlig-vigsel-solna'>Borgerlig Vigsel Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=modellbygge-k%C3%A4nda-byggnader'>Modellbygge Kända Byggnader</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=forex-bank-gula-kortet-inloggning'>Forex Bank Gula Kortet Inloggning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prisindex-gran-canaria'>Prisindex Gran Canaria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=civilekonom-vs-ekonom'>Civilekonom Vs Ekonom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tomas-von-br%C3%B6mssen'>Tomas Von Brömssen</a>,
+";s:7:"expired";i:-1;}

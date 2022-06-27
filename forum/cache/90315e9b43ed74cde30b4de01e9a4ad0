@@ -1,0 +1,107 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2551:"Ett förorenat område kan bestå av mark, grundvatten, ytvatten, sediment och byggnader. WMS är även en ISO-standard (ISO 19128). Jag har skapat ett mycket simpelt plugin till QGIS som lägger till Lantmäteriets topografiska karta till kartfönstret. Denna sida vänder sig främst till utvecklare och vidareförädlare som behöver skapa dynamiska och tidsbegränsade nycklar. PotentielltFororenadeOmraden_wms (Lansstyrelsen:PotentielltFororenadeOmraden_wms) EBH-stödet är länsstyrelsernas register över potentiella och konstaterade förorenade områden. Topografisk webbkarta, raster, är lämplig att använda när du har behov av en zoombar karta men inte har möjlighet att vara uppkopplad mot Lantmäteriet s visningstjänster. Genom att arbeta med QGIS möjlighet till Multiplikationsrendering kan data lätt kombineras, även om det är WMS-tjänster. Kartan består dels av den Topografiska Webbkartan uppdelad i lager, samt höjdkurvor i vektorformat, och WMS-tjänsten för höjdlutning. Identifier: urn:uuid:4fd9e54c-b415-436a-8163-16b065112c5e: Typename: csw:Record: Schema: http://www.opengis.net/wms: Last update: 2013-10-22T14:07:40Z: Title  Ett kort inlägg såhär mitt i semestern. Om du vill använda tjänsten i ett befintligt system, applikation eller GIS-programvara kopierar du länken som finns angiven under Åtkomstpunkt på sidan Geodatatjänster / API:er. Karta som kombinerar Lantmäteriets WMS-tjänster med hjälp av QGIS-renderingsinställningar. Ett förorenat område kan bestå av mark, grundvatten, ytvatten, sediment och byggnader. map.lgia.gov.lv, latvijas ĢeotelpiskĀs informĀcijas aĢentŪras klientu lapa Visningstjänsterna är av karaktären 'fråga-svar', där konsumenten (användarens system) skickar ett tjänsteanrop över Internet och får tillbaka en kartbild i ett vanligt bildformat. Topografisk webbkarta, raster, är lämplig att använda när du har behov av en zoombar karta men inte har möjlighet att vara uppkopplad mot Lantmäteriet s visningstjänster. Du kan hämta insticksprogrammet här: (… PotentielltFororenadeOmraden_wms (Lansstyrelsen:PotentielltFororenadeOmraden_wms) EBH-stödet är länsstyrelsernas register över potentiella och konstaterade förorenade områden. <br> <br>Kartan är framtagen av Region Skåne 2017. Lantmäteriet 801 82 Gävle BESÖKSADRESS Lantmäterigatan 2, TELEFON 0771 - 63 63 63 E-POST lantmateriet@lm.se, INTERNET www.lantmateriet.se MISSIV GÄVLE, 2018-06-26 DNR 109-2018-5255 Till Näringsdepartementet 103 33 Stockholm För kännedom: ";s:7:"keyword";s:66:"gaming innovation group AND (SELECT %SQLUPPER NULL) IS NULL   qtkw";s:5:"links";s:7802:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=provtagning-avloppsvatten-kurs'>Provtagning Avloppsvatten Kurs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trafikolycka-k%C3%B6ping-flashback'>Trafikolycka Köping Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6rkt-hamburgerbr%C3%B6d-recept'>Mörkt Hamburgerbröd Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avgaspackning-3-tum'>Avgaspackning 3 Tum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-945-delar'>Volvo 945 Delar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-s%C3%A4ger-bibeln-om-mardr%C3%B6mmar'>Vad Säger Bibeln Om Mardrömmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=massey-ferguson-35-tractordata'>Massey Ferguson 35 Tractordata</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-kan-man-ha-f%C3%B6r-s%C3%A5s-till-kassler'>Vad Kan Man Ha För Sås Till Kassler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stenungsunds-kommun-organisationsnummer'>Stenungsunds Kommun Organisationsnummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-film-google'>Hyra Film Google</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frysa-vit-sparris'>Frysa Vit Sparris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tuntematon-sotilas-stream'>Tuntematon Sotilas Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=unga-kvinnor-svt'>Unga Kvinnor Svt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spanska-kusten-karta'>Spanska Kusten Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guld-armband-barn-18k'>Guld Armband Barn 18k</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=casper-mattress-sweden'>Casper Mattress Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-unga-lider-av-psykisk-oh%C3%A4lsa'>Hur Många Unga Lider Av Psykisk Ohälsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolmat-kostnad-per-portion-2019'>Skolmat Kostnad Per Portion 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broccolisoppa-med-potatis'>Broccolisoppa Med Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=insett-eller-ins%C3%A4tt'>Insett Eller Insätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=5-families-of-new-york-today'>5 Families Of New York Today</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bdt-p%C3%A5-burk'>Bdt På Burk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kim-anderzon-dokument%C3%A4r'>Kim Anderzon Dokumentär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=basketlinne-eget-tryck'>Basketlinne Eget Tryck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arya-pizza-esl%C3%B6v'>Arya Pizza Eslöv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A4nge-v%C3%A4xer-en-rhodesian-ridgeback'>Hur Länge Växer En Rhodesian Ridgeback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bridgestone-mc-d%C3%A4ck'>Bridgestone Mc Däck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyexaminerad-jurist-jobb'>Nyexaminerad Jurist Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socialstyrelsen---legitimation-v%C3%A4ntetid'>Socialstyrelsen - Legitimation Väntetid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4llbar-s%C3%A4ng-b%C3%A4st-i-test'>Ställbar Säng Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bass-clef-notes'>Bass Clef Notes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A5rsta-f%C3%B6rskola-vallentuna'>Kårsta Förskola Vallentuna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4ttvik-29-juli'>Rättvik 29 Juli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=morjens-tristesse-viirus'>Morjens Tristesse Viirus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-mantorp'>Lediga Jobb Mantorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apotek-universitetssjukhuset-link%C3%B6ping'>Apotek Universitetssjukhuset Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=myllym%C3%A4ki-f%C3%B6rr%C3%A4tt-lax'>Myllymäki Förrätt Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bryggaregatan-7b-eskilstuna'>Bryggaregatan 7b Eskilstuna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oil-crisis-venezuela'>Oil Crisis Venezuela</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-musikh%C3%B6gskola-l%C3%A4rare'>Malmö Musikhögskola Lärare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-muskelgrupper-finns-det'>Hur Många Muskelgrupper Finns Det</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirius-innebandy-f04'>Sirius Innebandy F04</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparris-brynt-sm%C3%B6r'>Sparris Brynt Smör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ln-m%C3%A4ssa-2020'>Köln Mässa 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-barnsk%C3%B6tare'>Personligt Brev Barnskötare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidigt-ultraljud-enk%C3%B6ping'>Tidigt Ultraljud Enköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tittarsiffror-oktober-2019'>Tittarsiffror Oktober 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brittisk-s%C3%A5ngare-f%C3%B6dd-1974'>Brittisk Sångare Född 1974</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bashan-worker-bear-200cc-trim'>Bashan Worker Bear 200cc Trim</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-napoletana-g%C3%B6teborg'>Pizza Napoletana Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egenremiss-skaraborgs-sjukhus'>Egenremiss Skaraborgs Sjukhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snapchat-kontor-sverige'>Snapchat Kontor Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A5ng-kommer-jag-bli-16-%C3%A4r'>Hur Lång Kommer Jag Bli 16 är</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-barkarby-corona'>Ikea Barkarby Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-trollh%C3%A4ttan-sj'>Stockholm Trollhättan Sj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsrelaterad-stress-sjuksk%C3%B6terska'>Arbetsrelaterad Stress Sjuksköterska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=korvgryta-falukorv-recept'>Korvgryta Falukorv Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttiga-v%C3%A5fflor-havremj%C3%B6l'>Nyttiga Våfflor Havremjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-q60r-55'>Samsung Q60r 55</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rensa-gammalt-vattenl%C3%A5s'>Rensa Gammalt Vattenlås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telenor-ladda-app'>Telenor Ladda App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rkr%C3%A4m-med-mascarpone'>Smörkräm Med Mascarpone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=psykisk-oh%C3%A4lsa%2C-arbetsliv-och-sjukfr%C3%A5nvaro'>Psykisk Ohälsa, Arbetsliv Och Sjukfrånvaro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-powertrain-ab'>Volvo Powertrain Ab</a>,
+";s:7:"expired";i:-1;}

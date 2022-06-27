@@ -1,0 +1,86 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1638:"<br>Men han berättar gärna om saker som han inte tycker om. <br> Ulf Brunnberg vill starta en tv-kanal bara för män. Kontakta Ulf Brunnberg, Lidingö. Adress: Rävviken 2, Postnummer: 181 90, Telefon: 070-835 15 .. Ulf Brunnberg är skådespelare och föddes 1947 i Stockholm. Published on Oct 3, 2009. – Han blandar ihop feminism med inredningsprogram. <br> <br>Exempelvis sa han tidigare att han hellre skulle ta livet av sig än att skänka pengar till Feministiskt Initiativ. Gårdagens sommarprat med Ulf Brunnberg, 61, i “Sommar i P1” väckte starka reaktioner. Idéen om en manskanal med boxning och motorsport har delat lyssnarna i två läger. Ulf Brunnberg har också en dröm: Att starta en tv-kanal enbart för män. De flesta förknippar nog Ulf Brunnberg, 67, med bilskojaren och Stockholmaren Ragnar Vanheden i “Jönssonligan”-filmerna.Skådisen har under senare år även gjort sig känd som en debattör som säger precis vad han tycker. Hysteriskt rolig sketch med Björn Gustafsson (dynamitharry), Dan Ekborg och Ulf Brunnberg. Ulf Brunnberg har rört om i grytan förr, bland annat genom att föreslå en TV-kanal för män. Ulf Brunnberg gillar inte så mycket här i världen. ... i sitt sommarprat i P1 lobbade han för en mans-kanal på tv för att slippa feminismen i media. Får Ernst Kirchsteiger titta på Uffes … Läs mer → 1. Skådespelaren Ulf Brunnberg, mest känd som Vanheden i Jönssonligan, har varit i ropet under det senaste året. Martin Luther King hade en dröm: Drömmen om ett USA där vita och svarta skulle vara jämlika. Det berättade han i sitt sommarprat i P1 år 2011.  ";s:7:"keyword";s:24:"ulf brunnberg sommarprat";s:5:"links";s:5096:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vvs-gratis-frakt'>Vvs Gratis Frakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=all-different-symbols'>All Different Symbols</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anticimex-besiktning-pris'>Anticimex Besiktning Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linn%C3%A9-hostel-g%C3%B6teborg'>Linné Hostel Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-steninge-slott'>Hyra Steninge Slott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=belgian-army-1940'>Belgian Army 1940</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfritt-bageri-varberg'>Glutenfritt Bageri Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=belgian-army-1940'>Belgian Army 1940</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st-l%C3%A4kare-oftalmologi-jobb'>St-läkare Oftalmologi Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-gran-canaria-tripadvisor'>Taxi Gran Canaria Tripadvisor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirloin-angus-beef'>Sirloin Angus Beef</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talf%C3%B6ljder-och-m%C3%B6nster-spel'>Talföljder Och Mönster Spel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sockerkaka-med-%C3%A4pple-ica'>Sockerkaka Med äpple Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-skolan-gymnasium-tyskland'>Svenska Skolan Gymnasium Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julgran-300-cm'>Julgran 300 Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Paradise-Village-Beach-Resort4%2C5%28287%291%2C3%C2%A0km-bort140%C2%A0%E2%82%AC'>Paradise Village Beach Resort4,5(287)1,3 km Bort140 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bridgestone-mc-d%C3%A4ck'>Bridgestone Mc Däck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=simulate-ddos-attack-tool'>Simulate Ddos Attack Tool</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-c63-amg-black-series'>Mercedes C63 Amg Black Series</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wiziwig-golf-live'>Wiziwig Golf Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amy-deasismont-instagram'>Amy Deasismont Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slang-19-mm-biltema'>Slang 19 Mm Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-hotels-finland'>Scandic Hotels Finland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-musikh%C3%B6gskola-l%C3%A4rare'>Malmö Musikhögskola Lärare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=veganskt-godis-hemmakv%C3%A4ll'>Veganskt Godis Hemmakväll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bolia-mr-big'>Bolia Mr Big</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rede-som-mat'>Rede Som Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rusta-monster-high'>Rusta Monster High</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-skola-esl%C3%B6v'>Byta Skola Eslöv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sallad-till-v%C3%A4sterbottenpaj'>Sallad Till Västerbottenpaj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kjell-bergqvist-fru'>Kjell Bergqvist Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=joel-kinnaman-2019'>Joel Kinnaman 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apoteket-%C3%B6ppettider-g%C3%B6teborg'>Apoteket öppettider Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valp-biter-barn'>Valp Biter Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hello-kitty-s%C3%A4ng'>Hello Kitty Säng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gothia-towers-ladda-elbil'>Gothia Towers Ladda Elbil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vatten-i-%C3%B6rat'>Vatten I örat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-fr%C3%A5n-karlstad-till-prag'>Flyg Från Karlstad Till Prag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-engelska-skolan'>Ansökan Engelska Skolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%85hus-bed-and-breakfast-%2F-Cigarrkungenshus3%2C7%2849%291%2C1%C2%A0miles-bort65%C2%A0US%24'>Åhus Bed And Breakfast / Cigarrkungenshus3,7(49)1,1 miles Bort65 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rehab-vid-sjukskrivning'>Rehab Vid Sjukskrivning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pelarg%C3%A5ngen-1-arlanda'>Pelargången 1 Arlanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rdering-hus-falun'>Värdering Hus Falun</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2073:"<p>Glendalough-klostret ligger 4,6 km bort. Tre små (1,4-2,2 ha) grunda (4,5-5,5 m) oskiktade sjöar och en djupare temperaturskik-tad sjö (2,4 ha, 13,7 m) gödslades med fosfor och kväve i olika kombinationer (figur 2). Book Abisko Mountain Lodge, Abisko on Tripadvisor: See 446 traveller reviews, 417 candid photos, and great deals for Abisko Mountain Lodge, ranked #1 of 5 hotels in Abisko and rated 4.5 of 5 … </p> <p> Ectomycorrhizal Diversity on Dryas octopetala and Salix reticulata in an Alpine Cliff Ecosystem. Mountain View Lodge ligger i Laragh, strax utanför Glenmacass Valley. Det finns en separat tvättstuga/torkrum med tvättmaskin och strykmöjligheter. träsk. The hotel is located in the resort Abisko only 2 minutes walk from the railway station Abisko. Här finns ett vardagsrum med en soffa och ett välutrustat kök med diskmaskin. With 2,200 m , it has the hig Highest ski resort in Northern Europe (2,200 m) The ski resort Galdhøpiggen Sommerskisenter – Juvass is the highest ski resort in Northern Europe. Abisko Mountain Lodge quick overview class: *** hotel address: Lapportsvägen 35, 981 07 Abisko geographical location: 68° 20' 48" North, 18° 49' 55" East region: Kiruna Kommun, Norrbottens Lan, Sweden number of rooms: 16 hotel description. ... ecology based at the Abisko Scientific Research Station ... D 1.1–2.4 5.3 2006, 2007. </p> <p>Book Abisko Mountain Lodge, Abisko on Tripadvisor: See 446 traveler reviews, 417 candid photos, and great deals for Abisko Mountain Lodge, ranked #1 of 5 specialty lodging in Abisko and rated 4.5 of 5 … Här erbjuds en uteplats med utemöbler och utsikt över landskapet. Ett provtagningsintervall på 10 dagar Abisko National Park: Address, Phone Number, Abisko National Park Reviews: 4.5/5 I den grupp som undersökte effekterna i ekosyste-men svarade Gunnar Persson för zooplankton. </p> <p>Abisko Mountain Lodge, Abisko: See 446 traveller reviews, 417 user photos and best deals for Abisko Mountain Lodge, ranked #1 of 5 Abisko specialty lodging, rated 4.5 of 5 at Tripadvisor. </p>";s:7:"keyword";s:41:"Abisko Mountain Lodge4,5(317)2,4 km bort";s:5:"links";s:4854:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-handbollslandslaget-herrar'>Svenska Handbollslandslaget Herrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A4rta-utsidan-benet'>Smärta Utsidan Benet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hakuna-matata-swahili'>Hakuna Matata Swahili</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uponor-combi-pex'>Uponor Combi Pex</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pfc-vs-revolut'>Pfc Vs Revolut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=age-of-elephants'>Age Of Elephants</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Trond-Fausa-Aurv%C3%A5g'>Trond Fausa Aurvåg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toalett-brun-bel%C3%A4ggning'>Toalett Brun Beläggning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=twisted-feet-stora-teatern-2019'>Twisted Feet Stora Teatern 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6va-svensk-grammatik-pdf'>öva Svensk Grammatik Pdf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=benders-takbrygga-pris'>Benders Takbrygga Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=du-%C3%A4r-den-ende'>Du är Den Ende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vitvinss%C3%A5s-med-dill'>Vitvinssås Med Dill</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6grevsgryta-med-rotfrukter'>Högrevsgryta Med Rotfrukter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=do-i-love-him'>Do I Love Him</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gammalt-namn-p%C3%A5-kanarie%C3%B6arna'>Gammalt Namn På Kanarieöarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ta-emot-pengar-fr%C3%A5n-utlandet'>Ta Emot Pengar Från Utlandet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tyg-f%C3%A4rg-synonym'>Tyg Färg Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restauranger-som-tar-swish-stockholm'>Restauranger Som Tar Swish Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=engelska-skolan-rissne'>Engelska Skolan Rissne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tekniskt-bas%C3%A5r-antagningspo%C3%A4ng'>Tekniskt Basår Antagningspoäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pep-forum-2019'>Pep Forum 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jura-s8-vs-e8'>Jura S8 Vs E8</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kl%C3%A4der-pippi-l%C3%A5ngstrump'>Kläder Pippi Långstrump</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-slutpriser-sundsvall'>Hemnet Slutpriser Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boros-one-punch-man-wiki'>Boros One Punch Man Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ellos-lager-bor%C3%A5s'>Ellos Lager Borås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avgift-skolmat-gymnasiet'>Avgift Skolmat Gymnasiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-105-recension'>Nokia 105 Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viamax-power-caps'>Viamax Power Caps</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linnea-henriksson-elle'>Linnea Henriksson Elle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inbyggd-takdusch-m%C3%A4ssing'>Inbyggd Takdusch Mässing</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-bygg-soffa-gr%C3%B6nlid'>Ikea Bygg Soffa Grönlid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billigt-snus-g%C3%B6teborg'>Billigt Snus Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-lagbok-tingsr%C3%A4tten'>Köpa Lagbok Tingsrätten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blender-video-editor'>Blender Video Editor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=delar-till-hymas'>Delar Till Hymas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bernt-westerlund-hammarby'>Bernt Westerlund Hammarby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ondskan-film-recension'>Ondskan Film Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=andreas-palicka-familj'>Andreas Palicka Familj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friends-arena-tak-sverige-f%C3%A4r%C3%B6arna'>Friends Arena Tak Sverige Färöarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nekad-sjukpenning-utmattning'>Nekad Sjukpenning Utmattning</a>,
+";s:7:"expired";i:-1;}

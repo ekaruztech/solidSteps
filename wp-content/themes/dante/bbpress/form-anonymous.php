@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Anonymous User
  *
  * @package bbPress

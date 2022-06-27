@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3162:"<p>Här samlar vi alla artiklar om Bank, finans & försäkring. Di har under 2018 rapporterat om stora brister i verksamheten, bankens nedpressade värdering och växande intern oro, personalavhopp samt att trakasserier och kränkningar har sopats under mattan av bankledningen. Bland allt detta kommer då Handelsbanken ut med en rapport som slår förväntningarna kraftigt. Handelsbanken is a local relationship bank, based on satisfied customers, financial strength and traditional values. Tjänsten är placerad på Handelsbanken centrala kontor i centrala Stockholm. Handelsbanken ... Handelsbanken Penningtvätt och FATCA/CRS i kundmötet. Jobb mot penningtvätt kostar Handelsbanken miljarder. Handelsbanken tvingas nu kapa kostnaderna rejält. Handelsbanken är Sveriges mest hållbara börsbolag i kategorin bank- och finansbranschen. Gå med för att skapa kontakt. Grönt bolån för de som bor i miljöcertifierade hus. Erfarenhet. Bankens aktie lyfte med 6,1 procent på Stockholmsbörsen. Handelsbanken överraskar – kreditförlusterna ökar mindre än väntat. Alla svenska storbanker pekas ut som mer eller mindre indragna i den stora penningtvätthärva som ett större journalistnätverk avslöjat. Analys av de fyra storbankernas Q1 rapporter för 2019, SEB, Nordea, Handelsbanken och Swedbank. Financial Crime Prevention - Gruppledare Handelsbanken oktober 2017 – april 2019 1 år 7 månader. – Samtliga transaktioner och samtliga förhållanden som finns mellan Danske Bank och Handelsbanken har undersökts, säger vd Carina Åkerström. Det är några exempel på hållbarhetsfrågor som vi har arbetat med under 2019. Förebyggande åtgärder inom penningtvätt, finansiering av terrorism, korruption, intressekonflikter och skattebrott. </p> <p>9 § När sanktionsavgiftens storlek fastställs, ska särskild hänsyn tas till sådana omständigheter som anges i 5 § samt till den berördes finansiella ställning och, om det går att fastställa, den vinst som gjorts till följd av överträdelsen. Stockholm, Sverige. Även rörelseresultatet kommer in klart under förväntan på 4 641 Mkr. Motverka korruption och penningtvätt. Fler artiklar hittar du i följande artikelserier: Misstänkt penningtvätt i Swedbank, Q3-rapporter 2019 och Q2-rapporter 2019. Det råder god gemenskap inom teamet som består av ekonomer och jurister med ett genuint engagemang och intresse för regelverk och de ekonomiska flödena i olika verksamheter samt lagstiftning kring penningtvätt … Andra ämnen som ofta förekommer i artiklar om Bank, finans & försäkring är: Rapportsäsongen, Swedbank, Penningtvätt och Handelsbanken. William har angett 3 jobb i sin profil. Lag (2019:608). Se William Plachts profil på LinkedIn, världens största yrkesnätverk. Penningtvätt och finansiering av terrorism FATCA och CRS. ... Polisen bromsar kampen mot penningtvätt Näringsliv 2019-06-09 20.00. Lag (2019:608). ... Så jobbar vi mot penningtvätt och finansiering av terrorism Kommande rapport. Mathias Ståhle Publicerad 2019-04-17 17.06 ... Kostnaderna för att förebygga penningtvätt ökade under kvartalet med 97 miljoner SEK. </p>";s:7:"keyword";s:245:"liverpool world cup jersey/**/OR/**/2563=CONCAT(CHAR(53)+CHAR(112)+CHAR(81)+CHAR(77),(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END)),CHAR(53)+CHAR(112)+CHAR(81)+CHAR(77))/**/AND/**/"Cb4l"/**/LIKE/**/"Cb4l";s:5:"links";s:4574:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huvudst%C3%A4der-6-bokst%C3%A4ver'>Huvudstäder 6 Bokstäver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-eller-ett-balsam'>En Eller Ett Balsam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyproduktion-nyn%C3%A4shamn-hyresr%C3%A4tt'>Nyproduktion Nynäshamn Hyresrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polis-akademisk-utbildning'>Polis Akademisk Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalorier-pauluns-granola'>Kalorier Pauluns Granola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=o-ring-gasolregulator'>O Ring Gasolregulator</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kda-pop-star'>Kda Pop Star</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=latissimus-dorsi-antagonist-muscle'>Latissimus Dorsi Antagonist Muscle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronisk-depression-nya-kontakter'>Kronisk Depression Nya Kontakter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lager-157-%C3%B6ppettider-karlskrona'>Lager 157 öppettider Karlskrona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontaktstycke-volvo-740'>Kontaktstycke Volvo 740</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontantkort-surf-halebop'>Kontantkort Surf Halebop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hjortinnanl%C3%A5r-sous-vide'>Hjortinnanlår Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svt-play-tv6'>Svt Play Tv6</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=citymail-jobb-k%C3%B6ping'>Citymail Jobb Köping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ggjakt-halmstad-2019'>äggjakt Halmstad 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-skolan-i-v%C3%A4rlden-2018'>Bästa Skolan I Världen 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flytta-pantbrev-mellan-fastigheter'>Flytta Pantbrev Mellan Fastigheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-trx-500'>Honda Trx 500</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-hjulvinkel-%C3%A4ndrar-man-vid-byte-av-styrled-toe-in-out-eller-camber'>Vilken Hjulvinkel ändrar Man Vid Byte Av Styrled Toe In Out Eller Camber</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lokal-f%C3%B6r-andakt-synonym'>Lokal För Andakt Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ca-fastigheter-styrelse'>Ca Fastigheter Styrelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-kn%C3%A4skydden-innebandy-m%C3%A5lvakt'>Bästa Knäskydden Innebandy Målvakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toast-med-kallr%C3%B6kt-lax-p%C3%A5-avokadokr%C3%A4m-och-stenbitsrom'>Toast Med Kallrökt Lax På Avokadokräm Och Stenbitsrom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonym-to-relate'>Synonym To Relate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svaghet-i-benen-%C3%A4ldre'>Svaghet I Benen äldre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=artikel-51-stadgan'>Artikel 51 Stadgan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5l%C3%A4gg-ekonomi-engelska'>Pålägg Ekonomi Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=enh%C3%B6rna-f%C3%B6rsamling-personal'>Enhörna Församling Personal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=angel-eyes-kdrama'>Angel Eyes Kdrama</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klarna-checkout-shopify'>Klarna Checkout Shopify</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-balder-ume%C3%A5'>Restaurang Balder Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttan-med-infrabastu'>Nyttan Med Infrabastu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hem-och-bastu-omd%C3%B6me'>Hem Och Bastu Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-stockholm-s%C3%B6der'>Lunch Stockholm Söder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Evdokia-Apartments4%2C3%2828%290%2C2%C2%A0km-bort'>Evdokia Apartments4,3(28)0,2 km Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elcykel-mittmotor-dam'>Elcykel Mittmotor Dam</a>,
+";s:7:"expired";i:-1;}

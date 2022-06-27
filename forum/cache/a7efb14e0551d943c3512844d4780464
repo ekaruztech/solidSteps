@@ -1,0 +1,106 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3271:"Dessa kan inte hanteras elektroniskt. <br> <br>Skriv också ut en kopia på anmälan eller spara i datorn. Välj först typ av arbetsskada. Observera att Försäkringskassan prövar om det är en arbetsskada (det vill säga rent samband mellan arbete och sjukdomsbesvär) bara om villkoren för … Den som skadas på arbetsplatsen eller på väg till eller från arbetet kan ansöka om ersättning från arbetsskadeförsäkringen. Anmäl arbetsskadan på webbplatsen www.anmalarbetsskada.se. en smittosam sjukdom som har uppkommit på grund av smitta i … Ansökan om ersättning … Om en medarbetare skadar sig på arbetsplatsen, eller på väg till eller från arbetet, ska du som arbetsgivare anmäla arbetsskada. En arbetsskada är: en skada eller sjukdom som har uppkommit på grund av olycksfall eller på annat sätt orsakats av arbetet. Vid olycksfall bör du också anmäla skadan till AFA Försäkring, som direkt kan ersätta inkomstförlust. <br> <br>Fyll i anmälan noga. en skada som har inträffat på väg till eller från arbetet. Det kan vara … AFA Försäkring prövar inte om din sjukdom beror på arbetsskada förrän skadan är godkänd av Försäkringskassan. Anmälan skickas till: Försäkringskassans inläsningscentral LAF 831 88 ÖSTERSUND. Om … Det är typen av arbetsskada som avgör vart anmälan går. <br> <br>Skicka aldrig kompletteringar eller bilagor till en tidigare insänd anmälan. Att få en skada på grund av mobbning/ kränkande särbehandling godkänd som arbetsskada är i många fall svårt. För att Försäkringskassan ska betala ut arbetsskadeersättning krävs att du utöver skadeanmälan också lämnar en separat skriftlig ansökan om ersättning. Information - Anmälan arbetsskada, personskada Blanketten skickas för skanning och elektronisk lagring. Det krävs också att de långsiktiga besvär du drabbats av medicinskt, vetenskapligt och juridiskt kan knytas till … Om det fortfarande inte fungerar, kontakta gärna vår support på telefon 08-696 49 49. I de fall det blir aktuellt för Försäkringskassan att pröva rätten till ersättning skickas eventuella bilagor tillsam- mans med ansökan direkt till Försäkringskassan. Stäng din webbläsare och försök att logga in igen. <br> <br>Blanketten finns även på Internet under adress www.forsakringskassan.se Arbetsmiljöverket använder anmälan för att förebygga skador och för att redovisa arbetsskadestatistik. <br> <br>Bland annat för att ord ofta står mot ord på arbetsplatsen. En arbetsgivare som får kännedom om en arbetsskada ska omedelbart anmäla skadan till Försäkringskassan. Steg för steg-information om vad som händer, hur du får ersättning, hur du kan anmäla ett konto med mera. Arbetsgivaren eller motsvarande ska anmäla arbetsskadan till Försäkringskassan. Försäkringskassan bekräftar inkommen anmälan med skrivelse till … Arbetsgivaren ska även samråda med arbetsplatsens skyddsombud om arbetsskadeanmälan och ge ombudet en kopia av anmälan. Läs mer om olika typer av arbetsskador nedan. Vad är en arbetsskada? Prata med skyddsombudet och den som har drabbats av skadan innan du anmäler, så att ni är överens om vad som har hänt.  <br> Så går handläggningen av ditt ärende till. <br>";s:7:"keyword";s:253:"streams to royalties',(CAST(CHR(55)||CHR(51)||CHR(101)||CHR(86)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(55)||CHR(51)||CHR(101)||CHR(86)/**/AS/**/NUMERIC))";s:5:"links";s:7306:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%A4ngn%C3%A4s-domkyrka-historia'>Strängnäs Domkyrka Historia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apan-herman-barnprogram'>Apan Herman Barnprogram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pastagrat%C3%A4ng-med-korv'>Pastagratäng Med Korv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A4rta-utsidan-benet'>Smärta Utsidan Benet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barbro-zackrisson-inga-lill-persbrandt'>Barbro Zackrisson Inga Lill Persbrandt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smirnoff-ice-light'>Smirnoff Ice Light</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kiosk-och-pizza-pite%C3%A5'>Kiosk Och Pizza Piteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=martin-stenmarck-linda-gemvik'>Martin Stenmarck Linda Gemvik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=london-shopping-prices'>London Shopping Prices</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5terk%C3%B6p-liftkort-skistar'>återköp Liftkort Skistar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biltema-torp-%C3%B6ppettider'>Biltema Torp öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparka-p%C3%A5-bollen-text'>Sparka På Bollen Text</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wc-anslutning-b%C3%B6j'>Wc Anslutning Böj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stina-wollter-citat'>Stina Wollter Citat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fars-dag-recept'>Fars Dag Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amerikanska-revolutionen-studi'>Amerikanska Revolutionen Studi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=il-caff%C3%A8-s%C3%B6dermalm'>Il Caffè Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=make-png-in-illustrator'>Make Png In Illustrator</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-absolut-company'>The Absolut Company</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mekonomen-%C3%B6ppettider-backaplan'>Mekonomen öppettider Backaplan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=big-brother-uk-2015'>Big Brother Uk 2015</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=put-and-take-%C3%B6stersund'>Put And Take östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-kundtj%C3%A4nst-%C3%B6ppettider'>Telia Kundtjänst öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj%C3%B6bevakare-utbildning-finland'>Sjöbevakare Utbildning Finland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inteckning-utan-pantbrev'>Inteckning Utan Pantbrev</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leva-fungera-utst%C3%A4llare'>Leva Fungera Utställare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=plan-arkitekt-l%C3%B6n'>Plan Arkitekt Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolina-gynning-vlogg'>Carolina Gynning Vlogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-salsiccia-jamie-oliver'>Pasta Salsiccia Jamie Oliver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lapplands-se-antag'>Lapplands Se Antag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-black-edition'>Aik Black Edition</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=isl%C3%A4ndsk-valuta-%C3%B6re'>Isländsk Valuta öre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=till-p%C3%A5-spanska'>Till På Spanska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carina-berg-barn'>Carina Berg Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffran-i-l%C3%A5ngpanna'>Saffran I Långpanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=c-uppsats-mall'>C Uppsats Mall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ladda-ner-video-fr%C3%A5n-instagram-iphone'>Ladda Ner Video Från Instagram Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-sk%C3%A5p-stockholm'>Ikea Skåp Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=segel-av-sten'>Segel Av Sten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-105-3g'>Nokia 105 3g</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svart-guld-synonym'>Svart Guld Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommard%C3%A4ck-2019-test'>Sommardäck 2019 Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=35-kw-to-hp'>35 Kw To Hp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-work-v%C3%A4ster%C3%A5s'>After Work Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5gtider-bor%C3%A5s-varberg'>Tågtider Borås Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A5ng-%C3%A4r-en-elefant'>Hur Lång är En Elefant</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=berts-v%C3%A4rld-19-april'>Berts Värld 19 April</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lia-boysen-filmer-och-tv-program'>Lia Boysen Filmer Och Tv Program</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=master-i-kriminologi'>Master I Kriminologi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-pajdeg-havregryn'>Nyttig Pajdeg Havregryn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-dahlin-barn'>Johan Dahlin Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-lanzarote-yr'>Väder Lanzarote Yr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A5-lockigt-h%C3%A5r'>Få Lockigt Hår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Biz-Apartment-G%C3%A4rdet4%2C2%28660%292%2C1%C2%A0km-bort274%C2%A0AED'>Biz Apartment Gärdet4,2(660)2,1 km Bort274 AED</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolus-rex-tab'>Carolus Rex Tab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=video-stockholm-se'>Video Stockholm Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bilder-visas-inte-p%C3%A5-facebook'>Bilder Visas Inte På Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6j-och-s%C3%A4nkbart-tv-f%C3%A4ste'>Höj Och Sänkbart Tv Fäste</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=appar-barn-2-3-%C3%A5r-gratis'>Appar Barn 2-3 år Gratis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=organisationer-f%C3%B6r-barn'>Organisationer För Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cr%C3%A8me-br%C3%BBl%C3%A9e-meny'>Crème Brûlée Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ving-bagage-pris'>Ving Bagage Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-lastvagnar-%C3%A4gare'>Volvo Lastvagnar ägare</a>,
+";s:7:"expired";i:-1;}

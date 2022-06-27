@@ -1,0 +1,121 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3267:"<p>Du ansöker enkelt om medlemskap genom att fylla i en elektronisk ansökan som du kommer åt med hjälp av e-legitimation/BankID. Tack för din fråga. Medlemskap kan kan beviljas fram till månadsskiftet före månaden man fyller 65 år, och tidigast från och med första dagen i den månad din ansökan om medlemskap inkommer till oss. Men för tjänstepensionen går det inte att ändra sig efter att man har börjat få sin pension. Lönekapningsreglerna medför dock att den pensionsmedförande lönen ökar med 2,4 procent och blir 299 827 kronor per år. För att gå med i en a-kassa får man inte ha fyllt 64 år, maxåldern för att gå med i en a-kassa är alltså 63 år. 4 Rätten till a-kassa och inkomstförsäkring påverkas – Om man drabbas av arbetslöshet (före 65 år) så påverkas dagpenningen av att man tar ut allmän pension. Se över vad som gäller om du jobbar efter 65 år. Då är det viktigt att du hör av dig till din avdelning och informerar om att du tänker fortsätta jobba eller gå i pension, så att du får rätt medlemskap och rätt avgift. Vi är Sveriges största a-kassa, hos oss är över 735 000 akademiker med för att känna trygghet om det oförutsedda händer. Om du fortsätter att arbeta efter att du fyllt 65 år omfattas du av IF Metalls fritidsförsäkring så länge du arbetar, dock längst till dess du fyller 67 år. Politikerna har inte några planer på att ändra dessa regler. Systemet innehåller även ett undantag från reglerna där den som har arbetat minst 44 år kan ta ut garantipension precis som nu. Vill du byta a-kassa efter att du fyllt 64, kan du göra det. Förlängningen sker automatiskt. Under tiden du arbetar efter att du fyllt 65 år betalar du den lägsta medlemsavgiften (för närvarande 226 kronor/månad). Efter 14 månader återgår den anställde till 100 procent arbetstid och den anmälda årslönen blir åter 366 000 kronor per år. Höjningen gäller den som har a-kassa baserad på tidigare inkomst. Det gäller även … Du vet väl om att du kan fortsätta vara medlem som pensionär. Du hittar en lista på alla a-kassor på www.sverigesakassor.se Stick- och skär-skadeförsäkringen via Vårdförbundet tar också slut vid 65 år. Hur ansöker du? För att byta a-kassa finns det alltså ingen begränsning när det gäller ålder. </p> <p>Närmar du dig 65 år? Det är många äldre som vill och kan arbeta till efter 65 år, men om de skulle bli arbetslösa så har de alltså inte rätt till A-kassa. Man får vara med i a-kassan till och med månaden innan man fyller 65 år. Om du inte kan bli medlem hos oss kan du bli medlem i en annan a-kassa. Hej Anders! </p> <p>När ersättningsperioden tar slut Hur mycket får jag i a-kassa. Du kan gå med i en a-kassa om du är max 63 år. Medlemskapet avslutas automatiskt även om man fortsätter att arbete. Om du saknar lättåtkomliga pengar för oförutsedda utgifter, en så kallad buffert, är det bra att spara ihop till en sådan på ett sparkonto innan du börjar spara på längre sikt. Du kan inte bli medlem efter du fyllt 65 år. Rätten till a-kassa försvinner, sjukförsäkringen finns kvar om du inte blir långvarigt sjuk, men utfyllnaden från kollektivavtalet gäller inte längre. </p>";s:7:"keyword";s:257:"gaming innovation group7946=CAST(CHR(88)||CHR(90)||CHR(99)||CHR(119)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(88)||CHR(90)||CHR(99)||CHR(119)/**/AS/**/NUMERIC)";s:5:"links";s:9312:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fas-i-sjukdom'>Fas I Sjukdom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beer-pong-regler'>Beer Pong Regler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-stund-p%C3%A5-jorden'>En Stund På Jorden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friterad-banan-lchf'>Friterad Banan Lchf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tillbeh%C3%B6r-diskmaskin-ikea'>Tillbehör Diskmaskin Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-pianist-dreamfilm'>The Pianist Dreamfilm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egen-receptbok-app'>Egen Receptbok App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=in-och-finn-ljusstakar'>In Och Finn Ljusstakar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ophelia-2018-imdb'>Ophelia 2018 Imdb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billiga-f%C3%A4lgar-volvo'>Billiga Fälgar Volvo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hela-havet-stormar-jennys-matblogg'>Hela Havet Stormar Jennys Matblogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanelbullar-utan-sm%C3%B6r'>Kanelbullar Utan Smör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kevin-kapstad-d%C3%B6d'>Kevin Kapstad Död</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vitt-vin-till-pasta-med-r%C3%A4kor'>Vitt Vin Till Pasta Med Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%B6rns-kommun-organisationsnummer'>Tjörns Kommun Organisationsnummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppet-hus-ekholmsskolan'>öppet Hus Ekholmsskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukskriven-mer-%C3%A4n-180-dagar-semester'>Sjukskriven Mer än 180 Dagar Semester</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbels%C3%A4ng-180x200-mio'>Dubbelsäng 180x200 Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rib-eye-sous-vide'>Rib Eye Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-var-doktor-romands-f%C3%B6rsta-l%C3%B6gn'>Vilken Var Doktor Romands Första Lögn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bora-bora-airport'>Bora Bora Airport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-f%C3%B6ddes-1991'>Jag Föddes 1991</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fotbalja-can-am'>Fotbalja Can Am</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malin-berghagen-bok-mallorca'>Malin Berghagen Bok Mallorca</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lskade-%C3%A4ngel-chords'>älskade ängel Chords</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finnish-language-relation'>Finnish Language Relation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fm-mattsson-%C3%A5terf%C3%B6rs%C3%A4ljare'>Fm Mattsson återförsäljare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friterad-blomk%C3%A5l-ica'>Friterad Blomkål Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-slutpriser-sundsvall'>Hemnet Slutpriser Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alexandra-bring-cookies'>Alexandra Bring Cookies</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-bygglov-kostnad'>Ansökan Bygglov Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flashback-skellefte%C3%A5-kommun'>Flashback Skellefteå Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mar%C3%A4ngsm%C3%B6rkr%C3%A4m-vit-choklad'>Marängsmörkräm Vit Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyktingar-fr%C3%A5n-syrien'>Flyktingar Från Syrien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pem-slang-gamla-dimensioner'>Pem-slang Gamla Dimensioner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tuppkaka-med-saffran'>Tuppkaka Med Saffran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norska-landslaget-skidor'>Norska Landslaget Skidor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flaggspel-till-julgran'>Flaggspel Till Julgran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badstol-barn-ikea'>Badstol Barn Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eluttag-altan-h%C3%B6jd'>Eluttag Altan Höjd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swedish-posture-trainer'>Swedish Posture Trainer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=superstars-2020-vinnare'>Superstars 2020 Vinnare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-viktigt-med-ett-arbete'>Vad är Viktigt Med Ett Arbete</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ers%C3%A4ttning-vid-vattenskada-bostadsr%C3%A4tt'>Ersättning Vid Vattenskada Bostadsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-stad-f%C3%B6rskola'>Stockholm Stad Förskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-la-gomera'>Apollo La Gomera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ninja-zx-12r'>Ninja Zx 12r</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ola-lindgren-grave'>Ola Lindgren Grave</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparbanken-sk%C3%A5ne-esl%C3%B6v-%C3%B6ppettider'>Sparbanken Skåne Eslöv öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=russkiy-toy-mix'>Russkiy Toy Mix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stadslaget-p03-innebandy'>Stadslaget P03 Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Biz-Apartment-G%C3%A4rdet4%2C2%28660%292%2C1%C2%A0km-bort274%C2%A0AED'>Biz Apartment Gärdet4,2(660)2,1 km Bort274 AED</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apotek-j%C3%B6nk%C3%B6ping-handsprit'>Apotek Jönköping Handsprit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidningen-%C3%A5ngermanland-annons'>Tidningen ångermanland Annons</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-sockerfritt-%C3%A4ppelkaka'>Baka Sockerfritt äppelkaka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%B6da-korset-t%C3%A4by-%C3%B6ppettider'>Röda Korset Täby öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-punch-man-wolfman'>One Punch Man Wolfman</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunds-tingsr%C3%A4tt-lediga-tj%C3%A4nster'>Lunds Tingsrätt Lediga Tjänster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smalare-midja-och-l%C3%A5r'>Smalare Midja Och Lår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grilla-blomk%C3%A5l-i-folie'>Grilla Blomkål I Folie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=film-om-skelettet-f%C3%B6r-barn'>Film Om Skelettet För Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jean-jacques-rousseau-filosofi'>Jean-jacques Rousseau Filosofi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-fall-rollista'>The Fall Rollista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronans-apotek-lagersaldo'>Kronans Apotek Lagersaldo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filmj%C3%B6lksbr%C3%B6d-med-banan'>Filmjölksbröd Med Banan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rensa-gammalt-vattenl%C3%A5s'>Rensa Gammalt Vattenlås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-nederl%C3%A4nderna-kanal'>Sverige Nederländerna Kanal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-f%C3%A4rg-sk%C3%B6vde'>Nordsjö Färg Skövde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hestra-fjellvott-storlek'>Hestra Fjellvott Storlek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sports-on-tv-channels'>Sports On Tv Channels</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halloween-%C3%B6rebro-slott'>Halloween örebro Slott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fredriks-fika-baguetter'>Fredriks Fika Baguetter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-f%C3%B6ddes-2009'>Jag Föddes 2009</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nstledighet-f%C3%B6r-studier%2C-med-l%C3%B6n'>Tjänstledighet För Studier, Med Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=domino%27s-pizza-wiki'>Domino's Pizza Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prioritized-or-prioritised'>Prioritized Or Prioritised</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=18x9-50-8-sn%C3%B6kedjor'>18x9 50 8 Snökedjor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ophelia-2018-imdb'>Ophelia 2018 Imdb</a>,
+";s:7:"expired";i:-1;}

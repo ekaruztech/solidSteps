@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3435:"<p>A Tribute to Dire Straits Örebro Konserthus . </p> <p>Anders Mattias Roland Johansson [1], ibland kallad "Ankan", [3] född 4 maj 1974 [1] i Linköping, är en svensk musiker, komiker och programledare med karakteristisk östgötsk dialekt som kännetecken. Anders “Ankan” Johansson, Sven Melander, Hans-Erik Dyvik Husby, Frida Bergh & Nina Pressing.  Skrattrabatt på Örebro Comedy Club . Profil för Anders "Ankan" Johansson utökas kontinuerligt: Här hittar du redan nu eller inom en snar framtid rapporter från fans, nyheter, nedladdningar, bilder och biografier. </p> <p>Vårens program på Örebro comedy club 2020. Tillsammans med Arne Hegerfors bildade han under många år ett folkkärt komme... – Listen to #10 Anders “Ankan” Parmström by Holmgren Möter – Niklas Holmgren instantly on your tablet, phone or browser - no downloads needed. A Tribute to Dire Straits Örebro Konserthus . Fredag 24 Apr. Stephen K Amos till nypremiären av RAW Comedy Club tis, aug 09, 2011 09:45 CET. Han är en tvättäkta solnait och ur AIK:are. ... 2.090:29/10 Grums-Vålberg-Karlstad-Kristinehamn-Karlskoga-Örebro … Men ”Ankan” hade även en mycket fin karriär som spelare i AIK, faktiskt den enda klubb han spelat för. </p> <p>Kulturhuset, A-Salen, ÖREBRO Du väljer bara hur många biljetter du vill köpa och går vidare med bokningen. Anders ”Ankan” Parmström känns idag mest igen som expertkommentator på CMore och tidigare radarpartner åt Arne Hegerfors. 14 sep Örebro ; 15 sep Uppsala ; 17 sep Sundsvall ; 01 okt Halmstad ; 01 okt Sverige ; 01 okt Västerås ; 01 nov Gävle ; Övriga aktiviteter; Promenera med oss varje onsdag! Anders "Ankan" Johansson klättrar högt upp och hämtar ner en nästan nyfödd fågelunge, en eremitibis, som ska undersökas. Sofia Rågenklint och Anders "Ankan" Johansson möter husdjur och vilda djur i naturen, på djurparker och på djursjukhuset. Fotohistorikern Eva Dahlman berättar om hur fotografen Sven Johansson räddade bygdefotografernas glasplåtar från vindar och uthus och skapade Limasamlingen, och om hur Lundafotografen Ida Ekelunds negativ från 1920-talet hittades under golvbrädorna vid en lägenhetsrenovering 2012. Kulturhuset, A-Salen . Besök: gratis date app. Adress: Trängkårsvägen 70, Postnummer: 703 57 - Hitta mer här! 25 augusti är RAW Comedy Club tillbaka i Stockholm. Läs mer och köp din biljett via hemsidan: </p> <p>För första gången på Örebro Comedy Club - Anders "Ankan" Johansson! Fredag 24 Apr. ÖREBRO COMEDY CLUB PRESENTERAR - Anders "Ankan" Johansson + support! </p> <p>Följande akter ingår i skrattrabatten: Magnus Betnér, Robin Paulsson, Karsten Torebjer och Anders "Ankan" Johansson. Garderob tillkommer.) </p> <p>ÖREBRO COMEDY CLUB PRESENTERAR - Anders "Ankan" Johansson + support! Kontaktuppgifter till Anders Johansson Örebro, telefonnummer, adress och kontaktuppgifter. VEM: Anders Ankan JohanssonYRKE: Komiker och programledareAVSNITT: 404OM: Att göra film, att måla på natten utan cigg, Anders & Måns, spex, att spela i punkband med Lars Winnerbäck, Jönssonligan,... – Lyssna på #404: Anders Ankan Johansson av Värvet direkt i din mobil, surfplatta eller webbläsare - utan app. ÖREBRO COMEDY CLUB PRESENTERAR - Anders "Ankan" Johansson + support! Anders "Ankan" Johansson klättrar högt upp och hämtar ner en nästan nyfödd fågelunge, en eremitibis, som ska undersökas. </p>";s:7:"keyword";s:32:"anders ankan'' johansson örebro";s:5:"links";s:6130:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inackorderingsbidrag-bergs-kommun'>Inackorderingsbidrag Bergs Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stersund-fk-allsvenskan'>östersund Fk Allsvenskan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=falkenbergska-kvarnen-julbord'>Falkenbergska Kvarnen Julbord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hundar-till-salu-p%C3%A5-%C3%A5land'>Hundar Till Salu På åland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sp%C3%A4rra-bankkort-l%C3%A4nsf%C3%B6rs%C3%A4kringar'>Spärra Bankkort Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-startpaket-3kontant-bredband'>Tre Startpaket 3kontant Bredband</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=whitney-houston-album'>Whitney Houston Album</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffran-i-l%C3%A5ngpanna'>Saffran I Långpanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hanna-falk-twar'>Hanna Falk Twar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dexter-uppsala-yrkesgymnasium'>Dexter Uppsala Yrkesgymnasium</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byta-l%C3%A4nkarm-toyota-avensis-kostnad'>Byta Länkarm Toyota Avensis Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resultat%2C-fotboll-sverige'>Resultat, Fotboll Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helvetia-klocka-v%C3%A4rde'>Helvetia Klocka Värde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffranspasta-med-quorn'>Saffranspasta Med Quorn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antik-tragedi-medea'>Antik Tragedi Medea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toll-norge-import'>Toll Norge Import</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wildling-film-i-v%C3%A4st'>Wildling Film I Väst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-ford-traktorer'>Begagnade Ford Traktorer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-soff%C3%B6verdrag-ektorp'>Ikea Sofföverdrag Ektorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oyster-card-price-3-days'>Oyster Card Price 3 Days</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adidas-fotbollsstrumpor-storleksguide'>Adidas Fotbollsstrumpor Storleksguide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mff-hif-stream'>Mff Hif Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rustik-karlshamn-meny'>Rustik Karlshamn Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landseer-eller-newfoundland'>Landseer Eller Newfoundland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rabattkod-rosa-huset'>Rabattkod Rosa Huset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=packline-fx-210'>Packline Fx 210</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=student-halmstad-2020'>Student Halmstad 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-hipp-pension%C3%A4rer'>Hipp Hipp Pensionärer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trygg-hansa-skadeanm%C3%A4lan-blankett'>Trygg-hansa Skadeanmälan Blankett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6d-i-v%C3%A5ffelj%C3%A4rn'>Bröd I Våffeljärn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4sblod-vid-tr%C3%A4ning'>Näsblod Vid Träning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tonskala-do-re-mi'>Tonskala Do Re Mi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Captain-George-Apartments4%2C6%2811%290%2C5%C2%A0km-bort59%C2%A0%E2%82%AC'>Captain George Apartments4,6(11)0,5 km Bort59 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-rum%C3%A4nien-resultat'>Sverige Rumänien Resultat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hytte-til-salgs-hemsedal'>Hytte Til Salgs Hemsedal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=familjehem-privata-f%C3%B6retag'>Familjehem Privata Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-transylvanien-2-netflix'>Hotell Transylvanien 2 Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ran-lundblad-flashback'>Göran Lundblad Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guillermo-molins-familj'>Guillermo Molins Familj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liten-bok-synonym'>Liten Bok Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sanna-nielsen-%C3%A5lder'>Sanna Nielsen ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-fraser-pdf'>Svenska Fraser Pdf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kreditkort-nystartat-f%C3%B6retag'>Kreditkort Nystartat Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-blanca%2C-lanzarote-shopping'>Playa Blanca, Lanzarote Shopping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stream-genk-liverpool'>Stream Genk Liverpool</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ophelia-2018-imdb'>Ophelia 2018 Imdb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=belgisk-vallhund-engelska'>Belgisk Vallhund Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-exempel-ingenj%C3%B6r'>Personligt Brev Exempel Ingenjör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scanpan-trakt%C3%B6rpanna-26-cm'>Scanpan Traktörpanna 26 Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-var-gustav-vasa-som-person'>Hur Var Gustav Vasa Som Person</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skinkstek-med-sting'>Skinkstek Med Sting</a>,
+";s:7:"expired";i:-1;}

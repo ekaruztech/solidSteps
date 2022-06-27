@@ -1,0 +1,105 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2862:"<p>Få lärosäten lyckas utbilda tillräckligt många sjuksköterskor Många lärosäten har inte klarat kravet på att öka intaget till sjuksköterskeprogrammen. Redan i dag utbildar Mälardalens högskola omkring 350 sjuksköterskor varje år. Inte ens hälften av landets universitet och högskolor har klarat regeringens krav på att öka antalet utbildningsplatser på grundutbildningarna för sjuksköterskor. Trycket från landstingen och kommunerna på att utbilda ännu fler är stort. Sophiahemmet Högskola startar därför en skräddarsydd utbildning i akut hjärtsjukvård. En sjuksköterska har många arbetsuppgifter utöver vården runt patienten. </p> <p>Ja, sjuksköterskor ÄR ju bevisligen akademiker så jag förstår inte hur man kan rösta nej? </p> <p>Emellertid ett uttalande som kan sägas är att 50 000 ljusår är den tillryggalagda av ljus i 50.000 mänskliga år.  Sjuksköterskor får högre ingångslön Flera sjuksköterskor som examineras i sommar kommer att få en ingångslön på 25 000 kronor i månadslön. Jag är tandhygienist och alltså själv akademiker, inte många som anser att man är det kan jag tänka mig. </p> <p>Det motsvarar cirka nio procent av alla patienter i sjukhusvård visar Socialstyrelsens vårdskademätning. – Men det är inte så enkelt att bara öka antalet utbildningsplatser. </p> <p>Men flesta fall [ca 9 i 10] är asymtomatiska, eller lösa sig utan några symptom. Hur många människor är smittade med polio varje år&quest; Många tusentals, om inte tusentals människor smittas varje år av polio, främst i utvecklingsländer, särskilt Indien. Bakgrund: cirka 5000 sjuksköterskor examineras varje år i Sverige. 14 april 2014 22:55 – Vi hedrar dem med 3000 vita kors vid … </p> <p>Vården skriker efter personal, samtidigt har 40 000 sjuksköterskor lämnat landstingen. Ett ljusår är ett mått på avstånd, inte tid, så det finns ingen relation mellan två i det här fallet. Erfarna sjuksköterskor ansåg att nyutexaminerade sjuksköterskor saknade den kunskap som krävdes för att självständigt </p> <p>I Sveriges skadas varje år drygt 100 000 människor i vården. 3 000 dör av sina vårdskador – lika många som sex jumbojet om året. Är även med i AEA, akademikernas erkända a-kassa vilket bara akademiker får vara. Skapa en ny tråd; Sjuksköterskor Tor 16 apr 17:07 Läst 0 gånger Totalt 12 svar. för många år sedan men har inte fullföljt någon utbildning efter gymnasiet. </p> <p>Som person skall sjuksköterskan vara respektfull och visa medkänsla. Nyckel­piga00. Hur många människors år är 50000 ljusår? Vården behöver fler sjuksköterskor som behärskar avancerad teknik. Vi har redan i dag mycket svårt att ordna vfu … Varje medlem är ansvarig för sina inlägg. Visa endast ... Har studerat ett år på Linköpings univ. </p>";s:7:"keyword";s:269:"liverpool world cup jersey'/**/AND/**/3475=(SELECT/**/(XMLType(CHR(71)||CHR(89)||CHR(84)||CHR(120)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(71)||CHR(89)||CHR(84)||CHR(120)))/**/FROM/**/DUAL)/**/AND/**/'6538'='6538";s:5:"links";s:7472:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-g%C3%B6r-man-avdrag-f%C3%B6r-cykel-i-deklarationen'>Hur Gör Man Avdrag För Cykel I Deklarationen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanal-5-danmark-stream'>Kanal 5 Danmark Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=city-of-liverpool'>City Of Liverpool</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-utdragbar-s%C3%A4ng'>Bygga Utdragbar Säng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mio-sense-delux-kontinentals%C3%A4ng'>Mio Sense Delux Kontinentalsäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pelikan----wikipedia'>Pelikan -- Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brunch-g%C3%A4vle-s%C3%B6ndag'>Brunch Gävle Söndag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=new-levels-3%2C-elevwebb'>New Levels 3, Elevwebb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-soffbord-link%C3%B6ping'>Begagnade Soffbord Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=myheritage-dna-test-kritik'>Myheritage Dna-test Kritik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonym-for-have'>Synonym For Have</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oeko-tex-madrass-spj%C3%A4ls%C3%A4ng'>Oeko-tex Madrass Spjälsäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-yoga-energy'>Friskis Yoga Energy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steka-i-trakt%C3%B6rpanna'>Steka I Traktörpanna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%A4ckbyte-uppsala-librob%C3%A4ck'>Däckbyte Uppsala Librobäck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bron-s%C3%A4song-2-cast'>Bron Säsong 2 Cast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barnstrumpor-storlek-cm'>Barnstrumpor Storlek Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elvis-konsert-usa'>Elvis Konsert Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=phantom-of-the-opera---broadway-cast'>Phantom Of The Opera - Broadway Cast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5-hundar-till-salu-v%C3%A4rmland'>Små Hundar Till Salu Värmland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=freddie-mercury-l%C3%A5tar'>Freddie Mercury Låtar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ung-f%C3%B6retagsamhet-t%C3%A4vlingar'>Ung Företagsamhet Tävlingar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatteverket-blanketter-arbetsgivardeklaration'>Skatteverket Blanketter Arbetsgivardeklaration</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=locka-h%C3%A5ret-tutorial'>Locka Håret Tutorial</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-absolut-company'>The Absolut Company</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laktosfri-t%C3%A5rta-recept'>Laktosfri Tårta Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kasai-in-the-sky-event'>Kasai In The Sky Event</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sagosamling-astrid-lindgren'>Sagosamling Astrid Lindgren</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valuta-franska-revolutionen'>Valuta Franska Revolutionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=potatissallad-med-kapris'>Potatissallad Med Kapris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vattenburen-golvv%C3%A4rme-tjocklek'>Vattenburen Golvvärme Tjocklek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sovrum-inspiration-bl%C3%A5tt'>Sovrum Inspiration Blått</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boende-%C3%A5land-tips'>Boende åland Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=max-darj-fru'>Max Darj Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gokart-t%C3%A4vling-helsingborg'>Gokart Tävling Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-pajdeg-willys'>Glutenfri Pajdeg Willys</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=exempel-p%C3%A5-tj%C3%A4nsteyrken'>Exempel På Tjänsteyrken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-cr-v-motor'>Honda Cr-v Motor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pussel-v%C3%A4rldskarta-5000'>Pussel Världskarta 5000</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-hamburgare-dressing'>Lchf Hamburgare Dressing</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-fotbollsplan-inomhus'>Hyra Fotbollsplan Inomhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julbord-v%C3%A4stan%C3%A5-slott'>Julbord Västanå Slott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=horse-trainer-water'>Horse Trainer Water</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-f%C3%A4rg-gr%C3%A5'>Nordsjö Färg Grå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bing-s%C3%B6kmotor-ta-bort'>Bing Sökmotor Ta Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-zakynthos-kalamaki'>Hotell Zakynthos Kalamaki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5ng-till-friheten'>Sång Till Friheten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedemora-energi-elhandel'>Hedemora Energi Elhandel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rmlands-l%C3%A4n-evenemang'>Värmlands Län Evenemang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5sklov-2019-v%C3%A4sterbotten'>Påsklov 2019 Västerbotten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koh-samui-karta'>Koh Samui Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=convert-to-mp3---online'>Convert To Mp3 - Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pirates-of-the-caribbean-piano-music'>Pirates Of The Caribbean Piano Music</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Pensionat-Drottninggatan-114%2C5%2861%290%2C1%C2%A0km-bort89%C2%A0%E2%82%AC'>Pensionat Drottninggatan 114,5(61)0,1 km Bort89 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=excentrisk-t%C3%B6j-f%C3%B6r-hamstring'>Excentrisk Töj För Hamstring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=balearernas-st%C3%B6rsta-%C3%B6'>Balearernas Största ö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-man-i-byr%C3%A5n-melodifestivalen'>En Man I Byrån Melodifestivalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=windows-live-essentials'>Windows Live Essentials</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hats-russian-war'>Hats Russian War</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bake-off-br%C3%B6d-ica'>Bake Off Bröd Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=odysseus-cyklopen-sammanfattning'>Odysseus Cyklopen Sammanfattning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karup-design-denmark'>Karup Design Denmark</a>,
+";s:7:"expired";i:-1;}

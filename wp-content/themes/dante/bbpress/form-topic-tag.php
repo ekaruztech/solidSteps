@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Edit Topic Tag
  *
  * @package bbPress

@@ -1,5 +1,5 @@
 <?php
-	/*  for PRO users! - *
+	/**
 	 * The Template for displaying product archives, including the main shop page which is a post type archive.
 	 *
 	 * Override this template by copying it to yourtheme/woocommerce/archive-product.php
@@ -14,8 +14,8 @@
 	$options = get_option('sf_dante_options');
 		
 	$sidebar_config = $options['woo_sidebar_config'];
-	$left_sidebar = $options['woo_left_sidebar'];
-	$right_sidebar = $options['woo_right_sidebar'];
+	$left_sidebar = strtolower($options['woo_left_sidebar']);
+	$right_sidebar = strtolower($options['woo_right_sidebar']);
 	
 	if ($sidebar_config == "") {
 		$sidebar_config = 'right-sidebar';
@@ -64,7 +64,7 @@
 	get_header('shop');	?>
 
 	<?php
-		/*  for PRO users! - *
+		/**
 		 * woocommerce_before_main_content hook
 		 *
 		 * @hooked woocommerce_output_content_wrapper - 10 (outputs opening divs for the content)
@@ -81,7 +81,7 @@
 			<div class="page-content <?php echo $content_class; ?>">
 			
 			<?php
-				/*  for PRO users! - *
+				/**
 				 * woocommerce_before_shop_loop hook
 				 *
 				 * @hooked woocommerce_result_count - 20
@@ -128,7 +128,7 @@
 		
 						<?php while ( have_posts() ) : the_post(); ?>
 		
-							<?php woocommerce_get_template_part( 'content', 'product' ); ?>
+							<?php wc_get_template_part( 'content', 'product' ); ?>
 		
 						<?php endwhile; // end of the loop. ?>
 		
@@ -142,7 +142,7 @@
 					
 					<?php while ( have_posts() ) : the_post(); ?>
 					
-						<?php woocommerce_get_template_part( 'content', 'product' ); ?>
+						<?php wc_get_template_part( 'content', 'product' ); ?>
 	
 					<?php endwhile; // end of the loop. ?>
 					
@@ -151,7 +151,7 @@
 				<?php } ?>
 	
 				<?php
-					/*  for PRO users! - *
+					/**
 					 * woocommerce_after_shop_loop hook
 					 *
 					 * @hooked woocommerce_pagination - 10
@@ -199,7 +199,7 @@
 	</div>
 	
 	<?php
-		/*  for PRO users! - *
+		/**
 		 * woocommerce_after_main_content hook
 		 *
 		 * @hooked woocommerce_output_content_wrapper_end - 10 (outputs closing divs for the content)

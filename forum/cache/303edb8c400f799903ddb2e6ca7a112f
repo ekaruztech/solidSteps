@@ -1,0 +1,105 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3911:"<p>LSS (Lagen om Stöd och Service till vissa funktionshindrade) har som syfte att människor med funktionsnedsättningar ska få det stöd som behövs för att kunna leva ett så självständigt liv som möjligt. Det kan gälla personer som drabbats av tumörer, stroke, eller skador som beror på yttre våld som trafik­ skador. </p> <p>1 § 2 i LSS. Min son har den svåraste formen av ADHD men blev nekad LSS till han fick tilläggsdiagnosen atypisk autism. jo, man kan utifrån svårighetsgrad på ADHD, och de problem som det ger i vardagen, bli bedömd som att man tillhör personkrets 3. LSS är en rättighetslag och gäller för dem som har varaktiga och omfattande funktionsnedsättningar. regel personkrets 2 eller 3 som är aktuella. </p> <p>För att tillhöra personkrets 2 ska man ha ett ”betydan­ de och bestående begåvningsmässigt funktions­ hinder efter hjärnskada i vuxen ålder, föranledd av yttre våld eller kroppslig sjukdom”. </p> <p>Personkrets 3 omfattar personer som har andra varaktiga fysiska eller psykiska funktionsnedsättningar som uppenbart inte beror på normalt åldrande om de är stora och orsakar betydande svårigheter i den dagliga livsföringen och därmed ett omfattande behov av stöd och service. </p> <p>Det är en kompletteringslag till socialtjänstlagen. De tre personkretsar som omfattas och bedöms tillhöra LSS: Personer med utvecklingsstörning och personer med autism eller autismliknande tillstånd. </p> <p>Däremot omfattas de av LSS om de uppfyller kriterierna i personkrets 3. Personkrets 3 Personer med stora och varaktiga fysiska eller psykiska funktionshinder, som ej beror på normalt åldrande och som ger betydande svårigheter i den dagliga livsföringen Den tredje personkretsen utgörs av barn, ungdomar och vuxna med stor och varaktig fysisk eller psykisk funktionsnedsättning, som inte uppenbart beror på normalt åldrande. Personkrets 1 § 3 För att tillhöra personkretsen enligt punkt tre krävs ett varaktigt fysiskt eller psykiskt funktionshinder, som är stort och som förorsakar betydande svårigheter i den dagliga livsföringen som därmed leder till ett omfattande behov av … Mål rörande tillhörighet i personkrets 3 i LSS Domstol: Kammarrätten i Göteborg, mål nr 5389-18 Målet rör en 67- årig kvinna som yrkade att hon skulle tillhöra personkrets 3 då hon led av MS och satt i rullstol. Ett problem som vi upplever är att LSS-stöd enligt personkrets 3 inte ges till barn och unga med ADHD eller med »gråzonskombinationer« av kognitiva och beteendemässiga funktionsproblem, trots att dessa medför mycket betydande funktionsnedsättning. </p> <p>Mål rörande rätt till assistansersättning för kommunikation, ak Målnr: 5389-18. Personer med psykiska funktionsnedsättningar kan efter personkretsbedömning, personkrets 3, omfattas av lag om stöd och service till vissa funktionshindrade, LSS. Mål rörande tillhörighet i personkrets 3 i LSS. Ett assistansbolag med personlig assistans som faktiskt fungerar. Personkrets 3 Personer med stora och varaktiga fysiska eller psykiska funktionshinder, som ej beror på normalt åldrande och som ger betydande svårigheter i den dagliga livsföringen Den tredje personkretsen utgörs av barn, ungdomar och vuxna med stor och varaktig fysisk eller psykisk funktionsnedsättning, som inte uppenbart beror på normalt åldrande. diagnoserna att Asperger syndrom är en diagnos som ingår i personkrets 1 medan Tourettes syndrom, ADHD och DAMP är diagnoser som inte omfattas av personkrets 1. </p> <p>Men det finns också de vars funktionsnedsättning innebär stora svårigheter och ett sammansatt vård- och stödbehov. Domstol: Kammarrätten i Jönköping, mål nr 23-19 Målet rör en 8- årig pojke tillhörande personkrets 3 som led av mycket omfattande funktionsnedsättningar. Det måste upphöra, skriver representanter för Attention. </p>";s:7:"keyword";s:251:"gaming innovation group))/**/AND/**/7732/**/IN/**/(SELECT/**/(CHAR(103)+CHAR(57)+CHAR(108)+CHAR(71)+(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END))+CHAR(103)+CHAR(57)+CHAR(108)+CHAR(71)))/**/AND/**/((6538=%6538";s:5:"links";s:7256:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontinentals%C3%A4ng-fj%C3%A4llbacka-mio'>Kontinentalsäng Fjällbacka Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=total-makt-synonym'>Total Makt Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=juvenile-huntington%27s-disease'>Juvenile Huntington's Disease</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nippon-sushi-arvika-meny'>Nippon Sushi Arvika Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-statt-lunch'>Hotell Statt Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=explosion-uppsala-idag'>Explosion Uppsala Idag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sundsvall-cup-handboll-2019'>Sundsvall Cup Handboll 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wset-level-1-sverige'>Wset Level 1 Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=staffan-olsson-%C3%B6l'>Staffan Olsson öl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norrlands-nation-f%C3%B6reningar'>Norrlands Nation Föreningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4rleksmums-roy-fares'>Kärleksmums Roy Fares</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kommunen-sommarjobb-2020'>Kommunen Sommarjobb 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A4ssa-%C3%A4lvsj%C3%B6-9-november'>Mässa älvsjö 9 November</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wc-anslutning-b%C3%B6j'>Wc Anslutning Böj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friends-arena-tak-sverige-f%C3%A4r%C3%B6arna'>Friends Arena Tak Sverige Färöarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj-min-resa'>Sj Min Resa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=world-championship-handball-2023'>World Championship Handball 2023</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4skkarr%C3%A9-i-ugn-utan-termometer'>Fläskkarré I Ugn Utan Termometer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilket-djur-passar-min-personlighet'>Vilket Djur Passar Min Personlighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hungarian-and-finnish'>Hungarian And Finnish</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=montera-bindningar-sj%C3%A4lv'>Montera Bindningar Själv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viking-s%C3%A4ng-birka'>Viking Säng Birka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=do-re%2C-mi-scale'>Do Re, Mi Scale</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ldreboende-v%C3%A4stra-fr%C3%B6lunda'>äldreboende Västra Frölunda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=golden-buzzer-2017'>Golden Buzzer 2017</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mallorca-alc%C3%BAdia-v%C3%A4der'>Mallorca Alcúdia Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=heta-arbeten-s%C3%B6derhamn'>Heta Arbeten Söderhamn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=considerable-amount-synonym'>Considerable Amount Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sofia-wood-polenta'>Sofia Wood Polenta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socialstyrelsen-riktlinjer-riskgrupp'>Socialstyrelsen Riktlinjer Riskgrupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sportlovsaktiviteter-2020-vetlanda'>Sportlovsaktiviteter 2020 Vetlanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=den-b%C3%A4sta-sommaren-sf-anytime'>Den Bästa Sommaren Sf Anytime</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-i-ugn-med-kapris'>Lax I Ugn Med Kapris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-den-som-%C3%A4r-p%C3%A5-%C3%B6rat'>är Den Som är På örat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fotograf-stockholm-jobb'>Fotograf Stockholm Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lisa-vanderpump-pandora-todd'>Lisa Vanderpump Pandora Todd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laktosfri-choklad-willys'>Laktosfri Choklad Willys</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-group-english'>Volvo Group English</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hdcs-distrikt-a'>Hdcs Distrikt A</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wheaten-terrier-wiki'>Wheaten Terrier Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-f%C3%B6rnyas-skelettet'>Hur Förnyas Skelettet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=horse-trainer-water'>Horse Trainer Water</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ratings-news-channels'>Ratings News Channels</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-mc-m%C3%A4rken'>Svenska Mc Märken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billig-veckomatsedel-barnfamilj'>Billig Veckomatsedel Barnfamilj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekbackens-f%C3%B6rskola-sundbyberg'>Ekbackens Förskola Sundbyberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=invandring-sverige-kostnader'>Invandring Sverige Kostnader</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-kodiak-700'>Yamaha Kodiak 700</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobba-mindre-mer-fritid'>Jobba Mindre Mer Fritid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tj%C3%A4nade-i-tempel'>Tjänade I Tempel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vildf%C3%A5ngad-lax-lidl'>Vildfångad Lax Lidl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ripan-kiruna-lunch'>Ripan Kiruna Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nibe-v%C3%A4rmepump-filter'>Nibe Värmepump Filter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-limone-gr%C3%A4dde'>Pasta Limone Grädde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=afrikansk-elefant-vs-indisk-elefant'>Afrikansk Elefant Vs Indisk Elefant</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-f31-et'>Bmw F31 Et</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-f%C3%B6rsvar'>Lediga Jobb Försvar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-vm-2019-hockey'>Sverige Vm 2019 Hockey</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-frukost-dryck'>Nyttig Frukost Dryck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jens-hult%C3%A9n-serie'>Jens Hultén Serie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shopping-puerto-de-la-cruz'>Shopping Puerto De La Cruz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studiehandboken-liu-2015'>Studiehandboken Liu 2015</a>,
+";s:7:"expired";i:-1;}

@@ -36,7 +36,7 @@
 		$main_slider .= '<div class="flexslider gallery-slider" data-transition="slide"><ul class="slides">'. "\n";
 					
 		foreach ( $gallery_images as $image ) {
-		    $main_slider .= "<li><img src='{$image['url']}' width='{$image['width']}' height='{$image['height']}' alt='{$image['alt']}' />". "\n";
+		    $main_slider .= "<li><a href='{$image['url']}' class='view' rel='gallery-{$post->ID}'><img src='{$image['url']}' width='{$image['width']}' height='{$image['height']}' alt='{$image['alt']}' /></a>". "\n";
 		    if ($image['caption'] != "") {
 		    $main_slider .= '<p class="flex-caption">'.$image['caption'].'</p>';
 		    }
@@ -76,14 +76,14 @@
 						<li class="next"><?php previous_post_link('%link', __('<span class="nav-text">%title</span><i class="ss-navigateright"></i>', 'swiftframework'), $same_category_navigation, '', 'gallery-category'); ?></li>
 					</ul>
 					
-					<!--<div class="post-info clearfix">
-						<span><?php //echo sprintf(__('Posted by <a href="%2$s" rel="author" itemprop="author">%1$s</a> on %3$s in %4$s', 'swiftframework'), $post_author, get_author_posts_url(get_the_author_meta( 'ID' )), $post_date, $post_categories); ?></span>
-						<?php //if ( comments_open() ) { ?>
+					<div class="post-info clearfix">
+						<span><?php echo sprintf(__('Posted by <a href="%2$s" rel="author" itemprop="author">%1$s</a> on %3$s in %4$s', 'swiftframework'), $post_author, get_author_posts_url(get_the_author_meta( 'ID' )), $post_date, $post_categories); ?></span>
+						<?php if ( comments_open() ) { ?>
 						<div class="comments-likes">
 							<div class="comments-wrapper"><a href="#comments"><i class="ss-chat"></i><span><?php comments_number(__('0 Comments', 'swiftframework'), __('1 Comment', 'swiftframework'), __('% Comments', 'swiftframework')); ?></span></a></div>
 						</div>
-						<?php //} ?>
-					</div>-->
+						<?php } ?>
+					</div>
 																
 					<section class="article-body-wrap">
 						<div class="body-text clearfix" itemprop="articleBody">

@@ -1,16 +1,16 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Shortcodes & Generator Class
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 	
 	
-	/*  for PRO users! -  ==================================================
+	/* ==================================================
 	
 	SHORTCODE GENERATOR SETUP
 	
@@ -63,14 +63,14 @@
 	add_action( 'init', 'sf_add_editor_styles' );	
 	
 	
-	/*  for PRO users! -  ==================================================
+	/* ==================================================
 	
 	SHORTCODES OUTPUT
 	
 	================================================== */
 	
 	
-	/*  for PRO users! -  ALERT SHORTCODE
+	/* ALERT SHORTCODE
 	================================================== */
 
 	function sf_alert( $atts, $content = null ) {
@@ -82,7 +82,7 @@
 	add_shortcode('alert', 'sf_alert');
 
 
-	/*  for PRO users! -  BUTTON SHORTCODE
+	/* BUTTON SHORTCODE
 	================================================== */
 	
 	function sf_button($atts, $content = null) {
@@ -118,7 +118,7 @@
 	add_shortcode('sf_button', 'sf_button');
 	
 	
-	/*  for PRO users! -  ICON SHORTCODE
+	/* ICON SHORTCODE
 	================================================== */
 		
 	function sf_icon($atts, $content = null) {
@@ -162,7 +162,7 @@
 	add_shortcode('icon', 'sf_icon');
 	
 	
-	/*  for PRO users! -  ICON BOX SHORTCODE
+	/* ICON BOX SHORTCODE
 	================================================== */
 	
 	function sf_iconbox($atts, $content = null) {
@@ -257,7 +257,7 @@
 	add_shortcode('sf_iconbox', 'sf_iconbox');
 	
 	
-	/*  for PRO users! -  IMAGE BANNER SHORTCODE
+	/* IMAGE BANNER SHORTCODE
 	================================================== */
 	
 	function sf_imagebanner($atts, $content = null) {
@@ -290,7 +290,7 @@
 	add_shortcode('sf_imagebanner', 'sf_imagebanner');
 	
 	
-	/*  for PRO users! -  COLUMN SHORTCODES
+	/* COLUMN SHORTCODES
 	================================================== */
 
 	function sf_one_third( $atts, $content = null ) {
@@ -344,7 +344,7 @@
 	add_shortcode('three_fourth_last', 'sf_three_fourth_last');
 	
 	
-	/*  for PRO users! -  TABLE SHORTCODES
+	/* TABLE SHORTCODES
 	================================================= */
 	
 	function sf_table_wrap( $atts, $content = null ) {
@@ -388,7 +388,7 @@
 	add_shortcode('thcol', 'sf_table_head');
 	
 	
-	/*  for PRO users! -  PRICING TABLE SHORTCODES
+	/* PRICING TABLE SHORTCODES
 	================================================= */
 	
 	function sf_pt_wrap( $atts, $content = null ) {
@@ -455,7 +455,7 @@
 	add_shortcode('pt_button', 'sf_pt_button');
 	
 	
-	/*  for PRO users! -  LABELLED PRICING TABLE SHORTCODES
+	/* LABELLED PRICING TABLE SHORTCODES
 	================================================= */
 	
 	function sf_lpt_wrap( $atts, $content = null ) {
@@ -551,7 +551,7 @@
 	add_shortcode('lpt_button', 'sf_lpt_button');
 	
 
-	/*  for PRO users! -  TYPOGRAPHY SHORTCODES
+	/* TYPOGRAPHY SHORTCODES
 	================================================= */
 
 	// Highlight Text
@@ -615,7 +615,7 @@
 	add_shortcode("pullquote", "sf_pullquote");
 		
 	
-	/*  for PRO users! -  LISTS SHORTCODES
+	/* LISTS SHORTCODES
 	================================================= */
 	
 	function sf_list( $atts, $content = null ) {
@@ -634,7 +634,7 @@
 	add_shortcode('list_item', 'sf_list_item');
 		
 
-	/*  for PRO users! -  DIVIDER SHORTCODE
+	/* DIVIDER SHORTCODE
 	================================================= */
 
 	function sf_horizontal_break($atts, $content = null) {
@@ -643,7 +643,7 @@
 	add_shortcode("hr", "sf_horizontal_break");
 
 
-	/*  for PRO users! -  SOCIAL SHORTCODE
+	/* SOCIAL SHORTCODE
 	================================================= */
 	if (!function_exists('sf_social_icons')) {
 		function sf_social_icons($atts, $content = null) {
@@ -809,7 +809,7 @@
 	}
 	
 	
-	/*  for PRO users! -  SITEMAP SHORTCODE
+	/* SITEMAP SHORTCODE
 	================================================= */
 	
 	function sf_sitemap($params = array()) {  
@@ -871,7 +871,7 @@
 	add_shortcode('sf_sitemap', 'sf_sitemap');  
 	
 	
-	/*  for PRO users! -  SERVICES PROGRESS BAR SHORTCODE
+	/* SERVICES PROGRESS BAR SHORTCODE
 	================================================= */
 	
 	function sf_progress_bar($atts) {
@@ -910,7 +910,7 @@
 	add_shortcode('progress_bar', 'sf_progress_bar');
 	
 	
-	/*  for PRO users! -  CHART SHORTCODE
+	/* CHART SHORTCODE
 	================================================= */
 	
 	function sf_chart($atts) {
@@ -950,7 +950,7 @@
 	add_shortcode('chart', 'sf_chart');
 	
 	
-	/*  for PRO users! -  TOOLTIP SHORTCODE
+	/* TOOLTIP SHORTCODE
 	================================================= */
 	
 	function sf_tooltip($atts, $content = null) {
@@ -968,59 +968,59 @@
 	add_shortcode('sf_tooltip', 'sf_tooltip');
 	
 	
-	/*  for PRO users! -  MODAL SHORTCODE
+	/* MODAL SHORTCODE
 	================================================= */
-	
-	function sf_modal($atts, $content = null) {
-		extract(shortcode_atts(array(
-			"header" => '',
-			"btn_type" => '',
-			"btn_colour" => '',
-			"btn_size" => '',
-			"btn_icon" => '',
-			"btn_text" => ''
-		), $atts));
-		
-		global $sf_modalCount;
-		
-		if ($sf_modalCount >= 0) {
-			$sf_modalCount++;
-		} else {
-			$sf_modalCount = 0;
-		}
-		
-		$modal_output = "";
-		
-		$button_class = 'sf-button '.$btn_size.' '. $btn_colour .' '. $btn_type;
-		
-		if ($btn_type == "sf-icon-reveal" || $btn_type == "sf-icon-stroke") {
-			$modal_output .= '<a class="'.$button_class.'" href="#modal-'.$sf_modalCount.'" role="button" data-toggle="modal">';
-			$modal_output .= '<i class="'.$btn_icon.'"></i>';
-			$modal_output .= '<span class="text">'. $btn_text .'</span>';
-			$modal_output .= '</a>';
-		} else {
-			$modal_output .= '<a class="'.$button_class.'" href="#modal-'.$sf_modalCount.'" role="button" data-toggle="modal"><span class="text">' . $btn_text . '</span></a>';
-		}
-		
-		$modal_output .= '<div id="modal-'.$sf_modalCount.'" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="'.$header.'" aria-hidden="true">';
-		$modal_output .= '<div class="modal-dialog">';
-		$modal_output .= '<div class="modal-content">';
-		$modal_output .= '<div class="modal-header">';
-		$modal_output .= '<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="ss-delete"></i></button>';
-		$modal_output .= '<h3 id="modal-label">'.$header.'</h3>';
-		$modal_output .= '</div>';
-		$modal_output .= '<div class="modal-body">'.do_shortcode($content).'</div>';
-		$modal_output .= '</div>';
-		$modal_output .= '</div>';
-		$modal_output .= '</div>';
+	if (!function_exists('sf_modal')) {
+		function sf_modal($atts, $content = null) {
+			extract(shortcode_atts(array(
+				"header" => '',
+				"btn_type" => '',
+				"btn_colour" => '',
+				"btn_size" => '',
+				"btn_icon" => '',
+				"btn_text" => ''
+			), $atts));
 			
-		return $modal_output;
+			global $sf_modalCount;
+			
+			if ($sf_modalCount >= 0) {
+				$sf_modalCount++;
+			} else {
+				$sf_modalCount = 0;
+			}
+			
+			$modal_output = "";
+			
+			$button_class = 'sf-button '.$btn_size.' '. $btn_colour .' '. $btn_type;
+			
+			if ($btn_type == "sf-icon-reveal" || $btn_type == "sf-icon-stroke") {
+				$modal_output .= '<a class="'.$button_class.'" href="#modal-'.$sf_modalCount.'" role="button" data-toggle="modal">';
+				$modal_output .= '<i class="'.$btn_icon.'"></i>';
+				$modal_output .= '<span class="text">'. $btn_text .'</span>';
+				$modal_output .= '</a>';
+			} else {
+				$modal_output .= '<a class="'.$button_class.'" href="#modal-'.$sf_modalCount.'" role="button" data-toggle="modal"><span class="text">' . $btn_text . '</span></a>';
+			}
+			
+			$modal_output .= '<div id="modal-'.$sf_modalCount.'" class="modal fade" tabindex="-1" role="dialog" aria-labelledby="'.$header.'" aria-hidden="true">';
+			$modal_output .= '<div class="modal-dialog">';
+			$modal_output .= '<div class="modal-content">';
+			$modal_output .= '<div class="modal-header">';
+			$modal_output .= '<button type="button" class="close" data-dismiss="modal" aria-hidden="true"><i class="ss-delete"></i></button>';
+			$modal_output .= '<h3 id="modal-label">'.$header.'</h3>';
+			$modal_output .= '</div>';
+			$modal_output .= '<div class="modal-body">'.do_shortcode($content).'</div>';
+			$modal_output .= '</div>';
+			$modal_output .= '</div>';
+			$modal_output .= '</div>';
+				
+			return $modal_output;
+		}
+		add_shortcode('sf_modal', 'sf_modal');	
 	}
 	
-	add_shortcode('sf_modal', 'sf_modal');	
 	
-	
-	/*  for PRO users! -  FULLSCREEN VIDEO SHORTCODE
+	/* FULLSCREEN VIDEO SHORTCODE
 	================================================= */
 	
 	function sf_fullscreen_video($atts, $content = null) {
@@ -1070,7 +1070,7 @@
 	add_shortcode('sf_fullscreenvideo', 'sf_fullscreen_video');
 	
 	
-	/*  for PRO users! -  RESPONSIVE VISIBILITY SHORTCODE
+	/* RESPONSIVE VISIBILITY SHORTCODE
 	================================================= */
 	
 	function sf_visibility($atts, $content = null) {
@@ -1086,7 +1086,7 @@
 	add_shortcode('sf_visibility', 'sf_visibility');
 	
 
-	/*  for PRO users! -  YEAR SHORTCODE
+	/* YEAR SHORTCODE
 	================================================= */
 
 	function sf_year_shortcode() {
@@ -1097,7 +1097,7 @@
 	add_shortcode('the-year', 'sf_year_shortcode');
 
 
-	/*  for PRO users! -  WORDPRESS LINK SHORTCODE
+	/* WORDPRESS LINK SHORTCODE
 	================================================= */
 
 	function sf_wordpress_link() {
@@ -1107,7 +1107,7 @@
 	add_shortcode('wp-link', 'sf_wordpress_link');
 	
 	
-	/*  for PRO users! -  COUNT SHORTCODE
+	/* COUNT SHORTCODE
 	================================================= */
 	
 	function sf_count($atts) {
@@ -1146,7 +1146,7 @@
 	add_shortcode('sf_count', 'sf_count');
 	
 	
-	/*  for PRO users! -  COUNTDOWN SHORTCODE
+	/* COUNTDOWN SHORTCODE
 	================================================= */
 	
 	function sf_countdown($atts) {
@@ -1176,7 +1176,7 @@
 	add_shortcode('sf_countdown', 'sf_countdown');
 	
 	
-	/*  for PRO users! -  SOCIAL SHARE SHORTCODE
+	/* SOCIAL SHARE SHORTCODE
 	================================================= */
 
 	function sf_social_share() {
@@ -1211,7 +1211,7 @@
 	add_shortcode('sf_social_share', 'sf_social_share');
 	
 	
-	/*  for PRO users! -  SWIFT SUPER SEARCH SHORTCODE
+	/* SWIFT SUPER SEARCH SHORTCODE
 	================================================= */
 	
 	function sf_supersearch() {
@@ -1222,7 +1222,7 @@
 	add_shortcode('sf_supersearch', 'sf_supersearch');
 	
 	
-	/*  for PRO users! -  EMAIL ENCODE SHORTCODE
+	/* EMAIL ENCODE SHORTCODE
 	================================================== */
 	function sf_email_encode_function( $atts, $content ){
 	    return '<a href="'.antispambot("mailto:".$content).'">'.antispambot($content).'</a>';
@@ -1230,7 +1230,7 @@
 	add_shortcode( 'email', 'sf_email_encode_function' );
 	
 	
-	/*  for PRO users! -  SWIFT GALLERY SHORTCODE
+	/* SWIFT GALLERY SHORTCODE
 	================================================= */
 	
 	$options = get_option('sf_dante_options');
@@ -1249,73 +1249,80 @@
 		
 		static $instance = 0;
 		$instance++;
-		
+	
 		if ( ! empty( $attr['ids'] ) ) {
 			// 'ids' is explicitly ordered, unless you specify otherwise.
 			if ( empty( $attr['orderby'] ) ) {
 				$attr['orderby'] = 'post__in';
-				$attr['include'] = $attr['ids'];
-			}	
+			}
+			$attr['include'] = $attr['ids'];
 		}
-		
-		// Allow plugins/themes to override the default gallery template.
-		$output = apply_filters('post_gallery', '', $attr);
+	
+		/**
+		 * Filters the default gallery shortcode output.
+		 *
+		 * If the filtered output isn't empty, it will be used instead of generating
+		 * the default gallery template.
+		 *
+		 * @since 2.5.0
+		 * @since 4.2.0 The `$instance` parameter was added.
+		 *
+		 * @see gallery_shortcode()
+		 *
+		 * @param string $output   The gallery output. Default empty.
+		 * @param array  $attr     Attributes of the gallery shortcode.
+		 * @param int    $instance Unique numeric ID of this gallery shortcode instance.
+		 */
+		$output = apply_filters( 'post_gallery', '', $attr, $instance );
 		if ( $output != '' ) {
 			return $output;
 		}
-		
-		// We're trusting author input, so let's at least make sure it looks like a valid orderby statement
-		if ( isset( $attr['orderby'] ) ) {
-			$attr['orderby'] = sanitize_sql_orderby( $attr['orderby'] );
-			if ( !$attr['orderby'] )
-			unset( $attr['orderby'] );
-		}
-		
-		extract(shortcode_atts(array(
+	
+		$html5 = current_theme_supports( 'html5', 'gallery' );
+		$atts = shortcode_atts( array(
 			'order'      => 'ASC',
 			'orderby'    => 'menu_order ID',
 			'id'         => $post ? $post->ID : 0,
-			'itemtag'    => 'dl',
-			'icontag'    => 'dt',
-			'captiontag' => 'dd',
+			'itemtag'    => $html5 ? 'figure'     : 'dl',
+			'icontag'    => $html5 ? 'div'        : 'dt',
+			'captiontag' => $html5 ? 'figcaption' : 'dd',
 			'columns'    => 3,
 			'size'       => 'large',
 			'include'    => '',
-			'exclude'    => ''
-		), $attr, 'gallery'));
-		
-		$id = intval($id);
-		if ( 'RAND' == $order ) {
-			$orderby = 'none';
-		}
-		
-		if ( !empty($include) ) {
-			$_attachments = get_posts( array('include' => $include, 'post_status' => 'inherit', 'post_type' => 'attachment', 'post_mime_type' => 'image', 'order' => $order, 'orderby' => $orderby) );
-		
+			'exclude'    => '',
+			'link'       => ''
+		), $attr, 'gallery' );
+	
+		$id = intval( $atts['id'] );
+	
+		if ( ! empty( $atts['include'] ) ) {
+			$_attachments = get_posts( array( 'include' => $atts['include'], 'post_status' => 'inherit', 'post_type' => 'attachment', 'post_mime_type' => 'image', 'order' => $atts['order'], 'orderby' => $atts['orderby'] ) );
+	
 			$attachments = array();
 			foreach ( $_attachments as $key => $val ) {
 				$attachments[$val->ID] = $_attachments[$key];
 			}
-		} elseif ( !empty($exclude) ) {
-			$attachments = get_children( array('post_parent' => $id, 'exclude' => $exclude, 'post_status' => 'inherit', 'post_type' => 'attachment', 'post_mime_type' => 'image', 'order' => $order, 'orderby' => $orderby) );
+		} elseif ( ! empty( $atts['exclude'] ) ) {
+			$attachments = get_children( array( 'post_parent' => $id, 'exclude' => $atts['exclude'], 'post_status' => 'inherit', 'post_type' => 'attachment', 'post_mime_type' => 'image', 'order' => $atts['order'], 'orderby' => $atts['orderby'] ) );
 		} else {
-			$attachments = get_children( array('post_parent' => $id, 'post_status' => 'inherit', 'post_type' => 'attachment', 'post_mime_type' => 'image', 'order' => $order, 'orderby' => $orderby) );
+			$attachments = get_children( array( 'post_parent' => $id, 'post_status' => 'inherit', 'post_type' => 'attachment', 'post_mime_type' => 'image', 'order' => $atts['order'], 'orderby' => $atts['orderby'] ) );
 		}
-		
-		if ( empty($attachments) ) {
+	
+		if ( empty( $attachments ) ) {
 			return '';
 		}
-		
+	
 		if ( is_feed() ) {
 			$output = "\n";
-			foreach ( $attachments as $att_id => $attachment )
-			$output .= wp_get_attachment_link($att_id, $size, true) . "\n";
+			foreach ( $attachments as $att_id => $attachment ) {
+				$output .= wp_get_attachment_link( $att_id, $atts['size'], true ) . "\n";
+			}
 			return $output;
 		}
 		
-		$itemtag = tag_escape($itemtag);
-		$captiontag = tag_escape($captiontag);
-		$icontag = tag_escape($icontag);
+		$itemtag = tag_escape( $atts['itemtag'] );
+		$captiontag = tag_escape( $atts['captiontag'] );
+		$icontag = tag_escape( $atts['icontag'] );
 		$valid_tags = wp_kses_allowed_html( 'post' );
 		if ( ! isset( $valid_tags[ $itemtag ] ) ) {
 			$itemtag = 'dl';
@@ -1326,23 +1333,25 @@
 		if ( ! isset( $valid_tags[ $icontag ] ) ) {
 			$icontag = 'dt';
 		}
-		
-		$columns = intval($columns);
+	
+		$columns = intval( $atts['columns'] );
 		$itemwidth = $columns > 0 ? floor(100/$columns) : 100;
 		$float = is_rtl() ? 'right' : 'left';
-		
+	
 		$selector = "gallery-{$instance}";
-		
+	
 		$gallery_style = '';
-		$size_class = sanitize_html_class( $size );
+		
+		$size_class = sanitize_html_class( $atts['size'] );
 		$output = "<div id='$selector' class='gallery galleryid-{$id} gallery-columns-{$columns} gallery-size-{$size_class}'>";
 		
 		$i = 0;
+		
 		foreach ( $attachments as $id => $attachment ) {
 		
 			$image_output = '<figure class="animated-overlay">';
 
-			$image_file_url = wp_get_attachment_image_src( $id, $size );
+			$image_file_url = wp_get_attachment_image_src( $id, $atts['size'] );
 			$image_file_lightbox_url = wp_get_attachment_url( $id, "full" );
 			$image_caption = wptexturize($attachment->post_excerpt);
 			$image_meta  = wp_get_attachment_metadata( $id ); 

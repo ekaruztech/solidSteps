@@ -1,7 +1,7 @@
 <?php
 class Redux_Validation_preg_replace extends Redux_Options{	
 	
-	/*  for PRO users! - *
+	/**
 	 * Field Constructor.
 	 *
 	 * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function
@@ -16,7 +16,7 @@ class Redux_Validation_preg_replace extends Redux_Options{
 		$this->validate();
 	}
 
-	/*  for PRO users! - *
+	/**
 	 * Field Render Function.
 	 *
 	 * Takes the vars and validates them
@@ -24,6 +24,6 @@ class Redux_Validation_preg_replace extends Redux_Options{
 	 * @since Redux_Options 1.0.0
 	*/
 	function validate() {
-		$this->value = preg_replace($this->field['preg']['pattern'], $this->field['preg']['replacement'], $this->value);
+		$this->value = preg_replace_callback($this->field['preg']['pattern'], function($matches){return $this->field['preg']['replacement'];}, $this->value);
 	}
 }

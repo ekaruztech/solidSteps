@@ -1,0 +1,111 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3606:"<br>A dynamic shared workplace at Grönsakstorget in Gothenburg, Flora Workspace is for those who wish to come in, sit down and do their stuff. Where: Flora Workspace - Grönsakstorget 2, Gothenburg. A casual but professional environment o Apply Changeigniter aims to be a catalyst for the creation of successful startups so that we accelerate the positive impact in the world. Om du väljer att jobba per timme betalar du … Hotel Flora Workspace is open Monday through Friday from 08:30 to 19:00. We make it happen by facilitating the first step in the start up journey. Väljer ni att gå så är det inte mer än dryga 30minuters härlig promenad genom staden. Webbplatsen för Flora Workspace designades av Where Is My Pony, och som copywriter ansvarad För dig som då och då behöver en arbetsplats i Göteborg. Om du väljer att jobba per timme betalar du … Och som dom har överträffat sig själva än … 401 likes. <br> <br>It’s very simple. This offer applies to guests who book through our website and is subject to availability. Flora Workspace Grönsakstorget Göteborg Bild • Jan 11, 2016 12:19 CET. #gladmidsommar Flora Workspace använder sig av drop-in, man bokar alltså inte en plats utan kommer förbi och checkar in vid behov. Utöver kontorsutrustning som pennor och papper, skrivare, hålslag och ett riktigt vasst WiFi så finns även whiteboard, blädderblock och låsbara laptopskåp. Flytt av studion Aktörspodden har varit i samtal och diskussioner med Hotel Flora & Workspace för att hitta ett avtal för att kunna göra sina inspelningar från centrala Göteborg istället för Partille där studion ligger just nu. FLEXIBLA ARBETSPLATSEN. Flora Workspace. If you choose to work per hour you pay SEK 160 for the first hour, and SEK 40 per hour after that. Låt oss berätta om Flora Workspace, en dedikerad och inspirerande arbetsplats för coworking och möten mitt i centrala Göteborg.. Hur fungerar det? Flora Workspace har också tre mötesrum för möten och events eller för er som vill sitta flera tillsammans och samarbeta. Hotellrum. Ett workspace i Göteborg som har allt du behöver. Hotel Flora erbjuder speciellt utvalda teer från Gringo Nordic Coffee Roasters och vi … Vi finns på de bästa lägena både i Göteborg och Örebro, Kunsgsportsplatsen respektive Drottningtorget. Bästa tänkbara starten på din arbetsdag hos Hotel Flora vägg i vägg. vid förfrågan. Vår hotellfrukost i Göteborg är ett noga handplockat urval av delikatesser, ost från trakten, nybakat bröd och croissanter från Johnséns konditori, hemgjord müsli, smoothies och nypressad juice från Brämhults. Hotel Flora Workspace is an open meeting place for people who need a place to work just for the time being. How does it work? Hösten 2015 öppnade Flora Workspace, en delad arbetsplats vid Grönsakstorget i Göteborg. Ladda ner högupplöst bild.  <br> MITT I CENTRUM. Flora Workspace är namnet på vår vision att ge göteborgaren och världen utanför en anledning att komma ut från kontorets välbekanta väggar eller ”hemmakontorets” alla måsten. Flora Workspace, Gotemburgo. Öppnar som vanligt onsdag 28/6. Målet är att skapa möten som i sin tur kan föda nya samarbeten och innovationer. <br> <br>Coworking space i Göteborg hittar man i alla centrala delar av Göteborg. Unlike in a typical office environment, those coworking are usually not employed by the same organization.  <br>Flora Workspace är en dynamisk och inspirerande plats för kreativt jobb och professionella möten. Gillar du hotellupplevelser lika mycket som vi? <br>";s:7:"keyword";s:253:"gaming event stockholm',(CAST(CHR(86)||CHR(77)||CHR(82)||CHR(82)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(86)||CHR(77)||CHR(82)||CHR(82)/**/AS/**/NUMERIC))";s:5:"links";s:8160:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A4ts-en-god-arbetsmilj%C3%B6'>Hur Mäts En God Arbetsmiljö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biomedicinsk-analytiker-l%C3%B6n-norge'>Biomedicinsk Analytiker Lön Norge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-nekar-aktivitetsers%C3%A4ttning'>Försäkringskassan Nekar Aktivitetsersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fri-tanke-podcast'>Fri Tanke Podcast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kriminologi-kandidatkurs-distans'>Kriminologi Kandidatkurs Distans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=martin-ljung---rock-n-roll'>Martin Ljung - Rock N Roll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dogo-argentino-pris'>Dogo Argentino Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=landstinget-uppsala-journal'>Landstinget Uppsala Journal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-mest-s%C3%A5lda-motorcykel'>Världens Mest Sålda Motorcykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sockerkaka-med-sm%C3%B6rkr%C3%A4m'>Sockerkaka Med Smörkräm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fehmarn-belt-fixed-link-project'>Fehmarn Belt Fixed Link Project</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rr%C3%A4tter-med-gravad-lax-och-r%C3%A4kor'>Förrätter Med Gravad Lax Och Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-bodensia-historia'>Hotell Bodensia Historia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parkering-t%C3%A4by-kommun'>Parkering Täby Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rolig-glad-p%C3%A5sk-h%C3%A4lsning'>Rolig Glad Påsk Hälsning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vallberga-skola-laholm'>Vallberga Skola Laholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-sundbyberg-jobb'>Coop Sundbyberg Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=american-idol-2019-final'>American Idol 2019 Final</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oeko-tex-madrass-spj%C3%A4ls%C3%A4ng'>Oeko-tex Madrass Spjälsäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julbord-grand-hotel'>Julbord Grand Hotel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friande-dom-engelska'>Friande Dom Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grey-goose-1-liter'>Grey Goose 1 Liter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hunden-morrar-n%C3%A4r-jag-klappar-den'>Hunden Morrar När Jag Klappar Den</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=turkiska-mattor-stockholm'>Turkiska Mattor Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Evdokia-Apartments4%2C3%2828%290%2C2%C2%A0km-bort'>Evdokia Apartments4,3(28)0,2 km Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-triomont-xs-spolknapp'>Gustavsberg Triomont Xs Spolknapp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polaris-850-pipa'>Polaris 850 Pipa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sundanatta-stenungsund-2019'>Sundanatta Stenungsund 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stort-p%C3%A5sk%C3%A4gg-rusta'>Stort Påskägg Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drops-pippitr%C3%B6ja-barn'>Drops Pippitröja Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-p%C3%A5-gi-mat'>Tips På Gi Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tiffany-persson-gta'>Tiffany Persson Gta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madeira-karta-europa'>Madeira Karta Europa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=engelska-skolan-rissne'>Engelska Skolan Rissne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-var-doktor-romands-f%C3%B6rsta-l%C3%B6gn'>Vilken Var Doktor Romands Första Lögn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4s%C3%A5rstider-uppsala-2020'>Läsårstider Uppsala 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filip-forsberg-pappa'>Filip Forsberg Pappa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tingvalla-isstadion-allm%C3%A4nhetens-%C3%A5kning'>Tingvalla Isstadion Allmänhetens åkning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=praktik-bank-stockholm'>Praktik Bank Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beurer-mg-150'>Beurer Mg 150</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=martin-kits-ebba-busch'>Martin Kits Ebba Busch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cherry-vodka-drink'>Cherry Vodka Drink</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=foster-som-inte-v%C3%A4xer-som-det-ska'>Foster Som Inte Växer Som Det Ska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Rapport-till-himlen'>Rapport Till Himlen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-barnsk%C3%B6tare-mj%C3%B6lby'>Lediga Jobb Barnskötare Mjölby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stadgar-stiftelse-mall'>Stadgar Stiftelse Mall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shuffleboard-g%C3%B6teborg-hard-rock'>Shuffleboard Göteborg Hard Rock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best-movies-2017-imdb'>Best Movies 2017 Imdb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laktosfri-t%C3%A5rta-recept'>Laktosfri Tårta Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broccoli-till-jul'>Broccoli Till Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=th-pettersson-mk18'>Th Pettersson Mk18</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=manlig-eller-kvinnlig-sterilisering'>Manlig Eller Kvinnlig Sterilisering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leva-fungera-utst%C3%A4llare'>Leva Fungera Utställare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=engelska-grammatik-verb'>Engelska Grammatik Verb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=power-stroke-myosin'>Power Stroke Myosin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6na-linser-nyttigt'>Gröna Linser Nyttigt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%B6rk-choklad-j%C3%A4rn'>Mörk Choklad Järn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bbc-2-tonight'>Bbc 2 Tonight</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=musik-p%C3%A5-instagram-android'>Musik På Instagram Android</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vara-i-%C3%A4nden-av-hopprep-webbkryss'>Vara I änden Av Hopprep Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vattenpump-goes-520'>Vattenpump Goes 520</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kolonn-vid-mur'>Kolonn Vid Mur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bearnaises%C3%A5s-med-tomatpur%C3%A9'>Bearnaisesås Med Tomatpuré</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-b%C3%B6rjar-h%C3%B6stterminen-2020'>När Börjar Höstterminen 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=root-beer-alcohol'>Root Beer Alcohol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mora-vs-leksand'>Mora Vs Leksand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=feng-shui-k%C3%B6k'>Feng Shui Kök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bumbibj%C3%B6rnarna-trap-remix'>Bumbibjörnarna Trap Remix</a>,
+";s:7:"expired";i:-1;}

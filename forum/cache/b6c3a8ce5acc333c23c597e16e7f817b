@@ -1,0 +1,104 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2794:"<p>Arbetsgivaren ska organisera och ange mål för sin verksamhet och fortlöpande ta reda på vilka behov och åtgärder som behövs. Även om vi i Sverige är vana vid en bra sjukvård kan kötiderna vara långa. </p> <p>Sjukfrånvaro och rehabilitering. Vi har här använt de epidemiologiska måtten incidens och prevalens, för att beskriva utvecklingen i sjukfrånvaro för Stockholms läns befolkning åren 1994-2006. Utreda behov av stöd via företagshälsovården. Sjuk medarbetare dag 1–90. Läkarintyg vid sjukfrånvaro När arbetstagaren är frånvarande från arbetet på grund av sjukdom behöver detta styrkas med ett läkarintyg. Sjukfrånvaro - Exakt så här fungerar det. Söka externa bidrag. För förebyggande insatser och utredningar. ... Så hjälper vi ditt företag. Anställningsavtal - klausuler, förbud och plikter ... till och med den 18 mars (en torsdag). Den rådande situationen i samhället med anledning av det nya coronaviruset och sjukdomen covid-19 har föranlett regeringen att vidta vissa ändringar när det gäller sjukförsäkringen. Utbildningsmodul för chefsutveckling 2019-01-01. Arbetsgivarverket har tagit fram ett utbildningsstöd som ska kunna användas i ditt arbete med att utveckla och introducera chefer i olika arbetsgivarfrågor.  Det kan ju vara allt från fysisk belastning … En rehabutredning är till för att utreda behov av rehab eller förebyggande insatser för att minska sjukfrånvaro. ... komp eller semester syns inte och det här kan försvåra vid en eventuellt kommande rehabutredning. Med rehabutredning försöker man utröna om det finns någon orsak till att du har hög frånvaro från arbetet. Se till att företaget har ett fungerande systematiskt arbetsmiljöarbete för att tidigt upptäcka arbetsmiljörisker som kan förorsaka ohälsa eller olycksfall. Vidare förfaller provisionen till betalning vid fakturering som sker månaden efter intjänandetidpunkten. Inledning – om materialet. Vad kan arbetsgivare göra när det visar sig att en arbetstagare blivit smittad av covid-19? </p> <p>Hälsosamtal. Information till dig som arbetsgivare om sjuklön, sjukanmälan, sjukpenning, reseersättning, smittbärarpenning, ersättning för höga sjuklönekostnader och särskilt högriskskydd. </p> <p>Ladda ner guiden nu! Chefens samtal för att utreda behov av stöd. Feelgoodsamtalet. Se över och vid behov uppdatera hygienrutinerna i verksamheten. Åtgärda riskerna så att verksamheten har en bra arbetsmiljö. </p> <p>Att mäta och beskriva sjukfrånvaro 2009:11 3 Sammanfattning Försäkringskassans statistik över sjukfrånvaro redovisas ofta i antal dagar med utbetald ersättning. Sjukfrånvaro i två dagar kostar företaget ungefär lika mycket som sjukvårdsförsäkring i ett helt år. </p>";s:7:"keyword";s:32:"rehabutredning vid sjukfrånvaro";s:5:"links";s:7174:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hummersoppa-med-lax'>Hummersoppa Med Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mobilt-bankid-var-god-v%C3%A4nta'>Mobilt Bankid Var God Vänta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-tj%C3%A4nar-mest-i-%C3%A5sele'>Vem Tjänar Mest I åsele</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=servitut-mall-lantm%C3%A4teriet'>Servitut Mall Lantmäteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=homestyling-utbildning-g%C3%B6teborg'>Homestyling Utbildning Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=high-blood-pressure-diet'>High Blood Pressure Diet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kista-galleria-teknikmagasinet'>Kista Galleria Teknikmagasinet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv3-sverige-live-streaming'>Tv3 Sverige Live Streaming</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frukost-g%C3%B6ra-dagen-innan'>Frukost Göra Dagen Innan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=enkla-tekakor-med-torrj%C3%A4st'>Enkla Tekakor Med Torrjäst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ventil-bild%C3%A4ck-jula'>Ventil Bildäck Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-online-h%C3%B6gskolan'>Ica Online Högskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thomas-quick-bok'>Thomas Quick Bok</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-spel-app'>Svenska Spel App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tecken-kortspel-b%C3%A4sta-tecknet'>Tecken Kortspel Bästa Tecknet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gothia-towers-ny%C3%A5r-2019'>Gothia Towers Nyår 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=6-tums-d%C3%A4ck'>6 Tums Däck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A5ra-halloween-fr%C3%A5gor'>Svåra Halloween Frågor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ladda-ner-video-fr%C3%A5n-instagram-iphone'>Ladda Ner Video Från Instagram Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyk%C3%B6pings-gymnasium-sjukanm%C3%A4lan'>Nyköpings Gymnasium Sjukanmälan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pinchos-%C3%B6rebro-boka-bord'>Pinchos örebro Boka Bord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kristina-keyyo%27%27-petrushina'>Kristina Keyyo'' Petrushina</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-bali-14-dagar'>Väder Bali 14 Dagar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-%C3%A5hus'>Lediga Jobb åhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A4nge-lever-en-med-downs-syndrom'>Hur Länge Lever En Med Downs Syndrom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=naturv%C3%A5rdsverket-lediga-jobb'>Naturvårdsverket Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-%C3%B6desh%C3%B6g'>Lediga Jobb ödeshög</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peter-swartling-net-worth'>Peter Swartling Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fiberhavregryn-kcal-1-dl'>Fiberhavregryn Kcal 1 Dl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fri-tanke-podcast'>Fri Tanke Podcast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=martin-ljung---rock-n-roll'>Martin Ljung - Rock N Roll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-diplomat-svit'>Hotell Diplomat Svit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=america%27s-got-talent-jury-2019'>America's Got Talent Jury 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ste-man-jaga-med-jakthund'>Måste Man Jaga Med Jakthund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tradera-tv-b%C3%A4nk'>Tradera Tv Bänk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carpe-diem-vind%C3%B6'>Carpe Diem Vindö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=engelska-skolan-%C3%A5rstadal'>Engelska Skolan årstadal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ljare-p%C3%A5gen-l%C3%B6n'>Säljare Pågen Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=insett-eller-ins%C3%A4tt'>Insett Eller Insätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skol%C3%A5r-2019-2020'>Skolår 2019 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boendest%C3%B6djare-jobb-j%C3%A4rf%C3%A4lla'>Boendestödjare Jobb Järfälla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=du-%C3%A4r-den-ende'>Du är Den Ende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A4na-bort-stress'>Träna Bort Stress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5rsta-torg-restaurang'>årsta Torg Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-plaza-bah%C3%ADa-feliz-menu'>La Plaza Bahía Feliz Menu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buss-821-uddevalla'>Buss 821 Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-lyfter-h%C3%A4st'>Pippi Lyfter Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-basilika-restaurang'>Pasta Basilika Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemma-fr%C3%A5n-jobbet-utan-att-vara-sjuk'>Hemma Från Jobbet Utan Att Vara Sjuk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=desenio-h%C3%A4nga-tavlor'>Desenio Hänga Tavlor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skoghall-innebandy-dam'>Skoghall Innebandy Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viaplay-smart-tv-philips'>Viaplay Smart Tv Philips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=soffgrupp-med-f%C3%A5t%C3%B6lj'>Soffgrupp Med Fåtölj</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-lotus-final'>Talang Lotus Final</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=superbook-kanal-10'>Superbook Kanal 10</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-betalade-i-natura'>Jag Betalade I Natura</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bonjour-ost-gravid'>Bonjour Ost Gravid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pita-sa-sirom'>Pita Sa Sirom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eklund-new-york'>Eklund New York</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonymer-till-samh%C3%B6righet'>Synonymer Till Samhörighet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nutella-brownies-3-ingredienser'>Nutella Brownies 3 Ingredienser</a>,
+";s:7:"expired";i:-1;}

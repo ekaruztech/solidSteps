@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Move Reply
  *
  * @package bbPress

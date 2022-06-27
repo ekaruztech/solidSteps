@@ -1,0 +1,82 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4698:"<p>Det relä som är kopplat till bilens bränslepump har ett till- och frånläge som reglerar bränsletillförseln.  ... 2. why would anyone want to use a switch on 5 volt to operate a transistor switching 12 volt to a relay switching 5 volt to operate 2 LEDs when all you would need is a double throw single pole switch to do the same removing the cost of relay,transistor and 12 volt … </p> <p>42-315. Get it as soon as Wed, May 20. </p> <p>Relay Guide. Du måste välja en storlek innan du kan lägga varan i varukorgen. </p> <p>System: 12V, 30A. Själva reläet har endast låg styrspänning, men det har förmågan att reglera komponenter med både större spänning och ström. A relay is an electrically operated switch.It consists of a set of input terminals for a single or multiple control signals, and a set of operating contact terminals. Produkttyp Relän </p> <p>What is a relay? Välkommen till Mitt Biltema. Relä 5 Volt 2 kanals. Tål 30 volt likström 10 Amp över relä-kontakterna. A solid-state relay (SSR) is an electronic switching device that switches on or off when a small external voltage is applied across its control terminals. Man kan altså sagtens få et relæ, hvor spolen kun må få 5 volt, mens kontaktsættet kan klare 220 volt … </p> <p>Here is the beginning of the problem. </p> <p>FREE Shipping on orders over $25 shipped by Amazon. </p> <p>$9.34 $ 9. I Lager Snabbvy. Digital temperatur sensor modul 3.3 till 5 Volt, passar Arduino, relä mm. Art. Drivs med 5 Volt och slår när IN är låg (noll). Funktion: On/Off, 5-stifts relä Normalt öppna kontakter. </p> <p>I Lager Snabbvy. 109,00 kr I Lager Tidrelä, timer 12 Volt. </p> <p>Modul med två relä som är optiskt isolerade från styrsignalen. Og de fås til forskellige spændinger - både til spolen(-rne) og til kontaktsættet. </p> <p>Packard C230C 2 Pole 30 Amp Contactor 208/240 Volt Coil Contactor. </p> <p>Og det kan enten have en eller to spoler til at skifte med. </p> <p>Og der findes relæer til både vekselstrøm og til jævnstrøm. </p> <p>4.2 out of 5 stars 61. Andra kunder köpte också . The flux tight 12 volt relay combats dust and moisture. Relä: Dubbelrelä med säkring, slutande, 50 A ; Lägg till i inköpslistan. </p> <p>34 90. </p> <p>Which type of relay can I use for driving a 230v load from a 5 volt supply? I want to drive an electric bulb with a 5 v digital pulse.What kind of relay will be suitable? </p> <p>37,00 kr I Lager Kretskort 4 st för experiment och prototyp... 37,00 kr Lägg till i varukorgen Mer. That works out to be about 1.2 amps of current. </p> <p>Lägg i varukorgen. </p> <p>Electrical Engineering Beräknad leveranstid: 1-3 arbetsdagar Säljs av PchButik. </p> <p>Although there are various relay designs, the ones most commonly found in low voltage auto and marine applications are electro-mechanical relays that work by activating an electromagnet to pull a set of contacts to make or break a circuit. More Buying Choices $8.44 (18 new offers) TGM Contactor 2 Pole 40 Amps 24 Coil Voltage Heavy Duty. The AL624 requires low voltage AC to work and in this case you have a transformer delivering about 16.5 volts AC rated at 20 VA (Volt Amps). Spara i ny önskelista. The unit you have should resemble the attached image. A relay is essentially a switch that is operated electrically rather than mechanically. Optikt isolerad.... 39,00 kr Lägg till i varukorgen Mer. </p> <p>Röd lysdiod indikerar när relät är slagit. 84 90. Including various types of relays including anything from standard 5 pin to hi-amp, finding the right 24V or 12V relay is easy at Del City. Introduction: Getting Started With Relays. </p> <p>One of the most useful things you can do with an Arduino (buy it on Amazon | eBay) is control higher voltage (120-240V) devices like fans, lights, heaters, and other household appliances.Since the Arduino operates at 5V it can’t control these higher voltage devices directly, but you can use a 5V relay to switch the 120-240V current and use the Arduino to control the relay. </p> <p>SOCKEL MED KABEL 120MM. Overview. Som användare av Mitt Biltema kan du handla kampanjprodukter till specialpriser, skapa inköpslistor för alla tillfällen och få en översikt över dina köp med digitala kvitton. An universal development board should contain all required peripherals for standard embedded systems applications – 3.3 and 5 Volt power supply, USB and RS232 interfaces, open drain power outputs, analog buffered inputs and outputs, relays , leds, keyboard and alphanumeric LCD interface. </p> <p>A 5 pin 24 volt or 12 volt relay is ideal for full voltage applications for a reliable and durable connection. </p>";s:7:"keyword";s:26:"svenska spel app(',)".)),.";s:5:"links";s:4640:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nationella-prov-sfi-d-2019'>Nationella Prov Sfi D 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billiga-mattor-ikea'>Billiga Mattor Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-hyresv%C3%A4rd-regler'>Privat Hyresvärd Regler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6lands-st%C3%B6rsta-stad'>ölands Största Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studiev%C3%A4gledare-kth-s%C3%B6dert%C3%A4lje'>Studievägledare Kth Södertälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-forsberg-agent'>Emil Forsberg Agent</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Rapport-till-himlen'>Rapport Till Himlen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lars-lerin-sl%C3%A4kt'>Lars Lerin Släkt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grundskola-norrk%C3%B6ping-l%C3%A4s%C3%A5rstider'>Grundskola Norrköping Läsårstider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-r%C3%A4knas-som-skott-p%C3%A5-m%C3%A5l-fotboll'>Vad Räknas Som Skott På Mål Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kollektivavtal-l%C3%B6n-restaurang'>Kollektivavtal Lön Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-pro-battery-mah'>Iphone 11 Pro Battery Mah</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olofstr%C3%B6m-simhall-%C3%B6ppettider'>Olofström Simhall öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grekisk-bokstav-iota'>Grekisk Bokstav Iota</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyrbil-gran-canaria'>Hyrbil Gran Canaria</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%B6d-hund-dikt'>Död Hund Dikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegansk-glass-willys'>Vegansk Glass Willys</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordea-eget-motiv'>Nordea Eget Motiv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-en-eu-ambassad%C3%B6r'>Vad är En Eu-ambassadör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-r%C3%A4knas-som-grov-st%C3%B6ld'>Vad Räknas Som Grov Stöld</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omega-3-finns-i'>Omega 3 Finns I</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brunn-600-mm'>Brunn 600 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj%C3%B6bevakare-utbildning-finland'>Sjöbevakare Utbildning Finland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eklk-4g1-5'>Eklk 4g1 5</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boka-bord-s%C3%B6dermalm'>Boka Bord Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4pple-med-kokostosca'>äpple Med Kokostosca</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-lotus-final'>Talang Lotus Final</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ngest-p%C3%A5-morgonen-sertralin'>ångest På Morgonen Sertralin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biologisk-rening-enskilt-avlopp'>Biologisk Rening Enskilt Avlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=michelin-d%C3%A4ck-205%2F55r16'>Michelin Däck 205/55r16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=world-cup-cross-country-2020'>World Cup Cross Country 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sendrag-i-foten'>Sendrag I Foten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fredriks-fika-halloween'>Fredriks Fika Halloween</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oceanus-percy-jackson'>Oceanus Percy Jackson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-kan-du-undvika-statisk-belastning-p%C3%A5-din-kropp'>Hur Kan Du Undvika Statisk Belastning På Din Kropp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-tr%C3%A4-f%C3%B6r-snideri'>Köpa Trä För Snideri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sneakers-barn-rea'>Sneakers Barn Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pirates-of-the-caribbean-piano-medley'>Pirates Of The Caribbean Piano Medley</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kall-s%C3%A5s-till-ryggbiff'>Kall Sås Till Ryggbiff</a>,
+";s:7:"expired";i:-1;}

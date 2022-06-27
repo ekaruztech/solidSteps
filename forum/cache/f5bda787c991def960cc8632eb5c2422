@@ -1,0 +1,94 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2147:"<br>Kaikki CHL-pelit suorana lähetyksenä – tässä live stream: CHL:n virallinen yhteistyökumppani NordicBet lähettää kaikki ottelut suorana lähetyksenä ilmaiseksi. Unibet tarjoaa kaikki CHL-ottelulähetykset ilmaiseksi! <br> <br>Unibetin pelitililläsi tulee olla rahaa vähintään 0,01 euroa, tai veto lyötynä 24h sisällä ottelun alkamisesta. Moni asia voi muuttua maailmassa, mutta suomalaisten intohimo ja rakkaus jääkiekkoon pysyy. Djurgården - Tappara CHL-otteluun tiistaina 9.10. kello 19:30 alkavaan matsiin on saatavilla ilmainen live stream sekä 100 € suuruinen riskitön veto. Sinulla täytyy olla vain 0,01€ saldoa pelitilillä, jotta voit katsoa klo 19:00 alkavan Tappara – Djugården-lähetyksen suorana.  Jääkiekon Mestarien Liigan ottelut ovat suomalaisten jääkiekkofanien suosiossa ja tältä sivulta löydät helpot ohjeet matsien katseluun. Kaikki CHL-pelit suorana lähetyksenä – tässä live stream: CHL:n virallinen yhteistyökumppani NordicBet lähettää kaikki ottelut suorana lähetyksenä ilmaiseksi. AVAA LIVE STREAM!  <br>Tässä live stream otteluun! <br> <br>CHL live stream – Katso kaikki ottelut ilmaisena netissä CHL 2019-20 kaudella. <br> Tappara-Djurgården – katso ilmainen live stream. <br> <br>Unibet tarjoaa loistavien Champions hockey league live stream lähetyksien lisäksi erikoistarjouksena vielä 100% talletusbonarin ja 10€ täysin riskittömän vedon. <br> <br>Where Europe comes to play - watch the best hockey teams fighting to beat current Champions Hockey League champion Frölunda HC. CHL live stream lähetykset ilmaiseksi netissä. | Katso ottelu suorana ilmaiseksi julkaistu: 15.10.2018 16:09 . Djurgården-Tappara iskevät tiistaina yhteen CHL:ssä, jossa pelataan alkulohkovaiheen toiseksi viimeiset kierrokset. Djurgården IF – Kalpa live stream! Lue seuraavaksi ohjeet ilmaiseen Champions Hockey League televisiontiin. Otteluita tarjoaa virallinen yhteistyökumppani Unibet TV. CHL: Tappara-Djugården Live Stream 16.10. Sinun ei siis täydy edes lyödä vetoa itse ottelusta! Watch the CHL live and as video on demand for free on LAOLA1.tv! <br>";s:7:"keyword";s:22:"chl djurgården stream";s:5:"links";s:5970:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rinkaby-r%C3%B6r-malm%C3%B6'>Rinkaby Rör Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vcard-qr-code'>Vcard Qr Code</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Sune-i-fj%C3%A4llen'>Sune I Fjällen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=civilekonom-vill-bli-l%C3%A4rare'>Civilekonom Vill Bli Lärare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=veckans-f%C3%B6rhandlingar-skaraborgs-tingsr%C3%A4tt'>Veckans Förhandlingar Skaraborgs Tingsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chili-cheese-snittar'>Chili Cheese Snittar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-granen-t%C3%A4rnaby'>Förskolan Granen Tärnaby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronofogden-samtliga-utrop'>Kronofogden Samtliga Utrop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-betyder-swag'>Vad Betyder Swag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kungs%C3%B6-batteri-vandringsled'>Kungsö Batteri Vandringsled</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ravin-i-usa-synonym'>Ravin I Usa Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grekiskt-glad-orfisk'>Grekiskt Glad Orfisk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kung-oidipus-l%C3%A4s-online'>Kung Oidipus Läs Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-5110-snake'>Nokia 5110 Snake</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=currency-direct-omd%C3%B6men'>Currency Direct Omdömen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-kyrkan-brunflo'>Svenska Kyrkan Brunflo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-f%C3%B6rs%C3%A4kring-data'>Svensk Försäkring Data</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bj%C3%B6rkl%C3%B6ven---u12'>Björklöven - U12</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=variatorvikter-cf-moto'>Variatorvikter Cf Moto</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grape-gin-uppsala'>Grape Gin Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verkast-eget-tryck'>överkast Eget Tryck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=robert-gustafsson-full'>Robert Gustafsson Full</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fba-lediga-jobb'>Fba Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-livsmedelsverket'>Vad är Livsmedelsverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alexandra-bring-cookies'>Alexandra Bring Cookies</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laminerat-glas-tjocklek'>Laminerat Glas Tjocklek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=italiensk-restaurang-v%C3%A4stervik'>Italiensk Restaurang Västervik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirloin-sous-vide'>Sirloin Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=state-space-canonical-form'>State Space Canonical Form</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-hockey-matchtr%C3%B6ja'>Aik Hockey Matchtröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blue-merle-valp'>Blue Merle Valp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-safe-imdb'>The Safe Imdb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfria-frallor-med-%C3%A4gg'>Glutenfria Frallor Med ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=designa-egen-fotbollstr%C3%B6ja-barn'>Designa Egen Fotbollströja Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-inneb%C3%A4r-det-att-kunna-passa-kartan%3F'>Vad Innebär Det Att Kunna Passa Kartan?</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4karprogrammet-ume%C3%A5-schema'>Läkarprogrammet Umeå Schema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=italienska-maffian-kl%C3%A4der'>Italienska Maffian Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=puma-fotbollsskor-dam'>Puma Fotbollsskor Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mordet-p%C3%A5-anna-lindh-dokument%C3%A4r-tv3'>Mordet På Anna Lindh Dokumentär Tv3</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalvstek-utan-termometer'>Kalvstek Utan Termometer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=percy-jackson-merch'>Percy Jackson Merch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-h%C3%A4ggen%C3%A5s-14-dagar'>Väder Häggenås 14 Dagar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nhl-winter-classic'>Nhl Winter Classic</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4st-tr%C3%A4ningsv%C3%A4rk-rygg'>Häst Träningsvärk Rygg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rusta-monster-high'>Rusta Monster High</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inredning-inspiration-f%C3%A4rg'>Inredning Inspiration Färg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-verb-grupp-1-2-3-4'>Svenska Verb Grupp 1 2 3 4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mina-sidor-feriearbete'>Mina Sidor Feriearbete</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-spenat-kyckling'>Pasta Spenat Kyckling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johanna-lind-bagge-br%C3%B6d'>Johanna Lind Bagge Bröd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lollapalooza-artister-2020'>Lollapalooza Artister 2020</a>,
+";s:7:"expired";i:-1;}

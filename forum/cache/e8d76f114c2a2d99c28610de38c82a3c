@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2750:"The Travelcard is a paper ticket that gives you unlimited access to London’s public transport for a limited amount of time, being the best option for the majority of tourists. Oyster Travelcard is valid on all London Underground, Buses, Trams, Docklands Light Rail and Over-ground Trains within zones 1 – 6. With so much to see and do in every corner of the city, transportation is an essential part of your London adventure. Am I correct that the Visitor Oyster Card is not zoned? <br> <br>Travelcard for 4 days will cost more than Oyster/contactless. If you have chosen to get your Oyster Travelcard sent out to you before you arrive, you can use it to get into London. Chiidren <11 travel free . They're essential when visiting London, as a single ride ticket's fare starts from 4,90£! <br> <br>Highlights. Fares How much it costs and how to pay to travel around London Find out what's the best ticket for you and how to use contactless and Oyster cards, view fares, check if you can get a refund or replacement and see if you're eligible for free and discounted travel. Over 40 attractions included in the London Pass are in Central London Zone 1-2 but the Oyster Travelcard is valid to use across all London Zones 1-9. I suppose I could buy the Travelcard for zones 1-2, and then pay separate fares for the Heathrow tube. This post compares the different Oyster Cards, as well as the Travelcard, to help you decide which one is best for you, including a breakdown based on the number of days you will be in London.  <br>Am I correct that the Visitor Oyster Card is not zoned? No proof required except passport. The Travelcard pass covers: - The London Underground network - The London red local bus network - The railway network in Greater London - Docklands Light Railway, TFL Railway and Overground Railway - 33% discount on many scheduled river services.. Heathrow.  They allow you to avoid buying a ticket each time you ride. Oystercard is a rechargeable card that you can charge with 15£, 20£, 25£, 30£, 35£ or 40£ and, as the travelcard, you can use it to travel on London public transport. Sie werden mit einem Guthaben aufgeladen, das Sie für Fahrten mit fast allen öffentlichen Verkehrsmitteln in London nutzen können: U-bahn (Tube) und Overground, DLR, die Busboote der MBNA Thames Clippers und … If you stay in London for 6–7 days and use the underground, trains, and buses every day, the weekly Travelcard is the most cost-effective travel pass. Oyster Card vs Visitor Oyster Card vs Travelcard. You cannot use your Travelcard on the Heathrow Express train as the group are not part of the Transport for London network. Do not get Visitor Oyster. If not, and for the children anyway If 11-15, get Oyster cards. <br>";s:7:"keyword";s:25:"visitor travelcard london";s:5:"links";s:7336:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ezgif-video-cutter'>Ezgif Video Cutter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biltema-oljefilter-50-529'>Biltema Oljefilter 50-529</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stekt-broccoli-kalorier'>Stekt Broccoli Kalorier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=misshandel-straff-under-18-%C3%A5r'>Misshandel Straff Under 18 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skriva-examensarbete-f%C3%B6r-f%C3%B6retag'>Skriva Examensarbete För Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=subtropiskt-klimat-sverige'>Subtropiskt Klimat Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-pianist-watch-online'>The Pianist Watch Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-violen-avesta'>Förskolan Violen Avesta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jaktm%C3%A4ssa-2020-lycksele'>Jaktmässa 2020 Lycksele</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A5llbarhet-grillad-kyckling'>Hållbarhet Grillad Kyckling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=1-km-loppis-karlbergsv%C3%A4gen-2020'>1 Km Loppis Karlbergsvägen 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Punta-del-Hidalgo'>Punta Del Hidalgo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skjutning-malm%C3%B6-flashback'>Skjutning Malmö Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kladdkakecookies-alexandra-bring'>Kladdkakecookies Alexandra Bring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inreda-k%C3%A4llare-golvet'>Inreda Källare Golvet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krocka-med-sommard%C3%A4ck-p%C3%A5-vintern'>Krocka Med Sommardäck På Vintern</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-hockeym%C3%A5lvakt-%C3%A5slin'>Svensk Hockeymålvakt åslin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kakdeg-utan-socker'>Kakdeg Utan Socker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=global-times-sweden'>Global Times Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toast-med-kallr%C3%B6kt-lax-p%C3%A5-avokadokr%C3%A4m-och-stenbitsrom'>Toast Med Kallrökt Lax På Avokadokräm Och Stenbitsrom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-com-sous-vide-everything'>Youtube Com Sous Vide Everything</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ran-lundblad-flashback'>Göran Lundblad Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pontus-rasmusson-konsert'>Pontus Rasmusson Konsert</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llvandra-med-hund'>Fjällvandra Med Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=casco-rollat-1'>Casco Rollat 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-statt-lunch'>Hotell Statt Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flera-spr%C3%A5k-i-barngruppen'>Flera Språk I Barngruppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kol-generator-740'>Kol Generator 740</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filodegspizza-med-ch%C3%A8vre'>Filodegspizza Med Chèvre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billigt-glutenfritt-mj%C3%B6l'>Billigt Glutenfritt Mjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avg%C3%A5ende-t%C3%A5g-l%C3%A4ggesta'>Avgående Tåg Läggesta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ravin-i-usa-synonym'>Ravin I Usa Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6bo-lediga-seniorl%C3%A4genheter'>öbo Lediga Seniorlägenheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kelly-gale-net-worth'>Kelly Gale Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zeinas-kitchen-champinjoner'>Zeinas Kitchen Champinjoner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fosch-artisan-p%C3%A2tisserie'>Fosch Artisan Pâtisserie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sportlov-2020-j%C3%B6nk%C3%B6ping'>Sportlov 2020 Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avgift-sotning-%C3%B6stersund'>Avgift Sotning östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-kladdkaka-potatismj%C3%B6l'>Glutenfri Kladdkaka Potatismjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukskriven-mer-%C3%A4n-180-dagar-semester'>Sjukskriven Mer än 180 Dagar Semester</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=protests-in-chile'>Protests In Chile</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A4ngd-f%C3%B6rnuft-korsord'>Mängd Förnuft Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sy-%C3%B6verdrag-till-h%C3%B6rnsoffa'>Sy överdrag Till Hörnsoffa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tuppen-%C3%A4ldreboende-norrk%C3%B6ping'>Tuppen äldreboende Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tallriksmodellen-g%C3%A5-ner-i-vikt'>Tallriksmodellen Gå Ner I Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bodrum-v%C3%A4der-juni'>Bodrum Väder Juni</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=City-Backpackers4%2C6%28829%290%2C2%C2%A0km-bort36%C2%A0%E2%82%AC'>City Backpackers4,6(829)0,2 km Bort36 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jupiter-i-stenbocken-2020'>Jupiter I Stenbocken 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=10000-steg-cykel'>10000 Steg Cykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=normal-tyres%C3%B6-centrum-jobb'>Normal Tyresö Centrum Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-lyfter-h%C3%A4st'>Pippi Lyfter Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontantkort-surf-halebop'>Kontantkort Surf Halebop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=supply-chain-management-cbs'>Supply Chain Management Cbs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sony-ericsson-xperia'>Sony Ericsson Xperia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=professionell-hj%C3%A4lp-med-viktnedg%C3%A5ng'>Professionell Hjälp Med Viktnedgång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vp-autoparts-mustang'>Vp Autoparts Mustang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fk-kabel-utomhus'>Fk Kabel Utomhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=foderstat-h%C3%A4st-granng%C3%A5rden'>Foderstat Häst Granngården</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse-chiza-f%C3%B6r%C3%A4ldrar'>Tusse Chiza Föräldrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karta-turkiet-side'>Karta Turkiet Side</a>,
+";s:7:"expired";i:-1;}

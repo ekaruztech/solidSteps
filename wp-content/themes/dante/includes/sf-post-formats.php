@@ -1,11 +1,11 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Post Format Output Functions
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_get_post_media()
 	*	sf_get_post_format_image_src()
@@ -21,7 +21,7 @@
 	*/
 	
 	
-	/*  for PRO users! -  MAIN GET MEDIA FUNCTION
+	/* MAIN GET MEDIA FUNCTION
 	================================================== */
 	if (!function_exists('sf_get_post_media')) {
 		function sf_get_post_media($postID, $media_width, $media_height, $video_height, $use_thumb_content) {
@@ -49,7 +49,7 @@
 	}
 	
 	
-	/*  for PRO users! -  GET IMAGE MEDIA
+	/* GET IMAGE MEDIA
 	================================================== */
 	if (!function_exists('sf_get_post_format_image_src')) {
 		function sf_get_post_format_image_src($post_id){
@@ -93,7 +93,7 @@
 			$image_alt = sf_get_post_meta($image_id, '_wp_attachment_image_alt', true);
 						
 			if ($detail_image) {
-				$image = '<img itemprop="image" src="'.$detail_image[0].'" width="'.$detail_image[1].'" height="'.$detail_image[2].'" alt="'.$image_alt.'" />';
+				$image = '<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><img itemprop="url" src="'.$detail_image[0].'" width="'.$detail_image[1].'" height="'.$detail_image[2].'" alt="'.$image_alt.'" /></div>';
 			}
 			
 			return $image;
@@ -101,7 +101,7 @@
 	}
 	
 	
-	/*  for PRO users! -  GET VIDEO MEDIA
+	/* GET VIDEO MEDIA
 	================================================== */ 
 	if (!function_exists('sf_video_post')) {
 		function sf_video_post($postID, $media_width, $video_height, $use_thumb_content) {
@@ -121,7 +121,7 @@
 	}
 	
 	
-	/*  for PRO users! -  GET GALLERY MEDIA
+	/* GET GALLERY MEDIA
 	================================================== */ 
 	if (!function_exists('sf_gallery_post')) {
 		function sf_gallery_post($postID, $use_thumb_content) {
@@ -147,7 +147,7 @@
 	}
 	
 	
-	/*  for PRO users! -  GET AUDIO MEDIA
+	/* GET AUDIO MEDIA
 	================================================== */ 
 	if (!function_exists('sf_audio_post')) {
 		function sf_audio_post($postID) {
@@ -160,7 +160,7 @@
 	}
 	
 	
-	/*  for PRO users! -  GET LINK MEDIA
+	/* GET LINK MEDIA
 	================================================== */ 
 	if (!function_exists('sf_link_post')) {
 		function sf_link_post($postID) {
@@ -177,7 +177,7 @@
 	}
 
 
-	/*  for PRO users! -  GET CHAT MEDIA
+	/* GET CHAT MEDIA
 	================================================== */ 
 	if (!function_exists('sf_chat_post')) {
 		function sf_chat_post($postID) {
@@ -215,7 +215,7 @@
 		}
 	}	
 	
-	/*  for PRO users! -  GET POST ITEM
+	/* GET POST ITEM
 	================================================== */ 
 	if (!function_exists('sf_get_post_item')) {
 		function sf_get_post_item($postID, $blog_type, $show_title = "yes", $show_excerpt = "yes", $show_details = "yes", $excerpt_length = "20", $content_output = "excerpt", $show_read_more = "no") {
@@ -337,14 +337,14 @@
 				$link_config = 'href="'.$thumb_link_url.'" class="link-to-url" target="_blank"';
 				$item_icon = "ss-link";
 			} else if ($thumb_link_type == "lightbox_thumb") {
-				$link_config = 'href="'.$thumb_img_url.'" class="lightbox" data-rel="ilightbox['.$post_ID.']"';
+				$link_config = 'href="'.$thumb_img_url.'" class="lightbox" data-rel="ilightbox['.$postID.']"';
 				$item_icon = "ss-view";
 			} else if ($thumb_link_type == "lightbox_image") {
 				$lightbox_image_url = '';
 				foreach ($thumb_lightbox_image as $image) {
 					$lightbox_image_url = $image['full_url'];
 				}
-				$link_config = 'href="'.$lightbox_image_url.'" class="lightbox" data-rel="ilightbox['.$post_ID.']"';	
+				$link_config = 'href="'.$lightbox_image_url.'" class="lightbox" data-rel="ilightbox['.$postID.']"';	
 				$item_icon = "ss-view";
 			} else if ($thumb_link_type == "lightbox_video") {
 				$link_config = 'data-video="'.$thumb_lightbox_video_url.'" href="#" class="fw-video-link"';
@@ -368,14 +368,14 @@
 				
 			} else if ($thumb_type == "slider") {
 				
-				$item_figure .= '<div class="flexslider thumb-slider"><ul class="slides">';
+				$item_figure .= '<div class="flexslider thumb-slider"><a '.$link_config.'><ul class="slides">';
 							
 				foreach ( $thumb_gallery as $image )
 				{
-				    $item_figure .= "<li><a ".$link_config."><img src='{$image['url']}' width='{$image['width']}' height='{$image['height']}' alt='{$image['alt']}' /></a></li>";
+				    $item_figure .= "<li><img src='{$image['url']}' width='{$image['width']}' height='{$image['height']}' alt='{$image['alt']}' /></li>";
 				}
 																
-				$item_figure .= '</ul></div>';
+				$item_figure .= '</ul></a></div>';
 				
 			} else {
 				
@@ -389,7 +389,7 @@
 				$image_alt = sf_get_post_meta($image_id, '_wp_attachment_image_alt', true);
 				
 				if ($image) {
-					$item_figure .= '<img itemprop="image" src="'.$image[0].'" width="'.$image[1].'" height="'.$image[2].'" alt="'.$image_alt.'" />';
+					$item_figure .= '<div itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><img itemprop="url" src="'.$image[0].'" width="'.$image[1].'" height="'.$image[2].'" alt="'.$image_alt.'" /></div>';
 					$item_figure .= '<a '.$link_config.'></a>';
 					$item_figure .= '<figcaption><div class="thumb-info thumb-info-alt">';
 					$item_figure .= '<i class="'.$item_icon.'"></i>';
@@ -467,11 +467,9 @@
 					$post_item .= '</div>';
 				}
 				
-				$post_item .= '<meta itemprop="datePublished" content="' . get_the_date( 'Y-m-d' ) . '"/>';
-				
-				$post_item .= '</div>';
+				$post_item .= '</div><!-- .details-wrap -->';
 							
-				$post_item .= '</div>';
+				$post_item .= '</div><!-- .masonry-item-wrap -->';
 				
 			// MINI STYLING
 			} else if ($blog_type == "mini") {
@@ -632,19 +630,43 @@
 					
 					$post_item .= '</div>';
 				}
-				
-				$post_item .= '<meta itemprop="datePublished" content="' . get_the_date( 'Y-m-d' ) . '"/>';
-			
+							
 				$post_item .= '</div>'; // close standard-post-content
 										
-			}		
+			}
+			
+			$post_item .= '<meta itemprop="datePublished" content="' . get_the_date( 'Y-m-d' ) . '"/>';
+			$post_item .= '<meta itemprop="dateModified" content="' . get_the_modified_date( 'Y-m-d' ) . '"/>';
+			$logo = $logo_width = $logo_height = "";
+			if (isset($options['logo_upload'])) {
+			$logo = __( $options['logo_upload'] , 'swiftframework' );
+			}
+			if (isset($options['logo_width'])) {
+			$logo_width = $options['logo_width'];
+			}
+			if (isset($options['logo_height'])) {
+			$logo_height = $options['logo_height'];
+			}
+			$post_item .= '<div itemscope itemprop="publisher" itemtype="https://schema.org/Organization">
+				<div itemprop="logo" itemscope="" itemtype="https://schema.org/ImageObject" style="display:none;">
+					<img src="' . $logo . '" alt="' . get_bloginfo('name'). '" />
+					<meta content="' . $logo . '" itemprop="url" />';
+			if ($logo_width != '') {
+				$post_item .= '<meta content="' . $logo_width . '" itemprop="width" />';
+			}
+			if ($logo_height != '') {
+				$post_item .= '<meta content="' . $logo_height . '" itemprop="height" />';
+			}
+			$post_item .= '</div>
+			  	<meta itemprop="name" content="' . get_bloginfo('name'). '" />
+			</div>';
 			
 			return $post_item;
 		}
 	}
 	
 	
-	/*  for PRO users! -  GET SEARCH ITEM
+	/* GET SEARCH ITEM
 	================================================== */ 
 	if (!function_exists('sf_get_search_item')) {
 		function sf_get_search_item($postID) {
@@ -706,8 +728,8 @@
 			$image = sf_aq_resize( $thumb_img_url, 70, 70, true, false);
 			$image_title = sf_featured_img_title();
 			
-			if ($image) {
-				$search_item .= '<div class="search-item-img"><a href="'.$post_permalink.'"><img itemprop="image" src="'.$image[0].'" width="'.$image[1].'" height="'.$image[2].'" alt="'.$image_title.'" /></a></div>';
+			if ($image && strpos($image[0], '.pdf') !== true) {
+				$search_item .= '<div class="search-item-img"><a href="'.$post_permalink.'"><div itemprop="image" itemscope itemtype="http://schema.org/ImageObject"><img itemprop="url" src="'.$image[0].'" width="'.$image[1].'" height="'.$image[2].'" alt="'.$image_title.'" /></div></a></div>';
 			} else {
 				$search_item .= '<div class="search-item-img"><a href="'.$post_permalink.'" class="img-holder"><i class="'.$img_icon.'"></i></a></div>';
 			}

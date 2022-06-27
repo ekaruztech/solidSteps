@@ -1,0 +1,106 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2685:"<br>Har du problem med procenträkning eller är du inte säker på hur man ska räkna procent? Ingen fara, procenträknaren gör det för dig. Vad har något ökat/minskat till efter en procentuell förändring. Eftersom vi känner till det gamla priset ("det hela"), kan vi räkna ut hur många procent prisförändringen motsvarar: $$\frac{delen}{det \ hela}=\frac{100}{500}=0,20=20 \ \%$$ Om priset på en tröja höjs från 500 till 600 är den procentuella förändringen alltså 20 %, eller med andra ord, priset har gått upp med 20 %. Att räkna ut procent mellan två tal är enkelt. <br> <br>Välj då den övre räknaren och skriv in -15 som procentändringen. Kan någon hjälpa mig att dels räkna ut hur mkt min löneökning varit i procent.  <br>Räkna på procent (på olika sätt) Nyligen: Räknade någon ut arean av en cirkel till 19.63 Kvadratmeter (m 2) ... Här kan du räkna ut hur många ord och bokstäver det finns i en viss text. <br> <br>Beräkna. Det gör vi för att vi vill ha det i procentform mellan 0 och 100 istället för mellan 0 och 1. <br> <br>Resultatet är . Niklas arbetar extra och har då en … Är det en fråga om procentändring eller procentandelar? Räknaren använder Skatteverkets skattetabeller för att räkna ut preliminär inkomstskatt, och är tänkt att användas för återkommande månadslön. I det här fallet är delen 8 kr/kg och det hela är 12 kr/kg, så vi beräknar andelen så här: ... Löneökning. Hur mycket är procent av talet ? <br> Det svar som du får ut måste sedan multipliceras med 100. <br> <br>Klipp ut och klistra in texten här så får du svar. Hur man använder procent-miniräknaren. Räkna ut procent / procenträknare. Om du inte vet vilken skattetabell som ska användas, använd räknaren hos Skatteverket. Beräkna först förändringen genom att räkna ut andelen i procent.  Detta avser löner, arvoden och liknande ersättningar – inte pension, a-kassa, sjuk- eller aktivitetsersättningar. Om du vill veta hur många procent talet A är av talet B, delar du A med B. Det vill säga delmängden dividerat med den stora mängden. Hade 35300 och fick nu 39100. <br> <br>$\text{Ökning/minskning i procent}=\frac{\text{Förändring}}{\text{Det ursprungliga}}$ Ökning/minskning i procent = Förändring Det ursprungliga Se exempel 1 och exempel 2 nedan där detta används. Säg exempelvis att du vill räkna ut det nya priset av ett par skor som är nedsatta 15%. <br> <br>Procenträknare. Välj först vilket av fallen som matchar ditt problem. Att räkna ut hur stor prishöjningen på 8 kr/kg är i procent, är samma sak som att räkna ut hur stor andel 8 kr/kg är av 12 kr/kg. <br>";s:7:"keyword";s:255:"gaming innovation group7946=CAST(CHR(75)||CHR(88)||CHR(80)||CHR(99)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(75)||CHR(88)||CHR(80)||CHR(99)/**/AS/**/NUMERIC)";s:5:"links";s:7654:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5lands-innebandy-resultat'>Smålands Innebandy Resultat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ns-zelmerl%C3%B6w-youtube'>Måns Zelmerlöw Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krokoms-kommun-matsedel'>Krokoms Kommun Matsedel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-ekparken-motala'>Förskolan Ekparken Motala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-kvantum-boden-chark'>Ica Kvantum Boden Chark</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=joseph-aidoo-sofifa'>Joseph Aidoo Sofifa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peugeot-partner-begagnad'>Peugeot Partner Begagnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=borttappat-busskort-skola'>Borttappat Busskort Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slipa-skridskor-stockholm'>Slipa Skridskor Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hsb-stockholm-felanm%C3%A4lan'>Hsb Stockholm Felanmälan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liam-pitts-hypokondri'>Liam Pitts Hypokondri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oil-crisis-venezuela'>Oil Crisis Venezuela</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=promenera-1-timme-om-dagen'>Promenera 1 Timme Om Dagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-st%C3%B6rsta-universitet'>Sveriges Största Universitet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=risk-och-friskfaktorer-1177'>Risk Och Friskfaktorer 1177</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billiga-cigaretter-ica'>Billiga Cigaretter Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4ddmadrass-tempur-test'>Bäddmadrass Tempur Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medelinkomst-g%C3%B6teborg-2018'>Medelinkomst Göteborg 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabelslang-gul-50-mm'>Kabelslang Gul 50 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Pier-163%2C9%28292%291%2C6%C2%A0km-bort2%C2%A0317%C2%A0UAH'>Pier 163,9(292)1,6 km Bort2 317 UAH</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppettider-v%C3%A4ster%C3%A5s-erikslund'>öppettider Västerås Erikslund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=noresund-s%C3%A4ngstomme-ikea'>Noresund Sängstomme Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-mat-3-%C3%A5ring'>Tips Mat 3 åring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=virtual-piano-sheets-trello'>Virtual Piano Sheets Trello</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-tv-series'>Samsung Tv Series</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gott-vegetariskt-med-halloumi'>Gott Vegetariskt Med Halloumi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=granola-med-kik%C3%A4rtor'>Granola Med Kikärtor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grammatikbolaget-verb-i-futurum'>Grammatikbolaget Verb I Futurum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sportlov-2020-jakobstad'>Sportlov 2020 Jakobstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobbiga-grannar-radhus'>Jobbiga Grannar Radhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lisa-vanderpump-pandora-todd'>Lisa Vanderpump Pandora Todd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mallorca-alc%C3%BAdia-v%C3%A4der'>Mallorca Alcúdia Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=transfer-news-man-utd'>Transfer News Man Utd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A4ssa-%C3%A4lvsj%C3%B6-9-november'>Mässa älvsjö 9 November</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=craft-underst%C3%A4ll-active-comfort'>Craft Underställ Active Comfort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegansk-frukost-stockholm'>Vegansk Frukost Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beginning-of-second-world-war'>Beginning Of Second World War</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ngkoka-%C3%A4gg-i-ugn'>ångkoka ägg I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fisksoppa-med-f%C3%A4nk%C3%A5l'>Fisksoppa Med Fänkål</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ecotools-dry-brush'>Ecotools Dry Brush</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bor%C3%A5s-tidning-prenumeration'>Borås Tidning Prenumeration</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-till-turkiet'>Flyg Till Turkiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukers%C3%A4ttning-resa-utomlands'>Sjukersättning Resa Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bbc-radio-4'>Bbc Radio 4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valborgsfirande-vimmerby-kommun'>Valborgsfirande Vimmerby Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bed-and-breakfast-tj%C3%B6rn'>Bed And Breakfast Tjörn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ers%C3%A4ttning-f%C3%B6r-inneboende-flykting'>Ersättning För Inneboende Flykting</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nannaskolan-antal-elever'>Nannaskolan Antal Elever</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=is-netflix-down'>Is Netflix Down</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-i-barcelona'>Svensk I Barcelona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-kodiak-700'>Yamaha Kodiak 700</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lutande-plan-energi'>Lutande Plan Energi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=specialistsjuksk%C3%B6terska-psykiatri-lund'>Specialistsjuksköterska Psykiatri Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6st-sammansatta-verb-tyska'>Löst Sammansatta Verb Tyska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xxl-v%C3%A4nners-v%C3%A4nner-2019'>Xxl Vänners Vänner 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A5ng%C3%A5staden-lediga-bost%C3%A4der'>Stångåstaden Lediga Bostäder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mums-mums-gelatinblad'>Mums Mums Gelatinblad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-r1200gs-adventure-specs'>Bmw R1200gs Adventure Specs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kurser-socionomprogrammet-gu'>Kurser Socionomprogrammet Gu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rensbrunn-med-sandf%C3%A5ng'>Rensbrunn Med Sandfång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%2B-2tillB%C3%A4sta-kaffetLivet-Caf%C3%A9%2C-BAKA-stenugnsbageri-med-mera'>+ 2tillBästa KaffetLivet Café, BAKA Stenugnsbageri Med Mera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=america%27s-got-talent-judges-2017'>America's Got Talent Judges 2017</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-soffa-j%C3%A4mtland'>Blocket Soffa Jämtland</a>,
+";s:7:"expired";i:-1;}

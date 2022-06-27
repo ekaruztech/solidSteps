@@ -1,18 +1,18 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Products Function Class
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*	
 	*	sf_mini_product_items()
 	*	sf_product_items()
 	*
 	*/
 	
-	/*  for PRO users! -  MINI PRODUCTS
+	/* MINI PRODUCTS
 	================================================== */
 	if (!function_exists('sf_mini_product_items')) { 
 		function sf_mini_product_items($asset_type, $category, $item_count, $sidebar_config, $width) {
@@ -24,41 +24,42 @@
 			
 			// ARRAY ARGUMENTS
 			if ($asset_type == "latest-products") {
-				
 				$args = array(
-						'post_type' => 'product',
-						'post_status' => 'publish',
-						'product_cat' => $category,
-						'ignore_sticky_posts'   => 1,
-						'posts_per_page' => $item_count,
-					);	    
-				
-				$args['meta_query'] = array();
-				$args['meta_query'][] = $woocommerce->query->stock_status_meta_query();
-				$args['meta_query'][] = $woocommerce->query->visibility_meta_query();		
-				
+					'post_type'           => 'product',
+					'post_status'         => 'publish',
+					'product_cat'         => $category,
+					'ignore_sticky_posts' => 1,
+					'posts_per_page'      => $item_count,
+					'meta_query'          => WC()->query->get_meta_query(),
+					'tax_query'           => WC()->query->get_tax_query(),
+				);
 			} else if ($asset_type == "featured-products") {			
+				$product_visibility_term_ids = wc_get_product_visibility_term_ids();
 				$args = array(
-					    'post_type' => 'product',
-					    'post_status' => 'publish',
-					    'product_cat' => $category,
-						'ignore_sticky_posts'   => 1,
-					    'meta_key' => '_featured',
-					    'meta_value' => 'yes',
-					    'posts_per_page' => $item_count
-					);
+				    'post_type'           => 'product',
+				    'post_status'         => 'publish',
+				    'product_cat'         => $category,
+				    'ignore_sticky_posts' => 1,
+				    'posts_per_page'      => $item_count
+				);
+				$args['tax_query'][] = array(
+					'taxonomy' => 'product_visibility',
+					'field'    => 'term_taxonomy_id',
+					'terms'    => $product_visibility_term_ids['featured'],
+				);
 			} else if ($asset_type == "top-rated") {
-				add_filter( 'posts_clauses',  array( $woocommerce->query, 'order_by_rating_post_clauses' ) );
-						
 				$args = array(
-					    'post_type' => 'product',
-					    'post_status' => 'publish',
-					    'product_cat' => $category,
-						'ignore_sticky_posts'   => 1,
-					    'posts_per_page' => $item_count
-					);
-				$args['meta_query'] = $woocommerce->query->get_meta_query();
-			
+					'posts_per_page' => $item_count,
+					'product_cat' => $category,
+					'no_found_rows'  => 1,
+					'post_status'    => 'publish',
+					'post_type'      => 'product',
+					'meta_key'       => '_wc_average_rating',
+					'orderby'        => 'meta_value_num',
+					'order'          => 'DESC',
+					'meta_query'     => WC()->query->get_meta_query(),
+					'tax_query'      => WC()->query->get_tax_query(),
+				);
 			} else if ($asset_type == "recently-viewed") {			
 	
 				// Get recently viewed product cookies data
@@ -88,37 +89,28 @@
 			    //$args['meta_query'][] = $woocommerce->query->stock_status_meta_query();
 	
 			} else if ($asset_type == "sale-products") {
-				// Get products on sale
-				$product_ids_on_sale = wc_get_product_ids_on_sale();
-		
-				$meta_query   = array();
-				$meta_query[] = WC()->query->visibility_meta_query();
-				$meta_query[] = WC()->query->stock_status_meta_query();
-				$meta_query   = array_filter( $meta_query );
-		
 				$args = array(
-					'product_cat' => $category,
 					'posts_per_page' => $item_count,
-					'no_found_rows' 	=> 1,
-					'post_status' 		=> 'publish',
-					'post_type' 		=> 'product',
-					'meta_query' 		=> $meta_query,
-					'post__in'			=> array_merge( array( 0 ), $product_ids_on_sale )
+					'no_found_rows'  => 1,
+					'post_status'    => 'publish',
+					'post_type'      => 'product',
+					'product_cat'    => $category,
+					'meta_query'     => WC()->query->get_meta_query(),
+					'tax_query'      => WC()->query->get_tax_query(),
+					'post__in'       => array_merge( array( 0 ), wc_get_product_ids_on_sale() ),
 				);
 			} else {
 				$args = array(
-					'posts_per_page' => $item_count,
-					'post_status'    => 'publish',
-					'post_type'      => 'product',
-					'meta_key'       => 'total_sales',
-					'orderby'        => 'meta_value_num',
-					'no_found_rows'  => 1,
-					'product_cat' => $category
-				);
-				
-				$args['meta_query'] = array();
-				$args['meta_query'][] = $woocommerce->query->stock_status_meta_query();
-				$args['meta_query'][] = $woocommerce->query->visibility_meta_query();			
+					'post_type'           => 'product',
+					'post_status'         => 'publish',
+					'ignore_sticky_posts' => 1,
+					'posts_per_page'      => $item_count,
+					'meta_key'            => 'total_sales',
+					'orderby'             => 'meta_value_num',
+					'meta_query'          => WC()->query->get_meta_query(),
+					'tax_query'           => WC()->query->get_tax_query(),
+					'product_cat' 		  => $category,
+				);			
 			}
 			
 			// OUTPUT PRODUCTS    
@@ -134,10 +126,6 @@
 		            
 		            global $product, $post, $wpdb, $woocommerce_loop; 
 		    
-		            // Ensure visibility
-		            if ( ! $product->is_visible() )
-		            	return;
-		            
 		            if ( has_post_thumbnail() ) {
 		    			$image_title 		= esc_attr( get_the_title( get_post_thumbnail_id() ) );
 		    			$image_link  		= wp_get_attachment_url( get_post_thumbnail_id() );
@@ -175,7 +163,7 @@
 		           	    if ( $count > 0 ) {
 		           	
 		           	        $average = number_format($rating / $count, 2);	           			
-		           	        $rating_output = '<div class="star-rating" title="'.sprintf(__('Rated %s out of 5', 'woocommerce'), $average).'"><span style="width:'.($average*16).'px"><span class="rating">'.$average.'</span> '.__('out of 5', 'woocommerce').'</span></div>';
+		           	        $rating_output = '<div class="star-rating" title="'.sprintf(__('Rated %s out of 5', 'swiftframework'), $average).'"><span style="width:'.($average*16).'px"><span class="rating">'.$average.'</span> '.__('out of 5', 'swiftframework').'</span></div>';
 		           	
 		           	    }
 		           	}
@@ -198,9 +186,12 @@
 		       		
 		       		} else {
 		            
-	            		$size = sizeof( get_the_terms( $post->ID, 'product_cat' ) );
-	            		$product_output .= $product->get_categories( ', ', '<span class="product-cats">' . _n( '', '', $size, 'woocommerce' ) . ' ', '</span>' );
-	            	
+	            		if ( function_exists('wc_get_product_category_list') ) {
+	            			$product_output .= wc_get_product_category_list( ', ', '<span class="product-cats">', '</span>' );
+	            		} else {
+	            			$product_output .= $product->get_categories( ', ', '<span class="product-cats">', '</span>' );
+	            		}
+
 	            	}
 	            	if (!$sf_catalog_mode) {
 		            $product_output .= '<span class="price">'.$product->get_price_html().'</span>';
@@ -225,10 +216,10 @@
 	}
 	
 	
-	/*  for PRO users! -  STANDARD PRODUCTS
+	/* STANDARD PRODUCTS
 	================================================== */
 	if (!function_exists('sf_product_items')) { 		
-		function sf_product_items($asset_type, $category, $carousel, $product_size, $item_count, $width) {
+		function sf_product_items($asset_type, $category, $products, $carousel, $product_size, $item_count, $width) {
 			
 			global $woocommerce, $woocommerce_loop;
 			
@@ -237,39 +228,41 @@
 			// ARRAY ARGUMENTS
 			if ($asset_type == "latest-products") {
 				$args = array(
-						'post_type' => 'product',
-						'post_status' => 'publish',
-						'product_cat' => $category,
-						'ignore_sticky_posts'   => 1,
-						'posts_per_page' => $item_count
-					);
-				
-				$args['meta_query'] = array();
-				$args['meta_query'][] = $woocommerce->query->stock_status_meta_query();
-				$args['meta_query'][] = $woocommerce->query->visibility_meta_query();	
-				
+					'post_type'           => 'product',
+					'post_status'         => 'publish',
+					'product_cat'         => $category,
+					'ignore_sticky_posts' => 1,
+					'posts_per_page'      => $item_count,
+					'meta_query'          => WC()->query->get_meta_query(),
+					'tax_query'           => WC()->query->get_tax_query(),
+				);
 			} else if ($asset_type == "featured-products") {			
+				$product_visibility_term_ids = wc_get_product_visibility_term_ids();
 				$args = array(
-					    'post_type' => 'product',
-					    'post_status' => 'publish',
-					    'product_cat' => $category,
-						'ignore_sticky_posts'   => 1,
-					    'meta_key' => '_featured',
-					    'meta_value' => 'yes',
-					    'posts_per_page' => $item_count
-					);
+				    'post_type'           => 'product',
+				    'post_status'         => 'publish',
+				    'product_cat'         => $category,
+				    'ignore_sticky_posts' => 1,
+				    'posts_per_page'      => $item_count
+				);
+				$args['tax_query'][] = array(
+					'taxonomy' => 'product_visibility',
+					'field'    => 'term_taxonomy_id',
+					'terms'    => $product_visibility_term_ids['featured'],
+				);
 			} else if ($asset_type == "top-rated") {
-				add_filter( 'posts_clauses',  array( $woocommerce->query, 'order_by_rating_post_clauses' ) );
-						
 				$args = array(
-					    'post_type' => 'product',
-					    'post_status' => 'publish',
-					    'product_cat' => $category,
-						'ignore_sticky_posts'   => 1,
-					    'posts_per_page' => $item_count
-					);
-				$args['meta_query'] = $woocommerce->query->get_meta_query();
-			
+					'posts_per_page' => $item_count,
+					'product_cat' => $category,
+					'no_found_rows'  => 1,
+					'post_status'    => 'publish',
+					'post_type'      => 'product',
+					'meta_key'       => '_wc_average_rating',
+					'orderby'        => 'meta_value_num',
+					'order'          => 'DESC',
+					'meta_query'     => WC()->query->get_meta_query(),
+					'tax_query'      => WC()->query->get_tax_query(),
+				);
 			} else if ($asset_type == "recently-viewed") {			
 	
 				// Get recently viewed product cookies data
@@ -299,37 +292,30 @@
 			    //$args['meta_query'][] = $woocommerce->query->stock_status_meta_query();
 	
 			} else if ($asset_type == "sale-products") {
-				// Get products on sale
-				$product_ids_on_sale = wc_get_product_ids_on_sale();
-		
-				$meta_query   = array();
-				$meta_query[] = WC()->query->visibility_meta_query();
-				$meta_query[] = WC()->query->stock_status_meta_query();
-				$meta_query   = array_filter( $meta_query );
-		
-				$args = array(
-					'product_cat' => $category,
-					'posts_per_page' => $item_count,
-					'no_found_rows' 	=> 1,
-					'post_status' 		=> 'publish',
-					'post_type' 		=> 'product',
-					'meta_query' 		=> $meta_query,
-					'post__in'			=> array_merge( array( 0 ), $product_ids_on_sale )
-				);
-			} else {				
+				
 				$args = array(
 					'posts_per_page' => $item_count,
+					'no_found_rows'  => 1,
 					'post_status'    => 'publish',
 					'post_type'      => 'product',
-					'meta_key'       => 'total_sales',
-					'orderby'        => 'meta_value_num',
-					'no_found_rows'  => 1,
-					'product_cat' => $category
+					'product_cat'    => $category,
+					'meta_query'     => WC()->query->get_meta_query(),
+					'tax_query'      => WC()->query->get_tax_query(),
+					'post__in'       => array_merge( array( 0 ), wc_get_product_ids_on_sale() ),
 				);
 				
-				$args['meta_query'] = array();
-				$args['meta_query'][] = $woocommerce->query->stock_status_meta_query();
-				$args['meta_query'][] = $woocommerce->query->visibility_meta_query();	
+			} else {				
+				$args = array(
+					'post_type'           => 'product',
+					'post_status'         => 'publish',
+					'ignore_sticky_posts' => 1,
+					'posts_per_page'      => $item_count,
+					'meta_key'            => 'total_sales',
+					'orderby'             => 'meta_value_num',
+					'meta_query'          => WC()->query->get_meta_query(),
+					'tax_query'           => WC()->query->get_tax_query(),
+					'product_cat' 		  => $category,
+				);
 			}
 			
 			ob_start();
@@ -411,23 +397,20 @@
 			   
 				<?php if ($carousel == "yes") { ?>
 					
-					<div class="product-carousel" data-columns="<?php echo $columns; ?>">
-						
-						<div class="carousel-overflow">
+					<div class="product-carousel carousel-wrap">
 										
-							<ul class="products list-<?php echo $asset_type; ?>" id="carousel-<?php echo $sf_carouselID; ?>">
-							
-								<?php while ( $products->have_posts() ) : $products->the_post(); ?>
-							
-									<?php woocommerce_get_template_part( 'content', 'product' ); ?>
-							
-								<?php endwhile; // end of the loop. ?>
-							 
-							</ul>
-												
-						</div>
+						<ul class="products list-<?php echo $asset_type; ?> carousel-items"
+						     id="carousel-<?php echo $sf_carouselID; ?>" data-columns="<?php echo $columns; ?>">
 						
-						<a href="#" class="prev"><i class="ss-navigateleft"></i></a><a href="#" class="next"><i class="ss-navigateright"></i></a>
+							<?php while ( $products->have_posts() ) : $products->the_post(); ?>
+						
+								<?php wc_get_template_part( 'content', 'product' ); ?>
+						
+							<?php endwhile; // end of the loop. ?>
+						 
+						</ul>
+						
+						<a href="#" class="carousel-prev"><i class="ss-navigateleft"></i></a><a href="#" class="carousel-next"><i class="ss-navigateright"></i></a>
 						
 					</div>
 					
@@ -437,7 +420,7 @@
 				
 					<?php while ( $products->have_posts() ) : $products->the_post(); ?>
 				
-						<?php woocommerce_get_template_part( 'content', 'product' ); ?>
+						<?php wc_get_template_part( 'content', 'product' ); ?>
 				
 					<?php endwhile; // end of the loop. ?>
 				 
@@ -452,7 +435,6 @@
 	       
 	       wp_reset_query();
 	       wp_reset_postdata();
-	       remove_filter( 'posts_clauses',  array( $woocommerce->query, 'order_by_rating_post_clauses' ) );
 	       
 	       return $product_list_output;
 		

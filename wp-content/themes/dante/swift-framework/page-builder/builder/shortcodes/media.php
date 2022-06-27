@@ -1,16 +1,16 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Media Shortcodes Config
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*/
 
 
-	/*  for PRO users! -  VIDEO ASSET
+	/* VIDEO ASSET
 	================================================== */
 	class SwiftPageBuilderShortcode_spb_video extends SwiftPageBuilderShortcode {
 
@@ -103,7 +103,7 @@
 	) );
 
 
-	/*  for PRO users! -  SINGLE IMAGE ASSET
+	/* SINGLE IMAGE ASSET
 	================================================== */
 	class SwiftPageBuilderShortcode_spb_single_image extends SwiftPageBuilderShortcode {
 
@@ -305,7 +305,7 @@
 	));
 
 
-	/*  for PRO users! -  GOOGLE MAPS ASSET
+	/* GOOGLE MAPS ASSET
 	================================================== */
 	class SwiftPageBuilderShortcode_spb_gmaps extends SwiftPageBuilderShortcode {
 

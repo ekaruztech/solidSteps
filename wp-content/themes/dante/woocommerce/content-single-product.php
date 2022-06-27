@@ -1,20 +1,17 @@
 <?php
-/*  for PRO users! - *
- * The template for displaying product content in the single-product.php template
- *
- * Override this template by copying it to yourtheme/woocommerce/content-single-product.php
- *
- * @author 		WooThemes
- * @package 	WooCommerce/Templates
- * @version     2.1.0
- */
-
-if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
-?>
-
-<?php
+	/**
+	 * The template for displaying product content in the single-product.php template
+	 *
+	 * Override this template by copying it to yourtheme/woocommerce/content-single-product.php
+	 *
+	 * @author 		WooThemes
+	 * @package 	WooCommerce/Templates
+	 * @version     3.0.0
+	 */
 	
-	global $post, $product, $sf_catalog_mode;
+	if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
+	
+	global $post, $product, $sf_catalog_mode, $sidebar_config;
 	
 	$options = get_option('sf_dante_options');
 	if (isset($options['enable_pb_product_pages'])) {
@@ -22,10 +19,9 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 	} else {
 		$enable_pb_product_pages = false;
 	}
-	global $sidebar_config;
 	$pb_active = sf_get_post_meta($post->ID, '_spb_js_status', true);
 	if (!$options['enable_pb_product_pages']) {
-	$pb_active = false;
+	$pb_active = "false";
 	}
 	
 	$product_short_description = sf_get_post_meta($post->ID, 'sf_product_short_description', true);
@@ -36,21 +32,16 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 	    $product_short_description = "";
 	}
 ?>
-
-<?php if ($sidebar_config == "no-sidebars" && $pb_active == "true") { ?>
 <div class="container">
-<?php } ?>
 <?php 
-	/*  for PRO users! - *
+	/**
 	 * woocommerce_before_single_product hook
 	 *
 	 * @hooked woocommerce_show_messages - 10
 	 */
 	 do_action( 'woocommerce_before_single_product' );
 ?>
-<?php if ($sidebar_config == "no-sidebars" && $pb_active == "true") { ?>
 </div>
-<?php } ?>
 
 <div itemscope itemtype="http://schema.org/Product" id="product-<?php the_ID(); ?>" <?php post_class(); ?>>
 	
@@ -59,7 +50,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 	<div class="container">
 
 		<?php
-			/*  for PRO users! - *
+			/**
 			 * woocommerce_show_product_images hook
 			 *
 			 * @hooked woocommerce_show_product_sale_flash - 10
@@ -110,7 +101,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 							$reviews_text = sprintf(_n('<span itemprop="reviewCount">%d</span> Review', '<span itemprop="reviewCount">%d</span> Reviews', $count, 'Swift Framework'), $count);
 							
 					        echo '<div class="review-summary" itemprop="aggregateRating"
-					            itemscope itemtype="http://schema.org/AggregateRating"><div class="star-rating" title="'.sprintf(__('Rated %s out of 5', 'woocommerce'), $average).'"><span style="width:'.($average*16).'px"><span class="rating" itemprop="ratingValue">'.$average.'</span> '.__('out of 5', 'woocommerce').'</span></div><div class="reviews-text">'.$reviews_text.'</div></div>';
+					            itemscope itemtype="http://schema.org/AggregateRating"><div class="star-rating" title="'.sprintf(__('Rated %s out of 5', 'swiftframework'), $average).'"><span style="width:'.($average*16).'px"><span class="rating" itemprop="ratingValue">'.$average.'</span> '.__('out of 5', 'swiftframework').'</span></div><div class="reviews-text">'.$reviews_text.'</div></div>';
 					
 					    }
 					}
@@ -134,7 +125,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 			<?php } ?>	
 						
 			<?php
-				/*  for PRO users! - *
+				/**
 				* woocommerce_single_product_summary hook
 				*
 				* @hooked woocommerce_template_single_title - 5
@@ -153,7 +144,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 	
 	</div>
 	
-	<?php if ($enable_pb_product_pages) { ?>
+	<?php if ( $enable_pb_product_pages && $pb_active == "true" ) { ?>
 	
 	<div id="product-display-area" class="clearfix">
 		
@@ -166,7 +157,7 @@ if ( ! defined( 'ABSPATH' ) ) exit; // Exit if accessed directly
 	<div class="container product-after-wrap">
 	
 		<?php
-			/*  for PRO users! - *
+			/**
 			 * woocommerce_after_single_product_summary hook
 			 *
 			 * @hooked woocommerce_output_product_data_tabs - 10

@@ -1,0 +1,78 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:5007:"<p>Under 2018 hade Tunaskolan en lärartäthet på 7.51 (vilket innebär att skolan hade 7.51 lärare per 100 elever eller 13.3 elever per lärare). På Tunaskolan gick det 722 elever under år 2019 vilket är en ökning från föregående år då det gick 705 elever på skolan. </p> <p>På Skolkollen hittar du läsårstider, kontaktuppgifter, matsedel och aktuell statistik om Tunaskolan i Lund och alla andra skolor i Sverige. Är du i behov av behovsanpassade måltider??  </p> <p>It is provided with a legendary cuisine, modern conference and banquet facilities. Här kan du hämta appen till din smartphone. Official Site: The Grand Hotel Lund is a 100-year-old hotel in Lund, Sweden. Join Facebook to connect with Lund Swaru and others you may know. Telefonnummer till Restaurangen : Annika Olsson 018 7277567. View the profiles of people named Lund Swaru. Lund skapar framtiden med kunskap, innovation och öppenhet. Vi som arbetar i Skolrestaurangen på Almtunaskolan värnar om barnen på vår skola. About the author: janlarry. Restaurang NY ORK välkomnar er med god och varierad mat och ett stort och välfyllt salladsbord varje dag. Här hittar du inloggning till de system som används i skolorna, information om lov och ledighet och hur du gör sjuk- och frånvaroanmälan. </p> <p>Här kan du hämta appen till din smartphone. Personal på Tunaskolan i Lund Här hittar du information om och kontaktuppgifter till personalen på Tunaskolan. Matsedel. Telefon: 046 - 359 47 12. Här kan du hämta specialmatsblankett och läsa mer om specialmat Vill du se maten i mobilen? Måltidsservice levererar dagligen ett av alternativen i matsedeln till Nåntunaskolan. Årskurs F–9. Det finns även elever inskrivna i särskolan som är integrerade i den ordinarie grundskolans verksamhet i This is our time - photos from all activities at Tunaskolan, November 26, 2004 >>>. I Lund möts tradition och innovation i den medeltida staden där det är lika nära till universitet och spetsforskning som till natur och kultur. Är du i behov av behovsanpassade måltider?? Organisationsnummer 212000-1132 Lära att lära är en modell för lärande som bygger på portfoliometodik. Friede, Ana-Maria. Sammarbetspartners 2014; Grabbarna pÃ¥ Hagalundskolan i Dalby Är du i behov av behovsanpassade måltider?? E-post: ana-maria.rodriguesfriede@lund.se Biträdande rektor Grundsärskolan … Statistik för Tunaskolan i Lund Här hittar du aktuell statistik såsom antal elever, elever per lärare, andelen lärare med behörighet samt andelen elever som uppnått kunskapskravet på Tunaskolan i Lund. </p> <p>Julle murar leca pÃ¥ Tunaskolan i Lund. Måltidsservice levererar dagligen ett av alternativen i matsedeln till Nåntunaskolan. </p> <p>? Rektor Tunaskolan. Gunnesboskolan består av två delar, Gunnesboskolan F–6 med fritidshem och Gunnesboskolan 7–9. På skolorna går sammanlagt cirka 520 elever. Är du i behov av behovsanpassade måltider? Today, our operations extend throughout the country and the world. Matsedel. Grundsärskola och träningsskola finns i Lunds kommun, på Fågelskolan, Tunaskolan, Höjebroskolan (autism) och Stenröseskolan. Gunnesboskolan har en tydlig profil mot modellen Lära att lära. Skolportalen omfattar kommunala grundskolor och gymnasieskolor i Lund. </p> <p>Video Conference Sintermeerten College, Netherlands - Tunaskolan, Sweden November 26, 2004, 8.00 GMT (9-10 Swedish time)>>> Matsedel; Matsedel. Är du i behov av behovsanpassade måltider?? Matsedel; Matsedel. </p> <p>Här kan du hämta specialmatsblankett och läsa mer om specialmat Vill du se maten i mobilen? Här kan du hämta specialmatsblankett och läsa mer om specialmat Vill du se maten i mobilen? Tunaskolan´s Video Conference program November 26, 2004 >>>. i sammarbete med REKAB. Vi vill att alla barn som äter hos oss ska gå härifrån mätta nöjda och glada. Lediga jobb på Tunaskolan i Lund Här hittar du lediga jobb på Tunaskolan. Postadress. Matsedel. Our headquarters are located in Stockholm, Sweden, which has been our base for the past 140 years. Lunds kommun Namn till verksamheten, Box 41, 221 00 Lund. Ericsson is one of the world's leading information and communication technology companies. Jobba på Tunaskolan Under 2018 hade skolan en lärartäthet på 7.51 (vilket innebär att skolan hade 7.51 lärare per 100 elever eller 13.3 elever per lärare). Motsvarande siffra under 2017 var 7.93 (7.93 lärare per 100 elever eller 12.6 elever per lärare). </p> <p>Den obligatoriska särskoleverksamheten bedrivs som grundsärskola och träningsskola. Välkommen till Gunnesboskolan i norra Lund. </p> <p>Här kan du hämta specialmatsblankett och läsa mer om specialmat Vill du se maten i mobilen? Restaurang NY ORK välkomnar er med god och varierad mat och ett stort och välfyllt salladsbord varje dag. På Skolkollen hittar du läsårstider, kontaktuppgifter, matsedel och aktuell statistik om Tunaskolan i Lund och alla andra skolor i Sverige. </p>";s:7:"keyword";s:229:"streams to royalties/**/OR/**/7732/**/IN/**/(SELECT/**/(CHAR(89)+CHAR(101)+CHAR(74)+CHAR(57)+(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END))+CHAR(89)+CHAR(101)+CHAR(74)+CHAR(57)))#/**/5ODF";s:5:"links";s:4170:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-lila-elgiganten'>Iphone 11 Lila Elgiganten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hungarian-and-finnish'>Hungarian And Finnish</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startrel%C3%A4-volvo-v70'>Startrelä Volvo V70</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smirnoff-ice-light'>Smirnoff Ice Light</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aktiviteter-sportlov-borl%C3%A4nge'>Aktiviteter Sportlov Borlänge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best%C3%A4lla-ikea-k%C3%B6k'>Beställa Ikea Kök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bada-p%C3%A5-legoland'>Bada På Legoland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resort-sverige-barn'>Resort Sverige Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=don-donna-rea'>Don Donna Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bada-japansk-spets'>Bada Japansk Spets</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vastus-lateralis-funktion'>Vastus Lateralis Funktion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konsekvenser-av-skr%C3%A4ckv%C3%A4ldet'>Konsekvenser Av Skräckväldet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=certificate-of-good-standing-l%C3%A4kare-socialstyrelsen'>Certificate Of Good Standing Läkare Socialstyrelsen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=melodifestivalen-2020-statistik'>Melodifestivalen 2020 Statistik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6d-till-skaldjurssoppa'>Bröd Till Skaldjurssoppa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sound-of-music-musical'>Sound Of Music Musical</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lathund-c-uppsats'>Lathund C Uppsats</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparbanken-syd-problem'>Sparbanken Syd Problem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5dbilar-till-salu'>Lådbilar Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=he%27s-a-pirate-piano-sheet'>He's A Pirate Piano Sheet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=folksam-personskador-ers%C3%A4ttning'>Folksam Personskador Ersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-barnsk%C3%B6tare'>Personligt Brev Barnskötare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mjuk-kaka-med-havremj%C3%B6l'>Mjuk Kaka Med Havremjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fiskgrat%C3%A4ng-med-mos-jennys-matblogg'>Fiskgratäng Med Mos Jennys Matblogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ta-kanal-musik'>Göta Kanal Musik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=team-sportia-cykelf%C3%B6rs%C3%A4kring'>Team Sportia Cykelförsäkring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rvaltningsr%C3%A4tten-i-j%C3%B6nk%C3%B6ping'>Förvaltningsrätten I Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bagare-l%C3%B6n-2019'>Bagare Lön 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-l%C3%A5ngstrump-nattlinne'>Pippi Långstrump Nattlinne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=madrass-till-b%C3%A5t'>Madrass Till Båt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bel-air-car'>Bel Air Car</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shaun-the-sheep-game'>Shaun The Sheep Game</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-stort-%C3%A4r-ett-protein'>Hur Stort är Ett Protein</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blir-en-liten-tv%C3%A5a-korsord'>Blir En Liten Tvåa Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=domningar-i-ansiktet-%C3%A5ngest'>Domningar I Ansiktet ångest</a>,
+";s:7:"expired";i:-1;}

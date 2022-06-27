@@ -2,7 +2,7 @@
 Contributors: inpsyde, Bueltge
 Tags: redirect, permalink, url, seo, 301
 Requires at least: 2.7
-Tested up to: 3.9
+Tested up to: 4.5
 Stable tag: trunk
 
 It checks the Permalink and redirects to the new URL, if it doesn't exist. It sends the header message "moved permanently 301"
@@ -30,9 +30,13 @@ The plugin comes with various translations, please refer to the [WordPress Codex
 * Lithuanian translation files by [Vincent G](http://www.host1plus.com)
 * Turkish translation files by [Selcuk Yahsi](htt://www.eniyiwebhosting.com)
 * French translation files by [noaneo](http://noaneo.fr/)
+* Polish translation by [Rachela](http://couponmachine.in)
 
 == Changelog ==
+= v1.0.0 (05/16/2016) =
+* Update constructor for php7 usage.
+
 = v0.1 (10/06/2010) =
 * Write a Plugin based on my ideas for customer
 * 4free to use with GPL licence
-* upload on WP-Repository
+* Upload on WP-Repository

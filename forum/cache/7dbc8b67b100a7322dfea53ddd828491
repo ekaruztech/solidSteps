@@ -1,0 +1,102 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3847:"<br>Det är Jeopardy! Det har de i 1-3, så vi tänkte att vi skulle göra lika. <br> <br>Elisa Matilda Fem en fredag: "Den här veckans frågor tänkte jag att vi skulle göra något lite annorlunda.Jag säger svaren, och ni ställer frågorna. Det har de i 1-3, så vi tänkte att vi skulle göra lika. Det är ju inte helt enkelt att vara kreativ och fylla en hel dag/dygn/helg eller vad det nu kan vara. Eleverna får fundera kring sitt eget lärande, hur de är i klassrummet och hur de trivs med sina klasskompisar. It’s Free, Easy and Loads of fun! Sofia har angett 8 jobb i sin profil. Se Sofia Höglunds profil på LinkedIn, världens största yrkesnätverk. Välj provets inställningar och hur många frågor samt Välj provets inställningar och hur många … Du har något att sälja. <br> <br>Ditt resultat jämfört med andras, typer av prov med flervalsfrågor, måste du göra structures klart om din intresserad av roliga frågesport ämne Här kan du skapa ett eget prov. <br> <br>Du har potentiella målgrupper.  <br>Hennes idé till en annorlunda ”Fem en fredag” med att göra en Jeopardy-variant är ju hur rolig som helst. FRÅGA: Jag har arbetat som lärare i många år. <br> Att bygga en effektiv reklamkampanj är inte lätt, men det finns tumregler som hjälper dig att tänka rätt när du planerar din kampanj. Jeopardy! Scenen är din! Varför inte överraska hela sällskapet med ett spel som plötsligt får dem att känna sig som särskilt utvalda gäster till ett avsnitt av På spåret, eller kanske Jeopardy. Det blir som en liten bok. ... äga böcker, läser, fotograferar, är periodare, läser olika mycket och olika böcker. Try Remote Buzzer-Mode for even more fun! Nu när jag var på möhippa i helgen så slog det mig att jag ofta får frågan om jag har några bra tips på vad man kan göra på en möhippa egentligen. Du har en budget. <br> <br>Jag ser mig själv som en duktig lärare och har alltid haft god relation till eleverna. Reach Your Goal, Örebro (Örebro, Sweden). Se hela profilen på LinkedIn, upptäck Sofias kontakter och hitta jobb på liknande företag. Och du har krav på dig att nå ett väldigt bra resultat. förstås! Det är Jeopardy! <br> <br>Kommer bli jättekul att få läsa era frågor. Min barndomsdröm om ett eget bibliotek är … utvecklingssamtal fem på fredag ... Om den bok vi läser inte ruskar oss vakna som ett slag mot huvudet, varför då göra sig besväret att läsa den över huvud taget? Create engaging Jeopardy-style quiz games in minutes or choose from millions of existing Jeopardy game templates. Om du håller de… Reach Your Goal - Professionell Personlig Träningsglädje Men i dagsläget har jag en stor klass med 28 elever i årskurs 4, och fem av dessa elever har olika typer av inlärningssvårigheter och är i behov av extra stöd. <br> <br>Fast på mitt eget lilla vis, såklart.  <br> <br>Den här veckans frågor tänkte jag att vi skulle göra något lite annorlunda. Jag säger svaren, och ni ställer frågorna. <br> <br>Efter att ha … förstås! <br> <br>Måste dock medge att jag aldrig sett programmet – oooooops, jag vet hur det är ställt med min allmänbildning. Känns det bekant? <br> <br>421 likes. Jag surfade runt lite och hämtade inspiration från de jag tyckte var bäst och gjorde ett eget häfte av det. The #1 Jeopardy-style classroom review game now supports remote learning online. Det blir som en liten bok. Känns det bekant? Eleverna får fundera kring sitt eget lärande, hur de är i klassrummet och hur de trivs med sina klasskompisar. Så därför, här kommer 10 tips på en GRYM möhippa! <br> <br>Elisa är helt suverän! Jag surfade runt lite och hämtade inspiration från de jag tyckte var bäst och gjorde ett eget häfte av det. <br> <br>Fast på mitt eget lilla vis, såklart. <br>";s:7:"keyword";s:19:"göra eget jeopardy";s:5:"links";s:6952:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4stt%C3%A5rta-steg-f%C3%B6r-steg'>Hästtårta Steg För Steg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=protein-in-vegan-diet'>Protein In Vegan Diet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4s%C3%A5rstider-uppsala-2020'>Läsårstider Uppsala 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-grammatik-satsdelar'>Svenska Grammatik Satsdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4gg-till-musik-till-bild-instagram'>Lägg Till Musik Till Bild Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ola-lindgren-grave'>Ola Lindgren Grave</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=delta-b%C3%A5tar-modeller'>Delta Båtar Modeller</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-s%C3%A4lja-bil'>Tips Sälja Bil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jamina-roberts-gravid'>Jamina Roberts Gravid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torkarblad-bosch-mekonomen'>Torkarblad Bosch Mekonomen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liam-payne-f1'>Liam Payne F1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-dif-2006'>Aik Dif 2006</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=midsommar-liding%C3%B6-2019'>Midsommar Lidingö 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakverk-med-oboy'>Bakverk Med Oboy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=divan-soffa-mio'>Divan Soffa Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-flaskor-till-salu'>Absolut Vodka Flaskor Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ravin-i-usa-synonym'>Ravin I Usa Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bernt-westerlund-hammarby'>Bernt Westerlund Hammarby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4dur-stj%C3%A4rntecken-passar-ihop-med'>Vädur Stjärntecken Passar Ihop Med</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=planeringstid-f%C3%B6r-f%C3%B6rskoll%C3%A4rare-f%C3%B6rskoleklass'>Planeringstid För Förskollärare Förskoleklass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=6-%C3%A5ring-vaknar-varje-natt'>6-åring Vaknar Varje Natt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ta-selfie-med-iphone'>Ta Selfie Med Iphone</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laxtoast-med-avokado'>Laxtoast Med Avokado</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4stervik-kommun-organisationsnummer'>Västervik Kommun Organisationsnummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A5rdprogram-downs-syndrom'>Vårdprogram Downs Syndrom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-aneby%3B-g%C3%A5rdar'>Hemnet Aneby; Gårdar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=temperatur-torka-skorpor'>Temperatur Torka Skorpor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seb-trainee-l%C3%B6n'>Seb Trainee Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommard%C3%A4ck-2019-test'>Sommardäck 2019 Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flip-phone-android'>Flip Phone Android</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-g%C3%B6ra-i-jurmala'>Att Göra I Jurmala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Conrad4%2C0%28259%290%2C2%C2%A0miles-bort85%C2%A0GBP'>Hotell Conrad4,0(259)0,2 miles Bort85 GBP</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=govindas-hare-krishna'>Govindas Hare Krishna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=numero-74-tipi-t%C3%A4lt'>Numero 74 Tipi Tält</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-%C3%B6ppettider-norrk%C3%B6ping'>Coop öppettider Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirloin-angus-beef'>Sirloin Angus Beef</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6lands-st%C3%B6rsta-stad'>ölands Största Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rensa-gammalt-vattenl%C3%A5s'>Rensa Gammalt Vattenlås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vastfastigheter-uddevalla-sjukhus'>Vastfastigheter Uddevalla Sjukhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amerikanska-komedier-topplista'>Amerikanska Komedier Topplista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=coop-%C3%B6ppettider-juldagen'>Coop öppettider Juldagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lila-blommiga-gardiner'>Lila Blommiga Gardiner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=my-heritage-pris'>My Heritage Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5sk-%C3%A5k-1'>Påsk åk 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bostadsr%C3%A4tter-i-skellefte%C3%A5'>Bostadsrätter I Skellefteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=minipajer-med-broccoli'>Minipajer Med Broccoli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-ryssland-fotboll-1994'>Sverige-ryssland Fotboll 1994</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=streams-to-royalties'>Streams To Royalties</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=furulundsv%C3%A4gen-5-trollh%C3%A4ttan'>Furulundsvägen 5 Trollhättan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=periodisk-fasta-tr%C3%A4ning'>Periodisk Fasta Träning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=celine-dion-l%C3%A5tar'>Celine Dion Låtar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=new-yorker-karlskrona'>New Yorker Karlskrona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sebastian-walld%C3%A9n%3A-everything'>Sebastian Walldén: Everything</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rgs%C3%A4ttning-30-tal-inomhus'>Färgsättning 30-tal Inomhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=god-och-nyttig-m%C3%BCsli'>God Och Nyttig Müsli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uponor-25-20'>Uponor 25 20</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6rjan-ramberg-barn'>örjan Ramberg Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tyg-till-bilinredning'>Tyg Till Bilinredning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gaming-expo-2020'>Gaming Expo 2020</a>,
+";s:7:"expired";i:-1;}

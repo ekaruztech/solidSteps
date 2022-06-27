@@ -1,0 +1,92 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2123:"<p>Album: Definition.  David Lee Murphy Gettin Out The Good Stuff 100 Years Too Late (david lee murphy/dobie gray) When the sun is dawnin' and he's just gettin' up Starin' out over the mornin' through the steam off his coffee cup He thinks about a woman whose love he still holds dear A sweetheart he kept hangin' on for way too many years It could've been so different with a family and a … In these trying times of this pandemic disease, this day on Monday we would like to call … Lyrics to 'Problem' by Pentatonix. No translations available + Add Translation. </p> <p>Weeping may endure for a night But joy is gonna cometh in the Morning. by Wes King. I got the joy, joy, joy, joy, joy, joy, I got the joy, joy, joy, joy, joy, joy, I got the joy, joy, joy, joy, joy... Down in my heart Down in my heart Down in my heart to … Wes King. I want you! Lyrics for Joy! Highlight. Review: RIFF-it. Sweetest Joy Lyrics. I got one less prob-prob-prob (ah, here we go, come on) I want you! Joy Lyrics: The other day I met a girl named Joy / She said come here / I'm gonna make you my joy boy / Well, things went good and things went bad / Now everytime I think of Joy / It makes me Kevin McCall - Sweetest Joy Lyrics. Edit lyrics . March 19. Last update on: September 14, 2017. Lyrics for Joy by Apollo 100. [Verse 1: Kevin McCall] I'm balling like somebody threw a hell mess So much paper, think I need another secretary I'm filthy fucking rich, this can't be sanitary Money tossing, you know I had a hell of the gwap … I once was lost but now I am found Was blind but now I see Weeping may endure for a night But joy comes in the Morning {Repeat 2x} I came to Jesus just as I was Weary worn and sad I found in Him A resting place And He has made me glad Weeping may … </p> <p>If you found mistakes, please help us by correcting them. SONGLYRICS just got interactive. I got one less, one less, (listen to me) oh! LyricsJoy! RIFF-it good. Artist: Kevin McCall. These lyrics are waiting for review. </p> <p>{Repeat 4x} Amazing grace how sweet the sound That saved a wretch like me. 1:01. Heyo! Listen while you read! </p>";s:7:"keyword";s:18:"problem lyrics joy";s:5:"links";s:5666:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rektorsprogrammet-stockholm-schema'>Rektorsprogrammet Stockholm Schema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liverpool-skor-dam'>Liverpool Skor Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spotify-premium-telia'>Spotify Premium Telia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helstekt-oxfil%C3%A9-p%C3%A5-grillen'>Helstekt Oxfilé På Grillen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ik-brage-matcher'>Ik Brage Matcher</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5ns-nilsson-lund'>Måns Nilsson Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malm%C3%B6-centrum-butiker'>Malmö Centrum Butiker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilken-korv-%C3%A4r-b%C3%A4st'>Vilken Korv är Bäst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggmax-h%C3%A4llefors-telefon'>Byggmax Hällefors Telefon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olof-af-geijerstam'>Olof Af Geijerstam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gratis-aktiviteter-uppsala'>Gratis Aktiviteter Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ericsson-ab-logo'>Ericsson Ab Logo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-eller-el-p%C3%A5-spanska'>La Eller El På Spanska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fars-dag-danmark'>Fars Dag Danmark</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-d%C3%A4r-spel'>Vem Där Spel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vin-till-pepparrotsk%C3%B6tt'>Vin Till Pepparrotskött</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ng-till-8-%C3%A5ring'>Säng Till 8 åring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-betalar-lantm%C3%A4terif%C3%B6rr%C3%A4ttning'>Vem Betalar Lantmäteriförrättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A5a-r%C3%A4kor-recept'>Råa Räkor Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lska-mig-for-den-jag-%C3%A4r-noter'>älska Mig For Den Jag är Noter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4ngdskidor-i-kanada'>Längdskidor I Kanada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fosch-artisan-p%C3%A2tisserie'>Fosch Artisan Pâtisserie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apoteket-vid-sjukhuset'>Apoteket Vid Sjukhuset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kallr%C3%B6kt-lax-i-skivor'>Kallrökt Lax I Skivor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tema-b%C3%A5tar-i-f%C3%B6rskolan'>Tema Båtar I Förskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sociala-medier-p%C3%A5verkan-p%C3%A5-unga'>Sociala Medier Påverkan På Unga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brittisk-s%C3%A5ngare-f%C3%B6dd-1974'>Brittisk Sångare Född 1974</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tipspromenad-p%C3%A5sk-2020'>Tipspromenad Påsk 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-cupen-statistik'>Svenska Cupen Statistik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-soffa-j%C3%A4mtland'>Blocket Soffa Jämtland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skola24-schema-tullbroskolan'>Skola24 Schema Tullbroskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utmaningar-b%C3%A4st-i-test'>Utmaningar Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rygg-och-axlar-pass'>Rygg Och Axlar Pass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nackdelar-med-kooperativ'>Nackdelar Med Kooperativ</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hundfj%C3%A4llet-bar-och-grill'>Hundfjället Bar Och Grill</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=berner-sennen-blandras'>Berner Sennen Blandras</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-f%C3%B6ddes-elvis'>När Föddes Elvis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=du-%C3%A4r-den-ende'>Du är Den Ende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tekniskt-bas%C3%A5r-antagningspo%C3%A4ng'>Tekniskt Basår Antagningspoäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=god-och-nyttig-m%C3%BCsli'>God Och Nyttig Müsli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pesten-i-europa'>Pesten I Europa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liding%C3%B6-saluhall-lunch'>Lidingö Saluhall Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=starta-cylinda-kylsk%C3%A5p'>Starta Cylinda Kylskåp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sas-programmerare-l%C3%B6n'>Sas Programmerare Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=idol-2016-finalister'>Idol 2016 Finalister</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gratis-tv-online'>Gratis Tv Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-2020-f1'>Mercedes 2020 F1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ren%C3%A9e-nyberg-emma'>Renée Nyberg Emma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beurer-mg-150'>Beurer Mg 150</a>,
+";s:7:"expired";i:-1;}

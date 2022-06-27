@@ -1,0 +1,106 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2412:"<p>This dairy-free, gluten-free chocolate frosting is the perfect icing on your next chocolate cake or cupcake. Coconut cream plus chocolate chips equals chocolate vegan frosting heaven. </p> <p>Chocolate buttercream frosting has always been my favorite, but for some reason I never bothered to make a vegan version until now, thinking it wouldn’t be as non-vegan frosting. Vegan chocolate buttercream frosting that is rich, velvety, silky and smooth with maximum chocolate flavor. Ideal for use on cakes, cupcakes and cookies! ), but feel free to use it to make any cake or dessert you want. That’s it! This is the easiest imaginable paleo / vegan chocolate frosting recipe aka chocolate coconut whipped cream. This Vegan Sweet Potato Chocolate Buttercream Frosting is perfectly sweet, luxuriously rich and creamy, and unbelievably healthy!It’s also refined sugar free and requires just 6 simple ingredients!Perfect for using as a frosting for my Gluten-Free Vegan Chocolate Cake! </p> <p>Only 2 ingredients!  This vegan chocolate buttercream frosting is extremely versatile and can be used for spreading onto cakes or cookies or piping onto cupcakes. </p> <p>This recipe is adapted from a vegan frosting we’ve already posted on our Spanish blog, but we haven’t shared any vegan frosting recipe with you guys, so we’ve improved it and now is even more delicious and really easy to make. </p> <p></p> <p>The best thing on cakes or cupcakes! Well guess what? </p> <p>This vegan chocolate frosting is just about as easy as it gets. This chocolate vegan frosting with coconut cream is a sweet and decadent icing for cupcakes, cakes, donuts, and brownies or whip it up and enjoy it all on it’s own by making a frosting cup for dessert! You could call this a chocolate ganache, or even a chocolate “fudge” frosting, as the texture of this dairy-free frosting has more of … Coconut cream and hot chocolate powder. Made with only 2 ingredients that you may already have in your pantry, it’s ready in just minutes! </p> <p>This vegan chocolate frosting tastes just like the stuff I grew up eating. </p> <p>This vegan vanilla frosting is smooth, creamy and delicious. We used it to make the amazing vegan carrot cake you can see above (recipe coming soon! Just 4 ingredients, this really couldn’t be simpler and you’ll love how rich it is, even while using a minimal amount of vegan butter. </p>";s:7:"keyword";s:24:"jape grön fri recension";s:5:"links";s:7532:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hitta-filter-p%C3%A5-instagram'>Hitta Filter På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalla-s%C3%A5ser-recept'>Kalla Såser Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skoghall-lockerud-live'>Skoghall Lockerud Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-zakynthos-kalamaki'>Hotell Zakynthos Kalamaki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=don-quijote-analys'>Don Quijote Analys</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nils-holgersson-bok'>Nils Holgersson Bok</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torkad-frukt-gravid'>Torkad Frukt Gravid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b-8840-19'>B 8840 19</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A5a-r%C3%A4kor-recept'>Råa Räkor Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fn-s%C3%A4kerhetsr%C3%A5d-storbritannien'>Fn Säkerhetsråd Storbritannien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hitta-v%C3%A4xj%C3%B6-se'>Hitta Växjö Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karta-tyskland-frankrike'>Karta Tyskland Frankrike</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wahlgrens-v%C3%A4rld-gr%C3%B6na-lund'>Wahlgrens Värld Gröna Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bli-av-med-sjuksk%C3%B6terskelegitimation'>Bli Av Med Sjuksköterskelegitimation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-5-km-varje-dag'>Cykla 5 Km Varje Dag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=musik-i-kyrkan-v%C3%A4ster%C3%A5s'>Musik I Kyrkan Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-barnsk%C3%B6tare-mj%C3%B6lby'>Lediga Jobb Barnskötare Mjölby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pt-gr%C3%B6t-bebis'>Köpt Gröt Bebis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allsvenskan-tv-innebandy'>Allsvenskan Tv Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samlat-in-synonym'>Samlat In Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=potatisbr%C3%B6d-utan-mj%C3%B6l'>Potatisbröd Utan Mjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dricka-f%C3%B6r-mycket-vatten-symptom'>Dricka För Mycket Vatten Symptom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-god-sons'>Apollo God Sons</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aktivitetsers%C3%A4ttning-efter-30-%C3%A5r'>Aktivitetsersättning Efter 30 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-internt-jobb'>Personligt Brev Internt Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fisk-i-folie-koka'>Fisk I Folie Koka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ume%C3%A5-universitet-karta-salar'>Umeå Universitet Karta Salar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schwere-panzer-abteilung-509'>Schwere Panzer Abteilung 509</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tranche-c%C3%B4te-de-boeuf'>Tranche Côte De Boeuf</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4nsf%C3%B6rs%C3%A4kringar-blanketter-skadeanm%C3%A4lan'>Länsförsäkringar Blanketter Skadeanmälan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj%C3%B6magasinet-michelin-2019'>Sjömagasinet Michelin 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magaluf---flashback'>Magaluf - Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-%C3%A4r-det-viktigt-att-l%C3%A4ra-sig-spr%C3%A5k'>Varför är Det Viktigt Att Lära Sig Språk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julkonsert-sk%C3%B6vde-2019'>Julkonsert Skövde 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-v%C3%A4sterbottenpaj-kik%C3%A4rtor'>Glutenfri Västerbottenpaj Kikärtor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-stund-p%C3%A5-jorden-laleh-mening'>En Stund På Jorden Laleh Mening</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-orient-apple-drinkar'>Absolut Orient Apple Drinkar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dikt-begravning-mamma'>Dikt Begravning Mamma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-%C3%B6land-b%C3%B6da'>Hotell öland Böda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=new-york-apartment-rent-price'>New York Apartment Rent Price</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-gran-canaria-tripadvisor'>Taxi Gran Canaria Tripadvisor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gruvor-i-%C3%B6rebro-l%C3%A4n'>Gruvor I örebro Län</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lyxa-till-tacos'>Lyxa Till Tacos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reservdelar-toalett-gustavsberg'>Reservdelar Toalett Gustavsberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allergiv%C3%A4nliga-djur-lista'>Allergivänliga Djur Lista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chow-chow-panda'>Chow Chow Panda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rg-i-viss-nyans'>Färg I Viss Nyans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bake-off-br%C3%B6d-ica'>Bake Off Bröd Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton-falun-2020'>Sabaton Falun 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lokala-nyheter-%C3%B6sterg%C3%B6tland'>Lokala Nyheter östergötland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jotaro-theme-piano'>Jotaro Theme Piano</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=does-friedrich-nietzsche-believe-in-god'>Does Friedrich Nietzsche Believe In God</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thule-motion-xt-alpine-pricerunner'>Thule Motion Xt Alpine Pricerunner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sj%C3%B6bevakare-utbildning-finland'>Sjöbevakare Utbildning Finland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frukosttips-barn-1-%C3%A4r'>Frukosttips Barn 1 är</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bada-p%C3%A5-legoland'>Bada På Legoland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verkast-eget-tryck'>överkast Eget Tryck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pep-forum-2019'>Pep Forum 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-1-mil-kcal'>Cykla 1 Mil Kcal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=playa-de-morro-jable'>Playa De Morro Jable</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slutspelsserien-allsvenskan-2020'>Slutspelsserien Allsvenskan 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slagani-burek-recept'>Slagani Burek Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronans-apotek-esl%C3%B6v'>Kronans Apotek Eslöv</a>,
+";s:7:"expired";i:-1;}

@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Split Topic
  *
  * @package bbPress

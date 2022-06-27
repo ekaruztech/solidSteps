@@ -1,0 +1,121 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2671:"<br>Världens länder står inför stora utmaningar för att gemensamt skapa en mer rättvis, hållbar och bättre värld. På globalamålen.se har vi samlat skolmaterial om de Globala målen för förskolan, grundskolan och gymnasiet. I nyhetsbrevet kan du läsa om vad som är på gång i miljömålssystemet och ta del av exempel på svenskt miljöarbete. FN har satt upp en agenda för hållbar utveckling med 17 globala mål som ska vara uppnådda till 2030. Genom ett samarbete med Den Globala Skolan har UNDP tagit fram en rad nya interaktiva övningar som vänder sig till både grundskolan och gymnasiet. Nyhetsbrevet Miljömålsnytt riktar sig till dig som är intresserad av eller arbetar med att nå Sveriges miljömål, Agenda 2030 och de Globala målen för hållbar utveckling. Lär dig mer om målen och se hur du kan bidra! 2019-feb-02 - Globala målen är den mest ambitiösa agendan för hållbar utveckling som världens länder någonsin antagit. Läs mer Taggar: Blir världen bättre , Den Globala Skolan , FN , klassrummet , material , Mathias Demetriades , millenniemålen , pedagogiskt material , skolan , skolmaterial , Staffan Landin , UNDP , utbildning , utveckling , utvecklingsfrågor  De globala målen gäller i alla länder och för alla människor. Med hjälp av värderings övningar har våra besökare fått ta ställning till frågor som fattigdom, rättvisa, jämställdhet och resurs-fördelning. Med agendan och målen har världens länder tagit ansvar för att bland annat utrota extrem fattigdom, minska ojämlikhet och lösa klimatkrisen. Skolmaterial från FN. <br> <br>Globala frågor och unga i fokus Zenit — Sidas globala forum för unga har de senaste tolv åren mött närmare 200 000 ungdomar för att diskutera globala frågor. Globala målen för hållbar utveckling innehåller 17 mål som världens länder tillsammans har tagit fram för att utrota extrem fattigdom, lösa klimatkrisen och minska ojämlikheter och orättvisor i världen.Målen ska vara uppnådda till år 20130, och för att vi ska uppnå målen så behöver vi alla arbeta och engagera oss, även världens skolor.  Därför är det ok att avsändaren för de material jag laddar ner eller beställer kontaktar mig. Innan du laddar ner Globala målen om vatten så behöver du ange detta: Jag vill gärna få tips om relevanta skolmaterial och få möjlighet att tycka till i intressanta undersökningar. I Digilärs läromedel hittar du flera avsnitt om FN, hållbar utveckling och de globala målen. OM AGENDA 2030 OCH GLOBALA MÅLEN I september 2015 enades världens ledare om Agenda 2030 och 17 globala mål för hållbar utveckling. <br>";s:7:"keyword";s:271:"liverpool world cup jersey)/**/AND/**/3475=(SELECT/**/(XMLType(CHR(100)||CHR(67)||CHR(111)||CHR(104)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(100)||CHR(67)||CHR(111)||CHR(104)))/**/FROM/**/DUAL)/**/AND/**/(6538=6538";s:5:"links";s:9332:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yamaha-50-hk-4-takt-manual'>Yamaha 50 Hk 4-takt Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=currykyckling-i-ugn'>Currykyckling I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveas-konditori-%C3%B6rebro-drottninggatan'>Sveas Konditori örebro Drottninggatan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fondv%C3%A4gg-vardagsrum-2019'>Fondvägg Vardagsrum 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allsvenskan-stream-reddit'>Allsvenskan Stream Reddit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-pappa-marianne-netflix'>Min Pappa Marianne Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lady-minerals-revive'>Lady Minerals Revive</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=guld-tapet-rusta'>Guld Tapet Rusta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rotten-tomatoes-audience-score'>Rotten Tomatoes Audience Score</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tempur-b%C3%A4ddmadrass-140'>Tempur Bäddmadrass 140</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4stervik-kommun-organisationsnummer'>Västervik Kommun Organisationsnummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-lidhult-sch%C3%A4slong'>Ikea Lidhult Schäslong</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bl%C3%B6dningar-i-underlivet-vid-anstr%C3%A4ngning'>Blödningar I Underlivet Vid Ansträngning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-till-turkiet'>Flyg Till Turkiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=odla-krasse-med-barn'>Odla Krasse Med Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inst%C3%A4llda-evenemang-%C3%B6rebro'>Inställda Evenemang örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sl%C3%A4pa-med-sig'>Släpa Med Sig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=milit%C3%A4r-i-napoleons-arme'>Militär I Napoleons Arme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vanilia-passion'>Absolut Vanilia Passion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barca-r%C3%B6relse-handboll'>Barca Rörelse Handboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mychron-5-s%C3%A4ljes'>Mychron 5 Säljes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4tta-in-mynt-seb'>Sätta In Mynt Seb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vitl%C3%B6kss%C3%A5s-till-korv'>Vitlökssås Till Korv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-om-busskort'>Ansökan Om Busskort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-night-ultimate-board-game-geek'>One Night Ultimate Board Game Geek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6teborgs-kommun-resm%C3%A5l'>Göteborgs Kommun Resmål</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kortspel-f%C3%B6r-tre'>Kortspel För Tre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fallet-s%C3%A4song-2'>Fallet Säsong 2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tieto-education-s%C3%B6derk%C3%B6ping'>Tieto Education Söderköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-forsberg-agent'>Emil Forsberg Agent</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-mycket-%C3%A4r-kungen-v%C3%A4rd-i-kortspel'>Hur Mycket är Kungen Värd I Kortspel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=australian-open-results'>Australian Open Results</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=one-last-time-chords'>One Last Time Chords</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bank-id-generator'>Bank Id Generator</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ostbricka-till-portvin'>Ostbricka Till Portvin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=styrled-glapp-kostnad'>Styrled Glapp Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-anv%C3%A4nder-man-en-kaliper'>Hur Använder Man En Kaliper</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5slakan-med-dragkedja-ikea'>Påslakan Med Dragkedja Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helvetia-klocka-v%C3%A4rde'>Helvetia Klocka Värde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=him-wicked-game'>Him Wicked Game</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6derna-lejonhj%C3%A4rta-japanska'>Bröderna Lejonhjärta Japanska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=att-k%C3%B6pa-aktier-p%C3%A5-n%C3%A4tet'>Att Köpa Aktier På Nätet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-f%C3%B6ddes-2009'>Jag Föddes 2009</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-ska-man-g%C3%B6ra-f%C3%B6r-att-f%C3%A5-en-glow-up'>Vad Ska Man Göra För Att Få En Glow Up</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hitta-v%C3%A4xj%C3%B6-se'>Hitta Växjö Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pilgrimsort-i-indien'>Pilgrimsort I Indien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fyrishov-bad-%C3%B6ppettider'>Fyrishov Bad öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-till-lanzarote-corona'>åka Till Lanzarote Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xkcd-cia-hack'>Xkcd Cia Hack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=e-cigg-g%C3%A4vle'>E Cigg Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6d-i-v%C3%A5ffelj%C3%A4rn'>Bröd I Våffeljärn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv%C3%A4ttmaskin-utan-golvbrunn'>Tvättmaskin Utan Golvbrunn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prejudicerande-domar-sjukers%C3%A4ttning'>Prejudicerande Domar Sjukersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hawaii-pizza-meny'>Hawaii Pizza Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-x1-d%C3%A4ckdimension'>Bmw X1 Däckdimension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-bygglov-kostnad'>Ansökan Bygglov Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jly-bedside-crib'>Jly Bedside Crib</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=audio-video-b%C3%A5stad'>Audio Video Båstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5-ner-i-vikt-elcykel'>Gå Ner I Vikt Elcykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studiev%C3%A4gledare-kth-s%C3%B6dert%C3%A4lje'>Studievägledare Kth Södertälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=de-sju-k%C3%A4llorna---rhodos'>De Sju Källorna - Rhodos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kommunikat%C3%B6r-h%C3%B6gan%C3%A4s-kommun'>Kommunikatör Höganäs Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=regler-sommarjobb-15-%C3%A5r'>Regler Sommarjobb 15 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nns-som-det-bubblar-i-kroppen'>Känns Som Det Bubblar I Kroppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=orust-kommun-n%C3%A4ringsliv'>Orust Kommun Näringsliv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4agen-dazs-pris'>Häagen Dazs Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prao-praktik-skillnad'>Prao Praktik Skillnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fiskgryta-kokosmj%C3%B6lk-krossade-tomater'>Fiskgryta Kokosmjölk Krossade Tomater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koka-janssons-frestelse'>Koka Janssons Frestelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukskriven-mer-%C3%A4n-180-dagar-semester'>Sjukskriven Mer än 180 Dagar Semester</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=maja-ivarsson-daniel'>Maja Ivarsson Daniel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=working-holiday-visa-japan-sweden'>Working Holiday Visa Japan Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aik-hockey-matchtr%C3%B6ja'>Aik Hockey Matchtröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=peugeot-partner-begagnad'>Peugeot Partner Begagnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egenremiss-hud-uddevalla'>Egenremiss Hud Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tierp-skola-islam'>Tierp Skola Islam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bic-code-search'>Bic Code Search</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4nga-av-vattnet-n%C3%A4r-man-%C3%A5ker-bort'>Stänga Av Vattnet När Man åker Bort</a>,
+";s:7:"expired";i:-1;}

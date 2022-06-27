@@ -1,0 +1,105 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2272:"<br>För att se information om butiken (adress, öppettider, hemsida och aktuella erbjudanden) klicka på adressen eller på butikens namn. Adress: Klimatgatan 3, Postnummer: 418 40. För mer information, klicka här.  Du ser när de öppnar och stänger på vardagar och helgdagar samt var du hittar närmaste butik. <br> <br>Alla dessa Hälsa och skönhet, Apoteket Göteborg butiker Listan innehåller kontakter, telefonnummer, plats och öppning och stängning. Apoteket butiker i Göteborg: Öppettider och telefonnummer Här hittar du alla Apoteket-butiker i Göteborg.  Här hittar du öppettider, karta, vägbeskrivning samt annan information till Apoteket, Göteborg. Telefon: 0771-450 4.. Åk inte i onödan och inte längre än du behöver. Öppettider för Apoteket, Svanen i Göteborg, Linnégatan 16. Avvikande öppettider: Kristi himmel f. dag 21 maj 11:00-17:00 Pingstafton 30 maj 11:00-17:00 Pingstdagen 31 maj 11:00-17:00 Sveriges nationaldag 6 juni 11:00-17:00 Midsommarafton 19 juni 10:00-14:00 Midsommardagen 20 juni Stängt Öppettider nära dig Hitta öppettider och närmaste butik. Här hittar du var närmaste butik ligger samt öppettider till affärer och inrättningar i Stockholm, Göteborg, Malmö och alla övriga orter i Sverige. <br> <br>Hitta information om Apoteket Tärnan. Det är även möjligt att: Redigera dessa ÖPPETTIDER of Butik Apoteket I Göteborg, Korsvägen 1, genom att klicka på länken: Redigera dessa ÖPPETTIDER. Klicka på namnet nedan för att få Apoteket Göteborg öppettider … Bolaget har 3023 anställda, snittlönen har ökat 0%. Öppettider P-hus. Alltid öppet. Välkommen till Kronans Apotek! Apoteket AB - Apoteket Centralen Express Göteborg gick med vinst (2018) Apoteket AB - Apoteket Centralen Express Göteborg gick med vinst, 661 000 tkr. Vi hjälper dig att vara friskare på insidan och vackrare på utsidan. Vi har ansträngt sig för att se till att vi har uppgifter om alla Butiker är uppdaterade. <br> <br>Om du upptäcker ett fel, snälla hjälp oss. Hitta öppettider & stängtider från kategorin i Göteborg och andra kontaktdetaljer som adress, telefonnummer, webbsida. Apoteket AB - Apoteket Centralen Express Göteborg ökade sin omsättning med 1.07% senaste räkenskapsåret. <br>";s:7:"keyword";s:30:"apoteket öppettider göteborg";s:5:"links";s:7526:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hammarby-%C3%B6rebro-stream'>Hammarby örebro Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyf%C3%B6dd-l%C3%A5g-vikt'>Nyfödd Låg Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-spricker-lussebullarna'>Varför Spricker Lussebullarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-d%C3%A4ck-solna'>Begagnade Däck Solna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggnadsh%C3%B6jd-4-5-meter'>Byggnadshöjd 4 5 Meter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netflix-standard-pris'>Netflix Standard Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Bomans-Hotell-%26-Restaurang4%2C3%28462%290%2C1%C2%A0km-bort183%C2%A0%E2%82%AC'>Bomans Hotell & Restaurang4,3(462)0,1 km Bort183 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-riktig-kalvfond'>Köpa Riktig Kalvfond</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kvartsfinal-svenska-cupen-2020'>Kvartsfinal Svenska Cupen 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-med-r%C3%B6kt-lax-och-r%C3%A4kor'>Pasta Med Rökt Lax Och Räkor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sin%2C-sitt%2C-sina-%C3%B6vningar'>Sin, Sitt, Sina övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schema-psykologi-lund'>Schema Psykologi Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hv71-match-idag'>Hv71 Match Idag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=puma-fotbollsskor-dam'>Puma Fotbollsskor Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-e-commerce'>Swish E Commerce</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oscar-och-greta-dokument%C3%A4r'>Oscar Och Greta Dokumentär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jojo-part-2'>Jojo Part 2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liga-nos-tabell'>Liga Nos Tabell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrit-ajdarevic-l%C3%B6n'>Astrit Ajdarevic Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=man-p%C3%A5-latin'>Man På Latin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-ce-kontakt'>Volvo Ce Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=historia-de-mallorca'>Historia De Mallorca</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grekisk-restaurang-erikslund'>Grekisk Restaurang Erikslund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4xj%C3%B6-tingsr%C3%A4tt-domar'>Växjö Tingsrätt Domar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6r-att-starta-med-ponny-kr%C3%A4vs-ett-g%C3%A4llande-svenskt'>För Att Starta Med Ponny Krävs Ett Gällande Svenskt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6n-svenska-damlandslaget'>Lön Svenska Damlandslaget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsgivardeklaration-mars-2020'>Arbetsgivardeklaration Mars 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=styrketr%C3%A4ning-g%C3%A5r-inte-ner-i-vikt'>Styrketräning Går Inte Ner I Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-innebandy'>Vad är Innebandy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse%27%27-chiza-talang'>Tusse'' Chiza Talang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kramfors-kommun-utbildning'>Kramfors Kommun Utbildning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-vill-se-p%C3%A5-talang'>Jag Vill Se På Talang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best%C3%A4lla-ikea-k%C3%B6k'>Beställa Ikea Kök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6derhamn-soffa-begagnad'>Söderhamn Soffa Begagnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6dert%C3%A4lje-tingsr%C3%A4tt-lediga-jobb'>Södertälje Tingsrätt Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=outlander-season-1-imdb'>Outlander Season 1 Imdb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rga-%C3%A4gg-kaffesump'>Färga ägg Kaffesump</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sch%C3%A4fer-kennel-%C3%B6rebro'>Schäfer Kennel örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=popul%C3%A4ra-svenska-artister'>Populära Svenska Artister</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-kontor-uppsala'>Telia Kontor Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stdh-lediga-jobb'>Stdh Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lager-157-uddevalla'>Lager 157 Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=morotsmuffins-utan-%C3%A4gg'>Morotsmuffins Utan ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygget-%C3%A5re-lista'>Bygget åre Lista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=google-assistant-laptop'>Google Assistant Laptop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5ngbakad-fl%C3%A4skkarr%C3%A9-i-lergryta'>Långbakad Fläskkarré I Lergryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rehabutredning-vid-sjukfr%C3%A5nvaro'>Rehabutredning Vid Sjukfrånvaro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ventilation-jobb-%C3%B6rebro'>Ventilation Jobb örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurant-eiffel-tower'>Restaurant Eiffel Tower</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svag-gnista-t%C3%A4ndstift'>Svag Gnista Tändstift</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=digitala-l%C3%A4romedel-gymnasiet'>Digitala Läromedel Gymnasiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hsb-hyresr%C3%A4tter-g%C3%B6teborg'>Hsb Hyresrätter Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Elite-Plaza-Hotel-G%C3%B6teborg4%2C3%28786%290%2C4%C2%A0km-bort1%C2%A0888%C2%A0981%C2%A0IDR'>Elite Plaza Hotel Göteborg4,3(786)0,4 km Bort1 888 981 IDR</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mio-prego-fotpall'>Mio Prego Fotpall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=associate%27s-degree-svenska'>Associate's Degree Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kristina-sandberg-br%C3%B6stcancer'>Kristina Sandberg Bröstcancer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-eller-ett-balsam'>En Eller Ett Balsam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lassalyckan-ulricehamn-fotboll'>Lassalyckan Ulricehamn Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ggbricka-pex-16'>Väggbricka Pex 16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=him-wicked-game'>Him Wicked Game</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spenat-och-fetaostpaj-k%C3%B6ket'>Spenat Och Fetaostpaj Köket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chicago-o-hare-departures'>Chicago O Hare Departures</a>,
+";s:7:"expired";i:-1;}

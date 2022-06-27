@@ -13,7 +13,7 @@
 	<?php		
 		$post_author = get_the_author_link();
 		$post_date = get_the_date();
-		$post_categories = get_the_category_list(', ');
+		$post_categories = get_the_term_list( $post->ID, 'jobs-category', '',', ','' )
 	?>
 	
 	<div class="container">
@@ -22,7 +22,7 @@
 			
 			<article <?php post_class('clearfix row'); ?> id="<?php the_ID(); ?>" itemscope itemtype="http://schema.org/BlogPosting">
 				
-			<div class="entry-title"><?php echo $page_title; ?></div>
+			<div class="entry-title" itemprop="name"><?php the_title(); ?></div>
 			
 				<div class="page-content col-sm-12 clearfix">
 					

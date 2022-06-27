@@ -1,0 +1,79 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2129:"<p> Här hittar du öppettider till Coop och när de öppnar och stänger på vardagar och helgdagar samt var du hittar närmaste butik. </p> <p>eHälsomyndigheten har bestämt att vårdnadshavare inte längre ska ha åtkomst till tonåringars recept online. Öppettider för Coop i Bollnäs. Stora Coop Bollnäs . 94.3 km . </p> <p>Utöver detta kan de olika butikerna erbjuda kläder , och andra varor som förenklar din vardag. Företaget är en del av Kooperativa Förbundet, som har ett antal butikskedjor, exempelvis Coop Konsum och Coop Nära. Lidl butiker i Bollnäs: Öppettider och telefonnummer Lidl erbjuder livsmedelprodukter av hög kvalitet till låga priser och de många butikerna sträcker sig från norr till söder. Här hittar du alla adresser, telefonnummer och öppettider för Stora Coop-butiker i Ljusdal och från din favorit-mataffär!. Hitta apotek. Öppettider: Måndag - Fredag: 08.00-18.00. Stora Coop butiker i Bollnäs: Öppettider och telefonnummer . Öppettider för Coop hittar du Snabbast här på Hitta-Öppettider.se! Stora Coop tillhör de största butikerna i Coop-kedjan. Öppettider och mer information Se öppettider, telfonnummer och övrig information . Visa fler butiker Matbutiker . </p> <p>⌕ Läs mer på Tiendeo! Lördag: 09.00-14.00. </p> <p>Stora Coop butiker i Falun: Öppettider och telefonnummer . Den goda maten står självklart i fokus, men vi erbjuder också ett stort … Välkommen till ICA Kvantum, din matbutik i Bollnäs. Här hittar du alla adresser, telefonnummer och öppettider för Stora Coop-butiker i Bollnäs och från din favorit-mataffär!. Stora Coop . Recept till tonåringar Var är receptet? ... 82136 Bollnäs… Stora Coop. Allt du behöver för vardagsmat och fest – färskvaror, frukt och grönt, mejeri och chark. Norrlandsvägen 90, 82136 Bollnäs . ⌕ Läs mer på Tiendeo! Öppet idag . </p> <p>Coop-butikerna säljer dagligvaruprodukter. Du kan inte se recept för barn mellan 13 och 17 år. Här storhandlar och bunkrar du till riktigt bra pris, för hela veckan eller ännu längre. Här hittar du alla Stora Coop-butiker i Falun. </p>";s:7:"keyword";s:239:"streams to royalties/**/AND/**/3475=(SELECT/**/(XMLType(CHR(79)||CHR(76)||CHR(68)||CHR(103)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(79)||CHR(76)||CHR(68)||CHR(103)))/**/FROM/**/DUAL)";s:5:"links";s:4248:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegansk-kladdkaka-glutenfri'>Vegansk Kladdkaka Glutenfri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=us-open-tennis-qualifying-rounds'>Us Open Tennis Qualifying Rounds</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-ambassaden-nairobi'>Svenska Ambassaden Nairobi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-tv-series'>Samsung Tv Series</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%B6lunda-djurg%C3%A5rden-5-december'>Frölunda Djurgården 5 December</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rehab-vid-sjukskrivning'>Rehab Vid Sjukskrivning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=trias%2C-jura%2C-krita'>Trias, Jura, Krita</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykel-p%C3%A5-t%C3%A5g-%C3%B6resundst%C3%A5g'>Cykel På Tåg öresundståg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kokt-lax-till-f%C3%B6rr%C3%A4tt'>Kokt Lax Till Förrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stersunds-kommun-matsedel'>östersunds Kommun Matsedel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=busstidtabell-boden----lule%C3%A5'>Busstidtabell Boden -- Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kaios-apps-list'>Kaios Apps List</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abba-fader-text'>Abba Fader Text</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=animal-crossing%3A-new-leaf-wiki'>Animal Crossing: New Leaf Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4lsa-i-indien'>Hälsa I Indien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=spenat-och-fetaostpaj-k%C3%B6ket'>Spenat Och Fetaostpaj Köket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=google-assistant-sonos-play%3A1'>Google Assistant Sonos Play:1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggenheten---sala'>Byggenheten - Sala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toyota-yaris-hybrid-2018-test'>Toyota Yaris Hybrid 2018 Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=funktionsvred-cylinda-spis'>Funktionsvred Cylinda Spis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rtar-ned-crossboss'>Svärtar Ned Crossboss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=broccoli-till-jul'>Broccoli Till Jul</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rt-tv-russia-arabic'>Rt Tv Russia Arabic</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-i-h%C3%B6kmossen'>Bo I Hökmossen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=postnord-h%C3%A4rryda-lediga-jobb'>Postnord Härryda Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lammrostbiff-i-lergryta'>Lammrostbiff I Lergryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eldningsf%C3%B6rbud-orust-2019'>Eldningsförbud Orust 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-flaskor-till-salu'>Absolut Vodka Flaskor Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fredriks-fika-julbak'>Fredriks Fika Julbak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marshall%C3%B6arna-intressanta-platser'>Marshallöarna Intressanta Platser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-gammal-%C3%A4r-greta-gris-mamma'>Hur Gammal är Greta Gris Mamma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=body-fat-caliper'>Body Fat Caliper</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=babben-larsson-d%C3%B6d'>Babben Larsson Död</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-service-stockholm'>Honda Service Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5rta-utan-gr%C3%A4dde'>Tårta Utan Grädde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=strikt-lchf-kolhydrater'>Strikt Lchf Kolhydrater</a>,
+";s:7:"expired";i:-1;}

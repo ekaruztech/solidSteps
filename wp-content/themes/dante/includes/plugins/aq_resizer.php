@@ -5,7 +5,7 @@ function get_pixelratio(){
         if( $pixel_ratio >= 2 ){
            // echo "Is HiRes Device";
         	
-			/*  for PRO users! - *
+			/**
 			* Include AQ Resizer
 			*/
 			require( get_template_directory() . '/includes/plugins/aq_resizer-2x.php' );
@@ -13,7 +13,7 @@ function get_pixelratio(){
 		}else{
             //echo "Is NormalRes Device";
 			
-			/*  for PRO users! - *
+			/**
 			* Include AQ Resizer
 			*/
 			require( get_template_directory() . '/includes/plugins/aq_resizer-1x.php' );

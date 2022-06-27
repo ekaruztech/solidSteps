@@ -1,5 +1,5 @@
 <?php
-/*  for PRO users! - *
+/**
  * Share template
  *
  * @author Your Inspiration Themes

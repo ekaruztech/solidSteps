@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3064:"<p>7K likes. Besök gärna kommunens webbplats. Postadress: Kiruna kommun, 981 85 Kiruna Besöksadress: Stadshustorget 1 Öppettider stadshuset: Vardagar 7.30-17.00 Öppettider receptionen: Vardagar 8.00-17.00 Växel: 0980-70 000. </p> <p>Check flight prices and hotel availability for your visit. Nygatan enkelriktad mellan Östra Bangatan och Fabriksgatan . Telefonnummer till Motala kommuns växel: 0141-22 50 00. Visa alla ekonomiassistentjobb i Stockholm, Solna, Sundbyberg, Lidingö Visa alla jobb hos Fazer Food Services AB i Stockholm Fazer-koncernen är ett familjeföretag grundat 1891; då öppnade Karl Fazer sitt första konditori i Helsingfors. Här hittar ni samlad information kring coronaviruset på Motala Kommuns hemsida. Bodekullsvägen och Viktor Dahléns väg, gatuarbete vecka 20 och 21. I Tidaholm är ingenting långt borta. Help. Tidan flyter genom hela kommunen och här finns några av landets bästa fiskevatten. Motala kommun, Motala, Sweden. Kommunens styrning och organisation, politiker, lediga jobb, ekonomi, fakta, statistik, så här arbetar vi, påverkan, säkerhet, press. Öppettider Måndag-fredag klockan 8-17. Hertig Karls Allé, begränsad framkomlighet vid byte av gamla VA-ledningar. Get directions, maps, and traffic for Motala kommun, Östergötlands län. Letar du efter information från Motala Kommun? Facebook-sidan är till för att sprida information och öka dialogen mellan oss som jobbar på Motala kommun och … Kontaktcenter Storgatan 5B, Vetlanda Telefon 0383-971 00 kommun@vetlanda.se. Fax: 0980-756 49 E-post: kommun@kiruna.se Organisationsnummer: 212000-2783 E-post: motala.kommun@motala.se. Driftstörningar. Snart hela Sveriges sjöstad. Välkommen att uppleva Tidaholm du också! </p> <p>Motala kommun Directions {{::location.tagLine.value.text}} Sponsored Topics. Upplev vår kommun. Öppettider i växeln och receptionen i kommunhuset: Måndag-torsdag 7.30 - 16.30 Fredag 7.30 - 15.30 Begränsad tillgänglighet vid lunch 12.00 - 13.00 Journummer och felanmälan  Legal. Här ser du vad som är på gång just nu och vad som händer framöver. Fazer Food Services söker TimePlan-specialist Fazer Food Services AB / Ekonomiassistentjobb / Stockholm Observera att sista ansökningsdag har passerat. EVENEMANGSKALENDER . </p> <p>Företag / organisation. Ändring av ett beslut om utbildning utan timplan Färdighetsprov Ändring av ett beslut om färdighetsprov ... Kommun. Välkommen! Sök beslut. Turbinhusön, Vulcanön, Kungslena och Hökensås är bara några av våra smultronställen. Östergötlands Sjöstad Motala, en välkomnande hamn för människor och idéer från hela världen. Gå direkt till Råd och vägledning; Förskolan; Webbinarier; Nyhetsbrevet; Publikationer; Senaste beslut; Lagar och regler; Lediga jobb ; Din rätt i skolan; Skolinspektionen Postadress: Box 23069, 104 35 Stockholm Tel: 08-586 080 00 sk Kommun & politik. Information Besökskarta Vetlanda Karta Vetlanda kommun Kontakta kontaktcenter Om cookies Tipsa oss om evenemang Tillgänglighetsredogörelse. </p>";s:7:"keyword";s:21:"timplan motala kommun";s:5:"links";s:3496:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizzeria-milano-sundsvall'>Pizzeria Milano Sundsvall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fruktsallad-till-ny%C3%A5r'>Fruktsallad Till Nyår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tobaksblad-till-cigarr'>Tobaksblad Till Cigarr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smala-sussie-nyafilmer'>Smala Sussie Nyafilmer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boendest%C3%B6djare-jobb-j%C3%A4rf%C3%A4lla'>Boendestödjare Jobb Järfälla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hammarby-%C3%B6rebro-stream'>Hammarby örebro Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4stra-l%C3%A4nken%2C-ume%C3%A5'>Västra Länken, Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=indragning-av-sjukpenning'>Indragning Av Sjukpenning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sfi-sp%C3%A5nga-kommun'>Sfi Spånga Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=str%C3%A4ngn%C3%A4s-domkyrka-historia'>Strängnäs Domkyrka Historia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lars-lerin-agent'>Lars Lerin Agent</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskolan-ekparken-motala'>Förskolan Ekparken Motala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ido-gloss-monteringsanvisning'>Ido Gloss Monteringsanvisning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-gomera-sev%C3%A4rdheter'>La Gomera Sevärdheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=urban-f%C3%A4lt-wikipedia'>Urban Fält Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tryggheten-v%C3%A5rdboende-malm%C3%B6'>Tryggheten Vårdboende Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ondskan-bok-l%C3%A4ttl%C3%A4st'>Ondskan Bok Lättläst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finsk-lapphund-i-l%C3%A4genhet'>Finsk Lapphund I Lägenhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=maxi-kalmar-personal'>Maxi Kalmar Personal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olofstr%C3%B6ms-bowlinghall-%C3%B6ppettider'>Olofströms Bowlinghall öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kna-ut-din-%C3%A5rsinkomst-f%C3%B6rs%C3%A4kringskassan'>Räkna Ut Din årsinkomst Försäkringskassan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mina-arbetsprover-konstfack'>Mina Arbetsprover Konstfack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikingamarknad-2020-vetlanda'>Vikingamarknad 2020 Vetlanda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=axs-malm%C3%B6-ff'>Axs Malmö Ff</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4st-i-test-kalas'>Bäst I Test Kalas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Mio%2C-min-Mio'>Mio, Min Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6grevsgryta-med-gr%C3%A4dde'>Högrevsgryta Med Grädde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=all-inclusive-februari'>All Inclusive Februari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbla-v%C3%A4xell%C3%A5dor-m90'>Dubbla Växellådor M90</a>,
+";s:7:"expired";i:-1;}

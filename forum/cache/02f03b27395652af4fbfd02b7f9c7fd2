@@ -1,0 +1,72 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3145:"<p>Share. Vår utgivning spänner över ämnen som du känner igen – mat och dryck, hälsa och träning, mode och skönhet, föräldraskap, trädgård och natur, kultur och biografier. Vi har fokus på specialmedier og leverer kvalitetsindhold og underholdning til vores kunder. </p> <p>Bladh by Bladh är ett litet men uppseendeväckande bokförlag med flera framgångsrika författare i stallet. Just nu är hon aktuell med Veganboken: recept, fakta & inspiration, där hon vill visa att vem som helst kan laga god och hälsosam växtbaserad mat. Albert Bonniers Förlag Bokförlaget Ester Bonnier Bokförlaget Forum Bokförlaget Hedvig Bonnier Audio Bonnier Carlsen Bonnier Bookery Bonnier Fakta Fenix Lovereads Max Ström Reseförlaget Romanus & Selling Wahlström & Widstrand Bokförlaget Semic Älska pocket Månadens bok Bokiño SelmaStories Bonniers Bokklubb Svalan Bonnier Brands Bonnier Rights Bonnierförlagen Lära. Bonnier Fakta ger ut unika böcker som berör, möter behov, ger ny kunskap och skapar ha-begär.  See all books authored by Bonnier Fakta, including Natural Wonders: Portable Coloring for Creative Adults, and Calming Patterns: Portable Coloring for Creative Adults, and more on ThriftBooks.com. Bonnier Fakta. En bok från oss ska vara en gåva, ett ting som får vara framme, bli en del av hemmet. Hos mig är alla författare stjärnor! </p> <p>Matematik 5000+ i fem steg; Factfulness är nominerad till Best Business Book of the Year 2018; Debattbokspriset 2018; Nyheter – skola och läromedel; Press. Jobba hos oss. </p> <p>Tips; Bonnier Fakta. Recensionsdag: 2014 ... Albert Bonniers Förlag Bokförlaget Ester Bonnier Bokförlaget Forum Bokförlaget Hedvig Bonnier Audio Bonnier Carlsen Bonnier Bookery Bonnier Fakta Fenix Lovereads Max Ström Reseförlaget Romanus & Selling Wahlström & Widstrand Bokförlaget Semic Älska pocket Månadens bok Bokiño SelmaStories Bonniers Bokklubb Svalan Bonnier Brands Bonnier Rights Bonnier Publications koncernen står bag nogle af Nordens mest kendte mediebrands, fx Illustreret Videnskab, Historie og Bo Bedre. Helt tæt på historiens største dramaer Historie er et populærhistorisk magasin for videbegærlige i alle aldre. </p> <p>Magasinet behandler hele verdenshistorien og spreder sig over en bred vifte af emner – fra intense krigsdramaer og opdagelsesrejser til tekniske triumfer og verdenskunstens vidundere. Vi tar gärna emot synopsis och provkapitel. Kejsarn av Portugallien är en roman av den svenska författarinnan Selma Lagerlöf, publicerad 1914.Romanen utspelas på 1860- eller 1870-talet i Lagerlöfs hembygd i Värmland och handlar om torparen Jan i Skrolycka. Bokens form och känsla är en viktig del i vår utgivning. Looking for books by Bonnier Fakta? Albert Bonniers Förlag Bokförlaget Ester Bonnier Bokförlaget Forum Bokförlaget Hedvig Bonnier Audio Bonnier Carlsen Bonnier Bookery Bonnier Fakta Fenix Lovereads Max Ström Reseförlaget Romanus & Selling Wahlström & Widstrand Bokförlaget Semic Älska pocket Månadens bok Bokiño SelmaStories Bonniers Bokklubb Svalan Bonnier Brands Bonnier Rights Bonnierförlagen Lära. </p>";s:7:"keyword";s:25:"bonnier fakta förlagsort";s:5:"links";s:3520:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ra-eget-jeopardy'>Göra Eget Jeopardy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nike-sweden-ab'>Nike Sweden Ab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marco-polo-lek'>Marco Polo Lek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kristina-sandberg-br%C3%B6stcancer'>Kristina Sandberg Bröstcancer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stefan-billborn-l%C3%B6n'>Stefan Billborn Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-ford-traktorer'>Begagnade Ford Traktorer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=om-du-tycker-n%C3%A5got-%C3%A4r-fel-kan-du-l%C3%A4mna-in-en'>Om Du Tycker Något är Fel Kan Du Lämna In En</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-v%C3%A4rsting-till-syster-musikal-trailer'>En Värsting Till Syster Musikal Trailer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=S%C3%A4lens-Bed-%26-Breakfast4%2C6%2824%297%2C8%C2%A0km-bort92%C2%A0%E2%82%AC'>Sälens Bed & Breakfast4,6(24)7,8 km Bort92 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=london-taxi-priser'>London Taxi Priser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-depression-g%C3%A5r-inte-%C3%B6ver'>Min Depression Går Inte över</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toast-skagen-champagne'>Toast Skagen Champagne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smoothie-jordn%C3%B6tssm%C3%B6r-hallon'>Smoothie Jordnötssmör Hallon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-r%C3%A4kor-cr%C3%A8me-fraiche-paprika-chili'>Pasta Räkor Crème Fraiche Paprika Chili</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h-ackord-gitarr'>H Ackord Gitarr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=efterlyst-s%C3%A4song-52'>Efterlyst Säsong 52</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=goth-serie-tv'>Goth Serie Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rostbiff-gris-recept'>Rostbiff Gris Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-monster'>Personligt Brev Monster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hakuna-matata-swahili'>Hakuna Matata Swahili</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biff-rydberg-%C3%A4lg'>Biff Rydberg älg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=puls8-ltd-%C3%B6fk'>Puls8 Ltd öfk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=falbygdens-ost-arla'>Falbygdens Ost Arla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-tiden-att-%C3%A5ka-till-malta'>Bästa Tiden Att åka Till Malta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=acquaintance-synonyms-in-english'>Acquaintance Synonyms In English</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rapport-till-himlen-recension'>Rapport Till Himlen Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv%C3%A4ttmaskin-utan-golvbrunn'>Tvättmaskin Utan Golvbrunn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ultima-thule-musikgrupp'>Ultima Thule Musikgrupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=minnesota-twins-cap'>Minnesota Twins Cap</a>,
+";s:7:"expired";i:-1;}

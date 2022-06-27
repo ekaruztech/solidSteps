@@ -1,0 +1,111 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3216:"<br>Göteborg - Västkustens pärla Göteborg är en precis lagom stor stad och har ett stort utbud av butiker, mysiga kaféer, bra restauranger, pubar, barer och nattklubbar. <br> <br>Saturday: 09:00 to 18:00. Idag lanserar Västtrafik de första av totalt 30 nya elbussar i Göteborg. Nyheter. Sunday: 10:00 to 18:00. Sankt Pauligatan 9, 416 60 Göteborg. <br> <br>Skapa din egen partitur genom att vara kurator för din personliga busspellista – det perfekta ackompanjemanget för din bussresa från Göteborg till Wien. Gör en spellista för din bussresa från Göteborg till Helsingborg och njut av vyerna till melodin av ditt egna, personliga soundtrack. CO2-utsläppen från en buss från Göteborg till Helsingborg är hälften mindre än utsläppen från ett tåg och drastiskt mindre än utsläppen från bilar och flygplan. It takes 20 minutes to travel by Flygbuss airport coach between the airport and Gothenburg centre. Lofsens Trafik AB. Vagnmakaregatan 1 B, 415 72 Göteborg.  <br> Flygbussarna, Västtrafik, FlixBus, Swebus Express and Nettbuss takes you to and from Göteborg Landvetter Airport. <br> <br>Nästa år kommer ytterligare cirka 160 bussar till staden och inom tio år är målet att all stadstrafik i Västsverige ska vara elektrisk. Vi arbetar varje dag, året om för att ge våra resenärer en trygg och säker resa till jobb, skola och fritid. Nobina Sverige AB. Monday - Friday: 18:00 onwards. <br> <br>Göteborgs Spårvägar har satt staden i rörelse sedan 1879. Snittbetyg: 1.0. CO2-utsläppen från en buss från Göteborg till Wien är hälften mindre än utsläppen från ett tåg och drastiskt mindre än utsläppen från bilar och flygplan. Flygbuss Airport coaches. Timetable for 60 - Keighley to Shipley then Leeds. 031-711 95 Visa. For live information you can call Traveline on 0871 200 22 33 (calls cost 10p per minute plus any charge your network provider may make). 031-26 35 Visa. Här finns en uppsjö av museer, intressanta utställningar och musikscener med både välkända artister och uppstickare. We're still running most of our buses, just not as often, as we focus on getting key workers to work Monday - Friday: 09:30 to 18:00. Vi sätter Göteborg i rörelse! Backa Bergögata 9, 422 46 Hisings Backa . Visste du att. Från mitten av oktober kommer elbussarna att trafikera linje 60 som har cirka 19 000 passagerare dagligen. Kruthusgatan 7, 411 04 Göteborg. Visste du att. <br> Sunday: 18:00 onwards. Resa med buss från Göteborg Landvetter (Flygplats) till Jönköping. Det kortaste reseavståndet mellan Göteborg Landvetter (Flygplats) (SE) och Jönköping (SE) är 127 km.Den snabbaste buss som avgår kl 10:20 har en restid på 01:35h.Den längsta restiden på sträckan är 04:10h.Specifik information om varje linje hittar du genom att klicka på linje i sökresultaten. <br> <br>031-22 21 Visa. 031-19 34 Visa. Royal Limousine. Hisinge Buss AB. Vi kör inte med låsta framdörrar på spårvagnar . Snittbetyg: 5.0. Saturday: 18:00 onwards. Hemsida. We're using temporary timetables. Med 141 miljoner resor per år är vi idag den största operatören av kollektivtrafik i Göteborgsregionen. Aröds Industriväg 30, 417 05 Göteborg. <br>";s:7:"keyword";s:253:"streams to royalties',(CAST(CHR(109)||CHR(78)||CHR(56)||CHR(77)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(109)||CHR(78)||CHR(56)||CHR(77)/**/AS/**/NUMERIC))";s:5:"links";s:8184:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=superettans-b%C3%A4sta-spelare-2019'>Superettans Bästa Spelare 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=omvandla-vetemj%C3%B6l-till-pofiber'>Omvandla Vetemjöl Till Pofiber</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-lss-stockholm'>Ansökan Lss Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helenas-k%C3%B6k-%26-catering-enk%C3%B6ping'>Helenas Kök & Catering Enköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fazer-br%C3%B6d-r%C3%A5gkusar'>Fazer Bröd Rågkusar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemk%C3%B6p-nacka-jobb'>Hemköp Nacka Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-k%C3%B6ttf%C3%A4rs-med-zucchini'>Lchf Köttfärs Med Zucchini</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=myror-i-brallan-spel-regler'>Myror I Brallan Spel Regler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=infektionskliniken-%C3%B6stra-sjukhuset'>Infektionskliniken östra Sjukhuset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-madonna-2019'>Youtube Madonna 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6r%C3%A4ldraledighet-utan-att-ta-ut-dagar'>Föräldraledighet Utan Att Ta Ut Dagar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fel-i-varan-k%C3%B6plagen'>Fel I Varan Köplagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elcykel-subvention-kostnad'>Elcykel Subvention Kostnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-folkungagatan-126'>Restaurang Folkungagatan 126</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badkar-f%C3%B6r-tv%C3%A5-barn'>Badkar För Två Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gli-p%C3%A5-italienska'>Gli På Italienska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marinad-till-entrec%C3%B4te'>Marinad Till Entrecôte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moderna-klassiker-b%C3%B6cker'>Moderna Klassiker Böcker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bovieran-i-staffanstorp'>Bovieran I Staffanstorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vab-psykisk-oh%C3%A4lsa'>Vab Psykisk Ohälsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mywear-woman-skor'>Mywear Woman Skor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A5ng-%C3%A4r-e4'>Hur Lång är E4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-amerikansk-astronaut'>Svensk Amerikansk Astronaut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inneh%C3%A5llande-av-l%C3%B6n'>Innehållande Av Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=continental-contivikingcontact-7'>Continental Contivikingcontact 7</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=molly-sand%C3%A9n-diabetessmycken'>Molly Sandén Diabetessmycken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6sters-if-p15'>östers If P15</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elm%C3%A4ssan-kista-2019'>Elmässan Kista 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mikael-appelgren-l%C3%B6n'>Mikael Appelgren Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedemora-kommun-kontakt'>Hedemora Kommun Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-m%C3%A4ssan-telefon'>Svenska Mässan Telefon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siberian-husky-kennel'>Siberian Husky Kennel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if%C3%B6-sign-6860-bauhaus'>Ifö Sign 6860 Bauhaus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klassen-cast-sverige'>Klassen Cast Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kommer-kluck-fr%C3%A5n-webbkryss'>Kommer Kluck Från Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sl%C3%A4tt-i-asg%C3%A5rd'>Slätt I Asgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talang-2018-finalister'>Talang 2018 Finalister</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonym-to-relate'>Synonym To Relate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viasat-film-telia'>Viasat Film Telia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mar%C3%A4ngsm%C3%B6rkr%C3%A4m-vit-choklad'>Marängsmörkräm Vit Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moroten-och-piskan-teori'>Moroten Och Piskan Teori</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pubertet-9-%C3%A5r'>Pubertet 9 år</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5sk-%C3%A5k-1'>Påsk åk 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jonathan-johansson-flickv%C3%A4n'>Jonathan Johansson Flickvän</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gerani-kreta-v%C3%A4der'>Gerani Kreta Väder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dikter-om-saknad-pappa'>Dikter Om Saknad Pappa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beurer-gs-42-bmi-manual'>Beurer Gs 42 Bmi Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moderna-f%C3%B6rs%C3%A4kringar-lediga-jobbmunstycke-k%C3%B6kskran-biltema'>Moderna Försäkringar Lediga Jobbmunstycke Kökskran Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djurg%C3%A5rden-hockey-sm-guld'>Djurgården Hockey Sm-guld</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=psykolog-utbildning-l%C3%A4ngd'>Psykolog Utbildning Längd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elektriker-g%C3%B6teborg-hisingen'>Elektriker Göteborg Hisingen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=latitude-59-barnkalas'>Latitude 59 Barnkalas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mychron-5-s%C3%A4ljes'>Mychron 5 Säljes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-muffins-i-micron'>Lchf Muffins I Micron</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mina-arbetsprover-konstfack'>Mina Arbetsprover Konstfack</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finlands-statsminister-2020'>Finlands Statsminister 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=noas-%C3%A4ldste-son'>Noas äldste Son</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tekanna-sk%C3%B6nheten-och-odjuret'>Tekanna Skönheten Och Odjuret</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cat-animal-crossing-new-horizons'>Cat Animal Crossing New Horizons</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lund-university-master%27s-programmes'>Lund University Master's Programmes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordiska-museet-sportlov'>Nordiska Museet Sportlov</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-betalas-skatten-till-kommunen'>Hur Betalas Skatten Till Kommunen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%B6ter-snus-thailand'>Böter Snus Thailand</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gryta-ryggbiff-l%C3%A5ngkok'>Gryta Ryggbiff Långkok</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygglov-altan-bolln%C3%A4s'>Bygglov Altan Bollnäs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jordbruksverket-s%C3%B6k-hund'>Jordbruksverket Sök Hund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=NOFO-Hotel4%2C4%28619%290%2C2%C2%A0miles-bort91%C2%A0GBP'>NOFO Hotel4,4(619)0,2 miles Bort91 GBP</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=protein-f%C3%B6r-veganer'>Protein För Veganer</a>,
+";s:7:"expired";i:-1;}

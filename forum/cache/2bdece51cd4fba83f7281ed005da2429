@@ -1,0 +1,109 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3054:"<p>モトローラソリューションズ (NYSE: MSI) は、通信事業の会社である。2011年1月、前身であったモトローラはモトローラ・ソリューションズとモトローラ・モビリティに分割された。 本社所在地は、イリノイ州、シカゴの 500 West Monroe Building である。 </p> <p>Produkty. </p> <p>Motorola Solutions est une entreprise américaine des télécommunications et de capture automatique de données. </p> <p>Urządzenia. In 1953 Motorola established the Motorola Foundation to support leading universities in the United States. The company is headquartered in Schaumburg, Illinois, a suburb of Chicago. The foundation later expanded to support science, technology, engineering and math (STEM) education, and critical community needs globally where the company operated. La società ha sede a Chicago, Illinois.. Storia. Motorola Solutions Polska. Cancel. </p> <p>旧モトローラ（Motorola, Inc.）は、2011年1月4日をもって、二つの独立した公開会社であるモトローラ・モビリティ及びモトローラ・ソリューションズに分割された 。 本社所在地はシカゴ近郊のイリノイ州 シャンバーグであり、分割以降はモトローラ・ソリューションズが引き継いでいる。 </p> <p>User manual instruction guide for Motorola Solutions devices.. Motorola Solutions User Manuals Motorola Solutions, Inc. UserManual.wiki > Motorola Solutions. </p> <p>Motorola Inc [moʊtəˈɹoʊlə] mit Sitz in Schaumburg, Illinois, ist das Vorgängerunternehmen der durch seine Aufspaltung im Januar 2011 entstandenen Unternehmen Motorola Solutions und Motorola Mobility.Motorola war ein international tätiger Hersteller elektronischer Systeme und Bauelemente mit den Schwerpunkten mobile Kommunikation, Netzwerke und eingebettete Systeme. User Manual Release Date; 89FT7111 RF Safety Manual RF Safety Manual: 2020-04-30: 89FT7111 … Zu den Produkten von Motorola Solutions zählen Funkgeräte und Funksysteme sowie Videosicherheits- und Videoanalyselösungen, LTE-Endgeräte sowie entsprechende Software und Services. </p> <p>Motorola Solutions, Inc. är ett amerikanskt multinationellt företag som tillverkar och levererar utrustning inom telekommunikation och kommunikationsradioprodukter till fler än 100 000 kommersiella- och myndighetskunder i fler än 100 länder världen över. </p> <p>[4] It is the legal successor of the old Motorola, Inc. (founded in 1928); the transaction was structured so the old Motorola changed its name to Motorola Solutions and spun off Motorola Mobility as a separate company.Motorola Solutions retained the old Motorola's … Motorola Solutions acquires VaaS International Holdings, Inc. Acquisition bolsters Motorola Solutions' command center software suite with largest shareable database of vehicle location information. We are dedicated to designing and delivering the technologies our business and customers refer to as their lifeline. </p> <p>Motorola Solutions today. </p>";s:7:"keyword";s:221:"gaming innovation group'/**/OR/**/2563=CONCAT(CHAR(53)+CHAR(115)+CHAR(54)+CHAR(112),(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END)),CHAR(53)+CHAR(115)+CHAR(54)+CHAR(112))  /**/iak5";s:5:"links";s:7938:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kandidatexamen-kriminologi-su'>Kandidatexamen Kriminologi Su</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanal-5-danmark-stream'>Kanal 5 Danmark Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4ra-f%C3%B6rlag-digitala-l%C3%A4romedel'>Lära Förlag Digitala Läromedel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordic-skiing-world-championships-2019'>Nordic Skiing World Championships 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-med-kokosmj%C3%B6l-och-mandelmj%C3%B6l'>Baka Med Kokosmjöl Och Mandelmjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wwf-ngo-jobs'>Wwf Ngo Jobs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helgutflykt-fr%C3%A5n-stockholm'>Helgutflykt Från Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5rta-kokos-vit-choklad'>Tårta Kokos Vit Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-mc-m%C3%A4rken'>Svenska Mc Märken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saint-lucy%27s-day'>Saint Lucy's Day</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rdet-i-stenen-hela-filmen'>Svärdet I Stenen Hela Filmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-l%C3%A5ngstrump-p%C3%A5-thail%C3%A4ndska'>Pippi Långstrump På Thailändska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tore-wretman-klassiker'>Tore Wretman Klassiker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatteverket-rotavdrag-utomlands'>Skatteverket Rotavdrag Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton-end-of-the-war'>Sabaton End Of The War</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ystad-camping-corona'>Ystad Camping Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liljevalchs-tidigare-utst%C3%A4llningar'>Liljevalchs Tidigare Utställningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-l%C3%A4ngdskidor-falun'>åka Längdskidor Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-till-japan-tips'>Resa Till Japan Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carpe-diem-s%C3%A4ngkl%C3%A4der'>Carpe Diem Sängkläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparco-custom-suit'>Sparco Custom Suit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobba-svart-i-usa'>Jobba Svart I Usa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kolhamnsgatan-11-g%C3%B6teborg'>Kolhamnsgatan 11 Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fogis-%2F-registrering'>Fogis / Registrering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bredare-d%C3%A4ck-fram'>Bredare Däck Fram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apotek-hj%C3%A4rtat-%C3%B6ppettider'>Apotek Hjärtat öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badkarsv%C3%A4gg-svart-spr%C3%B6js'>Badkarsvägg Svart Spröjs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=forshaga-hockey-facebook'>Forshaga Hockey Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=examensarbete-gu-juridik'>Examensarbete Gu Juridik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bj%C3%B6rn-eriksson-helsingborg'>Björn Eriksson Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4tning-avlopp-handfat'>Tätning Avlopp Handfat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avicii-song-about-his-dad'>Avicii Song About His Dad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rvaring-av-d%C3%A4ck'>Förvaring Av Däck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=circle-of-life---karaoke'>Circle Of Life - Karaoke</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=komik-p%C3%A5-scen'>Komik På Scen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=per-andersson-sjunger-stad-i-ljus'>Per Andersson Sjunger Stad I Ljus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stora-b%C3%A4ltbron-pay-by-plate'>Stora Bältbron Pay By Plate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakluckeloppis-bor%C3%A5s-2019'>Bakluckeloppis Borås 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oljeplugg-saab-9-5-biltema'>Oljeplugg Saab 9-5 Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tipspromenad-f%C3%B6r-alla-%C3%A5ldrar'>Tipspromenad För Alla åldrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mail-till-if-f%C3%B6rs%C3%A4kring'>Mail Till If Försäkring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ca-fastigheter-styrelse'>Ca Fastigheter Styrelse</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=traditionella-japanska-kl%C3%A4der'>Traditionella Japanska Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lasse-lindroth-misshandel'>Lasse Lindroth Misshandel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-svea-lunch'>Hotell Svea Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-socialpedagog'>Personligt Brev Socialpedagog</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konserverade-p%C3%A4ron-p%C3%A5-burk'>Konserverade Päron På Burk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=goes-520-reservdelar'>Goes 520 Reservdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=veber%C3%B6ds-d%C3%A4ck-hassan'>Veberöds Däck Hassan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=adidas-yeezy-boost'>Adidas Yeezy Boost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fingerprint-avanza-forum'>Fingerprint Avanza Forum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sarkomerer-i-parallell'>Sarkomerer I Parallell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tabata-exercises-body-weight'>Tabata Exercises Body Weight</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avgaspackning-3-tum'>Avgaspackning 3 Tum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hund-kissar-inne-stress'>Hund Kissar Inne Stress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halmstad-museum-%C3%B6ppettider'>Halmstad Museum öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johannesvik-camping-gym'>Johannesvik Camping Gym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Isla-de-Lobos'>Isla De Lobos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sr-j%C3%B6nk%C3%B6ping-live'>Sr Jönköping Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-pro-max-512gb-comviq'>Iphone 11 Pro Max 512gb Comviq</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helvetesgr%C3%A4nd-gamla-stan'>Helvetesgränd Gamla Stan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=uppsn%C3%A4rjd-i-det-bl%C3%A5-chords'>Uppsnärjd I Det Blå Chords</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rca-kabel-clas-ohlson'>Rca Kabel Clas Ohlson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kallad-till-f%C3%B6rh%C3%B6r-som-misst%C3%A4nkt'>Kallad Till Förhör Som Misstänkt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-sundsvall-kovland'>Hemnet Sundsvall Kovland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swedish-embassy-nairobi-visa-application'>Swedish Embassy Nairobi Visa Application</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,124 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1841:"<p>Det finns många duktiga kökschefer och skolkockar runtom i landet som kan intyga att det är fullt möjligt att laga god näringsriktig skolmat som barnen tycker om. En portion skolmat i Sverige kostar i snitt 10 kronor och 22 öre om dagen per elev i råvarukostnader, enligt Sveriges Radio. Kungälv näst bäst Kungälv som är näst bäst med 11,43 per portion har årskostnaden 4 680 kronor. Även små kostnader kan vara betungande för hushåll med svag … </p> <p></p> <p>Där emellan samsas resterande kommuner där de flesta lägger mellan 10-11 kronor per portion. Men det får finnas enstaka inslag av små kostnader för eleverna, till exempel en färdbiljett eller en mindre entréavgift till ett museum. Så mycket kostar skolmat där du bor. ... 6 kronor per portion, har en total kostnad på 4 470 kronor per elev. </p> <p>Publicerad 16 nov 2009 kl 15.58, uppdaterad 27 maj 2010 kl 17.44. Skolmat Bra kost som ger den energi och näring som kroppen behöver är en förutsättning för att en elev ska må bra, utvecklas samt orka koncentrera sig och prestera i skolan. Här hittar du statistik om förskola, skola och vuxenutbildning. </p> <p>Skolmat för miljoner slängs Publicerad 28 augusti 2009 Mellan 10.000 och 30.000 ton skolmat kasseras varje år i Sverige, både under tillagningen och när eleverna skrapar matrester av tallrikarna.  Eleverna ska ha tillgång till böcker och andra lärverktyg utan kostnad. Varje år samlar Skolverket in och redovisar nya uppgifter om barn, elever, personal, kostnader och utbildningsresultat. Sverige har sedan 1997 haft lagstadgade krav på kostnadsfria skolluncher till alla elever i den obligatoriska skolan. </p> <p>Om barnen inte tycker om skolmaten är problemet snarare att det saknas kunskap, resurser, inspiration i köket och/eller stöd från ledningen. </p>";s:7:"keyword";s:32:"skolmat kostnad per portion 2019";s:5:"links";s:9718:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kishti-tomita-sjunger'>Kishti Tomita Sjunger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kringskassan-nekar-aktivitetsers%C3%A4ttning'>Försäkringskassan Nekar Aktivitetsersättning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sture-bergwall-film'>Sture Bergwall Film</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skolmaten-i-kanada'>Skolmaten I Kanada</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rdelar-och-nackdelar-med-internet'>Fördelar Och Nackdelar Med Internet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%B6vde-kommun-eldningsf%C3%B6rbud'>Skövde Kommun Eldningsförbud</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egen-receptbok-app'>Egen Receptbok App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakluckeloppis-bor%C3%A5s-2019'>Bakluckeloppis Borås 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mc-k%C3%B6rkort-pris-j%C3%B6nk%C3%B6ping'>Mc Körkort Pris Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=duschblandare-med-takdusch'>Duschblandare Med Takdusch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=instagram-pokemon-filter'>Instagram Pokemon Filter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax-s%C3%B6tpotatis-fetaost'>Lax Sötpotatis Fetaost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lag-om-uthyrning-av-egen-bostad-proposition'>Lag Om Uthyrning Av Egen Bostad Proposition</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=potatissallad-med-%C3%A4gg'>Potatissallad Med ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bk-kenty-p05'>Bk Kenty P05</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=knutby-inifr%C3%A5n-dokument%C3%A4r'>Knutby Inifrån Dokumentär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=khao-lak-hotell-tui'>Khao Lak Hotell Tui</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-cykel-s%C3%B6dermalm'>Hyra Cykel Södermalm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-work-liljeholmen'>After Work Liljeholmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaniljs%C3%A5s-utan-gr%C3%A4dde'>Vaniljsås Utan Grädde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cocktail-bar-vasastan'>Cocktail Bar Vasastan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-ska-man-koka-k%C3%B6tt-l%C3%A4gre-%C3%A4n-98-grader'>Varför Ska Man Koka Kött Lägre än 98 Grader</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seattle-seahawks-kl%C3%A4der'>Seattle Seahawks Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norges-regering-2020'>Norges Regering 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-statlig-skatt'>Vad är Statlig Skatt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krk-rokit-7'>Krk Rokit 7</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-och-victor'>Emil Och Victor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boka-first-camp'>Boka First Camp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=accuweather-hamburg-germany-15-day'>Accuweather Hamburg Germany 15 Day</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liseberg-priority-pass'>Liseberg Priority Pass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gr%C3%B6nk%C3%A5lshj%C3%A4rtan-med-%C3%A4delost'>Grönkålshjärtan Med ädelost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toalettborste-b%C3%A4st-i-test'>Toalettborste Bäst I Test</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-nordic-duo-dt2'>Gustavsberg Nordic Duo Dt2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vin-till-pepparrotsk%C3%B6tt'>Vin Till Pepparrotskött</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=janssons-frestelse-ica'>Janssons Frestelse Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6nebesked-stockholm-stad'>Lönebesked Stockholm Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=what-pkk-means'>What Pkk Means</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helstekt-oxfil%C3%A9-p%C3%A5-grillen'>Helstekt Oxfilé På Grillen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4kta-gustavianska-m%C3%B6bler'>äkta Gustavianska Möbler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skoter-med-sting'>Skoter Med Sting</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-r%C3%A4knas-som-skott-p%C3%A5-m%C3%A5l-fotboll'>Vad Räknas Som Skott På Mål Fotboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rbo-kung%C3%A4lv-kvarnkullen'>Förbo Kungälv Kvarnkullen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=breaking-news-english'>Breaking News English</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=breaking-news-english'>Breaking News English</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kallr%C3%B6kt-lax-i-skivor'>Kallrökt Lax I Skivor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gokart-utomhus-bor%C3%A5s'>Gokart Utomhus Borås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=es-calibur-meaning'>Es Calibur Meaning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-pro-minne'>Iphone 11 Pro Minne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-det-gott-om-i-ystad'>är Det Gott Om I Ystad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-pro-svart'>Iphone 11 Pro Svart</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rskola-%C3%B6stersund-jobb'>Förskola östersund Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsterapeut-antagningspo%C3%A4ng-lund'>Arbetsterapeut Antagningspoäng Lund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fiskarhedenvillan-stenhus-pris'>Fiskarhedenvillan Stenhus Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ripan-kiruna-lunch'>Ripan Kiruna Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidtabell-rosa-express'>Tidtabell Rosa Express</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-se-kreta'>Apollo Se Kreta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-palma-reseguide'>La Palma Reseguide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabinv%C3%A4ska-m%C3%A5tt-sas'>Kabinväska Mått Sas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gossk%C3%B6rens-hus-g%C3%B6teborg'>Gosskörens Hus Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smoothie-jordn%C3%B6tssm%C3%B6r-hallon'>Smoothie Jordnötssmör Hallon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eu-moped-hawk-el-3000w'>Eu Moped Hawk El 3000w</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flens-kommun-nyheter'>Flens Kommun Nyheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-news'>Absolut Vodka News</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schack-se-spela'>Schack Se Spela</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rektorsprogrammet-stockholm-schema'>Rektorsprogrammet Stockholm Schema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stortorget%2C-malm%C3%B6-restaurang'>Stortorget, Malmö Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viltstek-i-gryta'>Viltstek I Gryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-tungan-stress'>Ont I Tungan Stress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordea-eget-motiv'>Nordea Eget Motiv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholm-stad-medarbetare-lisa'>Stockholm Stad Medarbetare Lisa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kna-ut-din-%C3%A5rsinkomst-f%C3%B6rs%C3%A4kringskassan'>Räkna Ut Din årsinkomst Försäkringskassan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-nasdaq-real-time'>Nokia Nasdaq Real Time</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=milj%C3%B6inspekt%C3%B6r-jobb-stockholm'>Miljöinspektör Jobb Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socialchef-skurups-kommun'>Socialchef Skurups Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolina-gynning-tr%C3%B6ja'>Carolina Gynning Tröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanarie%C3%B6arna-farliga-djur'>Kanarieöarna Farliga Djur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personlig-tr%C3%A4nare-hammarby-sj%C3%B6stad'>Personlig Tränare Hammarby Sjöstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6r-sjutton-gubbar'>För Sjutton Gubbar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=takf%C3%A4ste-tv-net-on-net'>Takfäste Tv Net On Net</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rr%C3%A4tt-med-r%C3%A4kor-och-sparris'>Förrätt Med Räkor Och Sparris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6kan-lss-stockholm'>Ansökan Lss Stockholm</a>,
+";s:7:"expired";i:-1;}

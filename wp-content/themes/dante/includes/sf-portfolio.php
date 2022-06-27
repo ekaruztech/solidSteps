@@ -1,35 +1,35 @@
 <?php
 
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Page Builder - Portfolio Items Function Class
 	*	------------------------------------------------
 	*	Swift Framework
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	sf_portfolio_items()
 	*	sf_portfolio_filter()
 	*
 	*/
 	
-	/*  for PRO users! -  PORTFOLIO ITEMS
+	/* PORTFOLIO ITEMS
 	================================================== */
 	if (!function_exists('sf_portfolio_items')) { 
 		function sf_portfolio_items($display_type, $columns, $show_title, $show_subtitle, $show_excerpt, $hover_show_excerpt, $excerpt_length, $item_count, $category, $exclude_categories, $pagination, $sidebars) {
 			
-			/*  for PRO users! -  OUTPUT VARIABLE
+			/* OUTPUT VARIABLE
 			================================================== */ 
 			$portfolio_items_output = "";
 			$count = 0;
 			
-	        /*  for PRO users! -  CATEGORY SLUG MODIFICATION
+	        /* CATEGORY SLUG MODIFICATION
 	        ================================================== */ 
 	        if ($category == "All") {$category = "all";}
 		    if ($category == "all") {$category = '';}
 		    $category_slug = str_replace('_', '-', $category);
 		    
 		    
-		    /*  for PRO users! -  PORTFOLIO QUERY SETUP
+		    /* PORTFOLIO QUERY SETUP
 		    ================================================== */ 
 			global $post, $wp_query;
 			
@@ -60,7 +60,7 @@
 			$portfolio_items = new WP_Query( $portfolio_args );
 			
 			
-			/*  for PRO users! -  LIST CLASS CONFIG
+			/* LIST CLASS CONFIG
 			================================================== */ 
 			$list_class = '';
 			if ($display_type == "masonry" || $display_type == "masonry-gallery") {
@@ -74,17 +74,20 @@
 			}
 			
 			
-			/*  for PRO users! -  ITEMS OUTPUT
+			/* ITEMS OUTPUT
 			================================================== */
 			$options = get_option('sf_dante_options');
+			$enable_portfolio_gallery = false;
+			if ( isset($options['enable_portfolio_gallery']) ) {
 			$enable_portfolio_gallery = $options['enable_portfolio_gallery'];
+			}
 			
 			$portfolio_items_output .= '<ul class="portfolio-items '.$list_class.'">'. "\n";
 			
 			while ( $portfolio_items->have_posts() ) : $portfolio_items->the_post();								
 	
 	
-				/*  for PRO users! -  META VARIABLES
+				/* META VARIABLES
 				================================================== */
 				$thumb_image = $thumb_gallery = $video = $item_class = $link_config = '';
 				$thumb_width = 420;
@@ -140,15 +143,15 @@
 				}
 								
 				
-				/*  for PRO users! -  COLUMN VARIABLE CONFIG
+				/* COLUMN VARIABLE CONFIG
 				================================================== */
 				$item_class = $item_icon = "";
 				    				    				
 				if ($columns == "2") {
 					if ($sidebars == "both-sidebars") {
-					$item_class = "col-sm-3 ";
+					$item_class = "col-sm-6 ";
 					} else if ($sidebars == "one-sidebar") {
-					$item_class = "col-sm-4 ";
+					$item_class = "col-sm-6 ";
 					} else {
 					$item_class = "col-sm-6 ";
 					$thumb_width = 800;
@@ -157,9 +160,9 @@
 					}
 				} else if ($columns == "3") {
 					if ($sidebars == "both-sidebars") {
-					$item_class = "col-sm-2 ";
+					$item_class = "col-sm-4 ";
 					} else if ($sidebars == "one-sidebar") {
-					$item_class = "span-third ";
+					$item_class = "col-sm-4 ";
 					} else {
 					$item_class = "col-sm-4 ";
 					$thumb_width = 600;
@@ -170,7 +173,7 @@
 					if ($sidebars == "both-sidebars") {
 					$item_class = "col-sm-3 ";
 					} else if ($sidebars == "one-sidebar") {
-					$item_class = "col-sm-2 ";
+					$item_class = "col-sm-3 ";
 					} else {
 					$item_class = "col-sm-3 ";
 					}
@@ -181,7 +184,7 @@
 				}
 				
 				
-				/*  for PRO users! -  DISPLAY TYPE CONFIG
+				/* DISPLAY TYPE CONFIG
 				================================================== */
 				if ($display_type == "masonry" || $display_type == "masonry-gallery" || $display_type == "masonry-fw" || $display_type == "masonry-gallery-fw") {
 					$item_class .= "masonry-item masonry-gallery-item";
@@ -192,7 +195,7 @@
 				}
 				
 				
-				/*  for PRO users! -  LINK TYPE CONFIG
+				/* LINK TYPE CONFIG
 				================================================== */
 				if ($thumb_link_type == "link_to_url") {
 					$link_config = 'href="'.$thumb_link_url.'" class="link-to-url"';
@@ -227,12 +230,12 @@
 				}
 				
 				
-				/*  for PRO users! -  ITEM OUTPUT
+				/* ITEM OUTPUT
 				================================================== */
 				$portfolio_items_output .= '<li itemscope itemtype="http://schema.org/CreativeWork" data-id="id-'. $count .'" class="clearfix portfolio-item '.$item_class.' '. $term_slug .'">'. "\n";		
 				
 														
-				/*  for PRO users! -  THUMBNAIL CONFIG
+				/* THUMBNAIL CONFIG
 				================================================== */
 				if ($thumb_type != "none") {
 					
@@ -312,7 +315,7 @@
 						if ($enable_portfolio_gallery) {
 							$portfolio_items_output .= '<h3 class="portfolio-item-title" itemprop="name headline"><a href="'.$permalink.'" class="link-to-post">'. $item_title .'</a></h3>'. "\n";
 						} else {
-							$portfolio_items_output .= '<h3 class="portfolio-item-title" itemprop="name headline"><a '.$link_config.'>'. $item_title .'</a></h3>'. "\n";
+							$portfolio_items_output .= '<h3 class="portfolio-item-title" itemprop="name headline"><a href="'.$permalink.'" class="link-to-post">'. $item_title .'</a></h3>'. "\n";
 						}
 					}
 					if ($show_subtitle == "yes" && $item_subtitle) {
@@ -337,7 +340,7 @@
 			$portfolio_items_output .= '</ul>'. "\n";
 			
 			
-			/*  for PRO users! -  PAGINATION OUTPUT
+			/* PAGINATION OUTPUT
 			================================================== */
 			if ($pagination == "yes") {
 				if ($display_type == "masonry" || $display_type == "masonry-gallery"  || $display_type == "masonry-fw" || $display_type == "masonry-gallery-fw") {
@@ -350,14 +353,14 @@
 			}
 			
 			
-			/*  for PRO users! -  FUNCTION OUTPUT
+			/* FUNCTION OUTPUT
 			================================================== */
 			return $portfolio_items_output;
 		}
 	}	
 	
 	
-	/*  for PRO users! -  PORTFOLIO FILTER
+	/* PORTFOLIO FILTER
 	================================================== */
 	if (!function_exists('sf_portfolio_filter')) { 
 		function sf_portfolio_filter($style = "basic", $parent_category = "") {

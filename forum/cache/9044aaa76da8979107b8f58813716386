@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2080:"<p>Lös en #stödplåt. 4 inlägg har publicerats av Johan Rydén under April 2020. Därför startar Hammarby nu upp virtuell fotbollsträning på Youtube, varje vardag klockan 17.00. En cookie är en liten textfil som placeras på din dator och denna används för att du ska uppleva sajten på bästa sätt. Hammarby fotboll AB / Hammarby IF fotbollförening Orrfjärdsgränd 13 120 53 Årsta. Tel: 08-4628810.  Kansliets öppettider: 08.00-16.00 (lunchstängt 12.00-13.00) Swish: 123 155 64 71 (50 kronor/plåt) 2020-03-23 12:00. Här hittar du spelschema, tabell, spelartrupp, resultat och nyheter för Hammarby IF.Fotbollskanalen - för dig som älskar fotboll. Tillsammans är vi Hammarby. Betta på dina favoriter i världens största sångtävling – Eurovision Odds 2020. 3 inlägg har publicerats av Johan Rydén under January 2020. </p> <p>Hammarby IF DFF eller Hammarby Damfotboll är den svenska idrottsföreningen Hammarby IF:s sektion för fotboll för damer och flickor, startad 1970 och i sin moderna form införd 1999.Laget befinner sig sedan 2019 i Elitettan efter några pendlande år mellan Damallsvenskan och Elitettan men deras allsvenska sejour 1988–2011 utgjorde en av de två längsta någonsin i ligans historia. </p> <p>Det är speciella, ovissa och utmanande tider för alla just nu. POST & BESÖKSADRESS. Våra tankar går till Börjes familj. Hammarby Fotboll sörjer Börje Lundberg som i natt avled efter en längre tids kamp mot cancern. Betta på europamästerskapet i fotboll 2020 – Odds på EM. Denna sida använder cookies. ... Hammarby Damfotboll fortsätter att bygga spelartruppen i A-laget inför 2016 och värvar Filippa Angeldal från AIK. Börje var under många år materialförvaltare i Hammarby, och blev en stor och älskad profil i klubben. ... Hammarby Damfotboll, Helén Eke, svenska fotbollförbundet, Zecira Musovic, Zlatan Ibrahimovic | 3 Kommentarer Tråkiga nyheter för Kollmats – och roliga för Glas. Det är många spelare, ledare och föräldrar som är oroliga och alla vill inte träna i större grupper. </p>";s:7:"keyword";s:24:"hammarby damfotboll 2020";s:5:"links";s:5368:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ford-explorer-2019-sverige'>Ford Explorer 2019 Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kavat-barnskor-rea'>Kavat Barnskor Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dalbyv%C3%A4gen-51-arl%C3%B6v'>Dalbyvägen 51 Arlöv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kycklinggryta-utan-curry-recept'>Kycklinggryta Utan Curry Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-f%C3%B6rs%C3%A4kring-express'>Tre Försäkring Express</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4mta-mobilt-bankid'>Hämta Mobilt Bankid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sp%C3%A5rvagn-g%C3%B6teborg-biljett'>Spårvagn Göteborg Biljett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4r-frukt-synonym'>Bär Frukt Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shih-tzu-kennel'>Shih Tzu Kennel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4llby-cup-2019'>Källby Cup 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%A5ligt-lyse-p%C3%A5-moped'>Dåligt Lyse På Moped</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=after-work-liljeholmen'>After Work Liljeholmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avg%C3%A5ngar-thai-airways'>Avgångar Thai Airways</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pide-zeinas-kitchen'>Pide Zeinas Kitchen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=together-formal-synonym'>Together Formal Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4s%C3%A5rstider-j%C3%B6nk%C3%B6ping-gymnasiet'>Läsårstider Jönköping Gymnasiet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=langsted-matta-ikea'>Langsted Matta Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grytbitar-n%C3%B6t-pris'>Grytbitar Nöt Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sanna-marin-tammerfors'>Sanna Marin Tammerfors</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nda-h%C3%A4xor-i-sverige'>Kända Häxor I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djup-beige-soffa'>Djup Beige Soffa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotel-Victoria3%2C9%2892%291%2C1%C2%A0miles-bort76%C2%A0US%24'>Hotel Victoria3,9(92)1,1 miles Bort76 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mobilt-bankid---l%C3%A4nsf%C3%B6rs%C3%A4kringar'>Mobilt Bankid - Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slutspelsserien-allsvenskan-2020'>Slutspelsserien Allsvenskan 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-rum%C3%A4nien-trupp'>Sverige Rumänien Trupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kth-email-signature'>Kth Email Signature</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-gran-canaria-tripadvisor'>Taxi Gran Canaria Tripadvisor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv-hiss-ikea'>Tv Hiss Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholms-historia-museum'>Stockholms Historia Museum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=summit-racing-sweden'>Summit Racing Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=student-falun-2020'>Student Falun 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-lidhult-sch%C3%A4slong'>Ikea Lidhult Schäslong</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotel-Bishops-Arms4%2C0%28399%290%2C2%C2%A0miles-bort87%C2%A0GBP'>Hotel Bishops Arms4,0(399)0,2 miles Bort87 GBP</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-lindholmen-italiensk'>Restaurang Lindholmen Italiensk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stadsk%C3%A4llaren-lycksele-%C3%B6ppettider'>Stadskällaren Lycksele öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=roliga-tillbeh%C3%B6r-badtunna'>Roliga Tillbehör Badtunna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsplatsolyckor-statistik-k%C3%B6n'>Arbetsplatsolyckor Statistik Kön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-stockholm-s%C3%A4len'>Flyg Stockholm Sälen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mini-pepparkakshus-utstickare'>Mini Pepparkakshus Utstickare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medieteknik-kth-flashback'>Medieteknik Kth Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liverpool-football-academy'>Liverpool Football Academy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=traditionella-japanska-kl%C3%A4der'>Traditionella Japanska Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fodrad-galon-temperatur'>Fodrad Galon Temperatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bl%C3%B6dningar-i-underlivet-vid-anstr%C3%A4ngning'>Blödningar I Underlivet Vid Ansträngning</a>,
+";s:7:"expired";i:-1;}

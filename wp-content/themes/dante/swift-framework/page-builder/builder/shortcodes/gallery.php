@@ -20,7 +20,7 @@
 	        ), $atts));
 	        
 	        
-	        /*  for PRO users! -  SIDEBAR CONFIG
+	        /* SIDEBAR CONFIG
 	        ================================================== */ 
 	        $sidebar_config = sf_get_post_meta(get_the_ID(), 'sf_sidebar_config', true);
 	        	        
@@ -34,7 +34,7 @@
 	        }
 	        
 	        
-	        /*  for PRO users! -  GALLERY
+	        /* GALLERY
 	        ================================================== */
 	        
 	        $gallery_args = array(
@@ -55,7 +55,7 @@
 		       	foreach ( $gallery_images as $image ) {
 		       		
 		       		if ($enable_lightbox == "yes") {
-		       	    $main_slider .= "<li><a href='{$image['url']}' class='ilightbox' rel='ilightbox[gallery-{$gallery_id}]'><img src='{$image['url']}' width='{$image['width']}' height='{$image['height']}' alt='{$image['alt']}' /></a>";
+		       	    $main_slider .= "<li><a href='{$image['url']}' class='ilightbox' data-rel='ilightbox[gallery-{$gallery_id}]'><img src='{$image['url']}' width='{$image['width']}' height='{$image['height']}' alt='{$image['alt']}' /></a>";
 
 		       		} else {
 		       	    $main_slider .= "<li><img src='{$image['url']}' width='{$image['width']}' height='{$image['height']}' alt='{$image['alt']}' />";		       		
@@ -88,7 +88,7 @@
 	        wp_reset_postdata();
 	        
 	        
-			/*  for PRO users! -  PAGE BUILDER OUTPUT
+			/* PAGE BUILDER OUTPUT
 			================================================== */ 
     		$width = spb_translateColumnWidthToSpan($width);
     		$el_class = $this->getExtraClass($el_class);

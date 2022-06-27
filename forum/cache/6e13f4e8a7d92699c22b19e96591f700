@@ -1,0 +1,85 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:785:"<p>(Kuva: Laura Oja) </p> <p>Haluatko matkustaa tyylillä? </p> <p>IKEA UPPTÄCKA-matkalaukku menestyi hienosti uuden Kuluttaja-lehden testissä ja peittosi monta selvästi kallimpaa laukkua. STARTTID Ryggsäck, svart, Rymd: 18 l. Väskorna STARTTID är packade med smarta funktioner som gör korta resor enklare för dig och hela familjen. </p> <p>Oavsett om du pendlar varje dag eller behöver en reseryggsäck för en långhelg, är våra väskor och ryggsäckar gjorda för att hjälpa dig när du är på resande fot. </p> <p>Ta en titt på våra lätta alternativ som viks ihop riktigt bra så att du alltid har en väska till hands för sista minuten-inköp. </p> <p>De är designade för människor i farten – så att stora och små alltid får med sig det de behöver.  </p>";s:7:"keyword";s:244:"streams to royalties'))/**/OR/**/2563=CONCAT(CHAR(67)+CHAR(83)+CHAR(71)+CHAR(119),(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END)),CHAR(67)+CHAR(83)+CHAR(71)+CHAR(119))/**/AND/**/(('XG1I'/**/LIKE/**/'XG1I";s:5:"links";s:4918:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=what-pkk-means'>What Pkk Means</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vatten-h%C3%A5llbar-utveckling-f%C3%B6rskola'>Vatten Hållbar Utveckling Förskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-goda-kakor'>Baka Goda Kakor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=casco-rollat-1'>Casco Rollat 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stoppa-fl%C3%B6det-korsord'>Stoppa Flödet Korsord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=half-life-2-gman-locations'>Half Life 2 Gman Locations</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-fulaste-stad'>Sveriges Fulaste Stad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swish-f%C3%B6retag-privat-nummer'>Swish Företag Privat Nummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hem-se-slamt%C3%B6mning'>Hem Se Slamtömning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-chocolate-chip-cookies'>Bästa Chocolate Chip Cookies</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jennys-matblogg-ceasarsallad'>Jennys Matblogg Ceasarsallad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=geijersgatan-3a-g%C3%B6teborg'>Geijersgatan 3a Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sf-m%C3%A5tt-stannat-av'>Sf-mått Stannat Av</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svensk-film-milit%C3%A4r'>Svensk Film Militär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brom%C3%B6lla-kommun-politiker'>Bromölla Kommun Politiker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sockerkaka-med-sm%C3%B6rkr%C3%A4m'>Sockerkaka Med Smörkräm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-depression-g%C3%A5r-inte-%C3%B6ver'>Min Depression Går Inte över</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-och-ett-i-svenska'>En Och Ett I Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oden-teologi-synonym'>Oden Teologi Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fas-i-sjukdom'>Fas I Sjukdom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=permanent-residence-permit-sweden'>Permanent Residence Permit Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schoolsoft-%C3%A5s-skola'>Schoolsoft ås Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%B6vde-kommun-eldningsf%C3%B6rbud'>Skövde Kommun Eldningsförbud</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabinv%C3%A4ska-m%C3%A5tt-wizzair'>Kabinväska Mått Wizzair</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vinyl-laminat-golv'>Vinyl Laminat Golv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ov%C3%A4der-nya-zeeland'>Oväder Nya Zeeland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smirnoff-black-no-55'>Smirnoff Black No 55</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ab2-service-honda'>Ab2 Service Honda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prince-cigaretter-pris'>Prince Cigaretter Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smoothie-bowl-kcal'>Smoothie Bowl Kcal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jly-dream-spj%C3%A4ls%C3%A4ng'>Jly Dream Spjälsäng</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=timr%C3%A5-ik-tr%C3%A4ningsmatcher'>Timrå Ik Träningsmatcher</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varvsgatan-17-motala'>Varvsgatan 17 Motala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ggjakt-halmstad-2019'>äggjakt Halmstad 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegetarisk-lasagne-crockpot'>Vegetarisk Lasagne Crockpot</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lindas-bakskola-blogg'>Lindas Bakskola Blogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barn-och-utbildningsf%C3%B6rvaltningen-s%C3%B6derk%C3%B6ping'>Barn Och Utbildningsförvaltningen Söderköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4nga-av-vattnet-n%C3%A4r-man-%C3%A5ker-bort'>Stänga Av Vattnet När Man åker Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=torkarblad-volvo-v50-mekonomen'>Torkarblad Volvo V50 Mekonomen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=runda-mattor-jysk'>Runda Mattor Jysk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huf-to-sek'>Huf To Sek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if%C3%B6-spira-6262'>Ifö Spira 6262</a>,
+";s:7:"expired";i:-1;}

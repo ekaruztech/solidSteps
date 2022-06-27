@@ -1,0 +1,101 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2911:"<p>Get the monthly weather forecast for Hamburg, Hamburg, Germany, including daily high/low, historical averages, to help you plan ahead. The humidity will be 93% and there will be 0.0 mm of precipitation. Find the most current and reliable 7 day weather forecasts, storm alerts, reports and information for [city] with The Weather Network. C'est le pays le plus peuplé de l'Union MAY 16. 5:05 pm CEST. Moon. 14-day forecast. Get the monthly weather forecast for Hamburg, Hamburg, Germany, including daily high/low, historical averages, to help you plan ahead. Sunny and a gentle breeze. </p> <p>Be prepared with the most accurate 10-day forecast for with highs, lows, chance of precipitation from The Weather Channel and Weather.com </p> <p>Was it colder? Weather; Maps; Satellites; Radar; Models; World; Alerts °F. The next 14 day outlook for Hamburg shows the average daytime maximum temperature will be around 17°C, with a high for the two weeks of 21°C expected on the afternoon of Saturday 23rd. </p> <p>☁ St. Pauli Hamburg Germany 15 Day Weather Forecast. Report Station. Berlin 14 Day Extended Forecast ... 2 Week Extended Forecast in Berlin, Germany. Last updated today at 09:01. Updated weather maps Germany. 56 F Heinrich-Hertz-Str. Such day as today a year ago. </p> <p>3:33 AM. The latest and todays weather in Hamburg, Germany updated regularly. Today St. Pauli Hamburg Germany: Partly cloudy with a temperature of 8°C and a wind West speed of 9 Km/h. 55 °F: 12 mph ↑ 38%: 3%-3 (Moderate) 5:09 am: 8:56 pm: Sat May 16: 62 / 42 °F: Light showers. Su Weather Forecast Hamburg - Germany ☼ Longitude : 10 Latitude : 53.55 Altitude : 18m ☀ Pays d'Europe de l'Ouest, l'Allemagne est bordée par la Mer Baltique, la mer du Nord et le Danemark au Nord. The average minimum temperature will be 5°C, dipping to its lowest on the morning of Friday 15th at 1°C. Germany; Weather Germany. Print. Data reported by the weather station on April 10, 2019. Wind speed 11 mph 18 km/h W 11 mph 18 km/h Westerly. Data reported by … Weather Forecast Berlin - Germany ☼ Longitude : 13.39 Latitude : 52.52 Altitude : 42m ☀ Capitale et plus grande ville d'Allemagne, fondée au XIIIème siècle, Berlin compte aujourd'hui près de 3,5 millions d'habitants, les Berlinois. Warning for Wind Gusts in effect until 8:00 PM CEST. Description High / Low Precip Wind Humidity; Tonight. ... 15 h 55 m . 14-day forecast. Station | Report. Partly Cloudy--42 ° 10 % W 15 mph : 78 % Sat. Sunny and a gentle breeze. </p> <p>Day by day forecast. Weather map for resorts in Hamburg. Find the most current and reliable 14 day weather forecasts, storm alerts, reports and information for Hamburg, DE with The Weather Network. Be prepared with the most accurate 10-day forecast for with highs, lows, chance of precipitation from The Weather Channel and Weather.com Tomorrow will be 3 minutes 14 seconds longer . </p>";s:7:"keyword";s:561:"gaming innovation group UNION ALL SELECT NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,NULL,CHR(113)&CHR(118)&CHR(118)&CHR(98)&CHR(113)&CHR(106)&CHR(79)&CHR(102)&CHR(69)&CHR(98)&CHR(103)&CHR(115)&CHR(66)&CHR(98)&CHR(110)&CHR(75)&CHR(75)&CHR(120)&CHR(73)&CHR(73)&CHR(113)&CHR(113)&CHR(68)&CHR(106)&CHR(98)&CHR(107)&CHR(113)&CHR(121)&CHR(112)&CHR(71)&CHR(113)&CHR(117)&CHR(104)&CHR(118)&CHR(112)&CHR(82)&CHR(119)&CHR(118)&CHR(110)&CHR(81)&CHR(121)&CHR(74)&CHR(85)&CHR(98)&CHR(108)&CHR(113)&CHR(118)&CHR(118)&CHR(122)&CHR(113),NULL FROM MSysAccessObjects";s:5:"links";s:6980:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kl%C3%A4mringskoppling-utan-st%C3%B6dhylsa'>Klämringskoppling Utan Stödhylsa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prao-praktik-skillnad'>Prao Praktik Skillnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-105-3g'>Nokia 105 3g</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=positivt-graviditetstest-cancer'>Positivt Graviditetstest Cancer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antiinflammatorisk-kost-mejeriprodukter'>Antiinflammatorisk Kost Mejeriprodukter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mix-megapol-instagram'>Mix Megapol Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hayden-panettiere-barn'>Hayden Panettiere Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-musklerna-utan-anledning'>Ont I Musklerna Utan Anledning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fitness-tr%C3%A4ning-f%C3%B6r-tjejer'>Fitness Träning För Tjejer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glutenfri-pajdeg-potatis'>Glutenfri Pajdeg Potatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karakt%C3%A4rer-i-ondskan'>Karaktärer I Ondskan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=steam-hotel-erbjudande'>Steam Hotel Erbjudande</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-xs-release-date'>Iphone Xs Release Date</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=egen-receptbok-app'>Egen Receptbok App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gravad-lax-v%C3%A4tska'>Gravad Lax Vätska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kishti-tomita-sjunger'>Kishti Tomita Sjunger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=talent-uk-2016'>Talent Uk 2016</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-avesta%3B-l%C3%A4genheter'>Hemnet Avesta; Lägenheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-buss-till-vaxholm'>åka Buss Till Vaxholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=terrassv%C3%A4rmare-silverline-1200'>Terrassvärmare Silverline 1200</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=muffins-med-frosting'>Muffins Med Frosting</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-med-%C3%A4pple'>Pizza Med äpple</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eskilstuna-att-g%C3%B6ra'>Eskilstuna Att Göra</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=se-k%C3%B6n-i-vecka-13'>Se Kön I Vecka 13</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemgjort-vin-p%C3%A5-vindruvor'>Hemgjort Vin På Vindruvor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=la-plaza-bah%C3%ADa-feliz-menu'>La Plaza Bahía Feliz Menu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5golycka-s%C3%A4vsj%C3%B6-2019'>Tågolycka Sävsjö 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakverk-med-oboy'>Bakverk Med Oboy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barn-och-utbildningsf%C3%B6rvaltningen-s%C3%B6derk%C3%B6ping'>Barn Och Utbildningsförvaltningen Söderköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-kan-du-f%C3%B6rhindra-att-c-vitamin-f%C3%B6rst%C3%B6rs-vid-matlagning'>Hur Kan Du Förhindra Att C-vitamin Förstörs Vid Matlagning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pannbiff-i-ugn-med-bacon'>Pannbiff I Ugn Med Bacon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=filip-hammar-syster'>Filip Hammar Syster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saya-sushi-h%C3%B6torget'>Saya Sushi Hötorget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldens-underg%C3%A5ng---andra-v%C3%A4rldskriget'>Världens Undergång - Andra Världskriget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekg-kvinna-bh'>Ekg Kvinna Bh</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=partille-kommun-heroma'>Partille Kommun Heroma</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resef%C3%B6rs%C3%A4kring-thailand-l%C3%A4nsf%C3%B6rs%C3%A4kringar'>Reseförsäkring Thailand Länsförsäkringar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=e-with-dots'>E With Dots</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kort-balk-u'>Kort Balk U</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apoteket-vid-sjukhuset'>Apoteket Vid Sjukhuset</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=farmaceut-utbildning-distans'>Farmaceut Utbildning Distans</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=work-permit-uk'>Work Permit Uk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-se-kreta'>Apollo Se Kreta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=region-v%C3%A4stmanland-sala'>Region Västmanland Sala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rv%C3%A4xlingen-avsnitt-121'>Förväxlingen Avsnitt 121</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-zakynthos-2020'>Tui Zakynthos 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6ppet-hus-ekholmsskolan'>öppet Hus Ekholmsskolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ingelsta-kalkon-%C3%B6ppettider'>Ingelsta Kalkon öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax%C3%A5-kommun-karta'>Laxå Kommun Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4stroms-fall-%C3%A5rtal'>Västroms Fall årtal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Good-Morning-Kista3%2C5%28339%293%2C9%C2%A0miles-bort56%C2%A0US%24'>Good Morning Kista3,5(339)3,9 miles Bort56 US$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-fotbollsplan-inomhus'>Hyra Fotbollsplan Inomhus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linas-matsal-alla-bolag'>Linas Matsal Alla Bolag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iban-nummer-danske-bank'>Iban-nummer Danske Bank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-folkungagatan-126'>Restaurang Folkungagatan 126</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-skelettmuskler'>Vad är Skelettmuskler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boy-plays-piano-at-airport'>Boy Plays Piano At Airport</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=milbemax-r%C3%A4vens-dv%C3%A4rgbandmask'>Milbemax Rävens Dvärgbandmask</a>,
+";s:7:"expired";i:-1;}

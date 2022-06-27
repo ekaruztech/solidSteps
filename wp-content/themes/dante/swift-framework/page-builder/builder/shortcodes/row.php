@@ -1,11 +1,11 @@
 <?php
 
-    /*  for PRO users! - 
+    /*
     *
     *	Swift Page Builder - Row Shortcode
     *	------------------------------------------------
-    *	Swift Framework
-    * 	Copyright Swift Ideas 2015 - http://www.swiftideas.com
+    *	Swift Framework 
+    * 	Copyright Swift Ideas 2016 - http://www.swiftideas.com
     *
     */
 
@@ -30,7 +30,7 @@
                 'row_overlay_opacity'     => '0',
                 'remove_element_spacing'  => '',
                 'vertical_center'         => 'true',
-                'row_bg_type'             => '',
+                'row_bg_type'             => 'image',
                 'bg_image'                => '',
                 'bg_video_mp4'            => '',
                 'bg_video_webm'           => '',
@@ -72,7 +72,7 @@
             if ( $remove_element_spacing == "yes" ) {
                 $row_el_class .= ' remove-element-spacing';
             }
-
+			
             if ( $row_bg_color != "" ) {
                 $inline_style .= 'background-color:' . $row_bg_color . ';';
             }
@@ -173,8 +173,9 @@
             return $output;
         }
 
-        public function contentAdmin( $atts, $content = null ) {
-            $width = $row_el_class = $bg_color = $padding_vertical = '';
+        public function contentAdmin($atts, $content = null ) {
+            $width = $wrap_type = $row_el_class = $row_bg_color = $color_row_height = $row_padding_vertical = $row_padding_horizontal = $row_margin_vertical = $row_overlay_opacity = $remove_element_spacing = $bg_color = $inner_column_height = $row_top_style = $row_bottom_style = $vertical_center = $row_id = $row_name = $row_bg_type = $padding_vertical = '';
+
             extract( shortcode_atts( array(
                 'wrap_type'               => '',
                 'row_el_class'            => '',
@@ -191,7 +192,7 @@
                 'vertical_center'         => 'true',
                 'row_id'                  => '',
                 'row_name'                => '',
-                'row_bg_type'             => '',
+                'row_bg_type'             => 'image',
                 'bg_image'                => '',
                 'bg_video_mp4'            => '',
                 'bg_video_webm'           => '',
@@ -213,6 +214,7 @@
                 'width'                   => 'span12'
             ), $atts ) );
 
+
             $output = '';
 
             $output .= '<div data-element_type="spb_row" class="spb_row spb_sortable span12 spb_droppable not-column-inherit">';
@@ -223,10 +225,13 @@
             $output .= do_shortcode( shortcode_unautop( $content ) );
             $output .= SwiftPageBuilder::getInstance()->getLayout()->getContainerHelper();
             $output .= '</div>';
+
+
             if ( isset( $this->settings['params'] ) ) {
                 $inner = '';
                 foreach ( $this->settings['params'] as $param ) {
-                    $param_value = isset( $$param['param_name'] ) ? $$param['param_name'] : '';
+                    $param_value = isset( ${$param['param_name']} ) ? ${$param['param_name']} : '';
+
                     //var_dump($param_value);
                     if ( is_array( $param_value ) ) {
                         // Get first element from the array
@@ -245,7 +250,7 @@
         }
     }
 
-    /*  for PRO users! -  PARAMS
+    /* PARAMS
     ================================================== */
     $params = array(
         array(
@@ -566,7 +571,7 @@
     );
 
 
-	/*  for PRO users! -  SHORTCODE MAP
+	/* SHORTCODE MAP
 	================================================== */
     SPBMap::map( 'spb_row', array(
         "name"            => __( "Row", 'swiftframework' ),

@@ -1,0 +1,84 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2040:"<br>Hos Jordbruksverket kan du läsa mer om vad som gäller när du vill ta med ditt djur utomlands. Legemiddelverket har ansvar for vurdering av dokumentasjonen til legemidler som får markedsføringstillatelser i Norge. Rabies Dock krävs det 2 vaccinationer med 3-4 veckors intervall för gott skydd mot kattsnuva, även för vuxen katt. Likevel anbefales som vanlig rutine et intervall på minst en uke for at eventuelle bivirkninger skal kunne vurderes. Vaksinering bidrar også til å forhindre at smitte spres mellom katter.  Myndighetene har vedtatt strenge bestemmelser som regulerer import av katt til Norge og tilbakeførsel av katt som har oppholdt seg i utlandet. 1. Hva vaksinerer vi mot? Intervall mellom inaktiverte vaksiner som ikke gis samtidig, har ikke betydning for effekten. <br> <br>Hos andre er det nok med 1-2 ganger i året. Videre bør katten gis ormekur opptil 3-4 ganger i året dersom du har en ivrig jeger. Det samme gjelder mellom inaktiverte og levende injeksjonsvaksiner.  Vaksine er en god investering i kattens helse. Vi vaksinerer i hovedsak mot kattepest og smittsom luftveisinfeksjon. (hund, katt, og ilder) Hvis rabiesvaksinen gis i et land eller område utenfor EØS, skal den ha godkjenning eller lisens fra myndighetene der og oppfylle krav fra Verdens dyrehelseorganisasjon. Ved å vaksinere beskytter du katten din mot flere potensielt meget smertefulle og farlige virus. Dersom en planlegger å importere katter eller ta med katten sin til utlandet og tilbakeføre den, må man derfor i god tid innhente informasjon om gjeldende bestemmelser hos de respektive lands myndigheter og hos mattilsynet ( www.mattilsynet.no ). Om katten är äldre än 13 veckor krävs endast en vaccination för gott skydd mot kattpest. Alle ormemidler til katt er reseptbelagte og resept må skrives ut av veterinær. Noen slike virus kan ha dødelig utfall. Hvorfor vaksinere katten din? ID merking med chip. Det har heldigvis blitt mer og mer vanlig med ID-merking av katten. Vaccination inför utlandsresan. <br>";s:7:"keyword";s:26:"vaccination katt intervall";s:5:"links";s:4882:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tabata-workout-program'>Tabata Workout Program</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cr%C3%A8me-br%C3%BBl%C3%A9e-meny'>Crème Brûlée Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allehanda-sollefte%C3%A5-d%C3%B6dsannonser'>Allehanda Sollefteå Dödsannonser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saffrans-petit-choux'>Saffrans Petit Choux</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alanya-v%C3%A4der-mars'>Alanya Väder Mars</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pernod-ricard-sverige'>Pernod Ricard Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4r-kosovo-ett-land'>är Kosovo Ett Land</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vaccination-katt-intervall'>Vaccination Katt Intervall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=falu-gruva-guide'>Falu Gruva Guide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pernod-ricard-avanza'>Pernod Ricard Avanza</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mobil-1-esp-5w-30'>Mobil 1 Esp 5w-30</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=personligt-brev-internt-jobb'>Personligt Brev Internt Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-hilfiger-ballerina'>Tommy Hilfiger Ballerina</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bron-rotten-tomatoes'>Bron Rotten Tomatoes</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-se-kreta'>Apollo Se Kreta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bostadsr%C3%A4tt-ekholmen%2C-link%C3%B6ping'>Bostadsrätt Ekholmen, Linköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-demo-center'>Volvo Demo Center</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tele2-kontantkort-fastpris'>Tele2 Kontantkort Fastpris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kroki-konstskolan-g%C3%A4vle'>Kroki Konstskolan Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karlstads-domkyrka-evenemang'>Karlstads Domkyrka Evenemang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=morotskaka-med-citron'>Morotskaka Med Citron</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=josefin-neld%C3%A9n-ratsit'>Josefin Neldén Ratsit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vinnaren-talang-2020'>Vinnaren Talang 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-pappa-marianne-netflix'>Min Pappa Marianne Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegan-caf%C3%A9-norrk%C3%B6ping'>Vegan Café Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-blev-livet-sv%C3%A5rare-f%C3%B6r-torsken'>När Blev Livet Svårare För Torsken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-med-skinka-och-ananas'>Pizza Med Skinka Och Ananas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Slottsskogens-Hostel3%2C9%28686%290%2C6%C2%A0km-bort1%C2%A0168%C2%A0UAH'>Slottsskogens Hostel3,9(686)0,6 km Bort1 168 UAH</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beg-mercedes-c-klass-p%C3%A5-blocket'>Beg Mercedes C-klass På Blocket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=itux-bli-kund'>Itux Bli Kund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eldningsf%C3%B6rbud-sk%C3%A5ne-2020'>Eldningsförbud Skåne 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ldersgr%C3%A4ns-alkohol-frankrike'>åldersgräns Alkohol Frankrike</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skytteliga-allsvenskan-2018'>Skytteliga Allsvenskan 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rimbobullar-p%C3%A5-sm%C3%B6rdeg'>Rimbobullar På Smördeg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tur-i-k%C3%A4rlek-vinjett'>Tur I Kärlek Vinjett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-madrasser-80x200'>Ikea Madrasser 80x200</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blandare-k%C3%B6k-tapwell'>Blandare Kök Tapwell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ny%C3%A5r-skellefte%C3%A5-2019'>Nyår Skellefteå 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=david-sundin-net-worth'>David Sundin Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parkering-halmstad-teater'>Parkering Halmstad Teater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=erik-gr%C3%B6nwall-idol'>Erik Grönwall Idol</a>,
+";s:7:"expired";i:-1;}

@@ -1,6 +1,6 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Search Content Part
  *
  * @package bbPress

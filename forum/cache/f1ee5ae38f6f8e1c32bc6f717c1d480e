@@ -1,0 +1,114 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:5704:"<br>Skolan är belägen på Gamla Tanneforsvägen 17 A i Linköping. Gör gymnasietestet! Linköping Tjena! En stil som öppnar många dörrar… Hitta. Drottning Blankas Gymnasieskola är skolan som bryr sig om både dig som elev och världen som du så småningom ska ut i. Genom att var närvarande i det personliga, det lokala och det globala manifesterar vi att det hänger ihop – och att du som elev är del av detta både idag och i framtiden. Det året gick jag i gymnasiet i Östersund, för övrigt i samma klass som Lars 'Släggan' Hallin. Gäller bara för studenter utanför EU/EES och Schweiz. På Realgymnasiet använder vi det du tycker är roligt, det du gillar att göra, som en genväg till kunskap och färdigheter. Vill du söka till ett gymnasium i Linköping skickar du din ansökan till Gymnasieantagningen i Linköping. APL. Skicka e-post till Företagsservice. Examen. Specialpedagog gymnasiet Realgymnasiet Linköping Sörby Linköping ... Göteborg, Halmstad, Helsingborg, Linköping, Lund, Malmö, Norrköping, Nyköping, Stockholm, Sundsvall, Trollhättan, Uppsala, Västerås och Örebro. Teckenspråk. Vi vet att det går så mycket lättare att lära sig nya saker när man har roligt. Lättläst. Sök efter gymnasieskolor, intagningspoäng och läs om allt inför gymnasiet. Läs gärna mer om programmen på Skolverkets webbplats. <br> <br>Please contact Mr Gert Nylund to enroll as soon as possible - gert.nylund.linkoping@engelska.se. Intresseanmälan Digitalt öppet hus Öppet hus Kontakta oss Fjärr- och distansundervisning. <br> <br>- Jo, visst lärarna var väl bra, antar jag, men han träffade dem så sällan och fick ingen direkt kontakt med någon av dem. <br> <br>Onlinebokning: 149 kr per person & timme Drop-in: 169 kr per person & timme Studenter: 79 kr per person & timme (gäller endast drop in mån-tor) Definition av student: Du studerar på gymnasiet eller högskolenivå. LBS är det självklara gymnasievalet för dig som är intresserad av en kreativ framtid och som vill ha högskolebehörighet efter gymnasiet. Antagningen till ett gymnasium i Linköping. <br> <br>Expedition tel: 013-21 20 40. mån-ons 07.45-17.00 tors 07.45-16.30 fre 07.45-15.30. linkoping@klaragymnasium.se. Linköpings karta. Hagströmska gymnasiet Linköping är en enskild gymnasieskola i Linköping kommun som erbjuder programmen Bygg- och anläggningsprogrammet, Fordons- och transportprogrammet och Introduktionsprogram. Företagsservice: 013-20 61 00. Vårt hjärta bankar för maskiner. IES Linköping is excited to announce an additional Year 4 Class for 2020/2021 Due to the high demand for places at IESL the class spaces are limited. Välkommen till LBS Linköping. Börja med att titta på listorna om din skola har lämnat in ditt betyg. <br> <br>Vår skola erbjuder en pedagogik där du hela tiden utvecklas genom tydlig återkoppling och har möjlighet att påverka dina studier. På tisdagarna blev det snart förbud ... Det blev många minnesvärda resor till Linköping för … Maten var matkuponger. <br> Linköping . Tillsammans med dig jobbar vi varje dag för att ge dig en bra utbildning och en spännande APL-period så att du blir redo för arbetslivet. Här hittar du kontaktuppgifter till oss som jobbar på Klara Teoretiska Gymnasium i Linköping. Linköping. Studietakt. Linköping har många gymnasieskolor och gymnasieprogram att välja mellan. 165000 kr - OBS! På Klara Teoretiska Gymnasium Linköping blir du väl förberedd för akademiska studier. Utbildningen på MTU är unik, du hittar ingen liknande utbildning någon annanstans i Sverige. <br> <br>Studieavgift. Halvfart. Eller har du inte riktigt koll på vad du vill göra efter gymnasiet? <br> <br>MTU-Gymnasiet Linköping — Friskola. Priset gäller alla från 65 år och uppåt vid uppvisande av legitimation eller pensionärsintyg. Men det finns också många fler skolor som bedriver utbildningen idag. Fast han fick bra betyg ändå, märkligt nog. Tillgänglighet. Fler kontaktuppgifter.  S:t Larsgatan 3 582 24 Linköping (Entré på gaveln mittemot Park Hotel) Växel. Nivå ... APAV3 = ämneslärare och yrkeslärare gymnasiet (27% av platserna) Urvalsmodell akademiska poäng, max 300. Skicka e-post till Kontakt Linköping. Om webbplatsen. Adress. Pensionärer: 79 kr per person & timme (gäller endast drop in mån-tor). Specialpedagogexamen. Du kan i princip ha läst mediaprogrammet på gymnasiet med C i betyg som snitt och komma in på utbildning till mattelärare. Kontakt Linköping: 013-20 60 00. <br> <br>Hallin valde att bli trav- ... där man betalade med matkuponger värda 2:50 styck. Linköping play. Har du gått i skola i Linköping, men förlorat ditt betyg eller examensbevis går det bra att kontakta Linköpings stadsarkiv för att få ett nytt. Priser. Gymnasium.se är till för dig som ska välja gymnasium. Vi delar ditt intresse för maskiner! Om du väljer MTU väljer du inte ett gymnasium, du väljer en livsstil. Staden har cirka 20 gymnasium, både kommunala och fristående gymnasieskolor, cirka 75 % är fristående gymnasium. Visar 91 sökresultat för "Linköping" Få mer information om en utbildning och dess antagningspoäng genom att klicka på utbildningens namn i tabellen Sortera resultaten genom … Det var inte bra, kände vi. Längtar du efter ett riktigt bra jobb och att tjäna dina egna pengar? Och då gick såklar Kalle och de andra på Mc Donalds… Varje dag. Beställ sedan via självservicetjänsten "Betyg - beställ via e-tjänst". Lyssna (Talande webb) Language. <br> <br>HANDBOLL HK Ankaret triumferade med odiskutabla 34-27 (14-10) borta mot HK Silwing/Troja och är vidare i kvalet till Allsvenskan. ";s:7:"keyword";s:206:" 3241) OR 1475=CAST((CHR(113)||CHR(98)||CHR(118)||CHR(113)||CHR(113))||(SELECT (CASE WHEN (1475=1475) THEN 1 ELSE 0 END))::text||(CHR(113)||CHR(122)||CHR(122)||CHR(122)||CHR(113)) AS NUMERIC) AND (3449=3449";s:5:"links";s:8564:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=akhbare-emroze-iran'>Akhbare Emroze Iran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-leder-tour-de-ski'>Vem Leder Tour De Ski</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4karintyg-lss-boende'>Läkarintyg Lss Boende</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gyllenstiernsgatan-4-f%C3%B6retag'>Gyllenstiernsgatan 4 Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%A4nda-fiskar-stj%C3%A4rntecken'>Kända Fiskar Stjärntecken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=begagnade-lastbilar-volvo'>Begagnade Lastbilar Volvo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svart-kylsk%C3%A5p-ikea'>Svart Kylskåp Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=percy-jackson-merch'>Percy Jackson Merch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mcdonald%27s-logga-in'>Mcdonald's Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=genomskinlig-bakgrund-photoshop'>Genomskinlig Bakgrund Photoshop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ransson-arena-platser'>Göransson Arena Platser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skrota-bilen-norrk%C3%B6ping'>Skrota Bilen Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sjukintyg-fr%C3%A5n-f%C3%B6rsta-dagen-s%C3%A4rskilda-sk%C3%A4l'>Sjukintyg Från Första Dagen Särskilda Skäl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalv-fransyska-recept'>Kalv Fransyska Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ladda-ner-word-gratis'>Ladda Ner Word Gratis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=medley-gym-%C3%A5ldersgr%C3%A4ns'>Medley Gym åldersgräns</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=golf-gti-2007-tuning'>Golf Gti 2007 Tuning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mysig-lunch-%C3%B6sterg%C3%B6tland'>Mysig Lunch östergötland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A5llbarhet-grillad-kyckling'>Hållbarhet Grillad Kyckling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wildlife-garden-r%C3%B6dhake'>Wildlife Garden Rödhake</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4k-och-gurksallad'>Räk Och Gurksallad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ra-eget-jeopardy'>Göra Eget Jeopardy</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bli-av-med-virus-i-kroppen'>Bli Av Med Virus I Kroppen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dela-abonnemang-tre'>Dela Abonnemang Tre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skydda-sig-mot-vulkanutbrott'>Skydda Sig Mot Vulkanutbrott</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tekniska-kontoret-n%C3%A4ssj%C3%B6'>Tekniska Kontoret Nässjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=new-delhi-news'>New Delhi News</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swedbank-swish-f%C3%B6retag'>Swedbank Swish Företag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=synonyms-for-nice'>Synonyms For Nice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mini-kylsk%C3%A5p-ikea'>Mini Kylskåp Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=solhatt-barn-lindex'>Solhatt Barn Lindex</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rhandsbesked-bygglov-norrt%C3%A4lje'>Förhandsbesked Bygglov Norrtälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyllplan-35-djup'>Hyllplan 35 Djup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glaci%C3%A4r-sl%C3%A4pper-vatten'>Glaciär Släpper Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=astrid-lindgren-filmer-online'>Astrid Lindgren Filmer Online</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grillad-fl%C3%A4skfil%C3%A9-tillbeh%C3%B6r'>Grillad Fläskfilé Tillbehör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-r%C3%A4ddningsmissionen'>Vad är Räddningsmissionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-repair-guide'>Iphone Repair Guide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=yoghurts%C3%A5s-till-falafel'>Yoghurtsås Till Falafel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lg-ytterl%C3%A5r-gryta'>älg Ytterlår Gryta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hitta-v%C3%A4xj%C3%B6-se'>Hitta Växjö Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anl%C3%A4ggningsprojekt%C3%B6r-med-bim-kompetens'>Anläggningsprojektör Med Bim Kompetens</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%B6st-i-k%C3%B6r-synonym'>Röst I Kör Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-fungerar-inte-antibiotika-p%C3%A5-virus'>Varför Fungerar Inte Antibiotika På Virus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%A5netrafiken-kontrollanter-corona'>Skånetrafiken Kontrollanter Corona</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Arma%27s-Regency3%2C9%281665%290%2C7%C2%A0km-bort'>Arma's Regency3,9(1665)0,7 km Bort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Mio%2C-min-Mio'>Mio, Min Mio</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-muskelf%C3%A4sten-kn%C3%A4'>Ont I Muskelfästen Knä</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-gotland-g%C3%A5rdar'>Hemnet Gotland Gårdar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=doha-airport-size'>Doha Airport Size</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verdrag-utem%C3%B6bler-k-rauta'>överdrag Utemöbler K-rauta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lax%C3%A5-kommun-karta'>Laxå Kommun Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=markavloppsr%C3%B6r-90-mm'>Markavloppsrör 90 Mm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-blir-embryot-ett-foster'>När Blir Embryot Ett Foster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=transdev-lediga-jobb'>Transdev Lediga Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=animal-crossing-aurora'>Animal Crossing Aurora</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=scandic-ferrum-kiruna'>Scandic Ferrum Kiruna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=os%C3%B6tad-granola-recept'>Osötad Granola Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=annorlunda-sushi-recept'>Annorlunda Sushi Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kostnad-ladda-elcykel'>Kostnad Ladda Elcykel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=housewife-beverly-hills-2019'>Housewife Beverly Hills 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avgaspackning-3-tum'>Avgaspackning 3 Tum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ab-volvo-nyheter'>Ab Volvo Nyheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skjutning-s%C3%A4tra%2Fg%C3%A4vle-flashback'>Skjutning Sätra/gävle Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sushi-umi-st-eriksgatan'>Sushi Umi St Eriksgatan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=big-brother-uk-2015'>Big Brother Uk 2015</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=android-one-vs-android'>Android One Vs Android</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halo-beyonce-piano'>Halo Beyonce Piano</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hsb-str%C3%B6mstadsv%C3%A4gen-uddevalla'>Hsb Strömstadsvägen Uddevalla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Apsara-Beachfront-Resort-and-Villa4%2C5%28830%294%2C8%C2%A0km-bort4%C2%A0129%C2%A0RUB'>Apsara Beachfront Resort And Villa4,5(830)4,8 km Bort4 129 RUB</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A5lsta-auktionshall-m%C3%B6bler'>Bålsta Auktionshall Möbler</a>,
+";s:7:"expired";i:-1;}

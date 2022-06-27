@@ -1,11 +1,11 @@
 <?php
 	
-	/*  for PRO users! - 
+	/*
 	*
 	*	Swift Framework Pagination Functions
 	*	------------------------------------------------
 	*	Swift Framework v2.0
-	* 	Copyright Swift Ideas 2014 - http://www.swiftideas.net
+	* 	Copyright Swift Ideas 2016 - http://www.swiftideas.net
 	*
 	*	round_num()
 	*	pagenavi()
@@ -13,16 +13,16 @@
 	*/
 	
 	
-	/*  for PRO users! -  PAGINATION
+	/* PAGINATION
 	================================================== */
-	/*  for PRO users! -  Function that Rounds To The Nearest Value.
+	/* Function that Rounds To The Nearest Value.
 	   Needed for the pagenavi() function */
 	function round_num($num, $to_nearest) {
-	   /*  for PRO users! - Round fractions down (http://php.net/manual/en/function.floor.php)*/
+	   /*Round fractions down (http://php.net/manual/en/function.floor.php)*/
 	   return floor($num/$to_nearest)*$to_nearest;
 	}
 	 
-	/*  for PRO users! -  Function that performs a Boxed Style Numbered Pagination (also called Page Navigation).
+	/* Function that performs a Boxed Style Numbered Pagination (also called Page Navigation).
 	   Function is largely based on Version 2.4 of the WP-PageNavi plugin */
 	if (!function_exists('pagenavi')) { 
 		function pagenavi($query, $before = '', $after = '') {
@@ -49,14 +49,14 @@
 		 	$output = "";
 		 	
 		    //If NOT a single Post is being displayed
-		    /*  for PRO users! - http://codex.wordpress.org/Function_Reference/is_single)*/
+		    /*http://codex.wordpress.org/Function_Reference/is_single)*/
 		    if (!is_single()) {
 		        $request = $query->request;
 		        //intval - Get the integer value of a variable
-		        /*  for PRO users! - http://php.net/manual/en/function.intval.php*/
+		        /*http://php.net/manual/en/function.intval.php*/
 		        $posts_per_page = intval(get_query_var('posts_per_page'));
 		        //Retrieve variable in the WP_Query class.
-		        /*  for PRO users! - http://codex.wordpress.org/Function_Reference/get_query_var*/
+		        /*http://codex.wordpress.org/Function_Reference/get_query_var*/
 		        if ( get_query_var('paged') ) {
 		        $paged = get_query_var('paged');
 		        } elseif ( get_query_var('page') ) {
@@ -68,7 +68,7 @@
 		        $max_page = $query->max_num_pages;
 		 
 		        //empty - Determine whether a variable is empty
-		        /*  for PRO users! - http://php.net/manual/en/function.empty.php*/
+		        /*http://php.net/manual/en/function.empty.php*/
 		        if(empty($paged) || $paged == 0) {
 		            $paged = 1;
 		        }
@@ -119,8 +119,8 @@
 		            $larger_end_page_end = $max_page;
 		        }
 		        if($max_page > 1 || intval($pagenavi_options['always_show']) == 1) {
-		            /*  for PRO users! - http://php.net/manual/en/function.str-replace.php */
-		            /*  for PRO users! - number_format_i18n(): Converts integer number to format based on locale (wp-includes/functions.php*/
+		            /*http://php.net/manual/en/function.str-replace.php */
+		            /*number_format_i18n(): Converts integer number to format based on locale (wp-includes/functions.php*/
 		            $pages_text = str_replace("%CURRENT_PAGE%", number_format_i18n($paged), $pagenavi_options['pages_text']);
 		            $pages_text = str_replace("%TOTAL_PAGES%", number_format_i18n($max_page), $pages_text);
 		            $output .= $before.'<ul class="pagenavi bar-styling">'."\n";
@@ -129,7 +129,7 @@
 		                $output .= '<li><span class="pages">'.$pages_text.'</span></li>';
 		            }
 		            //Displays a link to the previous post which exists in chronological order from the current post.
-		            /*  for PRO users! - http://codex.wordpress.org/Function_Reference/previous_post_link*/
+		            /*http://codex.wordpress.org/Function_Reference/previous_post_link*/
 		            if ($paged > 1) {
 		            $output .= '<li class="prev">' . get_previous_posts_link($pagenavi_options['prev_text']) . '</li>';
 		 			}
@@ -137,7 +137,7 @@
 		            if ($start_page >= 2 && $pages_to_show < $max_page) {
 		                $first_page_text = str_replace("%TOTAL_PAGES%", number_format_i18n($max_page), $pagenavi_options['first_text']);
 		                //esc_url(): Encodes < > & " ' (less than, greater than, ampersand, double quote, single quote).
-		                /*  for PRO users! - http://codex.wordpress.org/Data_Validation*/
+		                /*http://codex.wordpress.org/Data_Validation*/
 		                //get_pagenum_link():(wp-includes/link-template.php)-Retrieve get links for page numbers.
 		                $output .= '<li><a href="'.esc_url(get_pagenum_link()).'" class="first" title="'.$first_page_text.'">1</a></li>';
 		                if(!empty($pagenavi_options['dotleft_text'])) {

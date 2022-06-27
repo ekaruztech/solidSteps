@@ -1,0 +1,109 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2821:"<br>; Kursen ges helt via webben. Eleverna ska också kunna skriva med läslig handstil samt kunna skriva på dator. Fördelarna är flera: Det går betydligt snabbare att skriva; Du kan ha fullt fokus på skärmen; Skriver du av en text som finns på papper kan du titta på den hela tiden; Hur går det till att lära sig? När det gäller berättande texter ska de veta hur den är uppbyggd och hur den kan organiseras (Skolverket 2016a, s. 248).  <br>Det är från denna som man alltid utgår och som gör det möjligt att skriva snabbt och korrekt. Därför är det viktigt att barnet som lär sig skriva har motivationen på plats. För att lära sig att skriva snabbare är det viktigt att man börjar med den rätta fingersättningen. Eleverna kommer att få skriva en text där följande innehåll ska gås igenom gemensamt och därefter förarbetas i grupp för att sedan bli en del av deras egna text: Inledning. På kursen Skriva lättläst får deltagarna lära sig att skriva texter som når ut till en bred allmänhet med vitt skilda förutsättningar. Att lära sig tangentbordsträning är förmodligen en av de bästa utbildningar som du kan investera i. Och det kommer inte att kosta dig några pengar. Eleverna ska få lära sig en metod för att strukturera och bygga upp en berättelse i olika delar . Däremot blir det ett problem om eleverna bara lär sig några stereotypa textmönster som de sedan oreflekterat använder. Att skriva för att övertyga har funnits i Berghs kursutbud sedan 1996. Här kan du: beräkna din egen personliga nytta av att förbättra din skrivhastighet. <br> Program som syftar till att lära dig hur du skriver snabbt, koncentrerar dig mest på hastigheten, inte korrektheten. Från kunskapen om hur en viss texttyp byggs upp, måste eleverna lära sig att skriva sammansatta texter där olika texttyper kombineras.  De ska också kunna göra enklare bearbetningar av sina skrivna texter utifrån respons. Eleverna får verktyg som kan hjälpa dem att nå målen och lära sig att skriva olika slags texter och vi pedagoger får chansen att strukturera om vårt arbetssätt. På ett svenskt keyboard placeras de olika fingrarna på ens händer på några förutbestämda bokstäver. Mikael Rosén har varit kursansvarig under alla dessa år. Sofie Karlsson, Pernilla Balbo, Eva Quist och Ellen Norman är fyra av alla de hundratals deltagare som genom åren har gått denna populära kurs. Skrivkurs med teori och praktiska övningar. Lär dig skriva på tangentbordet med rätt fingersättning. Skriv tydliga texter är en webbaserad skrivkurs där du får. Det kräver mycket resurser att skriva. Det bästa sättet att lära sig skriva en viss typ av text är att läsa andra texter av den texttypen. Där ingår målgrupper som har särskilda behov. texter. <br>";s:7:"keyword";s:23:"lära sig skriva texter";s:5:"links";s:7834:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-tranquil-dawn-ncs'>Nordsjö Tranquil Dawn Ncs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=green-screen-tyg'>Green Screen Tyg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aktiviteter-ume%C3%A5-2019'>Aktiviteter Umeå 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=text-tv-106'>Text Tv 106</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=servitut-mall-lantm%C3%A4teriet'>Servitut Mall Lantmäteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-play-chromecast'>Telia Play Chromecast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=labb-eller-lab'>Labb Eller Lab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-deltar-i-vasaloppet-2020'>Hur Många Deltar I Vasaloppet 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kan-inte-surfa-utomlands-tele2'>Kan Inte Surfa Utomlands Tele2</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=boxer-se-support'>Boxer Se Support</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dans-fusion-friskis'>Dans Fusion Friskis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avdelning-34-n%C3%A4l'>Avdelning 34 Näl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rdering-hus-falun'>Värdering Hus Falun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bishara-morad-dokument%C3%A4r'>Bishara Morad Dokumentär</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koh-lanta-storm'>Koh Lanta Storm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=servitut-mall-lantm%C3%A4teriet'>Servitut Mall Lantmäteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pris-per-hektar-betesmark-2020'>Pris Per Hektar Betesmark 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konjugat-och-kvadreringsreglerna'>Konjugat Och Kvadreringsreglerna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=smakl%C3%B6kar-i-pungen'>Smaklökar I Pungen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4ldreboende-svartb%C3%A4cken-uppsala'>äldreboende Svartbäcken Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=senaste-nytt-%C3%B6stersund'>Senaste Nytt östersund</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resultat%2C-fotboll-sverige'>Resultat, Fotboll Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skiathlon---pj%C3%A4xa'>Skiathlon - Pjäxa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bivax-k%C3%B6pa-ica'>Bivax Köpa Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sofias-%C3%A4nglar-kolsva'>Sofias änglar Kolsva</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-ska-man-g%C3%B6ra-f%C3%B6r-att-f%C3%A5-en-glow-up'>Vad Ska Man Göra För Att Få En Glow Up</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=musik-i-kyrkan-v%C3%A4ster%C3%A5s'>Musik I Kyrkan Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vitvinss%C3%A5s-med-dill'>Vitvinssås Med Dill</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveas-konditori-%C3%B6rebro-drottninggatan'>Sveas Konditori örebro Drottninggatan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amazon-net-worth'>Amazon Net Worth</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lokala-trafikf%C3%B6reskrifter-ume%C3%A5'>Lokala Trafikföreskrifter Umeå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemmagjord-pasta-recept'>Hemmagjord Pasta Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mysig-stad-n%C3%A4ra-stockholm'>Mysig Stad Nära Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huvudomf%C3%A5ng-%C3%B6kar-inte'>Huvudomfång ökar Inte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grilla-ryggbiff-tid'>Grilla Ryggbiff Tid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friends-arena-kragen'>Friends Arena Kragen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%B6d-till-skaldjurssoppa'>Bröd Till Skaldjurssoppa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bovetegr%C3%B6t-eller-havregrynsgr%C3%B6t'>Bovetegröt Eller Havregrynsgröt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosa-gin-systembolaget'>Rosa Gin Systembolaget</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=viasat-film-telia'>Viasat Film Telia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=amanda-winberg-idol-rap'>Amanda Winberg Idol Rap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fartblinda-avsnitt-4'>Fartblinda Avsnitt 4</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lives%C3%A4ndning-%C3%A5hus-beachhandboll'>Livesändning åhus Beachhandboll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=specialpedagogiska-skolmyndigheten-v%C3%A4xj%C3%B6'>Specialpedagogiska Skolmyndigheten Växjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hundras-svart-brun'>Hundras Svart Brun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-stort-%C3%A4r-ett-protein'>Hur Stort är Ett Protein</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=michelin-d%C3%A4ck-205%2F55r16'>Michelin Däck 205/55r16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nikotin-utan-tobak'>Nikotin Utan Tobak</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buss-375-orust'>Buss 375 Orust</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=badminton-nyb%C3%B6rjare-vuxen-stockholm'>Badminton Nybörjare Vuxen Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barn-och-sociala-medier'>Barn Och Sociala Medier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=maestro-kort-barn'>Maestro Kort Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sol-placering-umg%C3%A4nge'>Sol Placering Umgänge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-b%C3%B6ckerna-2018'>Bästa Böckerna 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svart-kylsk%C3%A5p-samsung'>Svart Kylskåp Samsung</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ans%C3%B6k-om-kreditkort'>Ansök Om Kreditkort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=joseph-aidoo-sofifa'>Joseph Aidoo Sofifa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sv%C3%A4rtar-ned-crossboss'>Svärtar Ned Crossboss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-hus-totalentreprenad'>Bygga Hus Totalentreprenad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=syskonen-willoughby-rollista'>Syskonen Willoughby Rollista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4sta-begagnade-bilen-under-100000'>Bästa Begagnade Bilen Under 100000</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5-p%C3%A5-r%C3%A4tteg%C3%A5ng'>Gå På Rättegång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=serbisk-ortodox-p%C3%A5sk-2020'>Serbisk Ortodox Påsk 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%B6ta-kanal-m%C3%B6ter-%C3%B6stersj%C3%B6n'>Göta Kanal Möter östersjön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=paj-med-mandelmassa'>Paj Med Mandelmassa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grupp-9-s%C3%A4llskapshundar'>Grupp 9 Sällskapshundar</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,88 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4787:"<p>Key: Footnotes (sometimes just called ‘notes’) are what they sound like—a note (or a reference to a source of information) which appears at the foot (bottom) of a page. Oxford Referencing. It is also referred to as a documentary-note system. Superscript number Oxford referencing system is a combination of footnote and reference list. Let’s have a look at the requirements for in-text citations. </p> <p>Many features have been designed or upgraded based on our customers' constructive comments. </p> <p>Toggle Dropdown. While Oxford style might seem confusing, it can make reading a text a lot easier. Maintaining the number reference system without the help of reference management software is more difficult than the Harvard referencing system. Reference formats & examples. Oxford reference system Hey! If you are not sure about how to create a reference list according to the Oxford citation guide, you can use our automated Oxford referencing generator to save yourself from the grueling task. in OSCOLA, use the general principles in OSCOLA as a guide, and try to maintain consistency . Multi-media materials. Subjects: Information and Research Skills, Referencing and reference ... consist of two parts. A note at the bottom of the page (footnote). </p> <p>However, the Oxford Reference system is not available. </p> <p>Note: Best viewed in Internet Explorer 8 or higher, Firefox or Chrome. This guide is a brief description of the Oxford citation style described in: Style Manual for Authors, Editors and Printers, 6th edn., Canberra, ACT, AGPS, 2002. For help with other source types, like books, PDFs, or websites, check out our other guides.To have your reference list or bibliography automatically made for you, try our free citation generator. Oxford style uses a note citation system. </p> <p>Oxford University Press is a department of the University of Oxford. Given the situation, we would suggest you submit feedback to our related team via UserVoice as this the best way to improve the product. </p> <p>Harvard is a style of referencing, primarily used by university students, to cite information sources. Basic format for referencing material from the web. In a footnote referencing system, you indicate a reference by: Putting a small number above the line of type directly following the source material.  Internet/websites. Managing your references: Referencing Styles. OSCOLA is a guide to legal citation, not a style guide . Conference proceedings. Oxford is a citation style that uses footnotes at the bottom of the page unlike in-text citation styles such as Harvard and APA. Getting started with Oxford referencing; Reference formats </p> <p>It has two components: In-text citation: consists of two parts: A superscript number in the text . Notes are numbered sequentially, beginning with 1 in superscript, throughout each article, chapter, or paper. </p> <p>E-bok. Journal articles. </p> <p>Sample Reference List. Thanks for your understanding. Internet/websites. </p> <p>New York: Oxford University Press, 2012. </p> <p>The first is the in-text citation, which gives enough information for the reader to find the reference in the second part, the list of references at the end of the document. Getting started with Oxford referencing. Oxford / Chicago/ Footnote style: Guides online Guide to Oxford reference system by Deakin University Australia Chicago reference system manual by The Ohio State University Libraries Your Reference List should be located on a separate page at the end of your essay and titled: Reference List. Personal communications. Då ska du lägga till hela webbadressen samt datum då … It furthers the University's objective of excellence in research, scholarship, and education by publishing worldwide. Two types of citations are included: In-text citations are used when directly quoting or paraphrasing a source. </p> <p>ISBN and ISSN numbers are included in this referencing system. </p> <p>To use Oxford style, a writer cites their sources using footnotes that direct the reader to a list of citations at the bottom of the page for more details about the reference source. I'm using Microsoft Word 2016/Office 365 and I have to use Oxford reference system but I couldn't find it in the program either can I find it on your website. </p> <p>With our online Oxford reference generator tool at your finger tips, you can now save time and get an accurate Oxford reference style list for your assignments in no time at all. Oxford style is a way of referencing sources used in a text by incorporating footnotes into the text. For advice on punctuation, grammar and writing style, use the most recent editions of Fowler’s Modern English Usage, The Oxford … Books & e-books. Referencing Style Guides and Manuals. </p>";s:7:"keyword";s:23:"oxford reference system";s:5:"links";s:5334:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=anl%C3%A4ggningsprojekt%C3%B6r-med-bim-kompetens'>Anläggningsprojektör Med Bim Kompetens</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=civilekonom-vill-bli-l%C3%A4rare'>Civilekonom Vill Bli Lärare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rund-kudde-sammet'>Rund Kudde Sammet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laleh-goliat-budskap'>Laleh Goliat Budskap</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vux-v%C3%A4rnamo-itslearning'>Vux Värnamo Itslearning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalmar-ff-nyheter'>Kalmar Ff Nyheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv3-sverige-live-streaming'>Tv3 Sverige Live Streaming</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ving-kos-marmari'>Ving Kos Marmari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalorisn%C3%A5l-vegetarisk-mat'>Kalorisnål Vegetarisk Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=endast-f%C3%B6r-invigda'>Endast För Invigda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=venedig-klart-vatten'>Venedig Klart Vatten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sl%C3%A4tt-i-asg%C3%A5rd'>Slätt I Asgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bra-kaffe-i-g%C3%B6teborg'>Bra Kaffe I Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalmar-konstmuseum-barnkalas'>Kalmar Konstmuseum Barnkalas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hollywood-sign-facts'>Hollywood Sign Facts</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inre-organ-latin'>Inre Organ Latin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=musikh%C3%B6gskolan-pite%C3%A5-bibliotek'>Musikhögskolan Piteå Bibliotek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-design-instagram-filters'>How To Design Instagram Filters</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=catalina-islands%2C-costa-rica'>Catalina Islands, Costa Rica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6bo-lediga-seniorl%C3%A4genheter'>öbo Lediga Seniorlägenheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rdeg-vegansk-recept'>Smördeg Vegansk Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-h%C3%A4rn%C3%B6sand-yr'>Väder Härnösand Yr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-p%C3%A5verkar-koldioxid-milj%C3%B6n'>Hur Påverkar Koldioxid Miljön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=roblox-catalog-gears'>Roblox Catalog Gears</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-b%C3%B6rjar-skolan'>När Börjar Skolan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4lgar-bmw-e61'>Fälgar Bmw E61</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fondue-malm%C3%B6-natalie'>Fondue Malmö Natalie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ab-volvo-nyheter'>Ab Volvo Nyheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-ryggen-av-att-st%C3%A5'>Ont I Ryggen Av Att Stå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5skbrasa-stenungsund-2020'>Påskbrasa Stenungsund 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nationella-prov-sfi-d-2019'>Nationella Prov Sfi D 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=butikschef-coop-kalmar'>Butikschef Coop Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=friskis-och-svettis-mallorca'>Friskis Och Svettis Mallorca</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=karup-design-denmark'>Karup Design Denmark</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jag-kan-ditt-namn-quiz'>Jag Kan Ditt Namn Quiz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tr%C3%A4na-l%C3%A4sf%C3%B6rst%C3%A5else-engelska'>Träna Läsförståelse Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-ska-man-g%C3%B6ra-f%C3%B6r-att-f%C3%A5-en-glow-up'>Vad Ska Man Göra För Att Få En Glow Up</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fastighetsbyr%C3%A5n-j%C3%B6nk%C3%B6ping-p%C3%A5-g%C3%A5ng'>Fastighetsbyrån Jönköping På Gång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=agnes-carlsson-nothing-can-compare'>Agnes Carlsson Nothing Can Compare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4ngdskidor-vm-2020'>Längdskidor Vm 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bad-blood-teresa'>Bad Blood Teresa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hjulaxel-stiga-villa'>Hjulaxel Stiga Villa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vidaxl-logga-in'>Vidaxl Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=abba-latest-song'>Abba Latest Song</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bowling-olearys-mos'>Bowling Olearys Mos</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,74 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4657:"<br>Föreläsning i Sundsvall.  Driftmeddelanden. Vill du komma till min föreläsning "andra resan" i Sundsvall den 17 februari? Publicerad 2019-05-22 - en 30-årig resa från Torget i Härnösand till EU-parlamentet i Bryssel i demokratins tjänst. Exceptionellt bemötande – med Lasse Gustavson och Lena Skogholm. Logga in; Flöde för inlägg; Flöde för kommentarer; WordPress.org; Om oss. Sundsvall Pride 2020 2019-11-13 ... Pridefesten 2019 2019-05-13; Meta. Möt Ann Westin, Janne Andersson, Petra Mede m fl. Vi har räknat antalet gående, cyklister och bilister längs centrala gator i Sundsvall. Seniormagasinet i Sundsvall. (youtube föreläsning) Det fysträningspass jag börjar med har jag inspirerats av (Anna Bråndal /Leg. Läs mer om varje föreläsning genom att klicka på staden. 231 gillar. <br> <br>Genomförda föreläsningar Sundsvall 2019. Stadshuset i Sundsvall den 31 oktober. Sundsvall behöver vänta lite på mig för att det är hemma och kommer att ta mer av mig än vad Söderhamn och Gävle gör. Mångfaldsdagen 2019 Välkommen till Mångfaldsdagen 2019, en konferensdag om mångfald och integration som tillväxtfaktor. SeniorMagasinet är en trivsam och stimulerande mötesplats i caféform för seniorer (55+). 13.00 kommer Patrik Norberg från Civilförsvaret och håller en föreläsning om krisberedskap ” Om strömmen går”. Om du inte hittar någon träff på den ort eller i det län du söker är du välkommen att delta i våra webbseminarier.  <br>Föreläsningarna tar utgångspunkt i personals och föräldrars förståelse för begrepp som självkontroll, affektreglering och affektsmitta, och har fokus på personals och föräldrars sätt att handskas med problemskapande beteende i vardagen. Föreläsning om 5i12-rörelsen - Sundsvall. Tillsammansprojektet – med Christer Olsson ... För företag som vill ha en intern föreläsning i Sundsvall finns självklart möjlighet att boka föreläsare via vår talarförmedling. Men “Sundsvall’are” får gärna komma till Söderhamn och Gävle naturligtvis. Sammanställning av trafiken i Sundsvall 2019 torsdag 7 maj, 8.00 Sundsvalls kommun har sammanställt statistik av trafikslag under 2019. Stora Inspirationsdagen i Sundsvall den 27 nov 2019 på Södra Berget. Skatteverket erbjuder kostnadsfria informationsträffar om skatter. ... Sundsvall Walking in Summer , Sweden 2019 4K - Duration: 11:32. Lyssna på spännande föreläsningar och delta i ämnesdidaktiska rundabordssamtal med nya och bekanta språklärarkollegor. Sista anmälningsdag är i morgon söndag 2/2! Mejla till lindha.vikstrom@jamtland.st. Var med på prisutdelningen till språkutvecklande projekt och få med dig massor av inspiration. 2019-09-10 13:40 Rädda barnen, SISU idrottsutbildarna och Sundsvalls kommun bjuder in till årets kanske bästa föreläsning! sundsvall.pride 2017-06-27 Föreläsning/Workshop, Sundsvall Pride Permalink. där han han föreläser med livet och karriären som utgångspunkt och ger sin berättelse med både djup och humor. Ett armband som hon en gång i tiden har fått. Visit Sundsvall City Presentation 2016 K - Duration: 2:06. <br> <br>Vi gör det möjligt! 15 stycken förväntansfulla medlemmar gjorde sedan … <br> Mer info och bokning, se hemsidan. Vi tar löpande in ungas önskemål kring hur vi ska verka på bästa sätt i Sundsvall. Som avslut på torsdagens föreläsning gav en ängel sitt armband till mig. Vi håller till i Kulturmagasinet och verkar helt ideellt. Senaste nytt. 11:32. Den 26 september kommer Patrik Sjöberg till Sundsvall med sin föreläsning Låt det aldrig hända! Anders Bergman föreläser om 5i12-rörelsens trettioåriga arbete. SUNDSVALL Varmt välkommen till årets Språklärargala med temat språkundervisning och interkulturalitet. Föreläsning: ”Om strömmen går” november 11, 2019 november 11, 2019 Susanne Backman Fredag den 15 november kl. <br> <br>Baran Hosseini 957 views. Visa alla nyheter. ... RFSL Västernorrland SCA Visit Sundsvall. januari 22, 2019 januari 20, 2020 / Nyheter / Aktiviteter, Föreläsning / Av Louise Persson Måndagen den 3 december hade vi föreläsning av en florist, Tilda Ölen, som visade oss hur man binder julkransar. Jag ser verkligen framemot att få berätta om min andra resa för er och ni är varmt välkomna till en inspirerande, ärlig och sundsvall@foreningentilia.se, Emelie Henriksson Under hösten 2019 kör vi utbildning och uppstart för Tilia Sundsvall. Föreläsning: Johan Sebastian Bach och hans söner – Vassilis Bolonassos 2019-02-13 2019-02-18 På Bachs födelsedag den 21 mars firas Early Music Day i Europa. <br>";s:7:"keyword";s:217:"33x12 5 15') AND 8704 IN (SELECT (CHAR(113)+CHAR(112)+CHAR(112)+CHAR(113)+CHAR(113)+(SELECT (CASE WHEN (8704=8704) THEN CHAR(49) ELSE CHAR(48) END))+CHAR(113)+CHAR(118)+CHAR(98)+CHAR(122)+CHAR(113))) AND ('CdFb'='CdFb";s:5:"links";s:3604:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brunch-g%C3%A4vle-s%C3%B6ndag'>Brunch Gävle Söndag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=partille-kommun-jobb'>Partille Kommun Jobb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-s%C3%A4lja-bil'>Tips Sälja Bil</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=motorola-flip-phone-2019'>Motorola Flip Phone 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%B6derhamn-soffa-begagnad'>Söderhamn Soffa Begagnad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ortos-kn%C3%A4-hur-l%C3%A4nge'>Ortos Knä Hur Länge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikinghuset-puerto-del-carmen'>Vikinghuset Puerto Del Carmen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=asiatiskt-julbord-berns'>Asiatiskt Julbord Berns</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=instagram-web-viewer'>Instagram Web Viewer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bonjour-ost-gravid'>Bonjour Ost Gravid</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=glad-p%C3%A5sk-h%C3%A4lsning-animation'>Glad Påsk Hälsning Animation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rca-kontakt-biltema'>Rca Kontakt Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kultur-i-bern'>Kultur I Bern</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bora-bora-flashback'>Bora Bora Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse-idol-how-will-i-know'>Tusse Idol How Will I Know</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-ultraljud-v%C3%A4nersborg'>Privat Ultraljud Vänersborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=swedbank-%C3%B6ppettider-s%C3%B6dert%C3%A4lje'>Swedbank öppettider Södertälje</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avsluta-remember-kort'>Avsluta Remember Kort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=putsa-m%C3%A4ssing-kakelugn'>Putsa Mässing Kakelugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=molly-sand%C3%A9n-diabetessmycken'>Molly Sandén Diabetessmycken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=garbo%27s-bahia-feliz'>Garbo's Bahia Feliz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=max-tegmark-fru'>Max Tegmark Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nya-trender-2020'>Nya Trender 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kontaktuppgifter-p%C3%A5-engelska'>Kontaktuppgifter På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utflyktsm%C3%A5l-norra-sk%C3%A5ne'>Utflyktsmål Norra Skåne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bl%C3%A5-frosting-t%C3%A5rta'>Blå Frosting Tårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=choklad-cupcakes-arla'>Choklad Cupcakes Arla</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parkering-halmstad-teater'>Parkering Halmstad Teater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=teneriffa-hotell-playa-las-americas'>Teneriffa Hotell Playa Las Americas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6n-l%C3%A4kare-schweiz'>Lön Läkare Schweiz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eric-gadd-bandmedlemmar'>Eric Gadd Bandmedlemmar</a>,
+";s:7:"expired";i:-1;}

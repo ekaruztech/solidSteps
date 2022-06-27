@@ -1,0 +1,69 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1560:"<br>Det är bra att ha tex. Vänligen alltid kontrollera med ambassaden innan du besöker ambassaden. <br> Den som söker i Sverige men inte kan vänta på sitt pass/ID-kort, kan be att resehandlingen sänds till ambassaden i Berlin som även kan vidarebefordra den till något av de 12 svenska honorärkonsulaten i Tyskland. Den Tyska ambassaden i Stockholm leds av Dr. Anna Prinz - Tysklands ambassadör i Sverige och nås per telefon (+46) 8 670 15 00 eller e-post info@stockholm.diplo.de. Sedan 26 juni 2012 är registreringar av barn i föräldrars pass ogiltiga. Adress: Skarpögatan 9, Postnummer: 115 27. Tidsbokning på ambassaden Vänligen be polisen anteckna vid vilken ambassad/vilket honorärkonsulat ni önskar … Hitta information om Tyska Ambassaden. <br> <br>flyg- eller färjebiljetter bokade i förväg. Hur man ansöker om pass och vilka dokument som krävs för en passansökan finns att läsa i faktabladet längst ned på sidan. Tyska Ambassaden i … Tyska gränspolisen kan kräva bevis på att resan genom Tyskland är en transitresa. Om Tyska konsulatet i Göteborg ligger långt borta rekommenderas att du kontaktar ett på närmare håll.  Öppettiderna för ambassaden kan förändras oväntat. Allmän information. Timmar. Telefon: 08-670 15 .. Klicka på den närmaste staden i följande lista för att se kontaktuppgifter till de Tysklands konsulaten i: Göteborg, Helsingborg, Jönköping, Kalmar, Luleå, Rättvik, Uddevalla och Visby. En passansökan kan ställas på Tyska Ambassaden i Stockholm efter tidsbokning online. ";s:7:"keyword";s:26:"tyska ambassaden göteborg";s:5:"links";s:3202:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5va-gymnasium-%C3%B6ppet-hus-2019'>åva Gymnasium öppet Hus 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=last-christmas-stream'>Last Christmas Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=american-netflix-movies'>American Netflix Movies</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moa-lignell---when-i-held-ya'>Moa Lignell - When I Held Ya</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ebenezer-ofori-soccerway'>Ebenezer Ofori Soccerway</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=alvedon-fass-v%C3%A5rdpersonal'>Alvedon Fass Vårdpersonal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-birsta-city'>Lediga Jobb Birsta City</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=houses-in-california-los-angeles'>Houses In California Los Angeles</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fotboll-kristianstad-barn'>Fotboll Kristianstad Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huvudomf%C3%A5ng-%C3%B6kar-inte'>Huvudomfång ökar Inte</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=du-%C3%A4r-den-ende-originalspr%C3%A5k'>Du är Den Ende Originalspråk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bli-av-med-sjuksk%C3%B6terskelegitimation'>Bli Av Med Sjuksköterskelegitimation</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-brantaste-v%C3%A4g'>Sveriges Brantaste Väg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6stlov-2019-dalarna'>Höstlov 2019 Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bredband-250%2F250-pris'>Bredband 250/250 Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=snoke%27s-other-apprentice'>Snoke's Other Apprentice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tre-kryss-amsterdam'>Tre Kryss Amsterdam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=colombia-president-list'>Colombia President List</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Onyxen-i-G%C3%B6teborg4%2C0%28264%290%2C3%C2%A0km-bort2%C2%A0931%C2%A0UAH'>Hotell Onyxen I Göteborg4,0(264)0,3 km Bort2 931 UAH</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apollo-mondo-boutique-isola-verde'>Apollo Mondo Boutique Isola Verde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hangouts-google-hangouts'>Hangouts Google Hangouts</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=global-h%C3%A4lsa-artiklar'>Global Hälsa Artiklar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krak%C3%B3w-airport-arrivals'>Kraków Airport Arrivals</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-maxpuls'>Vad är Maxpuls</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordsj%C3%B6-f%C3%A4rg-gr%C3%A5'>Nordsjö Färg Grå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oscar-pettersson-ishockey'>Oscar Pettersson Ishockey</a>,
+";s:7:"expired";i:-1;}

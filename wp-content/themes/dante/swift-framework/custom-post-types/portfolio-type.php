@@ -1,6 +1,6 @@
 <?php
 
-	/*  for PRO users! -  ==================================================
+	/* ==================================================
 	
 	Portfolio Post Type Functions
 	
@@ -66,6 +66,8 @@
 	        'has_archive' => true,
 	        'taxonomies' => array('portfolio-category', 'post_tag')
 	       );  
+	    
+	    $args = apply_filters('dante_portfolio_post_type_args', $args); 
 	  
 	    register_post_type( 'portfolio' , $args );  
 	}  

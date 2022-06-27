@@ -1,0 +1,75 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:5190:"<p>Vår kalkylator är baserad på ett heltidsjobb. Räknaren använder Skatteverkets skattetabeller för att räkna ut preliminär inkomstskatt, och är tänkt att användas för återkommande månadslön. Hon har 28 000 kr i månadslön. Jobbar du heltid eller deltid? Räkna ut timlön från månadslön. </p> <p>Välj den kommun och församling där du var folkbokförd den 1 november året före inkomståret. </p> <p>A-kassan räknar alltid ut … Unionen Student Öppna undermeny för Unionen Student Stäng undermeny för Unionen Student ... månadslönen till dagslön eller timlön och använder detta som underlag för att beräkna den lön som ska betalas ut. Antal arbetstimmar per månad är 174. Karensavdraget innebär att du som arbetsgivare behöver räkna på ett nytt sätt när en anställd blir sjuk. ... Visita - Unionen 2013-2013 by Cecilia Lindahl - issuu. </p> <p>Men eftersom hon inte kommer bli anställd hos oss efter sommaren så undrar jag om jag kan räkna om dessa 20000:- till en timlön. Räkna ut timlön till månadslön eller räkna om månadslön till timlön. image. Exempel: 20 000/165=121,21:- i timmen (Ob och semesterdagstillägg tillkommer). </p> <p>Elins … </p> <p>Här får du hjälp att räkna ut semesterersättningen. Beräkna Månadslön Från Timlön Gallery ... Räkna ut din nettolön 2020 - Buffert. Räkna Timlön Månadslön Psy Info. Jobbar du deltid kan du se hur du räknar längre ned på sidan. Om vi då tjänar 120 kr i timmen tar vi 120×174 = 20 880.. Timlön för oss med månadslön: Månadslönen dividerat (delat) med165 (165 är ett genomsnitt som man räknar med). Vi antar att vi har en månadslön på 25 000 kronor och arbetar heltid, dvs 40 timmar i veckan. Elin blir sjuk en hel vecka. Räkna ut timlön från månadslön. </p> <p>Om du inte vet vilken skattetabell som ska användas, använd räknaren hos Skatteverket. Formel för att räkna ut lön för del av månad. </p> <p>(147,73 kr i timlön X 40 timmar per vecka)/5 ersättningsdagar per vecka = 1 181,84 kr) Viktors genomsnittliga inkomst är 1 181,84 kr och 80 % av det är 945,47 kronor. Arbetar du heltid så motsvarar en månadslön … Mycket enkel formel. Ob tillkommer ju plus semesterdagstillägget som vi får när vi tar ut semestern. image. Räkna Timlön Månadslön Psy Info. 40 (tim/vecka) gånger 52 (veckor) och delar sedan det på 12 (månader) = 174. Jag har läst era beskrivningar hur jag byter löneformer och tror jag förstår hur jag ska göra. </p> <p>Detta avser löner, arvoden och liknande ersättningar – inte pension, a-kassa, sjuk- eller aktivitetsersättningar. Här får du hjälp att räkna ut hur stort avdraget kan bli. Räkna ut timlön till månadslön eller räkna om månadslön till timlön.Mycket enkel formel. De vanligaste omräkningarna av månadslön är: Timlön = månadslönen dividerat med 167; Här kan du snabbt och enkelt räkna ut vad din lön blir 2020 efter skatt. Räkna ut timlön från månadslön. Löneutbetalning efter byte från timlön till månadslön eller tvärtom Här följer en beskrivning av hur du betalar ut lönen efter byte från månadslön till timlön eller tvärtom. Här hittar du marknadslöner, våra bästa lönetips, råd inför lönesamtal och löneförhandling, information om löneavtal och mycket annat som gäller din lön och andra ersättningar i jobbet. Elin arbetar 8 timmar per dag, 40 timmar i veckan. Då har vi två sätt att räkna ut … Viktor får ungefär 945 kronor de första hundra ersättningsdagarna.  Avdrag per timme för kortare frånvaro Det finns tillfällen då det kan bli aktuellt att räkna ut avdrag per timme även om du är anställd med månadslön, till exempel vid kortare frånvaro då arbetsgivaren har rätt att göra löneavdrag. Observera att detta är en preliminär beräkning som kan komma att skilja sig från vad den faktiska lönen blir efter skatt. ... Det kan inträffa om du säger upp dig själv inom 5 år från det att du tagit ut förskottssemestern. </p> <p>Beräkningen ovan gäller endast för dem som är yngre än 65 år och som har en månadslön över 10000 kr. Statlig skatt betalas av de som beräknas tjäna över en viss summa per år. Unionen funkar oavsett om du är vanlig anställd, student, chef eller egenföretagare. Gå till sök Hoppa till ... beräknas din semesterersättning som 5,4 % av din aktuella månadslön per semesterdag. Då har vi två sätt att räkna ut timlönen. Antal arbetstimmar per månad är 174 Räkna om årslön eller månadslön till timlön för att ta reda på hur mycket du tjänar i timmen. Räkneexempel 1. Personalkostnad - Personalkollens kunskapsbank. Vi antar att vi har en månadslön på 25 000 kronor och arbetar heltid, dvs 40 timmar i veckan. Alltså är en del semestersättning också inbakad i timlönen för oss som har månadslön. Försäkra din inkomst. Räkna ut timlön till månadslön. timlön från månadslön. Räkna ut timlön till månadslön. Använd vår kalkylator eller lär dig hur du räknar manuellt. Heltid motsvarar 174 timmar per månad. 40 (tim/vecka) gånger 52 (veckor) och delar sedan det på 12 (månader) = 174. </p>";s:7:"keyword";s:43:"räkna ut timlön från månadslön unionen";s:5:"links";s:3908:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dela-film-p%C3%A5-instagram'>Dela Film På Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-l%C3%A4genhet-korttid-stockholm'>Hyra Lägenhet Korttid Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vimpel-7-meter'>Vimpel 7 Meter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=postnummer-ume%C3%A5-%C3%A5lidhem'>Postnummer Umeå ålidhem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=outlet-malm%C3%B6-m%C3%B6bler'>Outlet Malmö Möbler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resa-norge-fjordar'>Resa Norge Fjordar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ggh%C3%A4ngd-toalett-geberit'>Vägghängd Toalett Geberit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyktingar-fr%C3%A5n-syrien'>Flyktingar Från Syrien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utf%C3%B6rs%C3%A4ljning-cyklar-polisen-g%C3%B6teborg'>Utförsäljning Cyklar Polisen Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krocka-med-sommard%C3%A4ck-p%C3%A5-vintern'>Krocka Med Sommardäck På Vintern</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hats-russian-war'>Hats Russian War</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=med-%C3%A5lder-kommer-visdom'>Med ålder Kommer Visdom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varmr%C3%B6kt-lax-kamado'>Varmrökt Lax Kamado</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5ngsamt-lagat-fl%C3%A4skk%C3%B6tt-coop'>Långsamt Lagat Fläskkött Coop</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sats-%C3%B6ppettider-helsingborg'>Sats öppettider Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=charlotta-jonsson-d%C3%B6d'>Charlotta Jonsson Död</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=android-auto-android-10'>Android Auto Android 10</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pumpak%C3%A4rnor-till-f%C3%A5glar'>Pumpakärnor Till Fåglar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helsingborgs-lasarett-barnavdelningen'>Helsingborgs Lasarett Barnavdelningen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thera-%C3%B6-webbkryss'>Thera ö Webbkryss</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=igensatt-avluftning-avlopp'>Igensatt Avluftning Avlopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ostbricka-till-portvin'>Ostbricka Till Portvin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fazer-br%C3%B6d-r%C3%A5gkusar'>Fazer Bröd Rågkusar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%B6d-och-matchning-2020'>Stöd Och Matchning 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tournament-software-squash-sweden'>Tournament Software Squash Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A5gtider-bor%C3%A5s-varberg'>Tågtider Borås Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-r%C3%A4kningar-med-kreditkort-swedbank'>Betala Räkningar Med Kreditkort Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startmotor-drar-ur-batteriet'>Startmotor Drar Ur Batteriet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rural-de-anaga'>Rural De Anaga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-harpo-horoscope'>Youtube Harpo Horoscope</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=takh%C3%B6gtalare-som-surround'>Takhögtalare Som Surround</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pilgrimsort-i-indien'>Pilgrimsort I Indien</a>,
+";s:7:"expired";i:-1;}

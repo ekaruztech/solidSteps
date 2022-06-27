@@ -1,16 +1,16 @@
 <?php
 
-/*  for PRO users! - *
+/**
  * Most Loved Widget Class
  */
 class lip_most_loved_widget extends WP_Widget {
 
-    /*  for PRO users! - * constructor */
-    function lip_most_loved_widget() {
-        parent::WP_Widget(false, $name = __('Most Loved Items', 'swiftframework'), array('description' => __('Show the most loved items', 'swift-framework-admin')));	
+    /** constructor */
+    function __construct() {
+        parent::__construct(false, $name = __('Most Loved Items', 'swiftframework'), array('description' => __('Show the most loved items', 'swift-framework-admin')));	
     }
 
-    /*  for PRO users! - * @see WP_Widget::widget */
+    /** @see WP_Widget::widget */
     function widget($args, $instance) {	
         extract( $args );
         $title 	= apply_filters('widget_title', $instance['title']);
@@ -43,7 +43,7 @@ class lip_most_loved_widget extends WP_Widget {
 		echo $after_widget;
     }
 
-    /*  for PRO users! - * @see WP_Widget::update */
+    /** @see WP_Widget::update */
     function update($new_instance, $old_instance) {		
 		$instance = $old_instance;
 		$instance['title'] = strip_tags($new_instance['title']);
@@ -51,7 +51,7 @@ class lip_most_loved_widget extends WP_Widget {
         return $instance;
     }
 
-    /*  for PRO users! - * @see WP_Widget::form */
+    /** @see WP_Widget::form */
     function form($instance) {	
     	if (isset($instance['title'])) {
         $title = esc_attr($instance['title']);

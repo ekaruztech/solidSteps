@@ -1,0 +1,97 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2667:"Ultima Thule (Latin) Farthest Thule, Thule being the Greek and Roman name of an alleged island somewhere north of Britain and considered as the northern limit of the habitable globe; figuratively, any ultimate goal. numina sola colant, tibi seruiat ultima Thule, 30 teque sibi generum Tethys emat omnibus undis; anne nouum tardis sidus te mensibus addas, qua locus Erigonen inter Chelasque sequentis panditur (ipse tibi iam bracchia contrahit ardens Scorpius et caeli iusta plus parte reliquit); 35 Ultima Thule definition: any distant or unknown region | Meaning, pronunciation, translations and examples Image of Ultima Thule. It is a Latin term used in classical antiquity to denote distant and unknown lands, … Ultima Thule (latin för yttersta/nordligaste Thule) är en svensk vikingarockgrupp som bildades i Södermanland år 1984 med studio och hemort i Nyköping. Ultima thule is Latin and has been used over to the centuries to refer to an area of the world that is the most distant and inaccessible. Ultima Thule is a Latin phrase that means “a place beyond the known world," but it was also adopted by Nazis to refer to the birthplace of the so-called Aryan race. Human translations with examples: thule, ultimate, last hope, last time, final hour, side spear, derniers mots. The term Ultima Thule, however, has its origins much closer to home. Contextual translation of "ultima, thule" into English. [1] Deras näst mest sålda album är Vikingabalk, som sålde guld med över 80 000 exemplar. Thule, a Latin (and earlier Greek) name for an island north of Britain; 486958 Arrokoth, a Kuiper belt object nicknamed “Ultima Thule”, visited on January 1, 2019 by NASA's New Horizons spacecraft These ROOT-WORDS are ULT, ULTIM & ULTIMA which mean LAST.They come from the Latin ultimus & ultimare which mean to come to the end.  Dictionary source: Rakefet More: English to English translation of Ultima Thule So what does Ultima thule mean? Definition of ultima thule in the Definitions.net dictionary. Ultima Thule primarily refers to: . För fäderneslandet är Ultima Thules mest sålda skiva och har sålt platina med över 100 000 sålda exemplar. Ultima Thule (Latin for "Farthest North") is a Swedish rock band. There are some very interesting Latin phrases in our list and it would be very nice to recognize them in your reading, in a law book, and, certainly, thrilling to use them in the right place. ult, ultim & ultima. Information and translations of ultima thule in the most comprehensive dictionary definitions resource on the web. What does ultima thule mean? Thule definition is - the northernmost part of the habitable ancient world. ";s:7:"keyword";s:18:"ultima thule latin";s:5:"links";s:6428:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=reader-associate-professor'>Reader Associate Professor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rkh-sign-in'>Rkh Sign In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-barnmat-recept'>Hipp Barnmat Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=polaris-850-pipa'>Polaris 850 Pipa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5-barn-och-internet'>Små Barn Och Internet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-hilfiger-sweatshirt-herr'>Tommy Hilfiger Sweatshirt Herr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elkabel-p%C3%A5-berg'>Elkabel På Berg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=naturkunskap-1b-sammanfattning'>Naturkunskap 1b Sammanfattning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-p%C3%A5verkar-koldioxid-milj%C3%B6n'>Hur Påverkar Koldioxid Miljön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=konvertera-datapantbrev-till-skriftliga-pantbrev'>Konvertera Datapantbrev Till Skriftliga Pantbrev</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=us-open-tennis-qualifying-rounds'>Us Open Tennis Qualifying Rounds</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=suzuki-lt-300'>Suzuki Lt 300</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eden-i-bollhuset-so-rummet'>Eden I Bollhuset So-rummet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-med-skinka-och-ananas'>Pizza Med Skinka Och Ananas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-teneriffa-pris'>Taxi Teneriffa Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=american-netflix-movies'>American Netflix Movies</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5va-gymnasium-%C3%B6ppet-hus-2019'>åva Gymnasium öppet Hus 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fyrhjuling-barn-suzuki'>Fyrhjuling Barn Suzuki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sous-vide-sashimi'>Sous Vide Sashimi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barnsk%C3%B6tare-jobb-helsingborg'>Barnskötare Jobb Helsingborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4ndningsl%C3%A5s-med-gl%C3%B6dning'>Tändningslås Med Glödning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4ga-upp-fritidsplats-danderyd'>Säga Upp Fritidsplats Danderyd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-triomont-xs-spolknapp'>Gustavsberg Triomont Xs Spolknapp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ttgryta-med-slow-cooker'>Köttgryta Med Slow Cooker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=soppa-jord%C3%A4rtskocka-s%C3%B6tpotatis'>Soppa Jordärtskocka Sötpotatis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%A4rjestad---fr%C3%B6lunda'>Färjestad - Frölunda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=green-screen-tyg'>Green Screen Tyg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netflix-stop-autoplay-trailers'>Netflix Stop Autoplay Trailers</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dhl-tracking-barcode'>Dhl Tracking Barcode</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=electrolux-torktumlare-manual'>Electrolux Torktumlare Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6gats-delar-och-funktion'>ögats Delar Och Funktion</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rugby-utan-tacklingar'>Rugby Utan Tacklingar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=e-cigg-g%C3%A4vle'>E Cigg Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barnsk%C3%B6tare-jobb-g%C3%B6teborg'>Barnskötare Jobb Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=santa-barbara-city-college-kurser'>Santa Barbara City College Kurser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-%C3%A4r-stressade'>Hur Många är Stressade</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=italienska-maffian-kl%C3%A4der'>Italienska Maffian Kläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=segel-av-sten'>Segel Av Sten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inv%C3%A5nare-kalmar-l%C3%A4n'>Invånare Kalmar Län</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=voulez-vous-coucher-avec-moi-ce-soir-translate'>Voulez Vous Coucher Avec Moi Ce Soir Translate</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kallocain-sjunde-byr%C3%A5n'>Kallocain Sjunde Byrån</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-ultraljud-skaraborg'>Privat Ultraljud Skaraborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sirloin-sous-vide'>Sirloin Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=naturkunskap-1b-sammanfattning'>Naturkunskap 1b Sammanfattning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=the-mamas-reaction'>The Mamas Reaction</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kokostosca-utan-gr%C3%A4dde'>Kokostosca Utan Grädde</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kor-pris-g%C3%B6teborg'>Räkor Pris Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zlatan-tr%C3%B6ja-barn'>Zlatan Tröja Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-handbollslandslaget-herrar'>Svenska Handbollslandslaget Herrar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pilgrimsort-i-indien'>Pilgrimsort I Indien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=java-steg-for-steg-prisjakt'>Java Steg For Steg Prisjakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nk-marmor-nyckeln'>Nk Marmor Nyckeln</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=slangkl%C3%A4mma-jem-och-fix'>Slangklämma Jem Och Fix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chow-chow-panda'>Chow Chow Panda</a>,
+";s:7:"expired";i:-1;}

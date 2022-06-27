@@ -1,7 +1,7 @@
 <?php
 class Redux_Validation_date extends Redux_Options {
 	
-	/*  for PRO users! - *
+	/**
 	 * Field Constructor.
 	 *
 	 * Required - must call the parent constructor, then assign field and value to vars, and obviously call the render field function
@@ -11,13 +11,13 @@ class Redux_Validation_date extends Redux_Options {
 	function __construct($field, $value, $current) {
 		parent::__construct();
 		$this->field = $field;
-		$this->field['msg'] = (isset($this->field['msg'])) ? $this->field['msg'] : __('This field must be a valid date.', Redux_TEXT_DOMAIN);
+		$this->field['msg'] = (isset($this->field['msg'])) ? $this->field['msg'] : __('This field must be a valid date.', 'swift-framework-admin');
 		$this->value = $value;
 		$this->current = $current;
 		$this->validate();
 	}
 
-	/*  for PRO users! - *
+	/**
 	 * Field Render Function.
 	 *
 	 * Takes the vars and outputs the HTML for the field in the settings

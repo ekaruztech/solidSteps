@@ -1,0 +1,123 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2647:"<p>2014-01-10 16:09:36; Sympatyczna dziewczynka , postać stworzona przez Astrid Lindgren. 2011-04-27 13:55:43; To byli niezwykli bracia - opowiedz o Jonatanie i Karolu w liście do kolegi , zachęcając go do przeczytania książki Astrid Lindgren "Bracia Lwie Serce". Słuchaj darmowych fragmentów najlepszych audiobooków już teraz! Astrid Lindgren’s writing career started in 1944. Znana jest m.in. </p> <p></p> <p> ? … Powieści autorki były również ekranizowane. </p> <p>Stworzyła między innymi kampanię przeciw bestialskiemu traktowaniu zwierząt, dzięki temu znowelizowano ustawę o ich ochronie. Kup astrid lindgren w kategorii ﻿Książki dla dzieci taniej na Allegro.pl - Najlepsze oferty na największej platformie handlowej. </p> <p>Before she became internationally known for her Pippi Longstocking books, Astrid Lindgren was an aspiring author living in Stockholm with her family at the outbreak of the Second World War. Astrid Lindgren to szwedzka pisarka, specjalizująca się w literaturze dla dzieci. Dzieciństwo. </p> <p>That was the year her debut novel The Confidences of Britt-Mari came out, but also the year she slipped in ‘Vasaparken’ and was forced to stay in bed with a sprained foot.To pass the time she wrote down the stories … Biografia Astrid Lindgren to opowieść o beztroskiej dziewczynce ze wsi w Smalandii, która w dorosłym życiu musiała zmierzyć się z samotnym wychowaniem dziecka, przeprowadzką do wielkiego miasta, radością tworzenia i troską o kolejny dzień. Cieszyła się ogromnym autorytetem, szczególnie w Szwecji. Początki kariery pisarskiej These personal diaries kept by Astrid Lindgren, author of the world famous Pippi Longstocking books, chronicle the horrors of World War II. Urodziła się 14 listopada 1907 roku w Vimmerby. Astrid Lindgren napisała około 30 książek, które zostały sprzedane w ponad 100 milionach egzemplarzy. Sama droga do Småland była piękna, bo w miarę zbliżania się do Vimmerby zmieniał się krajobraz:… Kiedy zmarła Astrid Lindgren? Audioteka.pl jest mobilnym serwisem z audiobookami. Zobacz sam! z Dzieci z Bullerbyn, Pipi Pończoszanki czy Braci Lwie Serce. Astrid Lindgren (pełne nazwisko: Astrid Anna Emilia Lindgren), urodzona 14 listopada 1907 roku, szwedzka pisarka, która zasłynęła głównie za sprawą literatury dla dzieci. Chcąc wykorzystać ostatnie, tak ciepłe dni lata i pragnąc odwiedzić miejsce, o odwiedzeniu którego marzyłam od dawna wybrałam się do Vimmerby, miasta w którym urodziła się, wychowała i do którego zawsze wracała Astrid Lindgren. Vimmerby leży w regionie Småland. </p>";s:7:"keyword";s:23:"astrid lindgrens filmer";s:5:"links";s:9828:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=unihoc-blad-rea'>Unihoc Blad Rea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dubbd%C3%A4ck-40-622'>Dubbdäck 40 622</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5skmat-take-away-t%C3%A4by'>Påskmat Take Away Täby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tokyo-olympics-1964'>Tokyo Olympics 1964</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=askersunds-kommun-v%C3%A4xel'>Askersunds Kommun Växel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-widerberg-ocean%27s-twelve'>Johan Widerberg Ocean's Twelve</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=strand-las-palmas'>Strand Las Palmas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jtb-rail-pass'>Jtb Rail Pass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ist-home-skola-g%C3%B6teborg'>Ist Home Skola Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drinks-with-absolut-lime-vodka'>Drinks With Absolut Lime Vodka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=detaljplanerat-omr%C3%A5de-%C3%B6rebro'>Detaljplanerat Område örebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buss-g%C3%B6teborg-orust'>Buss Göteborg Orust</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=potatisbr%C3%B6d-utan-mj%C3%B6l'>Potatisbröd Utan Mjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=motorola-latest-phone-2019'>Motorola Latest Phone 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-soffa-nyk%C3%B6ping'>Blocket Soffa Nyköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sturehofs-slott-julbord'>Sturehofs Slott Julbord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hallands-kulturhistoriska-museum'>Hallands Kulturhistoriska Museum</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=valp-biter-barn'>Valp Biter Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gott-till-biff'>Gott Till Biff</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4ndstift-kazuma-50cc'>Tändstift Kazuma 50cc</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=telia-tv-live'>Telia Tv Live</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6stlovsaktiviteter-v%C3%A4ster%C3%A5s-2019'>Höstlovsaktiviteter Västerås 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse%27%27-chiza-talang'>Tusse'' Chiza Talang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=shopping-puerto-de-la-cruz'>Shopping Puerto De La Cruz</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=liam-pitts-hypokondri'>Liam Pitts Hypokondri</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skrota-bilen-norrk%C3%B6ping'>Skrota Bilen Norrköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bostadsr%C3%A4tter-i-skellefte%C3%A5'>Bostadsrätter I Skellefteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schema-skola24-varberg'>Schema Skola24 Varberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ulfsunda-slott-utst%C3%A4llning'>Ulfsunda Slott Utställning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nackdelar-med-kooperativ'>Nackdelar Med Kooperativ</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=video-editor-shortcut'>Video Editor Shortcut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-pro-minne'>Iphone 11 Pro Minne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%A4ckhotell-pris-bilia'>Däckhotell Pris Bilia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wicked-game-lyrics'>Wicked Game Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=olof-af-geijerstam'>Olof Af Geijerstam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A5rbara-platser-i-v%C3%A4rlden-karta'>Sårbara Platser I Världen Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tony-olsson-v%C3%A4stervik'>Tony Olsson Västervik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippis-pappa-namn'>Pippis Pappa Namn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-fotbollsf%C3%B6rbundet'>Lediga Jobb Fotbollsförbundet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-g%C3%A4stis-borensberg'>Lunch Gästis Borensberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ik-kongah%C3%A4lla-p09'>Ik Kongahälla P09</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saknar-stil-synonym'>Saknar Stil Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lutande-plan-energi'>Lutande Plan Energi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ka-till-kanarie%C3%B6arna'>åka Till Kanarieöarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6n-styrelseordf%C3%B6rande-swedbank'>Lön Styrelseordförande Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ngmaskinen-f%C3%B6r--och-nackdelar'>ångmaskinen För- Och Nackdelar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bygga-in-badkar-tr%C3%A4'>Bygga In Badkar Trä</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lemon-curd-rullt%C3%A5rta'>Lemon Curd Rulltårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=orsa-gr%C3%B6nklitt-stuga'>Orsa Grönklitt Stuga</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utdelning-volvo-2020'>Utdelning Volvo 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5l%C3%A4gg-ekonomi-engelska'>Pålägg Ekonomi Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6sterrike-st%C3%A4der-att-bes%C3%B6ka'>österrike Städer Att Besöka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=italian-cocktails-with-prosecco'>Italian Cocktails With Prosecco</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Lindelunda-Bed-%26-Breakfast4%2C3%2810%294%C2%A0km-bort66%C2%A0%E2%82%AC'>Lindelunda Bed & Breakfast4,3(10)4 km Bort66 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flyg-fr%C3%A5n-karlstad-till-prag'>Flyg Från Karlstad Till Prag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=annandag-p%C3%A5sk-j%C3%B6nk%C3%B6ping'>Annandag Påsk Jönköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tuc-yrkesh%C3%B6gskola-stockholm'>Tuc Yrkeshögskola Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Best-Western-Plus-Sthlm-Bromma4%2C1%28714%291%2C6%C2%A0km-bort2%C2%A0355%C2%A0UAH'>Best Western Plus Sthlm Bromma4,1(714)1,6 km Bort2 355 UAH</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4k-och-gurksallad'>Räk Och Gurksallad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=studerar-stj%C3%A4rnorna-synonym'>Studerar Stjärnorna Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Volvo-Construction-Equipment'>Volvo Construction Equipment</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=santa-maria-bbq-s%C3%A5s'>Santa Maria Bbq Sås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-e5372-manual'>Huawei E5372 Manual</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fastlagsbullar-eller-semlor'>Fastlagsbullar Eller Semlor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%A4lsning-ortodoxa-kyrkan'>Frälsning Ortodoxa Kyrkan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=japanese-chin-blandras'>Japanese Chin Blandras</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-sjukhuset-g%C3%A4vle'>Restaurang Sjukhuset Gävle</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=berner-sennenhund-korth%C3%A5rig'>Berner Sennenhund Korthårig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hemnet-orust-bostadsr%C3%A4tt'>Hemnet Orust Bostadsrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=eviga-%C3%A4ventyr-1954'>Eviga äventyr 1954</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avluftning-avlopp-isolering'>Avluftning Avlopp Isolering</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skorstensfejarna-lj-ab-str%C3%A4ngn%C3%A4s'>Skorstensfejarna Lj Ab Strängnäs</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gick-chris-kl%C3%A4fford-vidare'>Gick Chris Kläfford Vidare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=apoteket-%C3%B6rn%C3%A4set-lule%C3%A5-%C3%B6ppettider'>Apoteket örnäset Luleå öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barken-viking-wikipedia'>Barken Viking Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blue-wear-arbetskl%C3%A4der'>Blue Wear Arbetskläder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsmarknadspolitiska-%C3%A5tg%C3%A4rder-2019'>Arbetsmarknadspolitiska åtgärder 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsmilj%C3%B6verkets-f%C3%B6reskrift-om-systematiskt-arbetsmilj%C3%B6arbete-afs-2001-1'>Arbetsmiljöverkets Föreskrift Om Systematiskt Arbetsmiljöarbete Afs 2001 1</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronans-apotek-esl%C3%B6v'>Kronans Apotek Eslöv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-med-citron-och-parmesan'>Pasta Med Citron Och Parmesan</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,112 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2812:"<p>Lägg till en bildtext . Det färdiga bildspelet kan du sen visa upp direkt inne i Lightroom Classic eller exportera ut som en videofil. </p> <p>steg 3 Du kan lägga till filter till en viss bild eller hela bildspelet. I Lightroom Classic skapar du enkelt levande bildspel genom att mixa bilder, videoklipp, musik och text. </p> <p>- Publicera foton och videor i ditt flöde som du vill visa i … </p> <p>Ladda ner din gratis bildredaktör nu, får Skägg Salon … </p> <p>När din historia är klar kommer Instagram att lägga till en diskret pil och bildtexten "See More". Berätta din berättelse med bilder, video och musik. För att lägga till musik direkt från Instagram, helt enkelt starta din berättelse via ikonen Your Story. steg 5 Nu kan du trycka på Dela att publicera Instagram-bildspel efter att ha skapat direkt. 3. Om det finns särskild information du vill att tittarna ska få kan du länka direkt till den sidan på webbplatsen. </p> <p>Starta roliga konversationer om vad du ser i flöde och Stories. … Hur man lägger upp ett bildspel på Instagram ... Instagram Lär dig Instagram; YouTube Därför är det väldigt viktigt att lägga till en lämplig etikett för att inspirera dina följare att sätta upp. - Skicka meddelande till dina vänner i Direct. Helt enkelt ta en bild med din skönhet kameran eller välj en selfie från galleriet, lägga till några roliga klistermärken och spara till din telefon eller dela på stora sociala nätverk som Facebook, Instagram, eller Twitter.  Lägg till text för korttiteln, uppmaningen och intresseväckaren. Tips! Klicka på Skapa kort. Du kan även ladda upp en bild. ... Med hjälp av följande två samlingssajter för CC-musik har jag utan större problem hittat musik till alla mina videoproduktioner de senaste åren (inklusive till många av onlinekurserna vi skapar här på Moderskeppet). Välj ditt foto eller film din video, lägg till dina filter, effekter osv. Jag älskar hur samspelet mellan musik och bild kan bygga upp en känsla. Lägga till en länk till dina Instagram-berättelser . </p> <p>Ordna bildspelet, videor och filter på bildspelet. - Lägg till foton och videor i din händelse som försvinner efter 24 timmar och väck dem till liv med roliga kreativa verktyg. </p> <p>Du behöver inte länka till webbplatsens startsida. Det här är längst ner på din sida och det är lätt att missa. Låt oss komma till den där oväsen omedelbart. När du är redo klickar du på klistermärkesikonen längst upp på skärmen. Att lägga till länkar till Instagram Stories är faktiskt super lätt om du kör ett verifierat Instagram-konto, vilket de flesta av våra läsare förmodligen inte kommer att vara. Instagram. steg 4 Lägg till ett bildtexter, tagg och plats till ditt Instagram-bildspel. </p>";s:7:"keyword";s:36:"lägg till musik till bild instagram";s:5:"links";s:8506:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%A4rmskydd-nokia-7-plus'>Skärmskydd Nokia 7 Plus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=movie-maker-program-gratis'>Movie Maker Program Gratis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=labbrapport-%7C-fysik-densitet'>Labbrapport | Fysik Densitet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttan-med-infrabastu'>Nyttan Med Infrabastu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-heter-tecknet'>Vad Heter Tecknet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=google-play-film-app'>Google Play Film App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=c-uppsats-mall'>C Uppsats Mall</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-h%C3%A5llbarhet'>Lediga Jobb Hållbarhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blocket-kiruna-bostad'>Blocket Kiruna Bostad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sveriges-kommuner-och-landstings-hemsida'>Sveriges Kommuner Och Landstings Hemsida</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-ekonomer-finns-det-i-sverige'>Hur Många Ekonomer Finns Det I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kanelbullar-utan-sm%C3%B6r'>Kanelbullar Utan Smör</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=if-metall-nybro'>If Metall Nybro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=direktflyg-till-zakynthos-fr%C3%A5n-sverige'>Direktflyg Till Zakynthos Från Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%B6rje-ahlstedt-stj%C3%A4rnorna-p%C3%A5-slottet'>Börje Ahlstedt Stjärnorna På Slottet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bl%C3%A5b%C3%A4r-och-kardemummakaka'>Blåbär Och Kardemummakaka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nim-distribution-i-sk%C3%A5ne-ab'>Nim Distribution I Skåne Ab</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=magsjuka-p%C3%A5-grekiska'>Magsjuka På Grekiska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=babben-larsson-hoppar-h%C3%B6jdhopp'>Babben Larsson Hoppar Höjdhopp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=biljetter-trassel-kalmar'>Biljetter Trassel Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mercedes-500-v8'>Mercedes 500 V8</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jojobaolja-eller-arganolja'>Jojobaolja Eller Arganolja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-l%C3%A4nge-kan-ved-ligga-ute'>Hur Länge Kan Ved Ligga Ute</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=osman-%C3%A4r-tillbaka'>Osman är Tillbaka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fiskgrat%C3%A4ng-med-mos-jennys-matblogg'>Fiskgratäng Med Mos Jennys Matblogg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=herrestads-aif-p04'>Herrestads Aif P04</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jimmy-k%C3%A4llqvist-let%27s-dance'>Jimmy Källqvist Let's Dance</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=japansk-kalender-2020'>Japansk Kalender 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mikael-tornving-melodifestivalen'>Mikael Tornving Melodifestivalen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%B6dinge-kladdkaka-willys'>Frödinge Kladdkaka Willys</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vasaloppet-tv-stakmaskin'>Vasaloppet Tv Stakmaskin</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-play-texas-hold-%27em'>How To Play Texas Hold 'em</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=martin-hansson-s%C3%A4len'>Martin Hansson Sälen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norrk%C3%B6ping-djurg%C3%A5rden-statistik'>Norrköping Djurgården Statistik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fina-kakor-synonym'>Fina Kakor Synonym</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hoom-Home-%26-Hotel4%2C0%28168%293%2C6%C2%A0km-bort1%C2%A0895%C2%A0CZK'>Hoom Home & Hotel4,0(168)3,6 km Bort1 895 CZK</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ulla-winbladh-eurobonus'>Ulla Winbladh Eurobonus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mariette-melodifestivalen-2019'>Mariette Melodifestivalen 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=packning-vattenl%C3%A5s-bauhaus'>Packning Vattenlås Bauhaus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brobizz-stora-b%C3%A4lt'>Brobizz Stora Bält</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-stress-1177'>Vad är Stress 1177</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6ttgryta-med-svamp-och-paprika'>Köttgryta Med Svamp Och Paprika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4ndningsl%C3%A5s-cf-moto-450'>Tändningslås Cf Moto 450</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-i-h%C3%B6kmossen'>Bo I Hökmossen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=comhem-fiber-tv-box'>Comhem Fiber Tv-box</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pem-slang-till-tr%C3%A4dg%C3%A5rdsslang'>Pem Slang Till Trädgårdsslang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5rets-medarbetare-kungsbacka'>årets Medarbetare Kungsbacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=5-m%C3%A5naders-bebis-sova-p%C3%A5-mage'>5 Månaders Bebis Sova På Mage</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=helg-och-kv%C3%A4llsjobb-stockholm'>Helg Och Kvällsjobb Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb---kultur'>Jobb - Kultur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=americas-got-talent-wiki-2019'>Americas Got Talent Wiki 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholms-universitet-forskning'>Stockholms Universitet Forskning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-sjukv%C3%A5rdsf%C3%B6rs%C3%A4kring-debatt'>Privat Sjukvårdsförsäkring Debatt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=recept-n%C3%B6tk%C3%B6tt-i-ugn'>Recept Nötkött I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siljansn%C3%A4s-badets-camping'>Siljansnäs Badets Camping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%B6rdeg-efterr%C3%A4tt-choklad'>Smördeg Efterrätt Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resultat-innebandy-superligan'>Resultat Innebandy Superligan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lyrics-pink-perfect'>Lyrics Pink Perfect</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rektor-all%C3%A9skolan-%C3%A5tvidaberg'>Rektor Alléskolan åtvidaberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarjobb-falk%C3%B6pings-kommun'>Sommarjobb Falköpings Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pirates-of-the-caribbean-piano-music'>Pirates Of The Caribbean Piano Music</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hbo-nordic-umbre'>Hbo Nordic Umbre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rhodesian-ridgeback-till-salu'>Rhodesian Ridgeback Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=plex-media-server-samsung-smart-tv'>Plex Media Server Samsung Smart Tv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=foderv%C3%A4rd-%C3%A5t-hund-i-sm%C3%A5land'>Fodervärd åt Hund I Småland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=garderob-30-cm-djup'>Garderob 30 Cm Djup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-en-ledare-el'>Vad är En Ledare El</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=formel-1-anderstorp-1974'>Formel 1 Anderstorp 1974</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dif-hockey-liverapportering'>Dif Hockey Liverapportering</a>,
+";s:7:"expired";i:-1;}

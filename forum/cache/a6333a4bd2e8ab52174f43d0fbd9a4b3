@@ -1,0 +1,65 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4576:"<p>Se alla bostäder för uthyrning i Uppsala . Vi har ca 850 studentbostäder, samtliga centralt belägna, prisvärda och i gott skick. Utöver så erbjuder Rikshem sina bostadssökande att tillgodoräkna sin kötid i Uppsala bostadskö men dess bostadskö kommer finnas kvar för resten av landet där de inte samarbetar med regionala köer. ... Som medlem står du automatiskt i vår bostadskö. 556137-3589. Du ställer dig i vår bostadskö genom att registrera … 556137-3589. Kontakt. Som student vid Uppsala universitet har du fri entré till universitetets egna museer, och även fri entré eller rabatt till många av universitetets musikevenemang. Centrally located next to the Östgöta student union, approx. V-Dala nation är en av de större i stan. Vi på Heimstaden erbjuder praktiska studentbostäder över hela Sverige. At times, it may appear as though there is something forgotten and much … Uppsala student.com Start Nationsguiden. 1 rum • 18 m² • 3 818 kr. Du kan enkelt jämföra offerter från olika mäklare och själv bestämma vem som ska få sälja din bostad. Här kan du få information om hur kön fungerar och hur det går till att söka bostad ; Aktivera kontot. Uppsala är även känd för sina stora Valborgsfiranden, som många studenter deltar i. Studentstaden. </p> <p>Totalt finns 220 lägenheter i Lilla Sunnersta. 28 m2 and feature a small kitchen, shower and toilet. På Studentboet.se hittar du information om alla typer av studentbostäder och även annonser från privata uthyrare. Är student här i centrala Uppsala och funderar på att köpa en onewheel till sommaren. Student och boende. Läs hela inlägget här! </p> <p>Här hittar du lediga studentbostäder och nyttig bostadsinformation från de flesta av Uppsalas bostadsbolag, stiftelser och nationer som hyr ut … Kundmottagningen håller stängd från och med tisdagen den 14 april. På svenska In English. 10.4.2020 - Common issues in the modern world of today are tensions and a hectic life. På Student och Bostad finns information om nästan alla företag och kommuner som erbjuder studentboende runt om i Sverige. covid-19 information. Uppsala bostadskö student Vanliga frågor och svar - Uppsala Bostadsförmedlin . Bostadskö Login Registrera dig här. Uppsala, Kvarngärdet. På grund av att Uppsala bostadsförmedling har tagit över vår bostadskö och våra lediga bostäder behöver du aktivera ditt konto hos oss Utöver så erbjuder Rikshem sina bostadssökande att tillgodoräkna sin kötid i Uppsala bostadskö men dess bostadskö kommer finnas kvar för resten av landet där de inte samarbetar med regionala köer. Jämför offerter från olika mäklare. Börja samla värdefull kötid redan idag. Kundcenter Telefon: 018- 727 36 00. 3 minutes on foot from the centre of Uppsala. Org.nr. sv ; en ; Om oss Våra affärsområden Bostäder Lokaler Stiftelser Skandalhuset ... Lilla Sunnersta är ett bostadsområde med egna lägenheter för dig som studerar vid universiteten i Uppsala. Se lediga lägenheter på vår hemsida. </p> <p>Övriga kontaktuppgifter Org.nr. Studentstaden Telefon: 018-727 91 00. 556137-3589. E-post: info@uppsalahem.se. Du kan välja att engagera dig på campus, nationer, kårer, olika föreningar och mycket mer. </p> <p>Säte: Uppsala. E-post: info@uppsalahem.se. Korttidskontrakt Studentboende. Kundcenter Telefon: 018- 727 36 00. </p> <p>08-16 Fastighets- och störningsjour Telefon: 018-727 34 00. Lyssna på några studenters upplevelser i avsnittet "Att flytta ensam till Uppsala" i podden Studier & Studentliv. </p> <p>Telefontider: Vardagar kl. På vissa orter finns det många studentbostadsföretag på andra bara ett. Alla lediga bostäder. Övriga kontaktuppgifter Du får även rabatt på många andra museer och kulturevenemang som student i Uppsala. Uppsala Akademiförvaltning Drottninggatan 4 Box 121 751 04 UPPSALA Tel 018-471 75 00 info@uaf.uu.se Fastighets- och störningsjour Telefon: 018-727 34 00. Läs hela inlägget här! I Uppsala finns också ett … Se lediga studentbostäder i Uppsala på Studentboet.se. Annonsera din bostad för uthyrning i Uppsala . 91 contracts including 8 small one-room apartments, 12 twin rooms, and 59 rooms in student halls. 018-727 91 00 info@studentstaden.se Besöksadressen: S:t Persgatan 28. Ett kostnadsfritt sätt, helt utan förpliktelser, att jämföra mäklare och mäklararvoden i Uppsala är att använda sig av HittaMäklare.se.De hjälper dig att välja ut de mäklare som passar just bäst för dig. </p> <p>Telefon växel: 018-727 34 00. </p>";s:7:"keyword";s:256:"streams to royalties,(CAST(CHR(101)||CHR(72)||CHR(114)||CHR(115)||(SELECT/**/1/**/FROM/**/GENERATE_SERIES(8113,8113,CASE/**/WHEN/**/(3740=3740)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/LIMIT/**/1)::text||CHR(101)||CHR(72)||CHR(114)||CHR(115)/**/AS/**/NUMERIC))";s:5:"links";s:2520:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zlatan-ibrahimovic-barn'>Zlatan Ibrahimovic Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gravid-vecka-16-andra-barnet'>Gravid Vecka 16 Andra Barnet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=toto---africa-meme'>Toto - Africa Meme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wibe-stege-8-m'>Wibe Stege 8 M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=koppla-in-diskmaskinsavst%C3%A4ngning'>Koppla In Diskmaskinsavstängning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=enk%C3%B6pings-kommun-logga-in'>Enköpings Kommun Logga In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fototapet-barn-billig'>Fototapet Barn Billig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gokart-utomhus-bor%C3%A5s'>Gokart Utomhus Borås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mossle-fritids-v%C3%A4rnamo'>Mossle Fritids Värnamo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=su-databaser-bibliotek'>Su Databaser Bibliotek</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=quiz-svenska-djur'>Quiz Svenska Djur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4sttrafik-kort-saldo'>Västtrafik Kort Saldo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronans-apotek-esl%C3%B6v'>Kronans Apotek Eslöv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=powerbank---elgiganten'>Powerbank - Elgiganten</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=big-brother-2010'>Big Brother 2010</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=skatteverket-rotavdrag-utomlands'>Skatteverket Rotavdrag Utomlands</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sparbanken-syd-problem'>Sparbanken Syd Problem</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=messi-tr%C3%B6ja-stadium'>Messi Tröja Stadium</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=syskonen-willoughby-rollista'>Syskonen Willoughby Rollista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%B6ner-kungsbacka-kommun'>Löner Kungsbacka Kommun</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bananfl%C3%A4ckar-p%C3%A5-soffa'>Bananfläckar På Soffa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hipp-combiotik-1'>Hipp Combiotik 1</a>,
+";s:7:"expired";i:-1;}

@@ -1,0 +1,87 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4653:"<br>I have been blogging about life and travel in Thailand since 1998. <br> <br> <br>Best food blog in Thailand. Email address: Leave this field empty if you're human: Don't worry, we don't spam. <br> <br>Bangkok Foodie. Friday, May 15 2020 Menu. We've put together this list of some of must do & see things in Thailand. Jetsada Homklin - February 18, 2020. If you are flying internationally, you may fly to Bangkok.. 2020 New Crop Thai Jasmine Rice from Royal Umbrella is here. Adored around the world, Thai cuisine expresses fundamental aspects of Thai culture: it is generous, warm, refreshing and relaxed. Accommodation – Thailand is very cheap, though the north is far cheaper than Bangkok and the southern islands. In Bangkok, specifically, private school fees start at around 350,000 Baht per year and go all the way up to 1m Baht per year depending on the school and age of the child. Food; Cafe; Restaurant; Things To Do; Hotel; Search for; Sidebar; Instagram; Facebook; Ray Chel Ng 2 days ago. My name is Richard Barrow (ริชาร์ด แบร์โรว์) and I am a British expat living here in Thailand for twenty-five years. Just Arrived: 2020 Royal Umbrella New Crop Jasmine Rice. 25 Best (VERY) Local Thai Restaurants in Phuket (updated 2020) Phuket Island. You might not believe it, but when travelling to Thailand’s many islands, it is possible to pick the wrong island to visit. R&K use talented local journalists, deep storytelling, and the good things in life —- food, music, booze — to inform and inspire about destinations around the globe. <br> <br>25 Best (VERY) Local Thai Restaurants in Phuket (updated 2020) Phuket Island. <br> <br> Phuket is the largest and best-known island of Thailand, and with sandy beaches, fantastic landscapes and great Thai food, it is a dream destination for everyone to discover. Royal Umbrella's 'Year of The Rat'. Thailand's most updated English news website, thai news, thailand news, Bangkok thailand, aec,newspaper english, breaking news : The Nation Thailand Travel Costs. I also post daily on social media on Twitter , Instagram and Facebook. <br> <br>Read our latest food, cafe & restaurant reviews now. I do all of this for fun. <br> <br>Get the best blog posts straight into your inbox! Report; Read Later; Add to Favourites; Add to Collection; Newsletter. Our Phuket blog is one of the only personal blogs sharing true secrets, useful tips, real local recommendations and many maps. <br> <br>February 18, 2020. Our Phuket blog is one of the only personal blogs sharing true secrets, useful tips, real local recommendations and many maps. <br> <br>Roads & Kingdoms’ message is simple: the more you know, the better you travel. Bangkok Foodie is a food guide in BKK 2020. <br> Pattaya Beach showcases Thai culture. <br> <br>The Thai Tourism and Sports Ministry expects that the number of Chinese tourists in Thailand will decline to 9 million in 2020. You don’t want to turn up to a party island if you were looking for a quiet, disconnected getaway. If you are flying internationally, you may fly to Bangkok.. <br> <br>Roads & Kingdoms’ message is simple: the more you know, the better you travel. by Thailand Bloggers April 21, 2020, 11:31 am. Posted on Published March 18, 2020 February 27, 2017 13 min read. in Travel. Doctors caution against early relaxation of lockdown restrictions in Thailand. <br> <br>The Thai Tourism and Sports Ministry expects that the number of Chinese tourists in Thailand will decline to 9 million in 2020. It's easy to get a domestic flight up to Chiang Mai, but if you want to take the slow route, head to Khao Yai first.. Just three hours north of Bangkok, this park is a great place to find wild elephants as well as hike and swim. <br> <br>SEE: 2020 Royal Umbrella New Crop Jasmine Rice 2019 Jasmine Rice - Last Call. <br> <br>From the beaches & islands, temples, food, and more. Friendly and fun-loving, cultured and historic, Thailand radiates a golden hue, from its glittering temples and tropical beaches through to the ever-comforting Thai smile. En blogg om det goda i livet i Sverige och Thailand etc I min blogg beskriver jag allt det goda i vårt liv både i Sverige samt i Thailand under åren 2006-2020 främst från vår lilla fiskeby Ban Huay Yang, 32 mil söderut från Bangkok och återflytten till Stockholm i februari 2020. Backpacking Thailand 2 Week Itinerary #2: The Central and North of Thailand. If you are a teacher and you have secured a job at a private school, the likelihood is that your child … 138 Thai returnees from Wuhan to be released from quarantine. <br> <br>Typically in Jan/Feb … <br>";s:7:"keyword";s:213:"streams to royalties(CONVERT(INT,(SELECT/**/CHAR(53)+CHAR(100)+CHAR(103)+CHAR(111)+(SELECT/**/(CASE/**/WHEN/**/(8919=8919)/**/THEN/**/CHAR(49)/**/ELSE/**/CHAR(48)/**/END))+CHAR(53)+CHAR(100)+CHAR(103)+CHAR(111))))";s:5:"links";s:5200:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ekg-kvinna-bh'>Ekg Kvinna Bh</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gammalt-ord-f%C3%B6r-h%C3%A4xa'>Gammalt Ord För Häxa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vlc-media-player-windows-10'>Vlc Media Player Windows 10</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-kids-sverige'>Youtube Kids Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ifk-g%C3%B6teborg-futsal-biljetter'>Ifk Göteborg Futsal Biljetter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=all-inclusive-februari'>All Inclusive Februari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sushi-umi-st-eriksgatan'>Sushi Umi St Eriksgatan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cr%C3%A8me-br%C3%BBl%C3%A9e-meny'>Crème Brûlée Meny</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rektorsprogrammet-fronter-stockholm'>Rektorsprogrammet Fronter Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gustavsberg-nautic-toalett'>Gustavsberg Nautic Toalett</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p%C3%A5-g%C3%A5ng-halmstad'>På Gång Halmstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=teneriffa-karta-avst%C3%A5nd'>Teneriffa Karta Avstånd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=voisine-boka-bord'>Voisine Boka Bord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%B6tytterfil%C3%A9-i-ugn-innertemperatur'>Nötytterfilé I Ugn Innertemperatur</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ikea-soff%C3%B6verdrag-ektorp'>Ikea Sofföverdrag Ektorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunds-tingsr%C3%A4tt-lediga-tj%C3%A4nster'>Lunds Tingsrätt Lediga Tjänster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tony-olsson-v%C3%A4stervik'>Tony Olsson Västervik</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=chill-out-meaning'>Chill Out Meaning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pite%C3%A5-kommun-webbkamera'>Piteå Kommun Webbkamera</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=k%C3%B6pa-l%C3%A4genhet-i-nyk%C3%B6ping'>Köpa Lägenhet I Nyköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jackie-arkl%C3%B6v-halmstad'>Jackie Arklöv Halmstad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rslag-p%C3%A5-personligt-brev'>Förslag På Personligt Brev</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=schweiz-president-2019'>Schweiz President 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lule%C3%A5-hockey-restaurang'>Luleå Hockey Restaurang</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tippa-resten-av-allsvenskan'>Tippa Resten Av Allsvenskan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hockeyettan-%C3%B6stra-v%C3%A5r'>Hockeyettan östra Vår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=p4-j%C3%B6nk%C3%B6ping-facebook'>P4 Jönköping Facebook</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rinkaby-r%C3%B6r-malm%C3%B6'>Rinkaby Rör Malmö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=max-darj-fru'>Max Darj Fru</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=perstorps-kommun-skola'>Perstorps Kommun Skola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hamstring-muskel-h%C3%A4st'>Hamstring Muskel Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stress-unga-vuxna'>Stress Unga Vuxna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kohler-courage-17'>Kohler Courage 17</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=samsung-smart-tv-media-player-app'>Samsung Smart Tv Media Player App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=christer-pettersson-alibi'>Christer Pettersson Alibi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finsk-lapphund-i-l%C3%A4genhet'>Finsk Lapphund I Lägenhet</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parasoll-till-brassestol'>Parasoll Till Brassestol</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fillikid-dra-p%C3%A5-lakan'>Fillikid Dra-på Lakan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=professionell-hj%C3%A4lp-med-viktnedg%C3%A5ng'>Professionell Hjälp Med Viktnedgång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=naturreservat-sm%C3%A5land-st'>Naturreservat Småland St</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=banker-i-sk%C3%A5ne'>Banker I Skåne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lamatours-costa-rica'>Lamatours Costa Rica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julkonsert-sk%C3%B6vde-2019'>Julkonsert Skövde 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ares-serie-recension'>Ares Serie Recension</a>,
+";s:7:"expired";i:-1;}

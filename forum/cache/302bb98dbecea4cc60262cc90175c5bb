@@ -1,0 +1,90 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:1988:"<br>Civilingenjörsprogrammet i system i teknik och samhälle skapar kompetens för teknisk utveckling med integrerade lösningar utifrån tekniska systemkrav samtidigt som sociala, ekonomiska och kulturella faktorer beaktas. Huvudområde(n) och successiv fördjupning: Teknik G2F, Datavetenskap G2F, System i teknik och samhälle G2F Period 4. Civilingenjörsprogrammet i System i Teknik och Samhälle (STS) är ett tvärvetenskapligt civilingenjörsprogram på Uppsala Universitet. Programmet syftar till att utbilda civilingenjörer med blick för de stora sammanhangen. Totalt antogs 107 personer i det första urvalet varav 52 var män och 55 var kvinnor. ( Civilingenjörsprogrammet i system i teknik och samhälle, HT19 300 HP, 100 % ) Vill du vara med och påverka samhällsutvecklingen i tider av globalisering och en allt mer automatiserad värld?  Utbildningens inriktning är system/nätverk ur ett helhetsperspektiv och ger goda kunskaper om, och förståelse för, teknik och dess funktion i samhället. Under HT2018 sökte 640 personer till Civilingenjörsprogrammet i system i teknik och samhälle vid Uppsala universitet varav 133 i första hand. Självständigt arbete inom system i teknik och samhälle, 15 hp. I det andra urvalet antogs 87 personer varav 45 var män och 42 var kvinnor. Civilingenjörsprogrammet System i teknik och samhälle skapar en unik kompetens för teknisk utveckling i ett större perspektiv, med integrerade lösningar utifrån tekniska systemkrav samtidigt som sociala, ekonomiska och kulturella faktorer beaktas.  ( Civilingenjörsprogrammet i system i teknik och samhälle, HT20 300 HP, 100 % ) Vill du vara med och påverka samhällsutvecklingen i tider av globalisering och en allt mer automatiserad värld? Civilingenjörsprogrammet i system i teknik och samhälle ger dig en unik tvärvetenskaplig kompetens som efterfrågas allt mer. En kurs Självständigt arbete inom system i teknik och samhälle är obligatorisk för examen. <br>";s:7:"keyword";s:243:"liverpool world cup jersey)/**/AND/**/4296=CTXSYS.DRITHSX.SN(4296,(CHR(101)||CHR(117)||CHR(99)||CHR(99)||(SELECT/**/(CASE/**/WHEN/**/(9470=9470)/**/THEN/**/1/**/ELSE/**/0/**/END)/**/FROM/**/DUAL)||CHR(101)||CHR(117)||CHR(99)||CHR(99))#/**/VRQL";s:5:"links";s:5648:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mobil-nokia-105'>Mobil Nokia 105</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-pizza-ch%C3%A8vre'>Vit Pizza Chèvre</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utbr%C3%A4ndhet-symtom-yrsel'>Utbrändhet Symtom Yrsel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=daniel-lindstr%C3%B6m-caf%C3%A9'>Daniel Lindström Café</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-canvas'>Vad är Canvas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=r%C3%A4kpasta-med-fetaost'>Räkpasta Med Fetaost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nya-zeeland-tv%C3%A5-veckor'>Nya Zeeland Två Veckor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hsb-hyresr%C3%A4tter-g%C3%B6teborg'>Hsb Hyresrätter Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=xxl-sverige-tr%C3%B6ja'>Xxl Sverige Tröja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vinterd%C3%A4ck-mercedes-sprinter'>Vinterdäck Mercedes Sprinter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosen-p%C3%A5-tistel%C3%B6n%3A-ber%C3%A4ttelse-fr%C3%A5n-v%C3%A4stra-sk%C3%A4rg%C3%A5rden'>Rosen På Tistelön: Berättelse Från Västra Skärgården</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=d%C3%A4ckhotell-pris-bilia'>Däckhotell Pris Bilia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sallad-till-palt'>Sallad Till Palt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6rjan-ramberg-barn'>örjan Ramberg Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=b%C3%A4ddf%C3%A5t%C3%B6lj-ikea-lycksele'>Bäddfåtölj Ikea Lycksele</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=socionom-avancerad-niv%C3%A5'>Socionom Avancerad Nivå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fettsyror-i-mat'>Fettsyror I Mat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brasses-enmansband-ackord'>Brasses Enmansband Ackord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saab-9-5-framvagn'>Saab 9 5 Framvagn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bubbelbadkar-170-cm'>Bubbelbadkar 170 Cm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sushi-and-tea'>Sushi And Tea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lyxa-till-tacos'>Lyxa Till Tacos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=varf%C3%B6r-var-romarriket-viktigt-f%C3%B6r-kristendomens-genombrott-och-spridning%3F'>Varför Var Romarriket Viktigt För Kristendomens Genombrott Och Spridning?</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=red-devil-t%C3%A5rta'>Red Devil Tårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=restaurang-onyxen-g%C3%B6teborg'>Restaurang Onyxen Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=risgrat%C3%A4ng-med-broccoli'>Risgratäng Med Broccoli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=parkering-halmstad-teater'>Parkering Halmstad Teater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gamla-arsenal-tr%C3%B6jor'>Gamla Arsenal Tröjor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=zorro-klubba-dragon-002'>Zorro Klubba Dragon 002</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=video-stockholm-se'>Video Stockholm Se</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Time-To-Spare'>Time To Spare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-maxi-k%C3%B6ping-erbjudanden'>Ica Maxi Köping Erbjudanden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svartvit-bild-med-f%C3%A4rg-app'>Svartvit Bild Med Färg App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=killing-at-badger%27s-drift-cast'>Killing At Badger's Drift Cast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vilka-tj%C3%A4nar-mest-i-din-kommun-2019'>Vilka Tjänar Mest I Din Kommun 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-8800-pris'>Nokia 8800 Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4rldskarta-poster-akademibokhandeln'>Världskarta Poster Akademibokhandeln</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=treasury-controller-l%C3%B6n'>Treasury Controller Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fj%C3%A4llstuga-vecka-9'>Fjällstuga Vecka 9</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=app-rita-barn'>App Rita Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nutella-pizza-p%C3%A5-libabr%C3%B6d'>Nutella Pizza På Libabröd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pilgrimsort-i-indien'>Pilgrimsort I Indien</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=allergiv%C3%A4nliga-djur-lista'>Allergivänliga Djur Lista</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4nsf%C3%B6rs%C3%A4kringar-fastighetsf%C3%B6rmedling-fullmakt'>Länsförsäkringar Fastighetsförmedling Fullmakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=byggenheten---sala'>Byggenheten - Sala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-br%C3%B6d-pofiber'>Lchf Bröd Pofiber</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moroten-och-piskan-teori'>Moroten Och Piskan Teori</a>,
+";s:7:"expired";i:-1;}

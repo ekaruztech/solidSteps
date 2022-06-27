@@ -1,0 +1,66 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4031:"Ett vin gjort på vild jäst, i svalt klimat med hållbarhetstankar. De producerar de kända vinet Vin Jeaune, röda viner främst på Pinot Noir, Crémant du Jura samt vitt vin på både Chardonnay och Savagnin.” Caveau des Jacobins Côtes du Jura Pinot Noir 2011 (nr 2289) Pris: 101 SEK <br> <br>Fri returrätt till Systembolaget; Vin » Malt, Whisky » Jura Prophecy Jura Prophecy. Vanliga är chardonnay, riesling och sauvignon blanc. Det har en härlig syra, smak av lime, apelsinskal och skiffertoner, lite kropp, massor med struktur och en härlig längd. Det var inte förrän 1938, som profetian slog in, när Charles Campbell, blind på ena ögat, lämnade ön. Förslag på liknande. <br> <br> <br>Många dricker långt ifrån dessa mängder, en del dricker inget alls medan andra dricker mer och drar upp snittet. Gin blir alltmer populärt. Doft av nötter, gula äpplen och citrus. <br> <br>Vitt vin görs av gröna druvor. Vin är den vanligaste alkoholdrycken i Sverige. Côtes du Jura Chardonnay 2012, Maison Rijckaert, Jura, Frankrike, 149:-, Nr 2327 Doft av nötter, gula äpplen och citrus. Gyllene färg. Produkten finns tyvärr inte längre i Systembolagets sortiment. Flaskorna degorgeras för hand, toppas upp med vin och inget annat, och är sedan redo att njutas när lusten faller på! Sök dryck under ursprung som land, region eller appellation. Topplistan är uppdaterad 8 maj 2020. 651 kr.  Den mesta alkoholen som dricks i Sverige är vin … Producenten erbjuder en stor bredd av viner. Hitta rätt dryck för rätt tillfälle hos Vinguiden! 248:-Flaska, 750 ml; Frankrike Många av Frankrikes viner har stått modell för flera klassiska vinstilar världen över. Se Guldrutan med aktuella expertbetyg under varje vin. Gjort på 75% chardonnay och 25% av den lokala druvan savagnin enligt Domaine Rolet som är en av de större producenterna i området. Ett fylligt, smakrikt och torrt vitt vin från Arbois som är den största och mest kända appellationen i Jura, östra Frankrike. Profetian löd, att när den siste i klanen lämnade Jura, skulle han vara enögd, och hans ägodelar skulle fraktas på en kärra, dragen av en vit häst. Perfekt en varm sommardag, till stekt fisk eller till kycklinggryta. Bäst i test 2020: Vita viner 101–200 kr på Systembolaget. Spritsorten är som bekant mycket vanlig i drinkar - och huvudingrediens i en klassisk GT.Här tipsar spritexperten Andreas Grube om 7 prisvärda flaskor på Systembolaget som alla funkar utmärkt i en Gin & Tonic. <br> <br>... ”Det borde finnas fler viner från Jura på Systembolaget, och gärna av den här kalibern. Ett fylligt, smakrikt och torrt vitt vin från Arbois som är den största och mest kända appellationen i Jura, östra Frankrike. Gjort på 75% chardonnay och 25% av den lokala druvan savagnin enligt Domaine Rolet som är en av de större producenterna i området. Klarar både ägg, fisk och skaldjur. Mineraldriven och yllefet chardonnay med en salig aromblandning av … Gyllene färg. Crémant du Jura är en rätt så ny appellation (från 1995) och omfattar mousserande vin gjorda på en blanding av druvorna Savagnin, Pinot Blanc och Chardonnay. Hitta dryck. Jura Prophecy - Ett Whisky, Malt från Storbritannien. <br> <br>18 BÄSTA AV 121 VINER PÅ SYSTEMBOLAGET: Vinerna med högsta totala expertbetyg – Alla 18 vinerna är mycket prisvärda. Couleurs d’Automne 2019 - Mathieu Apffel (Savoie) Mathieu Apffel kommer ursprungligen från Jura, utbildade sig till vinmakare i Bourgogne och startade sin verksamhet i centrala Savoie, strax utanför staden Chambéry. Sifforna är ett genomsnitt. ”Ljuvligt vin från Jura i form av rund, nyanserad chardonnay med frisk syra. ... Jura, Côtes du Jura. Det motsvarar drygt 6,5 öl i veckan eller 1,75 flaskor vin i veckan. Tanken är att Crémantappellationen skall ersätta Mousseauxappellationerna, och får användas för vin från hela regionen. Du kan söka druvsort och få fler tips om artiklar och recensioner av din favoritdruva. <br>";s:7:"keyword";s:22:"jura vin systembolaget";s:5:"links";s:2626:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-statt-lunch'>Hotell Statt Lunch</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bashan-badboy-200cc-trim'>Bashan Badboy 200cc Trim</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%26m-hoodie-barn'>H&m Hoodie Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gucci-osman-lyrics'>Gucci Osman Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=resultat-innebandy-superligan'>Resultat Innebandy Superligan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=compress-an-mp4-file'>Compress An Mp4 File</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=betala-med-swish-ica'>Betala Med Swish Ica</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laktosfri-vit-choklad'>Laktosfri Vit Choklad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=best%C3%A4lla-ikea-k%C3%B6k'>Beställa Ikea Kök</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kth-datateknik-kurser'>Kth Datateknik Kurser</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=klassificering-av-bakterier'>Klassificering Av Bakterier</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lapp-p%C3%A5-engelska'>Lapp På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vakuumventil-avlopp-jula'>Vakuumventil Avlopp Jula</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=extra-l%C3%A5nga-cigaretter'>Extra Långa Cigaretter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kth-antagningspo%C3%A4ng-2020'>Kth Antagningspoäng 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prince-cigaretter-pris'>Prince Cigaretter Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gymnasiem%C3%A4ssan-g%C3%B6teborg-2019'>Gymnasiemässan Göteborg 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hoppa-med-tv%C3%A5-hopprep-p%C3%A5-engelska'>Hoppa Med Två Hopprep På Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hedemora-kommun-kontakt'>Hedemora Kommun Kontakt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-orient-apple-drinkar'>Absolut Orient Apple Drinkar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=delar-av-svart%C3%A5n'>Delar Av Svartån</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ginza-aor-rock'>Ginza Aor Rock</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=weekend-januari-2020'>Weekend Januari 2020</a>,
+";s:7:"expired";i:-1;}

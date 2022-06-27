@@ -1,0 +1,65 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2003:"<br>KUKA.NavigationSolution möjliggör autonom förflyttning av mobila plattformar – utan kollisionsrisk eller artificiella markeringar. Få svar på hur det är att jobba och intervjua på Mechanum. Mecanum-hjultekniken gör KUKAs mobila lösningar med drivsystemet omniMove mindre begränsade än vanliga mobilitetslösningar och tillåter dem att sömlöst integreras i den befintliga produktionen. Mechanum Mölndal är en auktoriserad verkstad för Volkswagen, Skoda, Audi. Läs mer! Idag har Mölndals stad 364 lediga jobb att erbjuda, både med och utan erfarenhet. alla jobb. <br> <br>Mecanum-hjul för maximal rörlighet Det specialutvecklade drivsystemet KUKA omniMove baserat på Mecanum-hjulet gör att KUKA omniMove kan förflyttas i alla riktningar. Ledigajobb.se hjälper dig vidare i sökprocessen snabbt och enkelt. <br> <br>en sökning. <br> <br>2 907 Lediga jobb i Göteborg på Indeed.com. <br> <br>Vill ni annonsera på verkstadsjobb.se? <br> <br>Den medföljande programvaran registrerar alla data från säkerhetslaserskanners och hjulsensorer och skapar en omgivningskarta enligt SLAM-metoden (Simultaneous Localization and Mapping / Simultan Lokalisering och Kartläggning). Lediga jobb. Genvägar. Läs om intervjuprocessen, förmåner, företagskultur med mera på Indeed. 031-3400100 info@mechanum.com www.mechanum.com. Lägre bygg- och servicekostnader Användning av KUKAs Mecanum-hjul kräver ingen anpassning av golvet och medför inget extra slitage. Argongatan 32 Mölndal Kontakt. 13 Lediga Skadeverkstad jobb på Indeed.com. Just nu finns inga lediga jobb hos Mechanum Partille. Autonom styrning. Genvägar. Lediga jobb. <br> <br>Just nu finns inga lediga jobb hos Mechanum Mölndal. Adress. en sökning.  Lediga jobb Våra yrken Artiklar & filmer Följ oss på facebook!  <br> <br>Hjulen, som består av separata, tunnformiga rullar, rör sig oberoende av varandra. alla jobb. Lediga jobb Våra yrken Artiklar & filmer Vill ni annonsera på verkstadsjobb.se? <br>";s:7:"keyword";s:20:"mechanum lediga jobb";s:5:"links";s:2774:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marknader-i-juli'>Marknader I Juli</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-johansson-fotboll-wiki'>Emil Johansson Fotboll Wiki</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotel-Bishops-Arms4%2C0%28399%292%2C7%C2%A0km-bort7%C2%A0579%C2%A0INR'>Hotel Bishops Arms4,0(399)2,7 km Bort7 579 INR</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kalv-fransyska-recept'>Kalv Fransyska Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brunch-g%C3%A4vle-s%C3%B6ndag'>Brunch Gävle Söndag</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djurg%C3%A5rden-fotboll-2005'>Djurgården Fotboll 2005</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arbetsgivardeklaration-mars-2020'>Arbetsgivardeklaration Mars 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sabaton-ghost-division'>Sabaton Ghost Division</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-statlig-skatt'>Vad är Statlig Skatt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Konsten-att-vara-kvinna'>Konsten Att Vara Kvinna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tips-mat-3-%C3%A5ring'>Tips Mat 3 åring</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bed-and-breakfast-tj%C3%B6rn'>Bed And Breakfast Tjörn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=f%C3%B6rs%C3%A4kring-om-det-regnar-in'>Försäkring Om Det Regnar In</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-lila-swappie'>Iphone 11 Lila Swappie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Backpackers-G%C3%B6teborg4%2C2%2882%290%2C1%C2%A0km-bort240%C2%A0BR%24'>Backpackers Göteborg4,2(82)0,1 km Bort240 BR$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyra-hus-hirtshals'>Hyra Hus Hirtshals</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A4klare-l%C3%A4nsf%C3%B6rs%C3%A4kringar-bergslagen'>Mäklare Länsförsäkringar Bergslagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=formel-1-anderstorp-1974'>Formel 1 Anderstorp 1974</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aldi-burg-sortiment'>Aldi Burg Sortiment</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tinas-br%C3%B6d-p%C3%A5-grillen'>Tinas Bröd På Grillen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fastighetsbyr%C3%A5n-j%C3%B6nk%C3%B6ping-p%C3%A5-g%C3%A5ng'>Fastighetsbyrån Jönköping På Gång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dublin-airport-arrivals'>Dublin Airport Arrivals</a>,
+";s:7:"expired";i:-1;}

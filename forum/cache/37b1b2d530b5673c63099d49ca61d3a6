@@ -1,0 +1,80 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2100:"The International Olympic Committee made a big splash yesterday, announcing the addition of five sports to the Olympic Program.  Japanese prime minister Shinzo Abe insisted Saturday that the Tokyo Olympics will go ahead this summer as planned despite growing fears about … The International e-Sports Federation (IeSF), a South Korean organization, has … Join Mario, Sonic and friends for the world’s greatest sports party. The International Olympic Committee has yet to make an official determination on the future of the 2020 Olympic Games in Tokyo, but all signs are pointing to them being postponed. Veteran International Olympic Committee member Dick Pound told USA TODAY Sports on Monday afternoon that the 2020 Tokyo Olympic Games are going to be postponed amid the coronavirus pandemic. The 2020 Summer Olympics will award medals across 339 events, representing 33 different sports. Celebrate the Olympic Games Tokyo 2020 with 30+ events to play! 9. Ron Ludington, an Olympic bronze medalist as a pairs figure skater in 1960 and a coach for dozens of Olympians during a career that spanned more than 50 years, including more than 40 years in … Starting in Tokyo 2020, the Summer Olympics will now include skateboarding, karate, surfing, sports climbing, and baseball/softball. Enjoy the party with brand new events, including new classic 2D competition, motion and button controls, and local and online play! The Tokyo Games — which will run July 24 to Aug. 9, 2020 — will boast five more sports than Rio, taking the total number to 33. Every four years new sports are added to the both the summer and winter Olympic games. The coronavirus outbreak, which led to the postponement of the Olympics, has forced organizers to cancel the 2020 U.S. gymnastics championships. With the summer Olympic games in Tokyo just over 14 months away, now is a good time to explore the new sports which have been added to the 2020 Olympics. Five are new sports entirely (baseball/softball, skateboarding, surfing, sport … We could see esports become an official part of the Olympic Games by 2020. ";s:7:"keyword";s:26:"morden i midsomer   box 33";s:5:"links";s:4476:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=iphone-11-display'>Iphone 11 Display</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=evenemang-tj%C3%B6rn-2019'>Evenemang Tjörn 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mio-f%C3%A5t%C3%B6lj-moore'>Mio Fåtölj Moore</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizza-hut-rotebro'>Pizza Hut Rotebro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4xj%C3%B6-tingsr%C3%A4tt-domar'>Växjö Tingsrätt Domar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tidigt-ultraljud-stockholm'>Tidigt Ultraljud Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=krokoms-kommun-organisationsnummer'>Krokoms Kommun Organisationsnummer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inreseregler-till-norge'>Inreseregler Till Norge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bmw-f31-et'>Bmw F31 Et</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=privat-hyresv%C3%A4rd-regler'>Privat Hyresvärd Regler</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=is-filmer-flashback'>Is Filmer Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sverige-vm-2019-hockey'>Sverige Vm 2019 Hockey</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jobb-undersk%C3%B6terska-uppsala'>Jobb Undersköterska Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=BEST-WESTERN-PREMIER-Kapital-Op%C3%A9ra4%2C5%28308%290%2C1%C2%A0km-bort103%C2%A0%E2%82%AC'>BEST WESTERN PREMIER Kapital Opéra4,5(308)0,1 km Bort103 €</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=utbildning-logic-pro'>Utbildning Logic Pro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aldrig-william-segerdahl-lyrics'>Aldrig William Segerdahl Lyrics</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=markus-rosenberg-syster'>Markus Rosenberg Syster</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=st%C3%A4da-med-vin%C3%A4ger'>Städa Med Vinäger</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=min-mamma-marianne-stream'>Min Mamma Marianne Stream</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=motorola-latest-phone-2019'>Motorola Latest Phone 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lunch-motala-sn%C3%A4ckan'>Lunch Motala Snäckan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=siberian-husky-kennel'>Siberian Husky Kennel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=weak-gluteus-medius'>Weak Gluteus Medius</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=high-quality-gif-maker'>High Quality Gif Maker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=10-roliga-fr%C3%A5gor'>10 Roliga Frågor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rektor-all%C3%A9skolan-%C3%A5tvidaberg'>Rektor Alléskolan åtvidaberg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=seterra-sydostasien-huvudst%C3%A4der'>Seterra Sydostasien Huvudstäder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=johan-dahlin-barn'>Johan Dahlin Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=craft-underst%C3%A4ll-active-comfort'>Craft Underställ Active Comfort</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nattklubb-gothia-towers'>Nattklubb Gothia Towers</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volvo-v70-r-design-2011'>Volvo V70 R-design 2011</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A5larbilder-pok%C3%A9mon-eevee'>Målarbilder Pokémon Eevee</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kabelmaskin-gym-%C3%B6vningar'>Kabelmaskin Gym övningar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Hotell-Kebne3%2C9%28304%291%C2%A0km-bort259%C2%A0AED'>Hotell Kebne3,9(304)1 km Bort259 AED</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sy-%C3%B6verdrag-till-h%C3%B6rnsoffa'>Sy överdrag Till Hörnsoffa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=detur-sista-minuten-fr%C3%A5n-lule%C3%A5'>Detur Sista Minuten Från Luleå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A5g-fiber-kost'>Låg Fiber Kost</a>,
+";s:7:"expired";i:-1;}

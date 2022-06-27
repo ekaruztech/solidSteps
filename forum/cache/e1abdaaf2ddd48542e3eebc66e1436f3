@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3617:"<p>Friskis&Svettis Stockholm öppnar en ny fullskalig träningsanläggning i Chokladfabriken i Sundbyberg. Friskis & Svettis er for dig som vil afprøve grænser. Den lustfyllda upplevelsen är nyckeln till att barn ska vilja röra på sig, på skoltid, efter skoltid, och … Friskis&Svettis is today one of Sweden's largest organizations. Nyheder. Den 12 september öppnar F&S Sundbyberg i Chokladfabriken, mitt i smeten. Vår idé är att erbjuda lustfylld och lättillgänglig träning av hög kvalitet för alla. For dig som vil tage det stille. Här kan du träna individuellt eller i grupp på våra inspirationspass. Online træning . 18K likes. 1,280 talking about this. 6,244 were here. Friskis&Svettis Stockholm. Friskis&Svettis provides a fun workout for everyone! - över 8000 gruppträningspass genomförs varje vecka. - 100 000 personer deltar på jympa-pass varje vecka. Friskis&Svettis Stockholm är Sveriges största idrottsförening. </p> <p></p> <p> Friskis&Svettis har tillsammans 575 430 medlemmar. På adressen Löfströms allé 5 finns 1600 kvadratmeter träning med familjefokus och gymträning i kubik. Friskis&Svettis Åkersberga är en idéell idrottsförening med ca … Friskis&Svettis Stockholm erbjuder lustfylld träning av hög kvalitet för alla. Det blir föreningens sjuttonde anläggning – och den första … I deras fullutrustade gym finns maskiner, fria vikter, lyftarpodier, cardiohörna, ytor för funktionell träning – och inte minst en stor bouldervägg. Kroppen var varm och det var äntligen dags att närma sig starten. "Idrott och rörelse i skolan måste sätta det viktigaste främst: Ge barn maximala möjligheter att upptäcka hur kul, utvecklande och frigörande det kan vara att röra på sig. Læs om vores træning . - Friskis&Svettis utbildar sina egna ledare och instruktörer. </p> <p>For dig som ønsker en god afslutning på dagen. Follow Friskis&Svettis Göteborg's Instagram account to see all 1,207 of their photos and videos. Simon har gjort filmen "Kungen av Atlantis" som porträtterar hans erfarenheter&nbsp;av att leva med en pappa med diagnosen schizofreni. You are welcome to come and try a class; your first class is always free. Välkommen till Friskis&Svettis Riks officiella Facebooksida. </p> <p>Uanset hvad, så er vi din træningspartner. You are welcome to come and try a class; your first class is always free. Træningsformer Træningssteder Priser Program. F&S Sundbyberg är en ljus, luftig träningsanläggning i Chokladfabrikens häftiga lokaler. Friskis&Svettis öppnar i Sundbyberg - Nyskapande träningsanläggning i anrik chokladfabrik mån, sep 05, 2016 09:59 CET. Öppningstalet följdes av gemensam uppvärmning som hölls av Friskis och Svettis. Friskis&Svettis Kobenhavn Dine medlemsfordele. - 77 av Friskis&Svettis föreningar erbjuder styrketräning i gym. For dig som ønsker at opleve glæden. </p> <p>Vi grundades 1978 och är idag över 89 000 medlemmar och 1700 ideellt engagerade ledare, tränare och värdar. I vårt fullutrustade gym finns maskiner, fria vikter, lyftarpodier, cardiohörna, ytor för funktionell träning - och inte minst en stor bouldervägg. Om Friskis&Svettis Sundbyberg F&S Sundbyberg är en ljus, luftig träningsanläggning i Chokladfabrikens häftiga lokaler. Since its inauguration in 1978, with only one participant at the premier "Jympa"-session, [1] Friskis&Svettis by 2009 had a total number of paying members exceeding 500 000 in Sweden, equalling 4,21% of the country's total population. Individuellt eller tillsammans, mot ditt träningsmål eller för rörelseglädjen. </p>";s:7:"keyword";s:30:"friskis och svettis sundbyberg";s:5:"links";s:3304:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=division-1-norra-nyheter'>Division 1 Norra Nyheter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rosen-p%C3%A5-tistel%C3%B6n%3A-ber%C3%A4ttelse-fr%C3%A5n-v%C3%A4stra-sk%C3%A4rg%C3%A5rden'>Rosen På Tistelön: Berättelse Från Västra Skärgården</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=plejmo-l%C3%A4gger-ner'>Plejmo Lägger Ner</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svart-vit-jack-russell'>Svart Vit Jack Russell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pasta-mozzarella-skinka'>Pasta Mozzarella Skinka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=startmotor-saab-9-5-biltema'>Startmotor Saab 9 5 Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=heta-r%C3%A4kor-i-olja'>Heta Räkor I Olja</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-madonna-2019'>Youtube Madonna 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=antonio-di-ponziano'>Antonio Di Ponziano</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kommunala-sommarjobb-l%C3%B6n'>Kommunala Sommarjobb Lön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=religi%C3%B6s-splittring-franska-revolutionen'>Religiös Splittring Franska Revolutionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fillikid-dra-p%C3%A5-lakan'>Fillikid Dra-på Lakan</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gastric-sleeve-f%C3%B6re-och-efter'>Gastric Sleeve Före Och Efter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=em-2016-boll'>Em 2016 Boll</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=huawei-e5186-repeater'>Huawei E5186 Repeater</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nibe-f750-hetgaslarm-55'>Nibe F750 Hetgaslarm 55</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bj%C3%B6rn-ling-barn'>Björn Ling Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=castrol-edge-5w-30-longlife'>Castrol Edge 5w-30 Longlife</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6verf%C3%B6ra-pengar-till-spanien-swedbank'>överföra Pengar Till Spanien Swedbank</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gt-radial-d%C3%A4ck'>Gt Radial Däck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bredare-d%C3%A4ck-fram'>Bredare Däck Fram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=po%C3%A4ngliga-allsvenskan-2019'>Poängliga Allsvenskan 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=handball-2020-sweden'>Handball 2020 Sweden</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fil%C3%A9buff%C3%A9-bellman-v%C3%A4ster%C3%A5s'>Filébuffé Bellman Västerås</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=marianne-m%C3%B6rck-julv%C3%A4rd-flashback'>Marianne Mörck Julvärd Flashback</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hyperinflationen-i-tyskland'>Hyperinflationen I Tyskland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=paus-recliner-f%C3%A5t%C3%B6lj'>Paus Recliner Fåtölj</a>,
+";s:7:"expired";i:-1;}

@@ -1,8 +1,8 @@
 <?php
 
-/*  for PRO users! -  vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
+/* vim: set expandtab tabstop=4 shiftwidth=4 softtabstop=4: */
 
-/*  for PRO users! - *
+/**
  * contains a few csv file data access tools.
  *
  * PHP VERSION 5
@@ -38,7 +38,7 @@
  * @link      http://code.google.com/p/php-csv-parser/
  */
 
-/*  for PRO users! - *
+/**
  * csv data fetcher
  *
  * Sample snippets refer to this csv file for demonstration.
@@ -60,7 +60,7 @@ class File_CSV_DataSource
 {
     public
 
-    /*  for PRO users! - *
+    /**
      * csv parsing default-settings
      *
      * @var array
@@ -75,7 +75,7 @@ class File_CSV_DataSource
 
     protected
 
-    /*  for PRO users! - *
+    /**
      * imported data from csv
      *
      * @var array
@@ -83,7 +83,7 @@ class File_CSV_DataSource
      */
     $rows = array(),
 
-    /*  for PRO users! - *
+    /**
      * csv file to parse
      *
      * @var string
@@ -91,7 +91,7 @@ class File_CSV_DataSource
      */
     $_filename = '',
 
-    /*  for PRO users! - *
+    /**
      * csv headers to parse
      *
      * @var array
@@ -99,7 +99,7 @@ class File_CSV_DataSource
      */
     $headers = array();
 
-    /*  for PRO users! - *
+    /**
      * data load initialize
      *
      * @param mixed $filename please look at the load() method
@@ -113,7 +113,7 @@ class File_CSV_DataSource
         $this->load($filename);
     }
 
-    /*  for PRO users! - *
+    /**
      * csv file loader
      *
      * indicates the object which file is to be loaded
@@ -162,7 +162,7 @@ class File_CSV_DataSource
         return $this->parse();
     }
 
-    /*  for PRO users! - *
+    /**
      * settings alterator
      *
      * lets you define different settings for scanning
@@ -189,7 +189,7 @@ class File_CSV_DataSource
         $this->settings = array_merge($this->settings, $array);
     }
 
-    /*  for PRO users! - *
+    /**
      * header fetcher
      *
      * gets csv headers into an array
@@ -214,7 +214,7 @@ class File_CSV_DataSource
         return $this->headers;
     }
 
-    /*  for PRO users! - *
+    /**
      * header counter
      *
      * retrives the total number of loaded headers
@@ -227,7 +227,7 @@ class File_CSV_DataSource
         return count($this->headers);
     }
 
-    /*  for PRO users! - *
+    /**
      * header and row relationship builder
      *
      * Attempts to create a relationship for every single cell that
@@ -345,7 +345,7 @@ class File_CSV_DataSource
         return $ret_arr;
     }
 
-    /*  for PRO users! - *
+    /**
      * data length/symmetry checker
      *
      * tells if the headers and all of the contents length match.
@@ -367,7 +367,7 @@ class File_CSV_DataSource
         return true;
     }
 
-    /*  for PRO users! - *
+    /**
      * asymmetric data fetcher
      *
      * finds the rows that do not match the headers length
@@ -421,7 +421,7 @@ class File_CSV_DataSource
         return $ret_arr;
     }
 
-    /*  for PRO users! - *
+    /**
      * all rows length equalizer
      *
      * makes the length of all rows and headers the same. If no $value is given
@@ -456,7 +456,7 @@ class File_CSV_DataSource
         $this->headers = array_pad($this->headers, $max_length, $value);
     }
 
-    /*  for PRO users! - *
+    /**
      * grid walker
      *
      * travels through the whole dataset executing a callback per each
@@ -483,7 +483,7 @@ class File_CSV_DataSource
         return true;
     }
 
-    /*  for PRO users! - *
+    /**
      * column fetcher
      *
      * gets all the data for a specific column identified by $name
@@ -539,7 +539,7 @@ class File_CSV_DataSource
         return $ret_arr;
     }
 
-    /*  for PRO users! - *
+    /**
      * column existance checker
      *
      * checks if a column exists, columns are identified by their
@@ -581,7 +581,7 @@ class File_CSV_DataSource
         return in_array($string, $this->headers);
     }
 
-    /*  for PRO users! - *
+    /**
      * column appender
      *
      * Appends a column and each or all values in it can be
@@ -659,7 +659,7 @@ class File_CSV_DataSource
         return $this->fillColumn($column, $values);
     }
 
-    /*  for PRO users! - *
+    /**
      * collumn data injector
      *
      * fills alll the data in the given column with $values
@@ -777,7 +777,7 @@ class File_CSV_DataSource
         return false;
     }
 
-    /*  for PRO users! - *
+    /**
      * column remover
      *
      * Completly removes a whole column identified by $name
@@ -893,7 +893,7 @@ class File_CSV_DataSource
         return $this->isSymmetric();
     }
 
-    /*  for PRO users! - *
+    /**
      * column walker
      *
      * goes through the whole column and executes a callback for each
@@ -932,7 +932,7 @@ class File_CSV_DataSource
         return $this->fillColumn($name, $column);
     }
 
-    /*  for PRO users! - *
+    /**
      * cell fetcher
      *
      * gets the value of a specific cell by given coordinates
@@ -977,7 +977,7 @@ class File_CSV_DataSource
         return false;
     }
 
-    /*  for PRO users! - *
+    /**
      * cell value filler
      *
      * replaces the value of a specific cell
@@ -1051,7 +1051,7 @@ class File_CSV_DataSource
         return true;
     }
 
-    /*  for PRO users! - *
+    /**
      * checks if a coordinate is valid
      *
      * sample of a csv file "my_cool.csv"
@@ -1097,7 +1097,7 @@ class File_CSV_DataSource
         return ($has_x && $has_y);
     }
 
-    /*  for PRO users! - *
+    /**
      * row fetcher
      *
      * Note: first row is zero
@@ -1180,7 +1180,7 @@ class File_CSV_DataSource
         return array();
     }
 
-    /*  for PRO users! - *
+    /**
      * multiple row fetcher
      *
      * Extracts a rows in the following fashion
@@ -1304,7 +1304,7 @@ class File_CSV_DataSource
         return $ret_arr;
     }
 
-    /*  for PRO users! - *
+    /**
      * row counter
      *
      * This function will exclude the headers
@@ -1334,7 +1334,7 @@ class File_CSV_DataSource
         return count($this->rows);
     }
 
-    /*  for PRO users! - *
+    /**
      * row appender
      *
      * Aggregates one more row to the currently loaded dataset
@@ -1461,7 +1461,7 @@ class File_CSV_DataSource
         return $this->fillRow($this->countRows() - 1, $values);
     }
 
-    /*  for PRO users! - *
+    /**
      * fillRow
      *
      * Replaces the contents of cells in one given row with $values.
@@ -1603,7 +1603,7 @@ class File_CSV_DataSource
         return false;
     }
 
-    /*  for PRO users! - *
+    /**
      * row existance checker
      *
      * Scans currently loaded dataset and
@@ -1686,7 +1686,7 @@ class File_CSV_DataSource
         return (in_array($number, array_keys($this->rows)));
     }
 
-    /*  for PRO users! - *
+    /**
      * row remover
      *
      * removes one row from the current data set.
@@ -1793,7 +1793,7 @@ class File_CSV_DataSource
         return ($cnt == ($this->countRows() + 1));
     }
 
-    /*  for PRO users! - *
+    /**
      * row walker
      *
      * goes through one full row of data and executes a callback
@@ -1829,7 +1829,7 @@ class File_CSV_DataSource
         return false;
     }
 
-    /*  for PRO users! - *
+    /**
      * raw data as array
      *
      * Gets the data that was retrived from the csv file as an array
@@ -1852,7 +1852,7 @@ class File_CSV_DataSource
         return $ret_arr;
     }
 
-    /*  for PRO users! - *
+    /**
      * header creator
      *
      * uses prefix and creates a header for each column suffixed by a
@@ -1979,7 +1979,7 @@ class File_CSV_DataSource
         return $this->isSymmetric();
     }
 
-    /*  for PRO users! - *
+    /**
      * header injector
      *
      * uses a $list of values which wil be used to replace current
@@ -2125,7 +2125,7 @@ class File_CSV_DataSource
         return true;
     }
 
-    /*  for PRO users! - *
+    /**
      * csv parser
      *
      * reads csv data and transforms it into php-data
@@ -2162,7 +2162,7 @@ class File_CSV_DataSource
         return true;
     }
 
-    /*  for PRO users! - *
+    /**
      * empty row remover
      *
      * removes all records that have been defined but have no data.
@@ -2182,7 +2182,7 @@ class File_CSV_DataSource
         $this->rows = $ret_arr;
     }
 
-    /*  for PRO users! - *
+    /**
      * csv file validator
      *
      * checks wheather if the given csv file is valid or not
@@ -2205,7 +2205,7 @@ class File_CSV_DataSource
         return true;
     }
 
-    /*  for PRO users! - *
+    /**
      * header relocator
      *
      * @access protected
@@ -2222,7 +2222,7 @@ class File_CSV_DataSource
         $this->headers = array();
     }
 
-    /*  for PRO users! - *
+    /**
      * array key reseter
      *
      * makes sure that an array's keys are setted in a correct numerical order
@@ -2245,7 +2245,7 @@ class File_CSV_DataSource
         $array = $arr;
     }
 
-    /*  for PRO users! - *
+    /**
      * object data flusher
      *
      * tells this object to forget all data loaded and start from

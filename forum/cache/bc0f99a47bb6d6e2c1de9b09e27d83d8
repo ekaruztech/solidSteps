@@ -1,0 +1,122 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:354:" En kaka är gott fika till kaffet. Vare sig du vill baka en god äppelkaka, eller sju sorters småkakor - här finns våra smarriga recept på kakor. Frestande goda småkakor som drömmar och makroner, klassiska kakor som sockerkaka, mazariner och pepparkakor- med hjälp av våra goda och enkla recept fyller du lätt ditt kakfat med sju sorter kakor. ";s:7:"keyword";s:15:"baka goda kakor";s:5:"links";s:9426:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A4klare-l%C3%A4nsf%C3%B6rs%C3%A4kringar-bergslagen'>Mäklare Länsförsäkringar Bergslagen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sony-ericsson-k750i'>Sony Ericsson K750i</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=installation-diskmaskin-mediamarkt'>Installation Diskmaskin Mediamarkt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-t%C3%A4nkte-man-om-stj%C3%A4rnor-f%C3%B6rr'>Hur Tänkte Man Om Stjärnor Förr</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baka-i-sm%C3%A5br%C3%B6dsformar'>Baka I Småbrödsformar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bebis-%C3%B6kar-mycket-i-vikt'>Bebis ökar Mycket I Vikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ljusstake-med-skruv'>Ljusstake Med Skruv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4nliga-fel-derbi-senda'>Vänliga Fel Derbi Senda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dbkd-eating-rabbit-stor'>Dbkd Eating Rabbit Stor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=deposition-hyra-lokal'>Deposition Hyra Lokal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallander---br%C3%B6derna'>Wallander - Bröderna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=politiskt-styre-eksj%C3%B6'>Politiskt Styre Eksjö</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=drink-vodka-apelsinjuice'>Drink Vodka Apelsinjuice</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=llb-m%C3%A4ssan-2019'>Llb Mässan 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5terf%C3%B6rs%C3%A4ljare-carolina-gynning'>återförsäljare Carolina Gynning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-forsberg-agent'>Emil Forsberg Agent</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vibrationsd%C3%A4mpare-tv%C3%A4ttmaskin-ikea'>Vibrationsdämpare Tvättmaskin Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fira-ny%C3%A5r-i-stockholm-med-barn'>Fira Nyår I Stockholm Med Barn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jonatan-unge-kalmar'>Jonatan Unge Kalmar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elm%C3%A4ssan-g%C3%B6teborg-2020'>Elmässan Göteborg 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sanna-nielsen-%C3%A5lder'>Sanna Nielsen ålder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wikipedia-mussolini-benito'>Wikipedia Mussolini Benito</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=weather-bali-may'>Weather Bali May</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pizzeria-valentin-kungsbacka'>Pizzeria Valentin Kungsbacka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laga-iphone-g%C3%B6teborg'>Laga Iphone Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=po%C3%A4ngliga-allsvenskan-2019'>Poängliga Allsvenskan 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=aten-befolkning-2018'>Aten Befolkning 2018</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hereditary-netflix-release'>Hereditary Netflix Release</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=netto-se-tr%C3%A4dg%C3%A5rd'>Netto Se Trädgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=voisine-boka-bord'>Voisine Boka Bord</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=evening-standard-news'>Evening Standard News</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=emil-forselius-tandsbyn'>Emil Forselius Tandsbyn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dans-fusion-friskis'>Dans Fusion Friskis</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=is-netflix-down'>Is Netflix Down</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ortos-kn%C3%A4-hur-l%C3%A4nge'>Ortos Knä Hur Länge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sn%C3%B6kedjor-traktor-m%C3%A5tt'>Snökedjor Traktor Mått</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=strand-las-palmas'>Strand Las Palmas</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fc-roseng%C3%A5rd-p08'>Fc Rosengård P08</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lufta-varmvattenberedare-ivt'>Lufta Varmvattenberedare Ivt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vastus-lateralis-tr%C3%A4ning'>Vastus Lateralis Träning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=dovhjort-rulle-recept'>Dovhjort Rulle Recept</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sm%C3%A5-pajer-efterr%C3%A4tt'>Små Pajer Efterrätt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fr%C3%B6lunda-egna-produkter'>Frölunda Egna Produkter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=michelin-d%C3%A4ck-205%2F55r16'>Michelin Däck 205/55r16</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6stersunds-kommun-matsedel'>östersunds Kommun Matsedel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=erik-penser-%2F-event'>Erik Penser / Event</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frysa-sm%C3%A5-pajer'>Frysa Små Pajer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=strandv%C3%A4gen-1-%C3%B6ppettider'>Strandvägen 1 öppettider</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tierp-skola-islam'>Tierp Skola Islam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=s%C3%A4tta-in-mynt-seb'>Sätta In Mynt Seb</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billigt-glutenfritt-mj%C3%B6l'>Billigt Glutenfritt Mjöl</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=doktorand-socialt-arbete---uppsala'>Doktorand Socialt Arbete - Uppsala</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6stlov-2019-dalarna'>Höstlov 2019 Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=middag-innan-jersey-boys-folkparken-skellefte%C3%A5-7-februari'>Middag Innan Jersey Boys Folkparken Skellefteå 7 Februari</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ag-meny-dryck'>Ag Meny Dryck</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=buss-i-nordnorge'>Buss I Nordnorge</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=flytta-utomlands-billigt-land'>Flytta Utomlands Billigt Land</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bromsljuskontakt-mc-biltema'>Bromsljuskontakt Mc Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-sparrissoppa-burk'>Vit Sparrissoppa Burk</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%B6tsel-av-h%C3%A4st'>Skötsel Av Häst</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=villa-godthem-recension'>Villa Godthem Recension</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=moderna-klassiker-b%C3%B6cker'>Moderna Klassiker Böcker</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=taxi-playa-del-ingles-till-puerto-rico'>Taxi Playa Del Ingles Till Puerto Rico</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=djurg%C3%A5rden-champions-league-2003'>Djurgården Champions League 2003</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=angel-eyes-music'>Angel Eyes Music</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=volkswagen-golf-automat'>Volkswagen Golf Automat</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brunna-f%C3%B6rskola-kungs%C3%A4ngen'>Brunna Förskola Kungsängen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gamla-kartor-nyk%C3%B6ping'>Gamla Kartor Nyköping</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nordic-quality-monteringsram'>Nordic Quality Monteringsram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=carolina-gynning-sk%C3%A4rbr%C3%A4da'>Carolina Gynning Skärbräda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nyttig-cookie-dough-utan-kik%C3%A4rtor'>Nyttig Cookie Dough Utan Kikärtor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=youtube-traktorer-som-k%C3%B6r-fast'>Youtube Traktorer Som Kör Fast</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=textilmattor-volvo-amazon'>Textilmattor Volvo Amazon</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=breaking-news-english'>Breaking News English</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norsk-%C3%A4lghund%2C-vit'>Norsk älghund, Vit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=nokia-reparation-stockholm'>Nokia Reparation Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lchf-cheesecake-saffran'>Lchf Cheesecake Saffran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kohler-engine-parts-europe'>Kohler Engine Parts Europe</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bryn%C3%A4s-fr%C3%B6lunda-tv-kanal'>Brynäs Frölunda Tv Kanal</a>,
+";s:7:"expired";i:-1;}

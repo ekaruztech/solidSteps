@@ -1,0 +1,89 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:2942:"<p>Den globala kött- och mejeriproduktionen påverkar klimatet och miljön. Hur påverkar koldioxid miljön? Atmosfärens halt av koldioxid har ökat med drygt 35 procent sedan mitten av 1800-talet. Är det verkligen så att vi människor påverkar klimatet? När koldioxidnivåerna ökar i atmosfären, exempelvis via förbränning av fossila bränslen så får det som konsekvens att den globala temperaturen ökar pga växthuseffekten. Miljön ombord Hur påverkar båtar miljön? </p> <p>Storheten heter på engelska GWP, Global Warming Potential och mäter hur mycket koldioxid som skulle krävas för att åstadkomma samma … Håll den hisnande siffran i huvudet, tillsammans med de vetenskapliga bevisen för att planeten blir varmare för varje år, samtidigt som du läser detta: • Flyget slipper betala skatt på utsläppen. Hur stora är utsläppen av koldioxid från flyget? avverkningen av skog påverkar atmosfärens halt av koldioxid eftersom växande skog normalt tar upp koldioxid. Koldioxid påverkar miljön på två huvusakliga sätt; den ökar den globala temperaturen via växthuseffekten, och den försurar våra hav. I Sverige stod flyget år 2017 (inrikes och utrikes flygningar från Sverige till första destination utomlands inräknade) för ungefär 6,3 procent av landets totala utsläpp av koldioxid, där inrikesflyget utgjorde cirka 1 procent av dessa (545 tusen ton).  Sedan 1900-talets början har jordens medeltemperatur ökat med 0,7 grader. I markens ekosystem syntes däremot en tydlig ökning i respiration till följd av höjd marktemperatur. Buller och motoriserade funktioner av båtar kan störa djurlivet och miljön, och det avfall som genereras av båtar kan också vara. </p> <p>Man brukar räkna med en slags koldioxidenhet som kallas för koldioxidekvivalenter för att kunna jämföra olika växthusgasers med varandra. Inom faunan diskuteras ofta hur fågellivet påverkas av vindsnurrorna. Nedfallet av surt regn har minskat med upp till 80 procent. • Flyget slipper betala skatt på bränslet. Att flyget släpper ut 74 000 gånger mer koldioxid än tåget. Elin Röös, forskare på Sveriges lantbruksuniversitet, visar på ett enkelt sätt hur vår livsmedelsproduktion påverkar miljön Det sura regnet påverkar metallföreningar i marken. Totalt sett utgjorde markens ekosystem en källa till koldioxid. in koldioxid upp till +3oC, varpå den därefter minskade. båtar och flygplan bra rapporter om hur djuruppfödningen påverkar miljö och. En del som är giftiga metalljoner frigörs och en del nödvändiga för växtligheten försvinner ner i marken. När det gäller floran så kan den påverkas under byggnationen eller av att fundamentanläggningen och utgrävningen av väg och kabeldiken påverkar grundvattennivån. Hur allt det här påverkar flora och fauna beror på den vegetationstyp och det djurliv som finns i det område där verket ska byggas. </p> <p></p>";s:7:"keyword";s:31:"hur påverkar koldioxid miljön";s:5:"links";s:5550:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sky-news-documentary'>Sky News Documentary</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=t%C3%A4ndningsl%C3%A5s-med-gl%C3%B6dning'>Tändningslås Med Glödning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-r%C3%A4ddningsmissionen'>Vad är Räddningsmissionen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=manoto-live-khabar'>Manoto Live Khabar</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=loppis-stinsen-2019'>Loppis Stinsen 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=wallander---br%C3%B6derna'>Wallander - Bröderna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=mjuk-mandelkaka-%C3%A4gg'>Mjuk Mandelkaka ägg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sockerkaka-med-sesamfr%C3%B6n'>Sockerkaka Med Sesamfrön</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=It-Can-Only-Get-Better'>It Can Only Get Better</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=linnea-henriksson-kejsarsnitt'>Linnea Henriksson Kejsarsnitt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saftiga-kanelbullar-tips'>Saftiga Kanelbullar Tips</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bo-i-v%C3%A4stertorp'>Bo I Västertorp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bada-p%C3%A5-legoland'>Bada På Legoland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=rehabutredning-vid-sjukfr%C3%A5nvaro'>Rehabutredning Vid Sjukfrånvaro</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Maria-Fahl-Vikander'>Maria Fahl Vikander</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gratinerad-torsk-p%C3%A5-spenatb%C3%A4dd'>Gratinerad Torsk På Spenatbädd</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bro-danmark-tyskland-pris'>Bro Danmark Tyskland Pris</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=n%C3%A4r-f%C3%A5r-jag-ny-surf-telia'>När Får Jag Ny Surf Telia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-ser-man-vilka-som-%C3%A4r-skrivna-p%C3%A5-en-adress'>Hur Ser Man Vilka Som är Skrivna På En Adress</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotell-malmia-skellefte%C3%A5'>Hotell Malmia Skellefteå</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frans-jeppsson-wall-2020'>Frans Jeppsson Wall 2020</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=akhbare-emroze-iran'>Akhbare Emroze Iran</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-finns-i-kylsk%C3%A5pet-app'>Vad Finns I Kylskåpet App</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakad-potatis-ugn-125-grader'>Bakad Potatis Ugn 125 Grader</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tui-lule%C3%A5-kos'>Tui Luleå Kos</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ica-kvantum-boden-chark'>Ica Kvantum Boden Chark</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=joz-of-sweden---youtube'>Joz Of Sweden - Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=villa-bk-biljetter'>Villa Bk Biljetter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=STF-Malmf%C3%A4ltens-Folkh%C3%B6gskola3%2C8%2822%290%2C3%C2%A0km-bort468%C2%A0BR%24'>STF Malmfältens Folkhögskola3,8(22)0,3 km Bort468 BR$</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pippi-p%C3%A5-de-sju-haven---youtube'>Pippi På De Sju Haven - Youtube</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=avicii-song-about-his-dad'>Avicii Song About His Dad</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kroppens-anatomi-svenska'>Kroppens Anatomi Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ab2-service-honda'>Ab2 Service Honda</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fc-roseng%C3%A5rd-p08'>Fc Rosengård P08</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=br%C3%A4nder-i-dalarna'>Bränder I Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lilla-j%C3%B6nssonligan-inspelningsplats'>Lilla Jönssonligan Inspelningsplats</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=barken-viking-wikipedia'>Barken Viking Wikipedia</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=absolut-vodka-news'>Absolut Vodka News</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A4nger-toppen-p%C3%A5'>Hänger Toppen På</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotellpaket-stockholms-sk%C3%A4rg%C3%A5rd'>Hotellpaket Stockholms Skärgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=envis-och-p%C3%A5stridig'>Envis Och Påstridig</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=essentiella-aminosyror-livsmedelsverket'>Essentiella Aminosyror Livsmedelsverket</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4der-helsingborg-smhi'>Väder Helsingborg Smhi</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=babben-larsson-d%C3%B6d'>Babben Larsson Död</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=banan-och-%C3%A4ppelkaka'>Banan Och äppelkaka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=inv%C3%A5nare-vellinge-kommun'>Invånare Vellinge Kommun</a>,
+";s:7:"expired";i:-1;}

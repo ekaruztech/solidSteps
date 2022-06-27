@@ -1,0 +1,70 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:3714:"<br>Skicka Lätt - brev. Brevet lämnas in och hämtas ut hos våra ombud. PostNord har dock sin Skicka Lätt-tjänst som innebär att man kan skicka upp till 1 kilo för 58 kr alt. När det är extra viktigt att ditt brev snabbt når mottagaren är det smidigt och säkert att skicka det via express . Select an option to begin. För skicka lätt så gäller min 14 cm och max 60 cm i längd. Your country is currently set to Sweden - If you want to make a claim for a different country, use the Country dropdown at the top of the page. <br> I alla fall har det blivit mycket roligare och lättare att skicka julkort i och med nya tekniska lösningar. Är du företagskund och behöver skicka större mängder paket?  Bland annat påverkas den bland e-handlare populära tjänsten Skicka Lätt, som dessvärre nu blir dyrare för företag att använda sig av.. Prisökning på 14 procent. Så funkar det att skicka ett paket. Vi gör det lätt för personer och företag att skicka paket och gods inom Sverige upp till 999 kg och 30 kg till länder inom EU. "Med Brev Skicka Lätt kan du skicka varor upp till 2 kg och spåra det du skickat. Den 1 april kommer priserna på flera posttjänster att ändras. mail@paket.se. Längd + bredd + tjocklek tillsammans får vara max 90 cm. Skicka paket nu. Skicka vykort direkt från datorn till mottagare i hela världen. Please note that changing the country will reset the form. För att kunna skickas som ett brev så får försändelsen inte överstiga 2 kilo. Åtta av tio vill ha julkort i fysisk form - PostNord. I filmerna nedan kan du se hur enkelt det är att skicka med nya dhlpaket.se. Läs mer: Under. Här är tipsen som hjälper dig på vägen. <br> <br>I Sverige postar du enkelt i din närmaste brevlåda, medan du i Danmark lämnar in ett Quickbrev på posthuset. Skicka nyhetsbrev, reklam, inbjudningar, inbetalningskort, ADR och ODR Om du ska skicka paket till ett annat land så kan du få hjälp med hur du fyller i tulldokumenten. Brev Skicka inrikes brev vart du vill och det är framme inom två vardagar. Welcome. Tel: 010-884 81 31 Ganska mycket bättre pris om tjänsten funkar, i alla fall upp till 1 kilos-priset. Affärskommunikation - PostNord… 11 dec 2015 ... Men nu kan trenden vända. Kontakta oss om ditt företag och dina behov, och vi hjälper dig personligen att hitta den bästa leveranslösningen Kontakta oss på mail eller telefon. Om du undrar över vad just ditt paket kostar att skicka utomlands kan du snabbt och lätt klicka dig in på Billigtpaket.se och ange paketets destination, storlek och önskad leveranstid för att få prisalternativ från flera fraktföretag på samma gång. You can make a claim here. En tjänst med in- och utlämningsbekräftelse. I samband med att momsen försvinner blir tjänsten billigare för privatpersoner, men samtidigt dyrare för företag som tidigare ändå inte betalat moms. För att ditt paket ska transporteras så säkert och tryggt som möjligt är det bra att tänka på hur du packar. För att kunna använda verktyget behöver du ha mottagarens namn, adress och e-postadress. Beställ tryckta utskick direkt till mottagarnas brevlådor. Vid inlämning får både du och mottagaren en e-postbekräftelse. I'm a third party. Skicka paket utomlands. Brev Skicka Lätt köper du i Skicka Direkt.  <br>Läs mer om porto brev. Det är med andra ord värt att investera tid i, men du behöver inte spendera timmar. Bara ett sådant lätt och simpelt steg kan göra att ditt paket du ska skicka kommer fram på 1-2 vardagar istället för en vecka. Då finns Paket.se till hands. Packa rätt. upp till 2 kilo för 95 kr - är den någon som testat den för att skicka vinyl? <br>";s:7:"keyword";s:21:"postnord skicka lätt";s:5:"links";s:3210:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thule-velocompact-927'>Thule Velocompact 927</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sommarauktioner-2019-dalarna'>Sommarauktioner 2019 Dalarna</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=elite-prospect-calgary-flames'>Elite Prospect Calgary Flames</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gammalt-ord-f%C3%B6r-h%C3%A4xa'>Gammalt Ord För Häxa</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=video-editor-shortcut'>Video Editor Shortcut</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fn-v%C3%A4pnade-konflikter'>Fn Väpnade Konflikter</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=gratinerad-lax-med-fetaost'>Gratinerad Lax Med Fetaost</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=110-s%C3%A4ng-ikea'>110 Säng Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lilla-j%C3%B6nssonligan-inspelningsplats'>Lilla Jönssonligan Inspelningsplats</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=go-kart-wheels'>Go Kart Wheels</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%A5rd-b%C3%A4ddmadrass-ikea'>Hård Bäddmadrass Ikea</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bk-h%C3%A4cken-dam'>Bk Häcken Dam</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=how-to-make-instagram-picture-fit'>How To Make Instagram Picture Fit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=poland-population-2019'>Poland Population 2019</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=modus-operandi-betyder'>Modus Operandi Betyder</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lutande-plan-engelska'>Lutande Plan Engelska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-f%C3%A4lg-brorsson'>Svenska Fälg Brorsson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tv4-c-more'>Tv4 C More</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=g%C3%A5-p%C3%A5-r%C3%A4tteg%C3%A5ng'>Gå På Rättegång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hotellpaket-stockholms-sk%C3%A4rg%C3%A5rd'>Hotellpaket Stockholms Skärgård</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=h%C3%B6n%C3%B6kaka-recept-sm%C3%B6rg%C3%A5st%C3%A5rta'>Hönökaka Recept Smörgåstårta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=jic-g%C3%A4nga-tabell'>Jic Gänga Tabell</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lghundsvalpar-till-salu'>älghundsvalpar Till Salu</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=britain%27s-got-talent-2019-auditions-week-3'>Britain's Got Talent 2019 Auditions Week 3</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pastagrat%C3%A4ng-med-r%C3%B6kt-lax'>Pastagratäng Med Rökt Lax</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=en-fin-g%C3%A5ng'>En Fin Gång</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vegetarisk-skagenr%C3%B6ra-ica'>Vegetarisk Skagenröra Ica</a>,
+";s:7:"expired";i:-1;}

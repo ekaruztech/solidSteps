@@ -1,0 +1,103 @@
+a:5:{s:8:"template";s:5222:"<!DOCTYPE html>
+<html> 
+<head>
+<title>{{ keyword }}</title>
+<meta charset="utf-8"/>
+<meta content="width=device-width, initial-scale=1" name="viewport"/>
+</head>
+<style rel="stylesheet" type="text/css">@charset "UTF-8"; .fa{display:inline-block;font:normal normal normal 14px/1 FontAwesome;font-size:inherit;text-rendering:auto;-webkit-font-smoothing:antialiased;-moz-osx-font-smoothing:grayscale}.fa-bars:before{content:"\f0c9"}/*! normalize.css v3.0.3 | MIT License | github.com/necolas/normalize.css */html{font-family:sans-serif;-ms-text-size-adjust:100%;-webkit-text-size-adjust:100%}body{margin:0}footer,header,nav{display:block}a{background-color:transparent}a:active,a:hover{outline:0}h1{font-size:2em;margin:.67em 0}@font-face{font-family:slick;font-weight:400;font-style:normal;src:url(fonts/slick.eot);src:url(fonts/slick.eot?#iefix) format('embedded-opentype'),url(fonts/slick.woff) format('woff'),url(fonts/slick.ttf) format('truetype'),url(fonts/slick.svg#slick) format('svg')}.site-navigation ul li a{font-family:GandhiSans,Helvetica,Arial,sans-serif;-webkit-transition:all .2s ease-in-out;text-decoration:none}.site-navigation ul li a,li{font-family:GandhiSans,Helvetica,Arial,sans-serif}@font-face{font-family:GandhiSans;src:url(fonts/GandhiSans-Regular.otf) format("opentype")}@font-face{font-family:GandhiSans;font-weight:700;src:url(fonts/GandhiSans-Bold.otf) format("opentype")}body{background:#fff;overflow-x:hidden}*,:after,:before{box-sizing:border-box}li{font-size:18px;color:#544736}.clear:after{content:"";display:table;clear:both}.screen-constrainer{width:1920px;max-width:100%;margin:0 auto;box-shadow:0 1px 1px rgba(0,0,0,.13)}.content-constrainer{width:1280px;max-width:100%;margin:0 auto;position:relative}.site-header{background:#e8e8e8}@media only screen and (max-width:1300px){.content-constrainer{padding:0 24px}}@media only screen and (max-width:876px){.site-header .content-constrainer{padding:0}}.mobile-menu-button{display:none}@media only screen and (max-width:768px){.mobile-menu-button{display:block;text-align:center;-webkit-transition:all .2s ease-in-out;transition:all .2s ease-in-out;color:#fefefe;cursor:pointer;line-height:37px;font-size:17px}.mobile-menu-button:hover{background:#544736}}.site-navigation{background:#ab9779}.site-navigation ul{margin:0;padding:0;list-style-type:none;z-index:1000}.site-navigation ul .menu-item{position:relative}.site-navigation ul li{float:left;width:20%;text-align:center}.site-navigation ul li a{color:#fff;display:block;line-height:38px;font-size:18px;transition:all .2s ease-in-out}@media only screen and (max-width:1024px){.site-navigation ul li a{font-size:16px;line-height:37px}}.site-navigation ul li a:active,.site-navigation ul li a:focus,.site-navigation ul li a:hover{background:#544736}footer .content-constrainer>div h1{color:#e8e8e8;font-family:GandhiSans,Helvetica,Arial,sans-serif}footer{background:#ab9779;padding:48px 0}@media only screen and (max-width:1300px){footer .content-constrainer{padding:0}}footer .content-constrainer>div{float:left;padding-left:48px}footer .content-constrainer>div h1{font-size:18px;font-weight:700}footer .content-constrainer>div.footer-column-one{width:30%}footer .content-constrainer>div.footer-column-four{width:30%;padding-right:48px}@media only screen and (max-width:1086px){footer .content-constrainer>div{padding:0 16px}footer .content-constrainer>div.footer-column-four{padding-right:16px}}@media only screen and (max-width:928px){footer .content-constrainer>div.footer-column-one{float:none;display:block;width:100%}footer .content-constrainer>div.footer-column-four{margin-top:48px}footer .content-constrainer>div.footer-column-four{width:35%}}@media only screen and (max-width:738px){footer .content-constrainer>div.footer-column-four{width:40%}}@media only screen and (max-width:650px){footer .content-constrainer>div.footer-column-four{margin-top:24px}footer .content-constrainer>div.footer-column-four{width:76%;display:none}}</style>
+<body>
+<div class="screen-constrainer">
+<header class="site-header">
+<div class="content-constrainer">
+{{ keyword }}
+</div>
+</header>
+<nav class="site-navigation clear">
+<div class="content-constrainer"><ul class="menu" id="menu-primary-menu"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-170" id="menu-item-170"><a href="#">Home</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-342" id="menu-item-342"><a href="#">About Us</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-169" id="menu-item-169"><a href="#">Services</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-344" id="menu-item-344"><a href="#">Storage</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-343" id="menu-item-343"><a href="#">Contact Us</a></li>
+</ul></div> <div class="mobile-menu-button">
+<i class="fa fa-bars"></i> Menu
+</div>
+</nav>
+{{ text }}
+<footer>
+<div class="content-constrainer clear">
+<div class="footer-column-one">
+<a href="#">
+
+</a>
+</div>
+<div class="footer-column-four">
+<h1>{{ keyword }}</h1>
+{{ links }}
+</div>
+</div>
+</footer>
+</div>
+
+</body>
+</html>";s:4:"text";s:4333:"<br>Poio är en ny svensk app som hjälper barn att lära sig läsa. Genom denn… <br> <br>Sammanfattningsvis så visar noter huvudsakligen två saker – hur lång en ton är, och hur hög den är. Läs mer. <br> <br>Ett gratis barnspel som lär dem läsa sina första ord på svenska. Han kan mer än han tror, men han tycker det är så tråkigt att varenda läx-stund hemma blir utdragen och mer omständig än nödvändigt.  <br>Svenska: Det är lättast att lära sig ett nytt språk från sitt eget modersmål. Ett svenskt bokstavsspel. <br> <br>Lisa Eriksson | 25 april, 2014. Både jag och barnen är typ djupt lyckliga när de kommer på att de LÄST ord. <br> <br>Appen är dock väldigt begränsad och det finns ingen möjlighet att … Se film på Tuva 3:10 år som skriver sin önskelista. Appar för att lära sig läsa och skriva (Android) Hej! Lära Läsa Årskurs1 Alfabetet2: Android app (2.0 ★, 100+ downloads) → STEG 1 Här lär man sig alfabetet, och vilken ordningsföljd bokstäverna har.  Sonen är 7 år och tycker att läsa och skriva är skittråkigt. <br> <br>‎Pedagogiska Utbildningsspel för barn - Lär dig läsa med Knäck läskoden. Det finns dock inga riktigt bra genvägar till att lära sig! Jag har dock löst det så att de måste läsa vanliga böcker med mig också så att den analoga delen av min själ får frid. Kan sig tillägga att jag är att kluven till att börja läsa redan, men tanke på om det blir tråkigt i skolan sen. Lära sig läsa 2 är ett fantastiskt pedagogiskt spel för barn som håller på att lära sig att läsa. <br> <br>Barnet drar bokstäverna till rätt plats och får positiv uppmuntran. Inom kategorin utbildning låg appen på plats fem. Äldre barn kan lära sig att koda med hjälp av undervisning, mentorer och onlinekurser (se nedan för lär-dig-att-koda-länkar för alla åldrar). <br> LäsKod är en app med fokus på den tidiga läs- och skrivinlärningen. Hem Spelet För föräldrar Pedagogiken Hjälp Om oss Aktuellt Ladda ner nu! ‎Poio är ett lässpel som på kort tid har hjälpt mer än 100,000 barn att lära sig läsa. Pickatale är barnens nya interaktiva lyssna & läs-app och föräldrarnas verktyg när barnen skall introduceras till böckernas värld. Detta är grunden i läsningen. *Omfattar de första åren av att lära sig läsa… I en studie med 4,000 föräldrar som använt Poio med sina barn, rapporterade över 85% att Poio haft en betydande positiv inverkan på deras barn läskunnighet. <br> <br>Läskod (49:-) Beskrvining av appen. Barnet drar bokstäverna till rätt plats och får positiv uppmuntran. Skriv och läs Följ Skriv och läs Appen som hjälper ditt barn att lära sig läsa - genom att skriva Pressmeddelande • Okt 03, 2013 16:03 CEST <br> <br>Lisa Eriksson | 25 april, 2014. <br> <br>Ett svenskt bokstavsspel. <br> <br>Och Google Play HÄR. Målgruppen för appen är barn som befinner sig i början av sin läsning samt ungdomar och vuxna med annat modersmål som håller på att lära sig läsa och skriva svenska. Språkutveckling Tärning med höger och vänster. <br> <br>... Många upplever det som utmanande att motivera barnen till att läsa tillräckligt. Det är en äkta glänskunskap att kunna läsa noter, åtminstone gillar jag att tänka så. Köp och ladda ner appen på App Store HÄR. Fyra- och femåringar har idag möjlighet att lära sig grunderna i kodning och datakommandon innan de ens kan läsa och skriva. Barnet hör orden och bokstäverna. About SVT Språkplay English: SVT Språkplay is a free app for you who would like to learn more Swedish and watch TV at the same time. Mondly låter dig lära nya språk från 33 olika språk. Igår låg den på plats fyra på Appstore, gällande mest nedladdade app i kategorin barn 6-8 år. Läs mer. <br> <br>Ordlek är en bra app för att lära sig läsa och skriva och är inriktad på åldersgruppen 4-7 år men passar alla som ska lära sig läsa. Poio är en ny svensk app som hjälper barn att lära sig läsa. <br> <br>Barnet hör orden och bokstäverna. Pickatales interaktiva böcker, som kan lyssnas till och läsas samtidigt, är det perfekta hjälpverktyget i denna process. Memory (app) Appar; Manualer/Lathundar ... Appen Skolstil 2 är perfekt för barn som är på gång att lära sig skriva och läsa. <br>";s:7:"keyword";s:19:"lära sig läsa app";s:5:"links";s:7242:"<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=arctic-cat-textron-accessories'>Arctic Cat Textron Accessories</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=transportstyrelsen-fordonsuppgifter-skatt'>Transportstyrelsen Fordonsuppgifter Skatt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svt-nyheter-narkotika'>Svt Nyheter Narkotika</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=frico-sire-modbus'>Frico Sire Modbus</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=julbak-lindas-bakskola'>Julbak Lindas Bakskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=l%C3%A4nkarm-saab-9-3-biltema'>Länkarm Saab 9-3 Biltema</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=c-uppsats-marknadsf%C3%B6ring-%C3%A4mne'>C-uppsats Marknadsföring ämne</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=prydnadsbuske-med-gula-blommor'>Prydnadsbuske Med Gula Blommor</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vad-%C3%A4r-koks'>Vad är Koks</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vit-sparris-med-forellrom'>Vit Sparris Med Forellrom</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=thure-lindhardt-instagram'>Thure Lindhardt Instagram</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%B6sterrike-st%C3%A4der-att-bes%C3%B6ka'>österrike Städer Att Besöka</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=leva-fungera-utst%C3%A4llare'>Leva Fungera Utställare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=malungs-kommun-karta'>Malungs Kommun Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=patriarken-i-konstantinopel'>Patriarken I Konstantinopel</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=cykla-genom-sverige-karta'>Cykla Genom Sverige Karta</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=halloween-quiz-svenska'>Halloween Quiz Svenska</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=body-fat-scale'>Body Fat Scale</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kunskapsskolan-uppsala-omd%C3%B6me'>Kunskapsskolan Uppsala Omdöme</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=v%C3%A4ggh%C3%A4ngd-toalett-geberit'>Vägghängd Toalett Geberit</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kronans-apotek-lagersaldo'>Kronans Apotek Lagersaldo</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%B6vde-kommun-eldningsf%C3%B6rbud'>Skövde Kommun Eldningsförbud</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=grilla-laxsida-i-ugn'>Grilla Laxsida I Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=stockholms-universitet-forskning'>Stockholms Universitet Forskning</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ont-i-muskelf%C3%A4sten-kn%C3%A4'>Ont I Muskelfästen Knä</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=fl%C3%A4skfil%C3%A9-pulled-pork'>Fläskfilé Pulled Pork</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A4lskade-barnbarn-dikt'>älskade Barnbarn Dikt</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tusse-idol-ig%C3%A5r'>Tusse Idol Igår</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=hur-m%C3%A5nga-ekonomer-finns-det-i-sverige'>Hur Många Ekonomer Finns Det I Sverige</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=Center-Hotel3%2C5%28377%290%2C1%C2%A0km-bort8%C2%A0670%C2%A0JPY'>Center Hotel3,5(377)0,1 km Bort8 670 JPY</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-grammatik-infinitiv'>Svenska Grammatik Infinitiv</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pulled-pork-tryckkokare'>Pulled Pork Tryckkokare</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=finska-flicknamn-p%C3%A5-m'>Finska Flicknamn På M</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=brittisk-s%C3%A5ngare-f%C3%B6dd-1974'>Brittisk Sångare Född 1974</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vikarie-f%C3%B6rskola-partille'>Vikarie Förskola Partille</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kort-effektivt-l%C3%B6ppass'>Kort Effektivt Löppass</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=honda-service-stockholm'>Honda Service Stockholm</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=lediga-jobb-sveaskog'>Lediga Jobb Sveaskog</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=blue-merle-collie'>Blue Merle Collie</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=laga-ipad-m%C3%B6lndal'>Laga Ipad Mölndal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=oxfil%C3%A9-temperatur-sous-vide'>Oxfilé Temperatur Sous Vide</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=sk%C3%A4nka-kl%C3%A4der-m%C3%B6lndal'>Skänka Kläder Mölndal</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=ultima-thule-musikgrupp'>Ultima Thule Musikgrupp</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=baconlindad-halloumi-ugn'>Baconlindad Halloumi Ugn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bron%27%27-s%C3%A4song-4-netflix'>Bron'' Säsong 4 Netflix</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bakterier-till-trekammarbrunn'>Bakterier Till Trekammarbrunn</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=tommy-alexandersson-g%C3%B6teborg'>Tommy Alexandersson Göteborg</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=saknad-maja-silver'>Saknad Maja Silver</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=vem-vann-marabou-t%C3%A4vlingen'>Vem Vann Marabou Tävlingen</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=beige-soffa-djup'>Beige Soffa Djup</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=svenska-f%C3%A4lg-brorsson'>Svenska Fälg Brorsson</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=kall-grills%C3%A5s-till-kyckling'>Kall Grillsås Till Kyckling</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=norra-r%C3%B6rums-f%C3%B6rskola'>Norra Rörums Förskola</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=modellj%C3%A4rnv%C3%A4g-skala-t'>Modelljärnväg Skala T</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=%C3%A5ldersgr%C3%A4nser-i-finland'>åldersgränser I Finland</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=pcr-dna-polymerase'>Pcr Dna Polymerase</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=m%C3%A4rka-med-initialer'>Märka Med Initialer</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=exempel-p%C3%A5-tj%C3%A4nsteyrken'>Exempel På Tjänsteyrken</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=bernt-westerlund-hammarby'>Bernt Westerlund Hammarby</a>,
+<a href='http://www.solidsteps.org/forum/impe83t.php?5754ef=billiga-vinterd%C3%A4ck-stockholm'>Billiga Vinterdäck Stockholm</a>,
+";s:7:"expired";i:-1;}
